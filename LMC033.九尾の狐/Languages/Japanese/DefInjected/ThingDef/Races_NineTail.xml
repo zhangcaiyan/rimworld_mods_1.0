@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_NineTail.label>九尾の狐</Yokai_NineTail.label>
+  <Yokai_NineTail.description>伝説の妖怪九尾の狐です。
+\n 滅多に人前に姿を現さず、気位が高いため簡単には人に懐きませんが、味方にすればこれほど頼もしい存在もいません。
+\n 不思議な力で周辺の入植者たちの戦闘能力を押し上げ、高い攻撃能力で敵対者を蹴散らしてくれるでしょう。また彼女たちの毛はとても優れた素材です。</Yokai_NineTail.description>
+  <Yokai_NineTail.tools.0.label>左手</Yokai_NineTail.tools.0.label>
+  <Yokai_NineTail.tools.1.label>右手</Yokai_NineTail.tools.1.label>
+  <Yokai_NineTail_Corpse.label>九尾の狐の死骸</Yokai_NineTail_Corpse.label>
+  <Yokai_NineTail_Corpse.description>冷たく硬くなった九尾の狐の死骸です。もう城も国も傾くことはありません。</Yokai_NineTail_Corpse.description>
+</LanguageData>

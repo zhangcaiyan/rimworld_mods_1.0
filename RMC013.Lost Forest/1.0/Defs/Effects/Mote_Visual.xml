@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--=============== Bases ==============-->
+
+  <ThingDef Name="LFMoteBase" Abstract="True">
+    <thingClass>MoteThrown</thingClass>
+    <label>Mote</label>
+    <category>Mote</category>
+    <graphicData>
+      <graphicClass>Graphic_Mote</graphicClass>
+      <shaderType>Mote</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteLow</altitudeLayer>
+    <tickerType>Normal</tickerType>
+    <useHitPoints>false</useHitPoints>
+    <isSaveable>false</isSaveable>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+  <!--=============== Building Effects ==============-->
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFGlowParticleA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_GlowParticleA/Mote_GlowParticleA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>1.5</fadeInTime>
+      <solidTime>2.0</solidTime>
+      <fadeOutTime>1.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFDaliusLampFlareA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_DaliusSunLamp/GlowFlareA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.0</fadeInTime>
+      <solidTime>1.8</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFDaliusLampFlareB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_DaliusSunLamp/GlowFlareB</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.0</fadeInTime>
+      <solidTime>1.8</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampGlowAA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/A</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.5</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampGlowAB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/A</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampGlowB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/B</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.7</fadeInTime>
+      <solidTime>0.2</solidTime>
+      <fadeOutTime>1.8</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampGlowC</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/C</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>0.2</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampGlowD</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/D</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampSprA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/SpringA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampSprB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/SpringB</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.5</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampSumA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/SummerA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampSumB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/SummerB</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampAutA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/AutumnA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampAutB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/AutumnB</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.0</fadeInTime>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampWinA</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/WinterA</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.0</fadeInTime>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>2.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFStellaLampWinB</defName>
+    <graphicData>
+      <texPath>Things/Special/Mote_AtzldoirStella/WinterB</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>2.5</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>2.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+  <ThingDef ParentName="LFMoteBase">
+    <defName>Mote_LFGlowAnimTest</defName>
+    <graphicData>
+      <graphicClass>LostForest.Graphic_MoteAnimTest</graphicClass>
+      <texPath>Things/Special/Jack_o_Lantern</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <fadeInTime>1.5</fadeInTime>
+      <solidTime>2.0</solidTime>
+      <fadeOutTime>1.5</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+</Defs>

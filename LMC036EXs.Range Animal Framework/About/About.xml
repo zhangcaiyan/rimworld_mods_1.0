@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LMC036EXs.动物远程攻击框架</name>
+  <author>BrokenValkyrie</author>
+  <supportedVersions><li>1.0</li></supportedVersions>
+  <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+  
+Version 1.2.1
+
+This mods unlocks range attack for animals. Intended for modder and user.
+
+这个MOD为动物解锁远程攻击。适用于MOD作者和玩家。
+
+Credit to fluffy for the original conception. I started off from their base code. https://ludeon.com/forums/index.php?topic=16091.0
+
+Animals will not hunt using range attack.
+
+动物在狩猎时不会使用远程攻击。
+
+Animals with range behavior acts differently. Manhunter animal will prioritize targets that are reachable. If it fails to find reachable pawn it will look for shootable target,  this includes target hiding behind embrasure mod.
+
+具有远程攻击能力的动物拥有与一般动物不同的行为模式。动物会优先攻击可以接近的目标，如果没有动物将会搜索可以被远程攻击的目标，包括隐藏在掩体后面的目标。
+
+Tame animals will try to stick close to master to take shots. Tame animal with release trained will seek cover, whether they are released or not. Released animal behave similar to AI defending escorts. Tame animals aren't savvy about avoiding friendly fire, if you have a tame dragon and its about to breath fire, make way.
+
+驯服的动物会试图靠近主人来进行远程攻击。驯服的动物（？release trained是个啥训练），无论它们是否被征召，都会寻求掩护。空闲的动物AI行为类似于伴随（？）。驯服的动物攻击时不知道避开友军，如果你有一条驯服的龙，它将要喷火，记得让开道路。
+
+Supported Mod:
+
+Dragon Mod https://steamcommunity.com/sharedfiles/filedetails/?id=1580356492
+
+I plan to support more animals, this include mod animal support. Feel free to make request and suggestion.
+
+Its very likely the mod will need tweaking, feedback will be welcome.
+
+Plans:
+Shiro, Spirit Wolf(cause okami reference)
+</description>
+</ModMetaData>

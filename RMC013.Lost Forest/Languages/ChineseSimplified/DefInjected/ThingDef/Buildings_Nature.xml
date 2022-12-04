@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_StoneReconstructer_Sandstone.label>砂岩（TF）</LF_StoneReconstructer_Sandstone.label>
+	<LF_StoneReconstructer_Sandstone.description>由殖民者再构筑的岩壁。经过一定期间后会变化成原本素材相同的天然岩石。</LF_StoneReconstructer_Sandstone.description>
+
+	<LF_StoneReconstructer_Granite.label>花岗岩（TF）</LF_StoneReconstructer_Granite.label>
+	<LF_StoneReconstructer_Granite.description>由殖民者再构筑的岩壁。经过一定期间后会变化成原本素材相同的天然岩石。</LF_StoneReconstructer_Granite.description>
+
+	<LF_StoneReconstructer_Limestone.label>石灰岩（TF）</LF_StoneReconstructer_Limestone.label>
+	<LF_StoneReconstructer_Limestone.description>由殖民者再构筑的岩壁。经过一定期间后会变化成原本素材相同的天然岩石。</LF_StoneReconstructer_Limestone.description>
+
+	<LF_StoneReconstructer_Slate.label>粘板岩（TF）</LF_StoneReconstructer_Slate.label>
+	<LF_StoneReconstructer_Slate.description>由殖民者再构筑的岩壁。经过一定期间后会变化成原本素材相同的天然岩石。</LF_StoneReconstructer_Slate.description>
+
+	<LF_StoneReconstructer_Marble.label>大理石（TF）</LF_StoneReconstructer_Marble.label>
+	<LF_StoneReconstructer_Marble.description>由殖民者再构筑的岩壁。经过一定期间后会变化成原本素材相同的天然岩石。</LF_StoneReconstructer_Marble.description>
+
+
+</LanguageData>

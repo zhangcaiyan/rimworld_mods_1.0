@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 方形餐椅 -->
+
+  <Anon2SquareDiningChair.label>方形餐椅</Anon2SquareDiningChair.label>
+  <Anon2SquareDiningChair.description>一个舒适又迷人的餐椅.</Anon2SquareDiningChair.description>
+  <Anon2SquareDiningChair_Blueprint.label>方形餐椅 (蓝图)</Anon2SquareDiningChair_Blueprint.label>
+  <Anon2SquareDiningChair_Blueprint_Install.label>方形餐椅 (蓝图)</Anon2SquareDiningChair_Blueprint_Install.label>
+  <Anon2SquareDiningChair_Frame.label>方形餐椅 (建造中)</Anon2SquareDiningChair_Frame.label>
+  <Anon2SquareDiningChair_Frame.description>一个舒适又迷人的餐椅.</Anon2SquareDiningChair_Frame.description>
+
+
+  <!-- 垫椅 -->
+
+  <Anon2CushionedChair.label>垫椅</Anon2CushionedChair.label>
+  <Anon2CushionedChair.description>一个大型柔软又舒适. 适合用来放松或餐饮</Anon2CushionedChair.description>
+  <Anon2CushionedChair_Blueprint.label>垫椅 (蓝图)</Anon2CushionedChair_Blueprint.label>
+  <Anon2CushionedChair_Blueprint_Install.label>垫椅 (蓝图)</Anon2CushionedChair_Blueprint_Install.label>
+  <Anon2CushionedChair_Frame.label>垫椅 (建造中)</Anon2CushionedChair_Frame.label>
+  <Anon2CushionedChair_Frame.description>一个大型柔软又舒适. 适合用来放松或餐饮</Anon2CushionedChair_Frame.description>
+
+
+  <!-- couch right -->
+
+  <Anon2CouchRight.label>沙发（右）</Anon2CouchRight.label>
+  <Anon2CouchRight.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchRight.description>
+  <Anon2CouchRight_Blueprint.label>沙发（右）(蓝图)</Anon2CouchRight_Blueprint.label>
+  <Anon2CouchRight_Blueprint_Install.label>沙发（右）(蓝图)</Anon2CouchRight_Blueprint_Install.label>
+  <Anon2CouchRight_Frame.label>沙发（右）(建造中)</Anon2CouchRight_Frame.label>
+  <Anon2CouchRight_Frame.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchRight_Frame.description>
+
+
+  <!-- couch center -->
+
+  <Anon2CouchCenter.label>沙发（中）</Anon2CouchCenter.label>
+  <Anon2CouchCenter.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCenter.description>
+  <Anon2CouchCenter_Blueprint.label>沙发（中）(蓝图)</Anon2CouchCenter_Blueprint.label>
+  <Anon2CouchCenter_Blueprint_Install.label>沙发（中）(蓝图)</Anon2CouchCenter_Blueprint_Install.label>
+  <Anon2CouchCenter_Frame.label>沙发（中）(建造中)</Anon2CouchCenter_Frame.label>
+  <Anon2CouchCenter_Frame.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCenter_Frame.description>
+
+
+  <!-- couch left -->
+
+  <Anon2CouchLeft.label>沙发（左）</Anon2CouchLeft.label>
+  <Anon2CouchLeft.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchLeft.description>
+  <Anon2CouchLeft_Blueprint.label>沙发（左）(蓝图)</Anon2CouchLeft_Blueprint.label>
+  <Anon2CouchLeft_Blueprint_Install.label>沙发（左）(蓝图)</Anon2CouchLeft_Blueprint_Install.label>
+  <Anon2CouchLeft_Frame.label>沙发（左）(建造中)</Anon2CouchLeft_Frame.label>
+  <Anon2CouchLeft_Frame.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchLeft_Frame.description>
+
+
+  <!-- couch corner -->
+
+  <Anon2CouchCorner.label>沙发（拐角）</Anon2CouchCorner.label>
+  <Anon2CouchCorner.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCorner.description>
+  <Anon2CouchCorner_blueprint.label>沙发（拐角）(蓝图)</Anon2CouchCorner_Blueprint.label>
+  <Anon2CouchCorner_Blueprint_Install.label>沙发（拐角）(蓝图)</Anon2CouchCorner_Blueprint_Install.label>
+  <Anon2CouchCorner_Frame.label>沙发（拐角）(建造中)</Anon2CouchCorner_Frame.label>
+  <Anon2CouchCorner_Frame.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCorner_Frame.description>
+
+
+  <!-- couch corner Inverted -->
+
+  <Anon2CouchCornerInv.label>沙发（逆拐）</Anon2CouchCornerInv.label>
+  <Anon2CouchCornerInv.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCornerInv.description>
+  <Anon2CouchCornerInv_Blueprint.label>沙发（逆拐）(蓝图)</Anon2CouchCornerInv_Blueprint.label>
+  <Anon2CouchCornerInv_Blueprint_Install.label>沙发（逆拐）(蓝图)</Anon2CouchCornerInv_Blueprint_Install.label>
+  <Anon2CouchCornerInv_Frame.label>沙发（逆拐）(建造中)</Anon2CouchCornerInv_Frame.label>
+  <Anon2CouchCornerInv_Frame.description>一块大型柔软又舒适的沙发，适合用来放松</Anon2CouchCornerInv_Frame.description>
+
+
+</LanguageData>

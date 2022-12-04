@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_YukiShizuku.label>雪雫</Yokai_YukiShizuku.label>
+  <Yokai_YukiShizuku.description>雪雫是居在在降雪地区的稀有妖怪，与其他动物相比，具有容易与人亲近和温驯的性质。会生成可以饮用的液体。
+    \n不受枪弹丶弓箭等物理攻击威胁，但具有害怕火焰丶严暑等弱点。
+    \n生活在广泛的地区，对暑气不具抵抗力所以不常在夏天见到她们。
+    \n她们会使所在的空间迅速降温，请多加留意。假如让她们居住在粮仓中...?</Yokai_YukiShizuku.description>
+  <Yokai_YukiShizuku.tools.0.label>左手</Yokai_YukiShizuku.tools.0.label>
+  <Yokai_YukiShizuku.tools.1.label>右手</Yokai_YukiShizuku.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_YukiShizuku_Corpse.label>雪雫的尸体</Yokai_YukiShizuku_Corpse.label>
+  <Yokai_YukiShizuku_Corpse.description>雪雫的尸体。感觉比活着的时候温暖....</Yokai_YukiShizuku_Corpse.description>
+</LanguageData>

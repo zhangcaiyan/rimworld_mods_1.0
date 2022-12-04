@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>  
+  <RecipeDef>
+    <defName>MeatBlend5</defName>
+    <label>Blend 5 meats</label>
+    <description>Chop up a bit of meat, making a blend for cooking.</description>
+    <jobString>Blending meat.</jobString>
+    <workAmount>250</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
+	<allowMixingIngredients>true</allowMixingIngredients>
+	<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>0.25</count>
+      </li>
+	 </ingredients>
+	<products>
+      <MeatblendRaw>5</MeatblendRaw>
+    </products>
+		    <fixedIngredientFilter>
+            <categories>
+                <li>MeatRaw</li>
+            </categories>
+            <disallowedThingDefs>
+	<li>MeatblendRaw</li>
+	<li>Meat_Human</li>
+	<li>Meat_Megaspider</li>
+            </disallowedThingDefs>
+        </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>MeatRaw</li>
+      </categories>
+    </defaultIngredientFilter>
+	<workSkill>Cooking</workSkill>
+	    <recipeUsers>
+		<li>TableButcher</li>
+		</recipeUsers>
+  </RecipeDef>	
+  
+  <RecipeDef>
+    <defName>MeatblendTwenty</defName>
+    <label>Blend 20 meats</label>
+    <description>Chop up a lot of meat, making a blend for cooking.</description>
+    <jobString>Blending meat.</jobString>
+    <workAmount>900</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
+	<allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+	 </ingredients>
+	<products>
+      <MeatblendRaw>20</MeatblendRaw>
+    </products>
+		    <fixedIngredientFilter>
+      <categories>
+        <li>MeatRaw</li>
+      </categories>
+            <disallowedThingDefs>
+	<li>MeatblendRaw</li>
+	<li>Meat_Human</li>
+	<li>Meat_Megaspider</li>
+            </disallowedThingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>MeatRaw</li>
+      </categories>
+      <disallowedThingDefs>
+        <li>MeatblendRaw</li>
+     </disallowedThingDefs>
+    </defaultIngredientFilter>
+	<workSkill>Cooking</workSkill>
+	    <recipeUsers>
+		 <li>TableButcher</li>
+		</recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>MeatBlend5</defName>
+    <label>Blend 100 meats</label>
+    <description>Chop up a bit of meat, making a blend for cooking.</description>
+    <jobString>Blending meat.</jobString>
+    <workAmount>4000</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
+	<allowMixingIngredients>true</allowMixingIngredients>
+	<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>5</count>
+      </li>
+	 </ingredients>
+	<products>
+      <MeatblendRaw>100</MeatblendRaw>
+    </products>
+		    <fixedIngredientFilter>
+            <categories>
+                <li>MeatRaw</li>
+            </categories>
+            <disallowedThingDefs>
+	<li>MeatblendRaw</li>
+	<li>Meat_Human</li>
+	<li>Meat_Megaspider</li>
+            </disallowedThingDefs>
+        </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>MeatRaw</li>
+      </categories>
+    </defaultIngredientFilter>
+	<workSkill>Cooking</workSkill>
+	    <recipeUsers>
+		<li>TableButcher</li>
+		</recipeUsers>
+  </RecipeDef>	
+</Defs>  

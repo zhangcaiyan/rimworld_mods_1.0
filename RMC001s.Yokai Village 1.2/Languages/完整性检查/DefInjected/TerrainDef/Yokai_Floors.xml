@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Yokai_Hiiro_Tile.label>Scarlet Tile</Yokai_Hiiro_Tile.label>
+  <Yokai_Hiiro_Tile.description>A luxurious and shiny floor made of Hiirokane. This beauty must be earned, however, as it takes a long time to install such flooring.</Yokai_Hiiro_Tile.description>
+
+
+  <!-- 蜘蛛糸の床 -->
+
+  <Yokai_SpiderNet.label>Spiderweb</Yokai_SpiderNet.label>
+  <Yokai_SpiderNet.description>This defensive flooring is made of Jorogumo thread which drastically slows down anyone that walks on it. The webbing tends to get cluttered with dust and trash after a while, thus it is very unsanitary and gross to look at.</Yokai_SpiderNet.description>
+
+
+  <!-- Carpets -->
+
+  <Yokai_Shiropet.label>White Dragon Carpet</Yokai_Shiropet.label>
+  <Yokai_Shiropet.description>A fluffy, beautiful, antibacterial white carpet made of Shiro wool.</Yokai_Shiropet.description>
+
+
+  <!-- 橋 -->
+
+  <Yokai_Bridge.label>Jorogumo Bridge</Yokai_Bridge.label>
+  <Yokai_Bridge.description>A bridge made out of iron and Jorogumo thread; these materials grant the bridge superior durability, weight tolerance, and 0% flammability.</Yokai_Bridge.description>
+
+
+</LanguageData>

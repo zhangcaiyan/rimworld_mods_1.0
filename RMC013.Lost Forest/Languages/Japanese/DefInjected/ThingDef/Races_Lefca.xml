@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Lefca.label>ちびレフカ</LF_Lefca.label>
+  <LF_Lefca.description>幻想的で異国的な風貌を持つ獣人族です。心地よさそうな毛で覆われたリスのような大きな尻尾に、鳥の翼が生えたかのような大きな耳が特徴で、やや忘れっぽく頼りなさそうにも見えますが、精鋭である近衛守人のひとりでその実力は確かです。普段は古き森の巫女の身辺警護をしています。しかし突然姿を消しては、どこからともなく変わった植物や木の実、挙句の果てには常識では考えられないようなガラクタを収集してくる困った癖があるようです。その行動範囲は恐ろしいほど広く、まれに変わったものを探しているうちに道に迷ってしまったものが人々のコロニーの付近で目撃されているようです。</LF_Lefca.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Lefca_Meat.label>ちびレフカの肉</LF_Lefca_Meat.label>
+  <LF_Lefca_Meat.description>ちびレフカの肉。壊れてしまった彼女の仲間たちの末路です。</LF_Lefca_Meat.description>
+-->
+  <LF_Lefca_Corpse.label>ちびレフカの死骸</LF_Lefca_Corpse.label>
+  <LF_Lefca_Corpse.description>冷たくなったちびレフカの死骸です。もはや何者も、彼女を苦しめることはできません。</LF_Lefca_Corpse.description>
+
+</LanguageData>

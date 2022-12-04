@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+
+	<MURUVWallLight_LightRadName>Radio de iluminación</MURUVWallLight_LightRadName>
+	<MURUVWallLight_LightRadDesc>El rango que se considerará iluminado y permitirá que las plantas crezcan. Rango válido: 2 - 10. Predeterminado: 5.</MURUVWallLight_LightRadDesc>
+	<MURUVWallLight_SteelCostName>Costo de construcción</MURUVWallLight_SteelCostName>
+	<MURUVWallLight_SteelCostDesc>Cuánto acero costará construir una lámpara. Predeterminado: 10.</MURUVWallLight_SteelCostDesc>
+	<MURUVWallLight_PowerCostName>Costo de energía</MURUVWallLight_PowerCostName>
+	<MURUVWallLight_PowerCostDesc>Cuánta energía consumirá una lámpara mientras está activa. Predeterminado: 600</MURUVWallLight_PowerCostDesc>
+	<MURUVWallLight_DisableRestName>Desactivar período de descanso</MURUVWallLight_DisableRestName>
+	<MURUVWallLight_DisableRestDesc>Si está activado, la lámpara no se apagará durante la noche.</MURUVWallLight_DisableRestDesc>
+	
+	<MURUVWallLight_WarningNeedWall>Debe colocarse sobre un muro.</MURUVWallLight_WarningNeedWall>
+	<MURUVWallLight_WarningBlocked>Debe estar frente a una baldosa transitable.</MURUVWallLight_WarningBlocked>
+	<MURUVWallLight_WarningBoth>Debe colocarse en un muro, frente a una baldosa transitable.</MURUVWallLight_WarningBoth>
+
+	<MURUVWallLight_RadiusInvalidRange>Radio inválido. Debe estar entre 2 y 10. Cambiado al valor válido más cercano.</MURUVWallLight_RadiusInvalidRange>
+	<MURUVWallLight_AlertReload>Por favor, reinicie el juego para que los cambios surtan efecto.</MURUVWallLight_AlertReload>
+
+	<MURUVWallLight_DestroyedBlocked>Luz destruida por una construcción.</MURUVWallLight_DestroyedBlocked>
+	<MURUVWallLight_DestroyedWall>Luz destruida por la destrucción del muro.</MURUVWallLight_DestroyedWall>
+
+</LanguageData>

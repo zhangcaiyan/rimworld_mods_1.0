@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--狂気の秘薬 -->
+  <Yokai_Hiyaku.label>狂気の秘薬</Yokai_Hiyaku.label>
+  <Yokai_Hiyaku.description>服用する事で一時的に強力な力を得られる妖怪村秘伝の丸薬です。
+  \n妖怪村の戦士たちが戦の前に服用します。五日かけて徐々に効果が落ちていき、薬が切れる直前に強い副作用があります。
+  \n妖怪村の戦士やぬらりひょんもこの薬を用いることがありますが、強い副作用と苦虫のような酷い味はこの薬を飲む事を避ける強い理由になっています。
+  \n戦闘用の兵糧としての役割も持つため非常に高い栄養を持っていますが、前述の通り味が酷すぎるため好んで口にするものは稀です。</Yokai_Hiyaku.description>
+  <Yokai_Hiyaku.ingestible.ingestCommandString>{0}を使う</Yokai_Hiyaku.ingestible.ingestCommandString>
+  <Yokai_Hiyaku.ingestible.ingestReportString>{0}を服用しています。</Yokai_Hiyaku.ingestible.ingestReportString>
+  <!--癒しの霊薬 -->
+  <Yokai_Reiyaku.label>癒しの霊薬</Yokai_Reiyaku.label>
+  <Yokai_Reiyaku.description>妖怪村の特殊な呪術によって作られた霊薬です。はるか昔に白い九尾の狐によってもたらされたと言われています。
+\n飲むことで簡単な古傷や部位の欠損などを癒すことが出来ますが、多くの場合効果を発揮するまで非常に長い時間がかかります。
+\n1粒の効果は15日間しかありません。半年から一年ほどの間服用し続ける必要があるでしょう。副作用として僅かにですが意識がボンヤリとしてしまいます。
+\n残念ながら味は良いとは言い難く大人ですら文句をいうほどです。多くの妖怪村住民はこの丸薬を好んで口にすることはありません。
+\n
+\n注意・千切れた腕や足を再生させることは出来ません。</Yokai_Reiyaku.description>
+  <Yokai_Reiyaku.ingestible.ingestCommandString>{0}を使う</Yokai_Reiyaku.ingestible.ingestCommandString>
+  <Yokai_Reiyaku.ingestible.ingestReportString>{0}を服用しています。</Yokai_Reiyaku.ingestible.ingestReportString>
+  <!-- IceDrink -->
+  <Yokai_IceDrink.label>ひんやりドリンク</Yokai_IceDrink.label>
+  <Yokai_IceDrink.description>雪の雫から作られた暑さへの耐性を一時的に高める飲み物です。効果は１日続きます。体をひんやりさせてくれます。</Yokai_IceDrink.description>
+  <!-- HotDrink -->
+  <Yokai_HotDrink.label>ほっとドリンク</Yokai_HotDrink.label>
+  <Yokai_HotDrink.description>雪の雫から作られた寒さへの耐性を一時的に高める飲み物です。効果は１日続きます。寒い冬でもこれを飲めばほっと一息付けます。</Yokai_HotDrink.description>
+  <!-- Yokai Medicine -->
+  <Yokai_Bandage.label>妖怪の包帯</Yokai_Bandage.label>
+  <Yokai_Bandage.description>ナノマシンに匹敵する非常に高い治療効果を持つ妖怪包帯です。欠損部位の治療で真価を発揮します。妖怪の薬と猫娘の毛から作る事が出来ます。</Yokai_Bandage.description>
+  <!-- Yokai Medicine -->
+  <Yokai_Herbs.label>妖怪の薬</Yokai_Herbs.label>
+  <Yokai_Herbs.description>自然の薬草を特別な割合で配合し呪術を施した薬です。医薬品には劣りますが通常の薬草より効果があります。妖怪の秘薬と包帯の材料です。</Yokai_Herbs.description>
+</LanguageData>

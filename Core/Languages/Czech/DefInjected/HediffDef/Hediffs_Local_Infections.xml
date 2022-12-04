@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>chřipka</Animal_Flu.label>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>mírná</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>vážná</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>extrémní</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>mor</Animal_Plague.label>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>mírný</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>vážný</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>velice vážný</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>extrémní</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>mechanité ve tkáních</FibrousMechanites.label>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>mírná bolest</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>intenzivní bolest</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>chřipka</Flu.label>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>mírná</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>vážná</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>extrémní</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>střevní červi</GutWorms.label>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>malárie</Malaria.label>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>mírná</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>vážná</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>extrémní</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>parazité ve svalech</MuscleParasites.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>mor</Plague.label>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>mírný</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>vážný</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>velice vážný</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>extrémní</Plague.stages.extreme-1.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>mechanité ve smyslech</SensoryMechanites.label>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>mírná bolest</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>intenzivní bolest</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>spavá nemoc</SleepingSickness.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>počáteční</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>mírná</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>vážná</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>velice vážná</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>extrémní</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>infekce rány</WoundInfection.label>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>infekce rány</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>mírná</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>vážná</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>velice vážná</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>extrémní</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

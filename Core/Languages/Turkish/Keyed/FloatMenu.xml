@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CallOnRadio>Ara {0}</CallOnRadio>
+  <CannotUseReason>Kullanılamaz ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Kullanılamaz (güneş patlaması)</CannotUseSolarFlare>
+  <CannotUseNoPower>Kullanılamaz (güç yok)</CannotUseNoPower>
+  <CannotUseNoPath>Kullanılamaz (yol yok)</CannotUseNoPath>
+  <CannotUseReserved>Kullanılamaz (rezerve edilmiş)</CannotUseReserved>
+  <CannotUseFull>Kullanılamaz (dolu)</CannotUseFull>
+  <LeaderUnavailable>lider {0} kullanılamıyor</LeaderUnavailable>
+
+  <FireAt>Ateş et {0}</FireAt>
+
+  <OutOfRange>menzil dışı</OutOfRange>
+  <CannotHitTarget>hedefi vuramaz</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} hedeflere saldıramaz</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} savaş modunda değil</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>kontrol edilemeyen birimlere komut verilemez</CannotOrderNonControlledLower>
+
+  <OrderManThing>{0}'ı kullan</OrderManThing>
+
+  <MeleeAttack>Yakın saldırı {0}</MeleeAttack>
+  <MeleeAttackToDeath>{0} Yakın saldırı ile öldür</MeleeAttackToDeath>
+  <NoPath>Yol yok</NoPath>
+
+  <ForbiddenLower>Yasak</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>dışarıda izin verilen alan</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>ev bölgesinde değil</NotInHomeArea>
+  <SociallyImproperLower>Sosyalliği uygunsuz</SociallyImproperLower>
+  <PrisonerRoomLower>mahkum odası</PrisonerRoomLower>
+  <BurningLower>yanıyor</BurningLower>
+  <NoEmptyPlaceLower>bunu depolamak için boş alan yok</NoEmptyPlaceLower>
+  <AlreadyFilledLower>zaten yeterince dolu</AlreadyFilledLower>
+  <MissingMaterials>malzeme eksik</MissingMaterials>
+  <MissingSkill>yetenek çok düşük</MissingSkill>
+  <NoEmptyGraveLower>onu gömmek için boş bir mezar yok</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>Hayvan çok yakın zamanda bir etkileşime girdi</AnimalInteractedTooRecently>
+  <NoUsableFood>kullanılabilir yiyecek yok</NoUsableFood>
+  <NoFood>yiyecek yok</NoFood>
+  <AnimalsSkillTooLow>Hayvanların yeteneği çok düşük</AnimalsSkillTooLow>
+  <NoComponentsToRepair>Bileşenlere ihtiyacım var</NoComponentsToRepair>
+  <NoFuelToRefuel>{0} gerekli</NoFuelToRefuel>
+  <NoWort>bitki gerekli</NoWort>
+
+  <ConsumeThing>{0}'i ye</ConsumeThing>
+
+  <CannotGoNoPath>Gidilemez (yol yok)</CannotGoNoPath>
+  <GoHere>Buraya git</GoHere>
+
+  <Arrest>{0}'ı tutukla</Arrest>
+  <TryToArrest>{0}'ı tutuklamaya çalış</TryToArrest>
+  <CannotArrest>Tutuklanamaz</CannotArrest>
+
+  <Capture>{0}'ı ele geçir</Capture>
+  <CannotCapture>Ele geçirilemez</CannotCapture>
+
+  <Rescue>{0}'ı kurtar</Rescue>
+  <CannotRescue>Kurtarılamaz</CannotRescue>
+
+  <CarryToCryptosleepCasket>{0}'ı KriptoUyku kapsülü'ne taşı</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>KriptoUyku kapsülü'ne taşıyamaz</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>KriptoUyku kapsülü mevcut değil.</NoCryptosleepCasket>
+  <NoPrisonerBed>Mahkum için yatak yok.</NoPrisonerBed>
+  <NoNonPrisonerBed>Mevcutta mahkum için yatak yok.</NoNonPrisonerBed>
+  <NoAnimalBed>Mevcutta hayvan için yatak yok.</NoAnimalBed>
+  <Reserved>Başkasına ait.</Reserved>
+  <ReservedBy>Ayrılan kişi {0}</ReservedBy>
+  <IsReservedBy>{0} {1} tarafından ayrıldı.</IsReservedBy>
+  <TooHeavy>Çok ağır</TooHeavy>
+
+  <Incapable>Yeterli değil</Incapable>
+  <IncapableOfCapacity>{0}ın yeterli değil</IncapableOfCapacity>
+
+  <MinSkill>minimum yetenek</MinSkill>
+
+  <Equip>Donan {0}</Equip>
+  <EquipWarningBrawler>(kavgacı mutsuz olacak)</EquipWarningBrawler>
+  <CannotEquip>Taşıyamaz {0}</CannotEquip>
+
+  <ForceWear>{0}i giy</ForceWear>
+  <CannotWear>{0}i giyemez</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>vücut parçaları eksik</CannotWearBecauseOfMissingBodyParts>
+
+  <CannotPickUp>{0}ı alamaz</CannotPickUp>
+  <CannotPickUpAll>{0}(hiçbirini) alamaz </CannotPickUpAll>
+  <PickUp>{0}ı al</PickUp>
+  <PickUpAll>{0}(hepsini) al </PickUpAll>
+  <PickUpSome>{0}ı al...</PickUpSome>
+  <PickUpCount>{0} x{{0}}ı al </PickUpCount>
+
+  <CannotGiveToPackAnimal>{0}ı hayvana veremez</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>{0} (hepsini) hayvana veremez</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>{0}ı hayvana ver</GiveToPackAnimal>
+  <GiveToPackAnimalAll>{0}(hepsini) hayvana ver</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>{0}ı hayvana ver...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>{0} x{{0}} al</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>{0}i taşıyamaz ve alanı terk edemez</CannotCarryToExit>
+  <CarryToExit>{0}yi taşı ve bölgeyi terk edin</CarryToExit>
+
+  <Strip>{0}i soy</Strip>
+  <CannotStrip>{0}i soyamaz</CannotStrip>
+
+  <SelfDestructHere>Burayı yık</SelfDestructHere>
+
+  <Drop>{0}i bırak</Drop>
+
+  <UseMedicalBed>Tamamen iyileşene kadar dinlen.</UseMedicalBed>
+  <NotInjured>Yaralı değil</NotInjured>
+  <SomeoneElseSleeping>Müsait değil</SomeoneElseSleeping>
+
+  <TradeWith>{0} ile ticaret yap</TradeWith>
+  <CannotTrade>Ticaret yapılamaz</CannotTrade>
+
+  <EnterMap>{0}'e gir</EnterMap>
+  <VisitFactionBase>{0}'i ziyaret et</VisitFactionBase>
+  <AttackFactionBase>{0}'a saldır</AttackFactionBase>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>KriptoUyku kapsülüne gir</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>KriptoUyku kapsülünü aç</OpenCryptosleepCasket>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Yapamaz {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Öncelik verilemez(Sağlık problemi: {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Zaten {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeWorkTypeDisabled>Öncelik veremez ({0} komutunu yapmaktan aciz)</CannotPrioritizeWorkTypeDisabled>
+
+  <CannotPrioritizeNotAssignedToWorkType>Öncelik veremez ({0} işine atanmamış)</CannotPrioritizeNotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>Öncelik verilemez (Araştırma, uzun vadeli bir iştir)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Öncelik verilemez ({0} yasaklı)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Öncelik verilemez ({0} izin verilen alanın dışındadır.)</CannotPrioritizeForbiddenOutsideAllowedArea>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>{1}ı {0} öncelik ver</PrioritizeGeneric>
+
+  <DropAtEdge>Kenara bırak</DropAtEdge>
+  <DropInCenter>Ortaya bırak</DropInCenter>
+
+</LanguageData>
+
+<TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+<RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+<AttackSite>Attack {0}</AttackSite>
+<VisitSettlement>Visit {0}</VisitSettlement>
+<SelfTendDisabled>self-tend disabled</SelfTendDisabled>
+<NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+<ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
+<VomitingLower>vomiting</VomitingLower>
+<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+<NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+<IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+<VisitSite>Visit {0}</VisitSite>
+<AddWaypoint>Add a new waypoint here</AddWaypoint>
+<AttackSettlement>Attack {0}</AttackSettlement>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Nurarihyon.label>Nurarihyon</Yokai_Nurarihyon.label>
+  <Yokai_Nurarihyon.description>This spectral Yokai takes a frighteningly human-like form. Under this guise it follows the will of the Kyuubi, and acts as a representative of whatever village it hails from. Although Nurarihyon appear human, their abilities cannot be readily discerned.</Yokai_Nurarihyon.description>
+  <Yokai_Nurarihyon.tools.0.label>left fist</Yokai_Nurarihyon.tools.0.label>
+  <Yokai_Nurarihyon.tools.1.label>right fist</Yokai_Nurarihyon.tools.1.label>
+  <Yokai_Nurarihyon.tools.2.label>head</Yokai_Nurarihyon.tools.2.label>
+  <Yokai_Nurarihyon_Leather.label>Nurarihyon leather</Yokai_Nurarihyon_Leather.label>
+  <Yokai_Nurarihyon_Leather.description>Nurarihyon leather</Yokai_Nurarihyon_Leather.description>
+  <Yokai_Nurarihyon_Leather.stuffProps.stuffAdjective>Nurarihyon leather</Yokai_Nurarihyon_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_Nurarihyon_Corpse.label>Nurarihyon corpse</Yokai_Nurarihyon_Corpse.label>
+  <Yokai_Nurarihyon_Corpse.description>Nurarihyon corpse</Yokai_Nurarihyon_Corpse.description>
+
+
+</LanguageData>

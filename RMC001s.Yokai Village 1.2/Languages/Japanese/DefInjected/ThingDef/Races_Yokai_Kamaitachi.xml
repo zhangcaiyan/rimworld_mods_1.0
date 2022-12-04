@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Kamaitachi.label>カマイタチ</Yokai_Kamaitachi.label>
+  <Yokai_Kamaitachi.description>とても鋭い鎌をもったイタチの姿をした妖怪です。
+    \n体は小さく普段は大人しいですが弱った人間を襲うことがある他、ひとたび怒り狂うと疾風のように駆けまわり鋭い鎌で切り裂いてきます。
+    \nペットには向いていませんが繁殖力を買われて番犬がわりに飼育されることもあります。
+    \nツンドラからサバンナまで様々な環境に適応して暮らしていますが沼地にはいません。</Yokai_Kamaitachi.description>
+  <Yokai_Kamaitachi.tools.0.label>尻尾の刃</Yokai_Kamaitachi.tools.0.label>
+  <Yokai_Kamaitachi_Meat.label>妖怪の肉</Yokai_Kamaitachi_Meat.label>
+  <Yokai_Kamaitachi_Meat.description>あまりおいしくない妖怪のお肉です。</Yokai_Kamaitachi_Meat.description>
+  <Yokai_kamaitachi_Corpse.label>カマイタチの死骸</Yokai_kamaitachi_Corpse.label>
+  <Yokai_kamaitachi_Corpse.description>冷たくなったカマイタチの躯です。</Yokai_kamaitachi_Corpse.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Lighting stuff -->
+
+	<Anon2EndTableLight.label>Table de chevet (lampe)</Anon2EndTableLight.label>
+	<Anon2EndTableLight.description>Cette petite table va bien avec un lit. Lorsqu'il est placé avec un lit, il améliore le confort. Comprend une lampe</Anon2EndTableLight.description>
+
+	<Anon2RoyalEndTableLight.label>Table de chevet royale (lampe)</Anon2RoyalEndTableLight.label>
+	<Anon2RoyalEndTableLight.description>Cette petite table va bien avec un lit royal. Lorsqu'il est placé avec un lit, il augmente le confort. Comprend une lampe</Anon2RoyalEndTableLight.description>
+
+	<StandingLamp_Magenta.label>Lampadaire (magenta)</StandingLamp_Magenta.label>
+	<StandingLamp_Magenta.description>Lampadaire éclairant une zone magenta.</StandingLamp_Magenta.description>
+
+	<StandingLamp_Yellow.label>Lampadaire (jaune)</StandingLamp_Yellow.label>
+	<StandingLamp_Yellow.description>Lampadaire éclairant une zone jaune.</StandingLamp_Yellow.description>
+
+	<StandingLamp_Orange.label>Lampadaire (orange)</StandingLamp_Orange.label>
+	<StandingLamp_Orange.description>Lampadaire éclairant une zone orange.</StandingLamp_Orange.description>
+
+	<StandingLamp_Purple.label>Lampadaire (violet)</StandingLamp_Purple.label>
+	<StandingLamp_Purple.description>Lampadaire éclairant une zone violette.</StandingLamp_Purple.description>
+
+	<StandingLamp_Aqua.label>Lampadaire (cyan)</StandingLamp_Aqua.label>
+	<StandingLamp_Aqua.description>Lampadaire éclairant une zone en cyan.</StandingLamp_Aqua.description>
+	
+	<StandingLamp_Lime.label>Lampadaire (vert clair)</StandingLamp_Lime.label>
+	<StandingLamp_Lime.description>Lampadaire éclairant une zone en vert clair.</StandingLamp_Lime.description>
+
+
+</LanguageData>

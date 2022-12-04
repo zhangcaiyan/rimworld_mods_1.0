@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canmeal.label>罐头食物</Canmeal.label>
+  <Canmeal.description>把食物保存在罐头里以防变质。</Canmeal.description>
+  <Canmeal.jobString>制造罐头食物。</Canmeal.jobString>
+
+  <CanVegetable.label>蔬菜罐头</CanVegetable.label>
+  <CanVegetable.description>把蔬菜保存在罐头里以防变质。</CanVegetable.description>
+  <CanVegetable.jobString>制造罐头食物。</CanVegetable.jobString>
+
+  <CanMeat.label>肉类罐头</CanMeat.label>
+  <CanMeat.description>把肉类保存在罐头里以防变质。</CanMeat.description>
+  <CanMeat.jobString>制造罐头食物。</CanMeat.jobString>
+  
+  <CanFruit.label>水果罐头</CanFruit.label>
+  <CanFruit.description>把水果保存在罐头里以防变质。</CanFruit.description>
+  <CanFruit.jobString>制造罐头食物。</CanFruit.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MURUVWallLight_LightRadName>Brightly Lit Radius</MURUVWallLight_LightRadName>
+	<MURUVWallLight_LightRadDesc>The range that will be considered brightly lit and allow plants to grow. Valid Range: 2 - 10. Default: 5</MURUVWallLight_LightRadDesc>
+	<MURUVWallLight_SteelCostName>Steel Cost</MURUVWallLight_SteelCostName>
+	<MURUVWallLight_SteelCostDesc>How much steel a single light costs to build. Default: 10</MURUVWallLight_SteelCostDesc>
+	<MURUVWallLight_PowerCostName>Power Cost</MURUVWallLight_PowerCostName>
+	<MURUVWallLight_PowerCostDesc>How much power a single light consumes while active. Default: 600</MURUVWallLight_PowerCostDesc>
+	<MURUVWallLight_DisableRestName>Disable Resting Period</MURUVWallLight_DisableRestName>
+	<MURUVWallLight_DisableRestDesc>If enabled the light will not turn off for the default plant resting period.</MURUVWallLight_DisableRestDesc>
+	<MURUVWallLight_WhiteModeName>White Mode</MURUVWallLight_WhiteModeName>
+	<MURUVWallLight_WhiteModeDesc>Replaces the cool purple color with a bland white color.</MURUVWallLight_WhiteModeDesc>
+		
+	<MURUVWallLight_WarningNeedWall>Must be placed over a wall.</MURUVWallLight_WarningNeedWall>
+	<MURUVWallLight_WarningBlocked>Must be facing a passable tile.</MURUVWallLight_WarningBlocked>
+	<MURUVWallLight_WarningBoth>Must be placed over a wall, facing a passable tile.</MURUVWallLight_WarningBoth>
+	
+	<MURUVWallLight_RadiusInvalidRange>Invalid radius. Brightly Lit Radius valid range 2 to 10. Changed to nearest valid value.</MURUVWallLight_RadiusInvalidRange>
+	<MURUVWallLight_AlertReload>Please save and load the game for changes to take effect.</MURUVWallLight_AlertReload>
+		
+	<MURUVWallLight_DestroyedBlocked>Grow Light destroyed by construction.</MURUVWallLight_DestroyedBlocked>
+	<MURUVWallLight_DestroyedWall>Grow Light destroyed by wall destruction.</MURUVWallLight_DestroyedWall>
+</LanguageData>

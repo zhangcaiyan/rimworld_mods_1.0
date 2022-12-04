@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>ferrugem</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>explosão</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>Temporizador</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>tornado</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>gatilho desarmado</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>túnel</TunnelHiveSpawner.label>
+  
+</LanguageData>

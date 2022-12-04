@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hed_HotSpringWarmth.label>温泉的暖意</Hed_HotSpringWarmth.label>
+  <Hed_HotSpringWarmth.stages.0.label>感到些许暖活</Hed_HotSpringWarmth.stages.0.label>
+  <Hed_HotSpringWarmth.stages.1.label>温暖</Hed_HotSpringWarmth.stages.1.label>
+  <Hed_HotSpringWarmth.stages.2.label>热呼呼</Hed_HotSpringWarmth.stages.2.label>
+
+  <Hed_ColdSpringCoolness.label>冷泉的清凉</Hed_ColdSpringCoolness.label>
+  <Hed_ColdSpringCoolness.stages.0.label>感到也许凉意(沁入)</Hed_ColdSpringCoolness.stages.0.label>
+  <Hed_ColdSpringCoolness.stages.1.label>清凉(潮湿)</Hed_ColdSpringCoolness.stages.1.label>
+  <Hed_ColdSpringCoolness.stages.2.label>冷冽冽(湿透)</Hed_ColdSpringCoolness.stages.2.label>
+
+
+</LanguageData>

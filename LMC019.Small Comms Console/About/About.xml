@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC019.小型通讯台</name>
+	<author>Thom Blair III</author>
+	<targetVersion>1.0.2045</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+A 1x1 Comms Console.\n\n一个1X1的小型通讯台。\n\nFully save compatible. Please report any errors.\n\n完全兼容已有的存档。\n\n汉化：jxb12306</description>
+</ModMetaData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Seating -->
+
+	<Anon2SquareDiningChair.label>Quadratischer Esszimmerstuhl</Anon2SquareDiningChair.label>
+	<Anon2SquareDiningChair.description>Ein bequemer und attraktiver Stuhl zum Sitzen an einem Tisch.</Anon2SquareDiningChair.description>
+
+	<Anon2CushionedChair.label>Gepolsterter Stuhl</Anon2CushionedChair.label>
+	<Anon2CushionedChair.description>Ein großer, weicher, bequemer Sitz. Ideal zum Entspannen und Essen.</Anon2CushionedChair.description>
+
+	<Anon2CouchRight.label>Couch Rechts</Anon2CouchRight.label>
+	<Anon2CouchRight.description>Ein Stück eines großen, weichen, bequemen Sofas. Ideal zum Entspannen.</Anon2CouchRight.description>
+
+	<Anon2CouchCenter.label>Couch Center</Anon2CouchCenter.label>
+	<Anon2CouchCenter.description>Ein Stück eines großen, weichen, bequemen Sofas. Ideal zum Entspannen.</Anon2CouchCenter.description>
+
+	<Anon2CouchLeft.label>Couch Links</Anon2CouchLeft.label>
+	<Anon2CouchLeft.description>Ein Stück eines großen, weichen, bequemen Sofas. Ideal zum Entspannen.</Anon2CouchLeft.description>
+
+	<Anon2CouchCorner.label>Couch Ecke</Anon2CouchCorner.label>
+	<Anon2CouchCorner.description>Ein Stück eines großen, weichen, bequemen Sofas. Ideal zum Entspannen.</Anon2CouchCorner.description>
+
+	<Anon2CouchCornerInv.label>Couch Ecke Invertiert</Anon2CouchCornerInv.label>
+	<Anon2CouchCornerInv.description>Ein Stück eines großen, weichen, bequemen Sofas. Ideal zum Entspannen.</Anon2CouchCornerInv.description>
+
+</LanguageData>

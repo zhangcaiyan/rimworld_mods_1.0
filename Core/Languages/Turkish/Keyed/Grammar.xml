@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle>bir</IndefiniteArticle>
+  <DefiniteArticle> </DefiniteArticle>
+  <IndefiniteForm>bir {0}</IndefiniteForm>
+  <DefiniteForm> {0}</DefiniteForm>
+
+  <Proits>onun</Proits>
+  <Prohis>onun</Prohis>
+  <Proher>onun</Proher>
+  <ProitsCap>Onun</ProitsCap>
+  <ProhisCap>Onun</ProhisCap>
+  <ProherCap>Onun</ProherCap>
+
+  <ProitObj>onu</ProitObj>
+  <ProhimObj>onu</ProhimObj>
+  <ProherObj>onu</ProherObj>
+  <ProitObjCap>Onu</ProitObjCap>
+  <ProhimObjCap>Onu</ProhimObjCap>
+  <ProherObjCap>Onu</ProherObjCap>
+
+  <Prohe>o</Prohe>
+  <Proshe>o</Proshe>
+  <Proit>o</Proit>
+  <ProheCap>O</ProheCap>
+  <ProsheCap>O</ProsheCap>
+  <ProitCap>O</ProitCap>
+
+</LanguageData>

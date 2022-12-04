@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC039.先进发电技术</name>
+	<author>sisco</author>
+	<targetVersion>1.0.0</targetVersion>
+	<url></url>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+
+orginal mod creator sulusdacor
+原MOD作者为：sulusdacor
+
+ive just updated the mod for v1 hope he doesnt mind
+我（sisco）只是把这个MOD升级到了1.0版本希望原作者不要介意。
+
+Details:
+细节：
+
+Adds advanced windturbine, advanced solar panels, advanced geothermal and advanced nuclear power plants. All must be researched before they can be build. Research is dependend on vanilla research (electricity/solar/geothermal). placement restrictions for wind/geothermal still apply.
+增加了先进的风力涡轮机、先进的太阳能电池板、先进的地热和先进的核电站。所有这些都必须在建造之前进行研究。研究依赖于原版的研究（电力/太阳能/地热）。风/地热的安置限制仍然适用。
+
+power output:
+- advanced windturbine: max 6k (double normal windturbine)
+- advanced solar: max 3,4k (double normal solar)
+- advanced geothermal: 7,5k
+- nuclear power: 20k
+功率输出：
+-先进风力发电机：最大6KW（双正常风机）
+-先进太阳能：最大3.4KW（双正常太阳能）
+-先进地热：7.5KW
+-核电：20KW
+
+research:
+- all are tech level spacer and need a higtech research bench and the multianalyzer
+研究需求：
+-它们都是科技的产物，需要一个高级研究台和多元分析仪。
+
+research "tree":
+科技树：
+
+electricity research -> advanced winturbine research
+solar research -> advanced solar panels
+geothermal research -> advanced geothermal research -> advanced nuclear power research
+电力->先进风力涡轮机研究
+太阳能->先进太阳能电池板
+地热->先进地热研究->先进核电研究
+
+特别注释：本MOD初始已带有基本完全的汉化，作者未知（感觉有点像机器翻译，如果不是我在此道歉），已经补全所有的翻译并进行了润色。
+
+汉化：jxb12306
+合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+
+	</description>
+</ModMetaData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lighting_MURWallLight.label>壁灯（旧）</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>一种设计成安装于墙壁上的照明用具。</Lighting_MURWallLight.description>
+  <!--<Blueprint_Install_Lighting_MURWallLight.label>壁灯（旧）（移動先）</Blueprint_Install_Lighting_MURWallLight.label>-->
+
+  <Lighting_MURWallLightRed.label>壁灯（红色）（旧）</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>一种设计成安装于墙壁上的照明用具。发出红色的光。</Lighting_MURWallLightRed.description>
+  <!--<Blueprint_Install_Lighting_MURWallLightRed.label>壁灯（赤）（旧）（移動先）</Blueprint_Install_Lighting_MURWallLightRed.label>-->
+
+  <Lighting_MURWallLightGreen.label>壁灯（緑色）（旧）</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>一种设计成安装于墙壁上的照明用具。发出绿色的光。</Lighting_MURWallLightGreen.description>
+  <!--<Blueprint_Install_Lighting_MURWallLightGreen.label>壁灯（緑）（旧）（移動先）</Blueprint_Install_Lighting_MURWallLightGreen.label>-->
+
+  <Lighting_MURWallLightBlue.label>壁灯（青色）（旧）</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>一种设计成安装于墙壁上的照明用具。发出青色的光。</Lighting_MURWallLightBlue.description>
+  <!--<Blueprint_Install_Lighting_MURWallLightBlue.label>壁灯（青）（旧）（移動先）</Blueprint_Install_Lighting_MURWallLightBlue.label>-->
+
+</LanguageData>

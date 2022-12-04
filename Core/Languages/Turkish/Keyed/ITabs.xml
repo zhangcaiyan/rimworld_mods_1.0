@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Senetler</TabBills>
+  <TabGrowing>Yetiştirme</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabTraining>Eğitim</TabTraining>
+  <TabPrisoner>Mahkum</TabPrisoner>
+  <TabGuest>Misafir</TabGuest>
+  <TabGear>Ekipman</TabGear>
+  <TabNeeds>İhtiyaçlar</TabNeeds>
+  <TabStorage>Depolama</TabStorage>
+  <TabHealth>Sağlık</TabHealth>
+  <TabRace>Irk</TabRace>
+  <TabBasics>Temeller</TabBasics>
+  <TabStats>Nitelikler</TabStats>
+  <TabRecords>Records</TabRecords>
+  <TabArt>Sanat</TabArt>
+  <TabSocial>Sosyal</TabSocial>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Senet ekle</AddBill>
+  <RecipeRequiresSkills>{0} tarifi aşağıdaki becerileri gerektirir. Kolonicilerinin hiçbiri bu becerilere sahip değil. Bu yüzden bu seneti kimse yapmayacak.</RecipeRequiresSkills>
+  <MinimumSkill>Min yetenek</MinimumSkill>
+  <SuspendedCaps>DURAKLATILMIÞ</SuspendedCaps>
+  <BoundWorkerIs>İşçi: {0}</BoundWorkerIs>
+  <PlantVerb>Dikmek</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Koloniye katma zorluğu</RecruitmentDifficulty>
+  <GetsFood>Yemek alır</GetsFood>
+  <DoctorsCare>Doktorlar ilgilenir</DoctorsCare>
+  <GetsMedicine>İlaç alır</GetsMedicine>
+  <ShouldTryToRecruit>Koloniye katmaya çalış</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Etkileşim yok</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Arkadaşça konuşma</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Koloniye katmaya çalışıyor</PrisonerAttemptRecruit>
+  <PrisonerRelease>Serbest bırak</PrisonerRelease>
+  <PrisonerExecution>İdam et</PrisonerExecution>
+  <ConsideredGuilty>Suçlu ilan edilmiş ({0} sonra sona eriyor)</ConsideredGuilty>
+
+  
+  <!-- Medical - general -->
+  <MoveSpeed>Hareket hızı</MoveSpeed>
+  <Efficiency>Verimlilik</Efficiency>
+  <MissingBodyPart>Yok olmuş</MissingBodyPart>
+  <DestroyedBodyPart>Mahvolmuş</DestroyedBodyPart>
+  <ShatteredBodyPart>Parçalanmış</ShatteredBodyPart>
+  <RemovedBodyPart>Kesilmiş</RemovedBodyPart>
+  <Healthy>Sağlıklı</Healthy>
+  <InPain>Acı içinde</InPain>
+  <PainLevel>Acı</PainLevel>
+  <Injured>Yaralı</Injured>
+  <NoInjuries>(yara yok)</NoInjuries>
+  <WholeBody>Tüm vücudu</WholeBody>
+  <DataProcessing>Veri işleme</DataProcessing>
+  <Communication>İletişim</Communication>
+  <Affects>Affects</Affects>
+  <BleedingRate>Kanama oranı</BleedingRate>
+  <TimeToDeath>{0} içinde ölecek</TimeToDeath>
+  <WontBleedOutSoon>Acil bir tehlike yok</WontBleedOutSoon>
+  <HealthOverview>Genel</HealthOverview>
+  <MedicalOperationsShort>Operasyonlar ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Değişiklikler ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Tıbbi operasyonlar</MedicalOperations>
+  <Amputate>Kesmek</Amputate>
+  <Harvest>Hasat</Harvest>
+  <RemoveOrgan>Çıkar</RemoveOrgan>
+  <MemoryLower>Hafız</MemoryLower>
+  <SocialInteractionsLower>Sosyal tepkimeler</SocialInteractionsLower>
+  <HungerRate>Açlık oranı</HungerRate>
+  <Tiredness>Yorgunluk</Tiredness>
+  <PainFactor>Acı</PainFactor>
+  <PreventsInfection>Enfeksiyonu önlüyor</PreventsInfection>
+
+  
+  <!-- Medical - Body and activities condition -->
+  <None>Yok</None>
+  <VeryPoor>Çok kötü</VeryPoor>
+  <Poor>Kötü</Poor>
+  <Weakened>Zayıflamış</Weakened>
+  <GoodCondition>İyi</GoodCondition>
+  <Enhanced>Geliştirilmiş</Enhanced>
+  <SeriouslyImpaired>Ciddi engelli</SeriouslyImpaired>
+  <Impaired>Engelli</Impaired>
+  <SlightlyImpaired>Biraz engelli</SlightlyImpaired>
+  <NoPain>Yok</NoPain>
+  <LittlePain>Az</LittlePain>
+  <MediumPain>Orta</MediumPain>
+  <SeverePain>Şiddetli</SeverePain>
+  <ExtremePain>Aşırı</ExtremePain>
+  
+  
+  <!-- Training tab-->
+  <TrainableIntelligence>Eğitilebilir zeka</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Eğitilebilmesi için {0} zeka gerekiyor .</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} bunun için eğitilmek için çok ufak.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Gerekli önkoşul: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(bağ yok)</NoRelationships>
+  <Kidnapped>Kaçırılmış</Kidnapped>
+  <Slave>Köle</Slave>
+  <FactionLeader>Klan lideri</FactionLeader>
+  <OpinionOf>{0} hakkındaki düşüncesi</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'nin benim hakkımda düşüncesi</SomeonesOpinionOfMe>
+  <IAmDead>Öldüm</IAmDead>
+  <IAmPsychopath>Psikopatım</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <AverageArmor>Ortalama Zırh</AverageArmor>
+  <MassCarried>Taşıma kapasitesi: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>Konforlu sıcaklık aralığı</ComfyTemperatureRange>
+  <ArmorBlunt>Ezici</ArmorBlunt>
+  <ArmorSharp>Keskin</ArmorSharp>
+  <ArmorHeat>Isı</ArmorHeat>
+  <ArmorElectric>Elektrik</ArmorElectric>
+
+</LanguageData>
+
+<SelfTend>Self-tend</SelfTend>
+<SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+<PartEfficiency>Part efficiency</PartEfficiency>
+<BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+<Missing>Missing</Missing>

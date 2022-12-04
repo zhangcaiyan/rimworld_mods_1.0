@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Flowers -->
+
+  <PlantAlliumGiganteum.label>Ail d'ornement géant</PlantAlliumGiganteum.label>
+  <PlantAlliumGiganteum.description>Une magnifique fleur cultivée, bulbe de couleur pourpre.</PlantAlliumGiganteum.description>
+
+  <PlantAnthurium.label>Langue de feu</PlantAnthurium.label>
+  <PlantAnthurium.description>Une magnifique fleur rouge cultivée.</PlantAnthurium.description>
+
+  <PlantNymphHair.label>Fétuque</PlantNymphHair.label>
+  <PlantNymphHair.description>Une jolie herbe bleutée.</PlantNymphHair.description>
+
+  <PlantPinkRimstalk.label>Bignone</PlantPinkRimstalk.label>
+  <PlantPinkRimstalk.description>Une magnifique fleur rose avec une longue tige cultivée.</PlantPinkRimstalk.description>
+
+  <PlantSunflower.label>Tournesol</PlantSunflower.label>
+  <PlantSunflower.description>Une magnifique et grande fleur jaune clair cultivée.</PlantSunflower.description>
+
+
+</LanguageData>

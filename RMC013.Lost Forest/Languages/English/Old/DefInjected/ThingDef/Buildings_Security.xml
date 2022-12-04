@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_Turret_PrecisionMortar.label>precision mortar</LF_Turret_PrecisionMortar.label>
+	<LF_Turret_PrecisionMortar.description>This mortar has an extremely narrow spread, granting it higher accuracy then other mortars.\nBallistic correction is performed in real time using information obtained through hacked monitoring satellites and radiosondes. A radiosonde is a telemetry instrument that floats in the atmosphere-often via weather balloon-and measures various atmospheric parameters, like air pressure, temperature, humidity, and wind.\n(zone of dispersion : radius 3)</LF_Turret_PrecisionMortar.description>
+
+</LanguageData>

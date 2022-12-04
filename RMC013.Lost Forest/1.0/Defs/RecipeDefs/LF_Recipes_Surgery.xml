@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--
+  <RecipeDef Abstract="True" Name="SurgeryFlesh">
+    <effectWorking>Surgery</effectWorking>
+    <soundWorking>Recipe_Surgery</soundWorking>
+    <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+    <workSkill>Medicine</workSkill>
+    <workSkillLearnFactor>16</workSkillLearnFactor>
+  </RecipeDef>
+-->
+	<!-- 投与：ちび狐の涙 -->
+	
+	<RecipeDef>
+		<defName>AdministerFoxiaTears</defName>
+		<label>administer foxia tears</label>
+		<description>Administers foxia tears for restoring old wounds, fleshed bodyparts, or sickness.</description>
+		<workerClass>Recipe_AdministerUsableItem</workerClass>
+		<jobString>Administering foxia tears.</jobString>
+		<targetsBodyPart>false</targetsBodyPart>
+		<anesthetize>false</anesthetize>
+		<workAmount>600</workAmount>
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<surgerySuccessChanceFactor>99999</surgerySuccessChanceFactor>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>LF_FoxiaTears</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>LF_FoxiaTears</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
+  	
+	<!-- 投与：おみくじ煎餅 -->
+	
+	<RecipeDef>
+		<defName>AdministerOmikujiSenbei</defName>
+		<label>Administer Omikuji Senbei</label>
+		<description>Administers Omikuji Senbei.</description>
+		<workerClass>Recipe_AdministerIngestible</workerClass>
+		<jobString>Administering Omikuji Senbei.</jobString>
+		<targetsBodyPart>false</targetsBodyPart>
+		<anesthetize>false</anesthetize>
+		<workAmount>600</workAmount>
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<surgerySuccessChanceFactor>99999</surgerySuccessChanceFactor>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>FortuneCookie_Fox</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>FortuneCookie_Fox</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
+  	
+	<!-- 投与：レフカの花冠 -->
+	
+	<RecipeDef>
+		<defName>AdministerMysteriousWreath</defName>
+		<label>Administer Lefca's wreath</label>
+		<description>Administers Lefca's wreath.</description>
+		<workerClass>Recipe_AdministerIngestible</workerClass>
+		<jobString>Administering Lefca's wreath.</jobString>
+		<targetsBodyPart>false</targetsBodyPart>
+		<anesthetize>false</anesthetize>
+		<workAmount>600</workAmount>
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<surgerySuccessChanceFactor>99999</surgerySuccessChanceFactor>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MysteriousWreath</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MysteriousWreath</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
+
+	<!-- 投与：義理チョコ...？ -->
+	
+	<RecipeDef>
+		<defName>AdministerNutChocolate</defName>
+		<label>Administer heart shaped nut chocolate</label>
+		<description>Administers heart shaped nut chocolate.</description>
+		<workerClass>Recipe_AdministerIngestible</workerClass>
+		<jobString>Administering heart shaped nut chocolate.</jobString>
+		<targetsBodyPart>false</targetsBodyPart>
+		<anesthetize>false</anesthetize>
+		<workAmount>600</workAmount>
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<surgerySuccessChanceFactor>99999</surgerySuccessChanceFactor>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>NutChocolate</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>NutChocolate</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
+
+</Defs>

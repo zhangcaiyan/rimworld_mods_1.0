@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- LF Cooler & Heater -->
+	<Running>Running.</Running>
+	<Stopped>Stopped.</Stopped>
+
+    <!-- Incident : ShortCircuit-->
+	<ShortCircuitWasPrevented>A short circuit was prevented. All overcurrent that occurred was absorbed by the internal mechanism of {0}. Thankfully, there's no noticeable damage.</ShortCircuitWasPrevented>
+	<ShortCircuitRainWasPrevented>A circuit was exposed to rain and nearly shorted; however, since the overcurrent was interrupted by the advanced control mechanism of {0}, it was not damaged.</ShortCircuitRainWasPrevented>
+	<SCPEffectReductionBatteryPowerLossOnLeakage>[{0} effect]\n {1}% reduction of battery loss on leakage.</SCPEffectReductionBatteryPowerLossOnLeakage>
+	<SCPEffectAbsorptionAllLeakedEnergy>[{0} effect]\n All the released energy of {1} Wd was absorbed.</SCPEffectAbsorptionAllLeakedEnergy>
+
+    <!-- Incident : FindOutSurvivor-->
+	<Survivor>survivor</Survivor>
+
+
+    <!-- Building : AtzldoirStella -->
+	<txt_LFSeasonalEffect>season effect</txt_LFSeasonalEffect>
+	<txt_LFSeasonalEffectToggle>toggle effect</txt_LFSeasonalEffectToggle>
+
+
+    <!-- AuraEffect of HolyWoodSapring : Treatment of infections -->
+	<txtMote_MechanitesInfectionWasCuredCompletely>{0} cured completely</txtMote_MechanitesInfectionWasCuredCompletely>
+
+    <!-- Waterway Construction -->
+	<WaterVeinDrillingProgress>progress</WaterVeinDrillingProgress>
+	<WaterVeinDrillingSucceeded>{0} dug out {1}!</WaterVeinDrillingSucceeded>
+    <!-- PlaceWorkerReport : Waterway Construction -->
+	<MustPlaceWithWaterSourceAndFreeSpace>Both water source and work space necessary.</MustPlaceWithWaterSourceAndFreeSpace>
+    <!-- TerrainSourceError : Waterway Construction -->
+	<DrawWaterwayFailedNonWaterSource>{0} tried to draw something other than a water source into the waterway. But a foolish attempt ended in failure.</DrawWaterwayFailedNonWaterSource>
+	<SoilWasSaltDamagedByDeepwater>The surrounding soil was salt damaged by seawater that has been drawn in.</SoilWasSaltDamagedByDeepwater>
+	<NeedHeavyAnd1OverFertility>The ground must be able to support heavy objects with a fertility of 100% or more.</NeedHeavyAnd1OverFertility>
+
+    <!-- Self Sanity Recovery -->
+	<MSG_RecoverdSanityOnOnesOwn>{0} regained sanity on one's own.</MSG_RecoverdSanityOnOnesOwn>
+
+    <!-- RestInHotSpring : GetReport -->
+	<RelaxingInHotSpring>relaxing in a hot spring.</RelaxingInHotSpring>
+	<WatchingEclipseAtHotSpring>watching eclipse while relaxing in hot spring.</WatchingEclipseAtHotSpring>
+	<WatchingAuroraAtHotSpring>watching aurora while relaxing in hot spring.</WatchingAuroraAtHotSpring>
+	<StargazingAtHotSpring>gazing stars while relaxing in hot spring.</StargazingAtHotSpring>
+	<CloudWatchingAtHotSpring>watching clouds while relaxing in hot spring.</CloudWatchingAtHotSpring>
+	<WatchingSunriseAtHotSpring>watching sunrise while relaxing in hot spring.</WatchingSunriseAtHotSpring>
+	<WatchingSunsetAtHotSpring>watching sunset while relaxing in hot spring.</WatchingSunsetAtHotSpring>
+
+    <!-- RefleshInColdSpring : GetReport -->
+	<RefleshingInSpring>refleshing in a spring.</RefleshingInSpring>
+	<WatchingEclipseAtSpring>watching eclipse while refleshing in spring.</WatchingEclipseAtSpring>
+	<WatchingAuroraAtSpring>watching aurora while refleshing in spring.</WatchingAuroraAtSpring>
+	<StargazingAtSpring>gazing stars while refleshing in spring.</StargazingAtSpring>
+	<CloudWatchingAtSpring>watching clouds while refleshing in spring.</CloudWatchingAtSpring>
+	<WatchingSunriseAtSpring>watching sunrise while refleshing in spring.</WatchingSunriseAtSpring>
+	<WatchingSunsetAtSpring>watching sunset while refleshing in spring.</WatchingSunsetAtSpring>
+
+    <!-- Skill : Common -->
+	<txt_SkillNeedCoolDown>cool down：{0}sec.</txt_SkillNeedCoolDown>
+
+    <!-- Skill : First Aid -->
+	<txt_Skill_FirstAid_Label>First aid</txt_Skill_FirstAid_Label>
+	<txt_Skill_FirstAid_Desc>[First aid]\nProvide emergency treatment, such as hemostasis, to subjects in need of treatment. No medication or bedding required, but next treatment must wait for cool down.\n\nQuality：{0}\nCooldown：{1}sec.</txt_Skill_FirstAid_Desc>
+
+    <!-- Skill : Adrenaline Burst -->
+	<txt_Skill_AdrenalineBurst_InactiveLabel>Adrenaline burst</txt_Skill_AdrenalineBurst_InactiveLabel>
+	<txt_Skill_AdrenalineBurst_ActiveLabel>Active</txt_Skill_AdrenalineBurst_ActiveLabel>
+	<txt_Skill_AdrenalineBurst_Desc>[Adrenaline burst]\nApproximately 80 seconds, dramatically improve their metabolism and strengthen physical ability. Can be deactivated at any time after activation. When the effect exceeds 80%, overheating occurs, and when it reaches 100%, the skill is forcibly deactivated. Also gain 100% resistance to stuns while active. \n\nCooldown: {0} sec.</txt_Skill_AdrenalineBurst_Desc>
+	<txt_Skill_AdrenalineBurst_Overheated>overheated</txt_Skill_AdrenalineBurst_Overheated>
+
+    <!-- Foxia Own Job -->
+	<MSG_FoxianHealingSucceeded>{1} softly held her hand over the old wound of {0}. {0} 's old wound has been closed.</MSG_FoxianHealingSucceeded>
+	<MSG_FoxianHealingFailedBecauseOfTrait>{1} tried to cure the old wound of {0}. However, she saw {0} 's happy face and hesitated to treat.</MSG_FoxianHealingFailedBecauseOfTrait>
+
+    <!-- Interaction -->
+	<MSG_PetiteServantDragonWantToTellYouSomething>{0} seems to want to tell you something.</MSG_PetiteServantDragonWantToTellYouSomething>
+	<InteractingPawnWith>talk to {0}</InteractingPawnWith>
+
+    <!-- Mote - Animal retreat job -->
+	<txt_Retreat>Retreat</txt_Retreat>
+	<txt_GetOutOfBattleImmerdiately>Immediately leave combat.</txt_GetOutOfBattleImmerdiately>
+	<txtMote_NoRetreatPath>no exit!</txtMote_NoRetreatPath>
+	<txtMote_NoThreatEnoughToEscape>no threat</txtMote_NoThreatEnoughToEscape>
+	<txtMote_NoEnemyNearby>no threat nearby</txtMote_NoEnemyNearby>
+
+    <!-- Mote - AuraEffect of HolyWoodSapring : Treatment of infections -->
+	<txtMote_MechanitesInfectionWasCuredCompletely>{0} is completely cured</txtMote_MechanitesInfectionWasCuredCompletely>
+
+
+    <!-- Gizmo : 光源装備 -->
+	<txt_ToggleLitON>lit ON</txt_ToggleLitON>
+	<txt_ToggleLitOFF>lit OFF</txt_ToggleLitOFF>
+	<txt_LightSourceApparelDesc>[ {0} ]</txt_LightSourceApparelDesc>
+	<txt_PermanentLightSource>permanent light</txt_PermanentLightSource>
+	<txt_fuel>fuel</txt_fuel>
+	<txt_remain>remaining</txt_remain>
+	<txt_days>day</txt_days>
+	<txt_hours>hour</txt_hours>
+	<txt_TimeLeft>{0} {1} {2}</txt_TimeLeft>
+	<txt_ITabLSALabel>fuels</txt_ITabLSALabel>
+	<txt_fuelEfficiency>fuel efficiency : </txt_fuelEfficiency>
+	<txt_fuelSettings>fuel settings</txt_fuelSettings>
+	<txt_CannotRefuelThisEq>cannot refuel this item.</txt_CannotRefuelThisEq>
+    <!-- Job : 光源装備の燃料補給-->
+	<JobFailReason_NoFuel>no fuels</JobFailReason_NoFuel>
+
+    <!-- Gizmo : パーティ強制中断 -->
+	<txt_StopPartyImmediately>Stop party immediately</txt_StopPartyImmediately>
+	<txt_StopPartyImmediately_Desc>[Cancel party right now] \n"Do you guys forget something else must to do?" \ n\n The settlers who get involved in the party by throwing out urgent work. If you feel sick of them, please use this button. (The party ends immediately in exchange for a temporary mood debuff to the participants.)</txt_StopPartyImmediately_Desc>
+
+    <!-- Gizmo : ドアテクスチャ反転 -->
+	<txt_flipDoor>flip graphic</txt_flipDoor>
+	<txt_flipDoorDesc>flip door graphic</txt_flipDoorDesc>
+
+    <!-- Dialog -->
+	<txt_DoNotShowUntilNextUpdate>[Do not show until next mod update]</txt_DoNotShowUntilNextUpdate>
+
+<!-- ======================== MOD Settings ====================== -->
+
+	<LFSetting_JoinLimitGlobal>===== beasthuman joining limit (global) =====</LFSetting_JoinLimitGlobal>
+	<LFSetting_JoinLimitGlobalDesc>It is applied only at the time of the first load. (It is possible to setting each data later.)</LFSetting_JoinLimitGlobalDesc>
+	<LFSetting_AchievementAlert_JoinLimitGlobal>*** data loaded with this setting will have the achievement of joining limit permanently disabled! ***</LFSetting_AchievementAlert_JoinLimitGlobal>
+	<LFSetting_JoinLimitLocal>===== beasthuman joining limit (local) =====</LFSetting_JoinLimitLocal>
+	<LFSetting_JoinLimitLocalDesc>Upper limit setting for each save data (high-priority than global setting).</LFSetting_JoinLimitLocalDesc>
+	<LFSetting_AchievementAlert_JoinLimitLocal>*** joining limit achievement of this data will be permanently disabled! ***</LFSetting_AchievementAlert_JoinLimitLocal>
+
+
+	<LFSetting_GamePlay>===== game play =====</LFSetting_GamePlay>
+	<LFSetting_DisallowPostBondRelation>Prevent acquired bond events in animals</LFSetting_DisallowPostBondRelation>
+	<LFSetting_LuminousEquipmentUpdateIntervalInd>Light source equipment update interval</LFSetting_LuminousEquipmentUpdateIntervalInd>
+	<LFSetting_LumiEq0>Very short (0.1sec, very heavy)</LFSetting_LumiEq0>
+	<LFSetting_LumiEq1>Short (0.3sec, heavy)</LFSetting_LumiEq1>
+	<LFSetting_LumiEq2>Normal (0.5sec)</LFSetting_LumiEq2>
+	<LFSetting_LumiEq3>Long (1sec, light)</LFSetting_LumiEq3>
+	<LFSetting_LumiEq4>Very long (2sec, very light)</LFSetting_LumiEq4>
+	<LFSetting_LuminousEqRefuelThresh>Threshold of starting refuel for lanterns</LFSetting_LuminousEqRefuelThresh>
+
+	<LFSetting_HotSprings>===== hot springs =====</LFSetting_HotSprings>
+	<LFSetting_UpdateSpringWaterRegularly>- Update spring water regularly（performance impact : Low)</LFSetting_UpdateSpringWaterRegularly>
+	<LFSetting_RenderBodyInHotSpringJoy>- Render pawn body while hot spring bathing（performance impact : VeryLow)</LFSetting_RenderBodyInHotSpringJoy>
+	<LFSetting_RenderSpringWaterSurface>- Render water surfaces of the hot springs（performance impact : Low)</LFSetting_RenderSpringWaterSurface>
+	<LFSetting_RenderSpringWaterEdge>- (imperfect) Render water edges of the hot springs（performance impact : Low - Mid)</LFSetting_RenderSpringWaterEdge>
+	<LFSetting_RenderHotSpringVapor>- Render Vapor of the hot springs（performance impact : Low)</LFSetting_RenderHotSpringVapor>
+	<LFSetting_UseColdSpringForChilling>- Allow cold spring relaxing for recreation（performance impact : VeryLow)</LFSetting_UseColdSpringForChilling>
+	<LFSetting_UpdateNotice>===== update notice ===== </LFSetting_UpdateNotice>
+	<LFSetting_EnableUpdateNotice>- Display mod updates at game start</LFSetting_EnableUpdateNotice>
+
+
+
+</LanguageData>

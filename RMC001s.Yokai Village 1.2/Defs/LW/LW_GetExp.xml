@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="LeveledWeapons.Defs.LW_GetExpDef">
+    <defName>LW_AnyPawnExp</defName>
+    <pawns>
+      <!-- 範囲のindexメモ　10＝DefName　100＝Dragon*とか　1000=animlとか　9999＝その他。*　-->
+      <li>
+        <index>10</index>
+        <name>Thrumbo</name>
+        <value>3</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Dragon_MoonDragon</name>
+        <value>5</value>
+      </li>
+      <li>
+        <index>100</index>
+        <name>Dragon*</name>
+        <value>3</value>
+      </li>
+      <li>
+        <index>100</index>
+        <name>Yokai*</name>
+        <value>0</value>
+      </li>
+      <li>
+        <index>1000</index>
+        <name>[Animal]</name>
+        <value>1</value>
+      </li>
+      <li>
+        <index>1000</index>
+        <name>[Humanlike]</name>
+        <value>2</value>
+      </li>
+      <li>
+        <index>1000</index>
+        <name>[Insectoid]</name>
+        <value>2</value>
+      </li>
+      <li>
+        <index>1000</index>
+        <name>[Mechanoid]</name>
+        <value>3</value>
+      </li>
+      <li>
+        <index>9999</index>
+        <name>*</name>
+        <value>1</value>
+      </li>
+    </pawns>
+  </Def>
+</Defs>

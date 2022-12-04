@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+   <!-- LF Cooler & Heater -->
+	<Running>运作中</Running>
+	<Stopped>停止中</Stopped>
+
+    <!-- Incident : ShortCircuit-->
+	<ShortCircuitWasPrevented>但那只是杞人之忧。产生的过电流被{0}的内部机构完全吸收了。并没有带来足以着目的灾害。</ShortCircuitWasPrevented>
+	<ShortCircuitRainWasPrevented>但因着{0}精细的制御机构，过电流被完全遮断，而未产生任何灾害。</ShortCircuitRainWasPrevented>
+	<SCPEffectReductionBatteryPowerLossOnLeakage>[{0} 效果]\n漏电时电池的损失{1}%轻减</SCPEffectReductionBatteryPowerLossOnLeakage>
+	<SCPEffectAbsorptionAllLeakedEnergy>[{0} 效果]\n放出的能量放出{1}Wd全部都被吸收了</SCPEffectAbsorptionAllLeakedEnergy>
+    
+	<!-- Incident : FindOutSurvivor-->
+	<Survivor>遇难者</Survivor>
+    
+	<!-- Building : AtzldoirStella -->
+	<txt_LFSeasonalEffect>季节特有描绘</txt_LFSeasonalEffect>
+	<txt_LFSeasonalEffectToggle>切换季节特有描绘</txt_LFSeasonalEffectToggle>
+    
+
+    <!-- AuraEffect of HolyWoodSapring : Treatment of infections -->
+	<txtMote_MechanitesInfectionWasCuredCompletely>{0}的伤势痊愈了</txtMote_MechanitesInfectionWasCuredCompletely>
+
+    <!-- Waterway Construction -->
+	<WaterVeinDrillingProgress>进行程度</WaterVeinDrillingProgress>
+	<WaterVeinDrillingSucceeded>{0}挖凿到{1}了！</WaterVeinDrillingSucceeded>
+    <!-- PlaceWorkerReport : Waterway Construction -->
+	<MustPlaceWithWaterSourceAndFreeSpace>需要水源及工作空间。</MustPlaceWithWaterSourceAndFreeSpace>
+    <!-- TerrainSourceError : Waterway Construction -->
+	<DrawWaterwayFailedNonWaterSource>{0}试着将水源以外的东西引圳入沟，但这不怎么聪明的尝试显然失败了。</DrawWaterwayFailedNonWaterSource>
+	<SoilWasSaltDamagedByDeepwater>因为引入海水而让周围的土壤遭受盐害。</SoilWasSaltDamagedByDeepwater>
+	<NeedHeavyAnd1OverFertility>需要肥沃度超过100%以上且能支撑重物的地面。</NeedHeavyAnd1OverFertility>
+
+    <!-- Self Sanity Recovery -->
+	<MSG_RecoverdSanityOnOnesOwn>{0}凭着自己的力量回复正常了。</MSG_RecoverdSanityOnOnesOwn>
+
+    <!-- RestInHotSpring : GetReport -->
+	<RelaxingInHotSpring>在温泉里歇息</RelaxingInHotSpring>
+	<WatchingEclipseAtHotSpring>泡在温泉中眺望着日食</WatchingEclipseAtHotSpring>
+	<WatchingAuroraAtHotSpring>泡在温泉中眺望着极光</WatchingAuroraAtHotSpring>
+	<StargazingAtHotSpring>泡在温泉中眺望着夜空中的星座</StargazingAtHotSpring>
+	<CloudWatchingAtHotSpring>泡在温泉中眺望着流云</CloudWatchingAtHotSpring>
+	<WatchingSunriseAtHotSpring>泡在温泉中眺望着日出</WatchingSunriseAtHotSpring>
+	<WatchingSunsetAtHotSpring>泡在温泉中眺望着日落</WatchingSunsetAtHotSpring>
+	
+    <!-- RefleshInColdSpring : GetReport -->
+	<RefleshingInSpring>在冷泉中乘凉</RefleshingInSpring>
+	<WatchingEclipseAtSpring>泡在冷泉中眺望着日食</WatchingEclipseAtSpring>
+	<WatchingAuroraAtSpring>泡在冷泉中眺望着极光</WatchingAuroraAtSpring>
+	<StargazingAtSpring>泡在冷泉中眺望着夜空中的星座</StargazingAtSpring>
+	<CloudWatchingAtSpring>泡在冷泉中眺望着流云</CloudWatchingAtSpring>
+	<WatchingSunriseAtSpring>泡在冷泉中眺望着日出</WatchingSunriseAtSpring>
+	<WatchingSunsetAtSpring>泡在冷泉中眺望着日落</WatchingSunsetAtSpring>
+
+    <!-- Skill : Common -->
+	<txt_SkillNeedCoolDown>冷却时间：{0}sec.</txt_SkillNeedCoolDown>
+
+	 <!-- Skill : First Aid -->
+	<txt_Skill_FirstAid_Label>紧急处理</txt_Skill_FirstAid_Label>
+	<txt_Skill_FirstAid_Desc>【紧急处理】\n对于需要治疗的对象进行止血等紧急处理。不会消耗医药品，但要再次使用的话需等待冷却时间。\n\n治疗品质：{0}\n再次使用：{1}秒</txt_Skill_FirstAid_Desc>
+
+    <!-- Foxia Own Job -->
+	<MSG_FoxianHealingSucceeded>{1}用手轻轻地覆盖了{0}的伤痕，{0}的伤痕痊愈了。</MSG_FoxianHealingSucceeded>
+	<MSG_FoxianHealingFailedBecauseOfTrait>{1}试着治疗{0}的伤痕，但看到{0}满足的表情而对进行治疗感到犹豫。</MSG_FoxianHealingFailedBecauseOfTrait>
+    
+	<!-- Interaction -->
+	<MSG_PetiteServantDragonWantToTellYouSomething>{0}似乎想向你传达什么。</MSG_PetiteServantDragonWantToTellYouSomething>
+	<InteractingPawnWith>与{0}对话</InteractingPawnWith>
+
+	<!-- Mote - Animal retreat job -->
+	<txt_Retreat>撤退命令</txt_Retreat>
+	<txt_GetOutOfBattleImmerdiately>立即离开战斗冈位。</txt_GetOutOfBattleImmerdiately>
+	<txtMote_NoRetreatPath>没有退路！</txtMote_NoRetreatPath>
+	<txtMote_NoThreatEnoughToEscape>需要退避的威胁并不存在</txtMote_NoThreatEnoughToEscape>
+	<txtMote_NoEnemyNearby>在附近并没有敌人。</txtMote_NoEnemyNearby>
+
+	<!-- Mote - AuraEffect of HolyWoodSapring : Treatment of infections -->
+	<txtMote_MechanitesInfectionWasCuredCompletely>{0}痊愈了</txtMote_MechanitesInfectionWasCuredCompletely>
+
+    <!-- Dialog -->
+	<txt_DoNotShowUntilNextUpdate>[到下次更新前不再表示]</txt_DoNotShowUntilNextUpdate>
+
+    <!-- MOD Settings -->
+	<LFSetting_JoinLimitGlobal>===== 种族加入上限设定（global）=====</LFSetting_JoinLimitGlobal>
+	<LFSetting_JoinLimitGlobalDesc>只适用于第一次读取资料时（今后会改成每份存档皆能重新设定）。</LFSetting_JoinLimitGlobalDesc>
+	<LFSetting_AchievementAlert_JoinLimitGlobal>※读取这个设定的存档会使加入上限成就永久失效！</LFSetting_AchievementAlert_JoinLimitGlobal>
+	<LFSetting_JoinLimitLocal>===== 种族加入上限设定（local）=====</LFSetting_JoinLimitLocal>
+	<LFSetting_JoinLimitLocalDesc>每份存档个别设定加入上限（优先度高于全域设定）。</LFSetting_JoinLimitLocalDesc>
+	<LFSetting_AchievementAlert_JoinLimitLocal>※这份存档的加入上限成就将会永久失效</LFSetting_AchievementAlert_JoinLimitLocal>
+
+	<LFSetting_GamePlay>===== 游戏关联 =====</LFSetting_GamePlay>
+	<LFSetting_DisallowPostBondRelation>防止后天上与动物产生关系的事件发生</LFSetting_DisallowPostBondRelation>
+
+    <!-- MOD Settings -->
+	<LFSetting_HotSprings>♨===== 温泉关连 =====♨</LFSetting_HotSprings>
+	<LFSetting_UpdateSpringWaterRegularly>・定期更新泉源、温泉地形的水（效能影响：低）</LFSetting_UpdateSpringWaterRegularly>
+	<LFSetting_RenderBodyInHotSpringJoy>・温泉娱乐中、表示角色的身体（效能影响：极小）</LFSetting_RenderBodyInHotSpringJoy>
+	<LFSetting_RenderSpringWaterSurface>・表现温泉的水面效果（效能影响：低）</LFSetting_RenderSpringWaterSurface>
+	<LFSetting_RenderSpringWaterEdge>・(不完全)平顺地表现温泉水面的境界（效能影响：低-中）</LFSetting_RenderSpringWaterEdge>
+	<LFSetting_RenderHotSpringVapor>・表现温泉的热气（效能影响：低）</LFSetting_RenderHotSpringVapor>
+
+</LanguageData>

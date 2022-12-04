@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Seating -->
+
+	<Anon2SquareDiningChair.label>Квадратный стул</Anon2SquareDiningChair.label>
+	<Anon2SquareDiningChair.description>Удобный и красивый стул для сидения за столом.</Anon2SquareDiningChair.description>
+
+	<Anon2CushionedChair.label>Мягкий стул</Anon2CushionedChair.label>
+	<Anon2CushionedChair.description>Мягкий и удобный стул. Идеально подходит для отдыха.</Anon2CushionedChair.description>
+
+	<Anon2CouchRight.label>Диван (право)</Anon2CouchRight.label>
+	<Anon2CouchRight.description>Часть большого, мягкого, удобного дивана. Идеально подходит для отдыха.</Anon2CouchRight.description>
+
+	<Anon2CouchCenter.label>Диван (центр)</Anon2CouchCenter.label>
+	<Anon2CouchCenter.description>Кусок большого, мягкого, удобного дивана. Идеально подходит для отдыха.</Anon2CouchCenter.description>
+
+	<Anon2CouchLeft.label>Диван (лево)</Anon2CouchLeft.label>
+	<Anon2CouchLeft.description>Кусок большого, мягкого, удобного дивана. Идеально подходит для отдыха.</Anon2CouchLeft.description>
+
+	<Anon2CouchCorner.label>Диван (угловой)</Anon2CouchCorner.label>
+	<Anon2CouchCorner.description>Кусок большого, мягкого, удобного дивана. Идеально подходит для отдыха.</Anon2CouchCorner.description>
+
+	<Anon2CouchCornerInv.label>Диван (обратный угловой)</Anon2CouchCornerInv.label>
+	<Anon2CouchCornerInv.description>Кусок большого, мягкого, удобного дивана. Идеально подходит для отдыха.</Anon2CouchCornerInv.description>
+
+</LanguageData>

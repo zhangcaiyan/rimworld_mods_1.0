@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FALCFF.EnableModDesc>如果这个mod导致问题，请上报错误，并从这里禁用它，直到更新可用，以保护您的存档。</FALCFF.EnableModDesc>
+  <FALCFF.EnableMod>激活Mod</FALCFF.EnableMod>
+
+  <FALCFF.ShowTargetingOverlay>显示目标覆盖</FALCFF.ShowTargetingOverlay>
+  <FALCFF.ShowTargetingOverlayDesc>当手动瞄准远程武器时，高亮显示炮弹的所有可能轨迹范围，考虑脱靶半径。</FALCFF.ShowTargetingOverlayDesc>
+
+  <FALCFF.ProtectPets>保护宠物</FALCFF.ProtectPets>
+  <FALCFF.ProtectPetsDesc>保护已指定主人的驯服的动物，就像保护殖民者一样。</FALCFF.ProtectPetsDesc>
+
+  <FALCFF.ProtectColonyAnimals>保护所有已驯服的动物</FALCFF.ProtectColonyAnimals>
+  <FALCFF.ProtectColonyAnimalsDesc>保护所有被驯服的动物。在动物数量较多时，低端机器上可能会导致性能问题。</FALCFF.ProtectColonyAnimalsDesc>
+
+  <FALCFF.IgnoreShieldedPawns>忽略装备护盾的殖民者</FALCFF.IgnoreShieldedPawns>
+  <FALCFF.IgnoreShieldedPawnsDesc>远程部队不会担心那些前线上装备至少10%能量盾带的殖民者。</FALCFF.IgnoreShieldedPawnsDesc>
+
+  <FALCFF.EnableWhenUndrafted>未征召时总是启用</FALCFF.EnableWhenUndrafted>
+  <FALCFF.EnableWhenUndraftedDesc>如果你想在战斗中禁用战斗中的殖民者的“避免友军火力”设置，使用这个选项将确保未被征召时“避免友军火力”总是处于打开状态。</FALCFF.EnableWhenUndraftedDesc>
+
+</LanguageData>

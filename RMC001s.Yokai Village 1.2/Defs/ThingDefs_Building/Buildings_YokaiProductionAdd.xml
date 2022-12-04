@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase" Class="YokaiVillage.AnimaConverter.ThingDef_Yokai_AnimaConverter">
+    <defName>Yokai_AnimaConverter</defName>
+    <label>転換炉</label>
+    <thingClass>YokaiVillage.AnimaConverter.Yokai_AnimaConverter</thingClass>
+    <description>村に所属する妖怪の数に応じて、自動的に妖気の欠片を生成する妖怪村秘伝の不思議な壺です。妖怪の種類と数によって生成される物も変化します。</description>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiAnimaConverter/Yokai_AnimaConverter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>120</pathCost>
+    <rotatable>false</rotatable>
+    <building>
+      <watchBuildingStandDistanceRange>
+        <min>1</min>
+        <max>1</max>
+      </watchBuildingStandDistanceRange>
+      <watchBuildingStandRectWidth>1</watchBuildingStandRectWidth>
+    </building>
+    <tickerType>Normal</tickerType>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <statBases>
+      <MaxHitPoints>640</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+      <WorkToBuild>2000</WorkToBuild>
+      <MarketValue>4200</MarketValue>
+      <Mass>9</Mass>
+      <Beauty>50</Beauty>
+    </statBases>
+    <size>(1,1)</size>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <thingSetMakerTags>
+      <li>RewardSpecial</li>
+    </thingSetMakerTags>
+  </ThingDef>
+</Defs>

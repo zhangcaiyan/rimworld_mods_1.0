@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>líquid amniòtic</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>brutícia animal</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>cendra</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>sang</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>sang d'insecte</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>sucs de cadàver</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>brutícia</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>escuma antiincendis</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>bassal de fuel</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Un bassal de fuel inflamable.</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>runa d'edificacions</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>runa de roques</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>sorra</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>fang</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>brossa</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>vòmit</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>sacs de sorra escampats</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>ferritja</SlagRubble.label>
+  
+</LanguageData>

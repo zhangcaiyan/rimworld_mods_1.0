@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedOmikuji.label>Foxia's Protection</HedOmikuji.label>
+  <HedOmikuji.stages.0.label>Ate Meal: Tsujiura</HedOmikuji.stages.0.label>
+
+  <HedMysteriousHerb.label>Strange Medicinal Herb</HedMysteriousHerb.label>
+  <HedMysteriousHerb.stages.0.label>Ate the herb from a Lefca's Wreath.</HedMysteriousHerb.stages.0.label>
+
+  <HedNutChocolate.label>Wolvern's Love?</HedNutChocolate.label>
+  <HedNutChocolate.stages.0.label>Ate an "obligatory" gift.</HedNutChocolate.stages.0.label>
+
+</LanguageData>

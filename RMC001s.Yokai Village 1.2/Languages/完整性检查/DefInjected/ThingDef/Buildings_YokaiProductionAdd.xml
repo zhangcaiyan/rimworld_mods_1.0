@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_AnimaConverter.label>転換炉</Yokai_AnimaConverter.label>
+  <Yokai_AnimaConverter.description>村に所属する妖怪の数に応じて、自動的に妖気の欠片を生成する妖怪村秘伝の不思議な壺です。妖怪の種類と数によって生成される物も変化します。</Yokai_AnimaConverter.description>
+  <Yokai_AnimaConverter_Blueprint_Install.label>転換炉 (blueprint)</Yokai_AnimaConverter_Blueprint_Install.label>
+
+
+</LanguageData>

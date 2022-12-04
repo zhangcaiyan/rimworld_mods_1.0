@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Pekodra.label>饥饿龙</Yokai_Dragon_Pekodra.label>
+  <Yokai_Dragon_Pekodra.description>凶暴的红龙，总是饿着肚子四处寻找猎物。也因此具有与巨大的体型不相称的速度。
+\n从他们眼里看来，殖民者们也不过是区区的肉块。在出现时赶紧讨伐他们，或是将居住区以墙壁围住才是上策。
+\n只能在猎物丰富的热带雨林及温带森林地区见到他们的踪影。
+\n根据流传妖怪村的记载，龙的心脏中潜藏着特殊的力量。</Yokai_Dragon_Pekodra.description>
+  <Yokai_Dragon_Pekodra.tools.0.label>左爪</Yokai_Dragon_Pekodra.tools.0.label>
+  <Yokai_Dragon_Pekodra.tools.1.label>右爪</Yokai_Dragon_Pekodra.tools.1.label>
+  <Yokai_Dragon_Pekodra.tools.2.label>牙</Yokai_Dragon_Pekodra.tools.2.label>
+  <Yokai_Dragon_Pekodra_Corpse.label>饥饿龙的尸体</Yokai_Dragon_Pekodra_Corpse.label>
+  <Yokai_Dragon_Pekodra_Corpse.description>饥饿龙的尸体。解体後能得到大量的皮与肉。</Yokai_Dragon_Pekodra_Corpse.description>
+</LanguageData>

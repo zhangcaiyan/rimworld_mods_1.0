@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>eläimen sänky</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>Pehmeä sänky jossa eläimet voivat nukkua.  Tähän sopivat kaikki eläimet.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>eläimen nukkumalaatikko</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Pieni laatikko jossa eläimet voivat nukkua. Tähän sopivat pienet eläimet kuten kanat, kissat tai pienet koirat.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>eläimen nukkumapaikka</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Määrää paikan maassa, jossa eläinten kannattaa nukkua.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>nojatuoli</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Suuri pehmeä mukava istuin. Sopii hyvin rentoutumiseen.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>sänky</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Lepäämiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>TODO</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>TODO</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>TODO</BedrollDouble.description>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_TableLong.label>table (long) (piirrustus)</Blueprint_Install_TableLong.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_TableShort.label>table (short) (piirrustus)</Blueprint_Install_TableShort.label>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>ruokapöydän tuoli</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Mukava ja puoleensavetävä tuoli pöydän ääressä istumiseen.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>A simple double-wide sänky that fits two people.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>TODO</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>TODO</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>TODO</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>TODO</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>lääkintävuode</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>kukkaruukku</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>shelf</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description>Items stored in this will not deteriorate, even if outside.</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>jalkalamppu</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>jalkalamppu (vihreä)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>Seisova lamppu joka valaisee alueen vihreällä valolla.</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>jalkalamppu (punainen)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>Seisova lamppu joka valaisee alueen punaisella valolla.</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>jakkara</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Tämän päällä istutaan.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>kirkasvalolamppu</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Off for plant resting period</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>TODO</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>TODO</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>pöytä (lyhyt)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x2c.description>
+  
+  <!-- UNUSED -->
+  <Table2x2c_Blueprint.label>table (short) (piirrustus)</Table2x2c_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <Table2x2c_Frame.label>table (short) (rakennus)</Table2x2c_Frame.label>
+  <Table2x2c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x2c_Frame.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>pöytä (pitkä)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x4c.description>
+  
+  <!-- UNUSED -->
+  <Table2x4c_Blueprint.label>table (long) (piirrustus)</Table2x4c_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <Table2x4c_Frame.label>table (long) (rakennus)</Table2x4c_Frame.label>
+  <Table2x4c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x4c_Frame.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>TODO</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>TODO</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>soihtu</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Puinen soihtu alueen valaisemiseen. Puuta voidaan automaattisesti lisätä polttoaineeksi. Tuottaa pienen määrän lämpöä.</TorchLamp.description>
+  
+</LanguageData>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>Yokai_Kamaitachi</defName>
+    <label>Kamaitachi</label>
+    <description>A weasel Yokai, the Kamaitachi has a long, sickle-like tail; once angered, the Yokai will rush its oppenents, slicing them apart in a gale of speed. Though small in frame, the Kamaitachi have been known to hunt colonists. These Yokai are not pets to be fawned over, they are guardians, viscious and simple.
+    /nThe name Kamaitachi can refer to the kamae tachi (stance sword) or the Yokai itself; when in reference to the Yokai, the name means "cut caused by whirlwind." Accounts of Kamaitachi generating literal whirlwinds do exist on the Rim; however, these accounts often originate from colonies that have fallen into disfavor with their nearby Yokai village. Those keen to the machinations of the Yokai argue that these accounts are most likely due to the meddling of a Tsuzurao; some on the Rim still doubt that such a powerful creature exists, but the truth is often not what we hope it is.</description>
+    <statBases>
+      <MoveSpeed>10</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <ComfyTemperatureMax>50</ComfyTemperatureMax>
+      <MarketValue>400</MarketValue>
+      <Mass>30</Mass>
+    </statBases>
+    <tools>
+      <li>
+        <label>Tail Slash</label>
+        <capacities>
+          <li>KamaitachiCut</li>
+        </capacities>
+        <cooldownTime>1.2</cooldownTime>
+        <power>7</power>
+        <linkedBodyPartsGroup>Yokai_TailAttackTool</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>40</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>FrontLeftPaw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <cooldownTime>1.5</cooldownTime>
+        <power>4</power>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+        <chanceFactor>0.02</chanceFactor>
+      </li>
+      <li>
+        <label>FrontRightPaw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <cooldownTime>1.5</cooldownTime>
+        <power>5</power>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+        <chanceFactor>0.02</chanceFactor>
+      </li>
+      <li>
+        <label>Teeth</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <cooldownTime>1.0</cooldownTime>
+        <power>4</power>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>0.005</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <body>KamaitatiBody</body>
+      <petness>0</petness>
+      <predator>true</predator>
+      <baseBodySize>0.8</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <meatLabel>Yokai meat</meatLabel>
+      <leatherDef>Leather_Light</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(1, 0)</li>
+          <li>(2, 5)</li>
+          <li>(3, 5)</li>
+          <li>(4, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <herdAnimal>true</herdAnimal>
+      <trainability>Simple</trainability>
+      <manhunterOnTameFailChance>0.005</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.1</manhunterOnDamageChance>
+      <wildness>0.85</wildness>
+      <wildBiomes>
+        <Tundra>0.05</Tundra>
+        <BorealForest>0.08</BorealForest>
+        <TemperateForest>0.1</TemperateForest>
+        <TropicalRainforest>0.1</TropicalRainforest>
+        <AridShrubland>0.08</AridShrubland>
+        <Desert>0.08</Desert>
+      </wildBiomes>
+      <lifeExpectancy>30</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Rodent_Wounded</soundWounded>
+          <soundDeath>Pawn_Rodent_Death</soundDeath>
+          <soundCall>Pawn_Rodent_Call</soundCall>
+          <soundAngry>Pawn_Rodent_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>Yokai_Nomal</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Yokai_Kamaitachi</defName>
+    <label>Kamaitachi</label>
+    <race>Yokai_Kamaitachi</race>
+    <combatPower>25</combatPower>
+    <ecoSystemWeight>0.5</ecoSystemWeight>
+    <wildGroupSize>
+      <min>3</min>
+      <max>3</max>
+    </wildGroupSize>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/kamaitati/kamaitati</texPath>
+          <drawSize>0.9</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/kamaitati/kamaitati</texPath>
+          <drawSize>1.1</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.15)</offset>
+          </shadowData>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

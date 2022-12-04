@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_LeffyFur.label>小不点毛球的毛皮</LF_LeffyFur.label>
+  <LF_LeffyFur.description>雪白又毛茸茸的小不点毛球身上的毛皮。具有提高免疫力的特别效果。</LF_LeffyFur.description>
+  <LF_LeffyFur.stuffProps.stuffAdjective>小不点毛球的毛皮</LF_LeffyFur.stuffProps.stuffAdjective>
+
+  <LF_MofuMofu.label>松软毛团</LF_MofuMofu.label>
+  <LF_MofuMofu.description>滑顺轻飘，令人忍不住摸上一把的高级毛团。受到不可思议的力量守护而能避火御焰。轻而结实，适用于纺织衣布。</LF_MofuMofu.description>
+  <LF_MofuMofu.stuffProps.stuffAdjective>松软毛团</LF_MofuMofu.stuffProps.stuffAdjective>
+
+  <LF_FukaFuka.label>蓬松毛团</LF_FukaFuka.label>
+  <LF_FukaFuka.description>滑顺轻飘，令人忍不住一摸再摸的高级毛团。受到不可思议的力量守护而能避火御焰。轻而结实，适用于纺织衣布。</LF_FukaFuka.description>
+  <LF_FukaFuka.stuffProps.stuffAdjective>蓬松毛团</LF_FukaFuka.stuffProps.stuffAdjective>
+
+  <LF_FuwaFuwa.label>轻飘毛团</LF_FuwaFuwa.label>
+  <LF_FuwaFuwa.description>滑顺轻飘，令人忍不住摸了不能停手的高级毛团。受到不可思议的力量守护而能避火御焰。轻而结实，适用于纺织衣布。</LF_FuwaFuwa.description>
+  <LF_FuwaFuwa.stuffProps.stuffAdjective>轻飘毛团</LF_FuwaFuwa.stuffProps.stuffAdjective>
+
+  <LF_AzureDragonScales.label>青龙鳞</LF_AzureDragonScales.label>
+  <LF_AzureDragonScales.description>从仆从龙身上得到的小小鳞片，表面散放青蓝的亮丽光彩。碍于尺寸过小，并不适用于制作防具。但制作与青龙有关的东西时也许能派上用场。</LF_AzureDragonScales.description>
+
+  <LF_DragoniaWisdom.label>龙的叡智</LF_DragoniaWisdom.label>
+  <LF_DragoniaWisdom.description>青龙所授予的书卷，记载着龙帝时代时通用的古龙象形文字。遗憾的是，现有的知识不足以解读其上内容。但能隐约感受到贯注在书卷中，强大的魔力波动。利用此书卷有助于失落技术的研究。</LF_DragoniaWisdom.description>
+
+  <LF_ArcaneCrystal.label>远古结晶</LF_ArcaneCrystal.label>
+  <LF_ArcaneCrystal.description>一种深蓝色结晶，其表面明灭不绝地显示着几何学的图案。鉴于青龙能自在地操纵这种结晶，似乎能随着持有者的意识，自由的改变其物理性质。遗憾的是，即使殖民地居住者花尽心思来模仿青龙，这个水晶仍像其他普通的石头般毫无反应。得到的只有青龙讶异的表情，以及随后露出的冰冷视线。若是施予适当的加工，或许凡人也能活用此水晶的特性。</LF_ArcaneCrystal.description>
+
+  <LF_EggFlammeliaUnfertilized.label>芙拉玫利亚的蛋(无受精)</LF_EggFlammeliaUnfertilized.label>
+  <LF_EggFlammeliaUnfertilized.description>巨大的、芙拉玫利亚的无精卵，可生吃，但经过调理会更加美味。</LF_EggFlammeliaUnfertilized.description>
+
+  <LF_EggFlammeliaFertilized.label>芙拉玫利亚的蛋(已受精)</LF_EggFlammeliaFertilized.label>
+  <LF_EggFlammeliaFertilized.description>。巨大的、芙拉玫利亚的有精卵。适当的温度下存放即能孵化出芙拉玫利亚的雏鸟。</LF_EggFlammeliaFertilized.description>
+
+
+</LanguageData>

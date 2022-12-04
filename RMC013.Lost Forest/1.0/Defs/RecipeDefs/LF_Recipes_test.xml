@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--=============== LF_HolyWoodLog ====================-->
+
+	<RecipeDef>
+		<defName>MakeHolyWoodtest</defName>
+		<label>make test AncientWood</label>
+		<description>Make lost ancient wood.</description>
+		<jobString>Making 150 AncientWood</jobString>
+		<workAmount>60</workAmount>
+		<workSpeedStat>UnskilledLaborSpeed</workSpeedStat>
+		<effectWorking>Smelt</effectWorking>
+		<soundWorking>Recipe_Smelt</soundWorking>
+		<recipeUsers>
+			<li>LF_FermentingBarrel</li>
+		</recipeUsers>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<requiredGiverWorkType>Hauling</requiredGiverWorkType>
+		<targetCountAdjustment>20</targetCountAdjustment>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products />
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+	</RecipeDef>
+
+</Defs>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CommandForbiddenDesc>Zakázaný - kolonisti objekt ignorujú.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Nezakázaný - kolonisti môžu s objektom pracovať.</CommandNotForbiddenDesc>
+
+  <CommandTogglePowerDesc>Zapnúť/vypnúť energiu.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Zapnúť/vypnúť energiu</CommandTogglePowerLabel>
+
+  <CommandGatherSpotToggleLabel>Zhromaždisko</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktívne - kolonisti sa budú okolo tohto objektu zhromažďovať.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Neaktívne - kolonisti sa okolo tohto objektu nebudú zhromažďovať.</CommandGatherSpotToggleDescInactive>
+
+  <CommandDraftLabel>Zapnúť bojový režim</CommandDraftLabel>
+  <CommandUndraftLabel>Ukončiť bojový režim</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Prepína bojový režim.\n\nĽudia v bojovom režime prijímajú rozkazy a bojujú. Nebudú pracovať, jesť alebo odpočívať.</CommandToggleDraftDesc>
+  <IsIncapped>{0} je v bezvedomí.</IsIncapped>
+
+  <CommandCancelConstructionLabel>Zrušiť</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Zrušiť túto stavbu.</CommandCancelConstructionDesc>
+	
+	<CommandBedSetOwnerLabel>Nastaviť majiteľa</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Nastaví majiteľa pre danú posteľ.</CommandBedSetOwnerDesc>
+  
+  <CommandBedSetForPrisonersLabel>Nastaviť pre väzňov</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Nastaviť postele v tejto izbe pre väzňov.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Nastaviť pre kolonistov</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Nastaviť postele v tejto izbe pre kolonistov.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Zapnutie väzenského módu ovplyvňuje celú izbu (keďže kolonisti a väzni nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Vypnutie väzenského módu ovplyvní celú izbu (keďže väzni a kolonisti nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Naozaj to chcete spraviť?</AreYouSure>
+    <CommandBedSetForPrisonersFailOutdoors>Nemožno nastaviť vonkajšie postele pre väzňov.</CommandBedSetForPrisonersFailOutdoors>
+	  <CommandBedSetAsMedicalLabel>Nastaviť pre ošetrovanie</CommandBedSetAsMedicalLabel>
+	    <CommandBedSetAsMedicalDesc>Nastaviť túto posteľ pre ošetrovacie účely.</CommandBedSetAsMedicalDesc>
+<CommandBedSetAsNonMedicalLabel>Nastaviť pre kolonistov</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Nastaviť postel pre kolonistov.</CommandBedSetAsNonMedicalDesc>
+
+  <CommandDetonateDesc>Začať odpočítavanie k výbuchu.</CommandDetonateDesc>
+  <CommandDetonateLabel>Odpáliť</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Premenovať túto zónu.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Premenovať</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Skryť/odkryť túto zónu.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Skryť</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Odkryť</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Zmazať túto zónu.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Zmazať</CommandDeleteZoneLabel>
+  
+   <!-- Artillery -->
+  <CommandSetForceAttackTarget>Určiť cieľ</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Určí cieľ, na ktorý bude obranná jednotka strieľať, pokiaľ bude môcť.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Zastaviť streľbu.</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Zastavý streľbu, a nechá jednotke voľnosť pri streľbe.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Žiadna streľba nie je aktívna.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Cieľ je za hranicou dostrelu.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Cieľ je pod minimálnou hranicou dostrelu.</MessageTargetBelowMinimumRange>
+  
+    <!-- Ship computer core -->
+  <CommandShipLaunch>Vystreliť loď</CommandShipLaunch>
+  <CommandShipLaunchDesc>Odštartuje loď s aktuálnou konfiguráciou.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Zobraziť správu o lodi</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Zobrazí informácie o lodi.</CommandShipLaunchReportDesc>
+
+<!-- Pod -->
+  <CommandPodEject>Otvoriť kryptokapsulu</CommandPodEject>
+  <CommandPodEjectDesc>Zobudí kolonistu v kryptospánku a vypustí ho.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Nikoho neobsahuje</CommandPodEjectFailEmpty>
+  
+  <CommandGetOutOfBedLabel>Zobudiť sa</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Zobudiť sa a opustiť posteľ.</CommandGetOutOfBedDesc>
+  
+    <CommandToggleDoorLock>Zamknúť</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Zamknúť alebo odomknúť dvere. Zamknuté dvere sa neotvoria pre nikoho.</CommandToggleDoorLockDesc>
+  
+    <BedAssign>Priradiť</BedAssign>
+
+	<CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Pokúsiť sa pripojiť na inú elektrickú sieť v dosahu. Používa sa, ak je prístroj napojený na nenapojenú elektrickú sieť, ale v dosahu je napojená sieť. </CommandTryReconnectDesc>
+
+	<SpawningAllThings>Vytváranie všetkých predmetov</SpawningAllThings>	
+	
+	<LoadingWorld>Načítavanie sveta</LoadingWorld>	
+	
+	<LoadingAssets>Načítavanie prvkov</LoadingAssets>	
+	
+	<LoadingDefs>Načítanie Defs</LoadingDefs>	
+	
+	<LoadingMap>Načítanie Mapy</LoadingMap>		
+	
+	<Initializing>Inicializácia</Initializing>	
+	
+	<InitializingMap>Inicializácia mapy</InitializingMap>	
+
+
+
+
+  
+  
+</LanguageData>
+
+

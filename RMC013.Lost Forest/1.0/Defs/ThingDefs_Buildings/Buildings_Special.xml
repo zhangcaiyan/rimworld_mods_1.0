@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+<!-- 一時的なレシピ-->
+	<!--============================== 錬成コア ==============================-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_AlchemyCore</defName>
+    <label>alchemy core</label>
+    <description>The enigmatic structure which produces electricity from the void. The internal part that seems to occur the phenomenon collapse is black boxed, and its transcendent mechanism is still unknown. It seems that at least during the ancient Drarr era there was a perpetual power generator already equivalent to what Arcotech produced. When used as a generator, it stabilizes connected circuit by high level controls.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Power/AlchemyCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <shadowData>
+        <volume>(1,0.75,1)</volume>
+        <offset>(0,0,0)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0,0.15,1,0.7)</rect>
+      </damageData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <castEdgeShadows>true</castEdgeShadows>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0.1</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Beauty>10</Beauty>
+      <Mass>1</Mass>
+      <WorkToBuild>50000</WorkToBuild>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <tickerType>Normal</tickerType>
+    <size>(1,1)</size>
+    <costList>
+      <Uranium>20</Uranium>
+      <LF_AzureDragonScales>6</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>2</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>1</LF_ArcaneCrystal>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlant</compClass>
+        <basePowerConsumption>-1000</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>3</glowRadius>
+        <glowColor>(227,210,200,0)</glowColor>
+      </li>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitHPRate>0.1</LimitHPRate>
+      </li>
+    </comps>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <designationHotKey>Misc5</designationHotKey>
+    <constructEffect>ConstructMetal</constructEffect>
+    <researchPrerequisites>
+      <li>Electricity</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+  </ThingDef>
+
+	<!--============================== 錬成蓄電器 ==============================-->
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>LF_AlchemicBattery</defName>
+    <label>alchemic battery</label>
+    <description>The replica of enigmatic structural parts of the large capacity electric storage device, which seems to have been mainly used for research on high energy alchemy in the ancient Drarr era. It is a mystery what form energy is stored by, but boasts abnormally high conversion efficiency and storage capacity, it will not fail even with input / output of large current. When an overcurrent due to battery leakage occurs in a connected circuit, it absorbs the total power that has been lost.</description>
+    <thingClass>LostForest.Building_AlchemicBattery</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Power/AlchemicBattery/AlchemicBattery</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2,4)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <size>(1,2)</size>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>0</pathCost>
+    <blockWind>false</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.40</fillPercent>
+    <tickerType>Normal</tickerType>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <WorkToBuild>50000</WorkToBuild>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>10</Beauty>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <costList>
+      <Uranium>20</Uranium>
+      <LF_AzureDragonScales>6</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>2</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>1</LF_ArcaneCrystal>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Battery">
+        <storedEnergyMax>32000</storedEnergyMax>
+        <efficiency>0.99</efficiency>
+        <shortCircuitInRain>false</shortCircuitInRain>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>3</glowRadius>
+        <glowColor>(227,210,200,0)</glowColor>
+      </li>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitHPRate>0.1</LimitHPRate>
+      </li>
+    </comps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <staticSunShadowHeight>0.2</staticSunShadowHeight>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc4</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <researchPrerequisites>
+      <li>Batteries</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+  </ThingDef>
+
+	<!--============================== 神聖樹の苗木 ==============================-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_HolyWoodSapling</defName>
+    <label>holy wood sapling</label>
+    <description>The sacred tree sapling which is said to nurture surrounding lives. This tree is said that it purifies the surrounding dirt and expels it as clean air, giving special power to living things. It seems to be the same thing as the core of the elder forest. Unfortunately the growth requires hundreds of years, so we will not be able to see its huge tree directly while we are alive. Periodically treat parasitic infections such as gut worms and muscle parasites that make colonists suffered over a long period of time, and instantly calm it in the case of runaway mechanite virus. It also has a strong repellent effect against insectoids hiding in the bedrock. \n\n*Note: Infestation caused by drilling cannot be prevented.</description>
+    <graphicData>
+      <texPath>Things/Building/Special/HolyWoodSapling</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 4)</drawSize>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+        <offset>(0.0, 0.0, -0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0,0.75,1.0,0.5)</rect>
+      </damageData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <costList>
+      <LF_WoodLog>300</LF_WoodLog>
+      <Jade>100</Jade>
+      <LF_FoxiaTears>3</LF_FoxiaTears>
+      <FortuneCookie_Fox>3</FortuneCookie_Fox>
+      <MysteriousWreath>3</MysteriousWreath>
+      <NutChocolate>3</NutChocolate>
+      <LF_AzureDragonScales>12</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>4</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>2</LF_ArcaneCrystal>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>7</glowRadius>
+        <glowColor>(220,250,220,0)</glowColor>
+      </li>
+      <li Class="LostForest.CompProperties_HolyWoodPurification">
+	<intervalTicks>5000</intervalTicks>
+      </li>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitHPRate>0.3</LimitHPRate>
+      </li>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MarketValue>3000</MarketValue>
+      <MaxHitPoints>880</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Beauty>1000</Beauty>
+      <Mass>8</Mass>
+      <Cleanliness>100</Cleanliness>
+      <WorkToBuild>200000</WorkToBuild>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <thingSetMakerTags>
+    </thingSetMakerTags>
+    <fillPercent>0.2</fillPercent>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <pathCost>5</pathCost>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <specialDisplayRadius>31.8</specialDisplayRadius>
+    <tradeability>Sellable</tradeability>
+    <designationCategory>Misc</designationCategory>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+  </ThingDef>
+
+
+	<!--==========エントロピー遡行冷却器==========-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_EntropyReductionCooler</defName>
+    <label>entropy reduction cooler</label>
+    <description>The enigmatic structure which absorbs ambient heat and converts it into electric power. Most of the electricity generated is consumed as its own permanent running cost. The black body in the main part that seems to occur the phenomenon collapse is black boxed, and its transcendent mechanism is still unknown. It doesn't accept influence of the electromagnetic field of outside and keeps working also at the time of solar flare. According to one theory, it seems that it is a part of the parts that were originally used for energy control organizations of huge tactics weapons.</description>
+    <graphicData>
+      <texPath>Things/Building/Special/EntropyReductionCooler</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1, 1)</drawSize>
+      <shadowData>
+        <volume>(0.9,0.3,0.9)</volume>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Special/EntropyReductionCooler_UI</uiIconPath>
+    <uiIconScale>1</uiIconScale>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <thingClass>LostForest.Building_NonPowerTempControl</thingClass>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <passability>PassThroughOnly</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0.1</fillPercent>
+    <coversFloor></coversFloor>
+    <blockLight></blockLight>
+    <canOverlapZones>true</canOverlapZones>
+    <castEdgeShadows></castEdgeShadows>
+    <staticSunShadowHeight></staticSunShadowHeight>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Beauty>10</Beauty>
+      <Mass>1</Mass>
+      <WorkToBuild>60000</WorkToBuild>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <tickerType>Rare</tickerType>
+    <costList>
+      <Uranium>50</Uranium>	
+      <LF_AzureDragonScales>6</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>2</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>1</LF_ArcaneCrystal>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <placeWorkers>
+      <li>PlaceWorker_CoolerSimple</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <building>
+      <canPlaceOverWall>true</canPlaceOverWall>
+    </building>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusher</compClass>
+        <heatPerSecond>-20</heatPerSecond>
+        <heatPushMaxTemperature>30</heatPushMaxTemperature>
+      </li>
+      <li Class="LostForest.CompProperties_NonPowerTempControl">
+        <energyPerSecond>-100</energyPerSecond>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>2</glowRadius>
+        <glowColor>(220,250,300,0)</glowColor>
+      </li>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitDamage>100</LimitDamage>
+        <LimitHPRate>0.1</LimitHPRate>
+      </li>
+    </comps>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <designationCategory>Temperature</designationCategory>
+    <designationHotKey>Misc4</designationHotKey>
+    <researchPrerequisites>
+      <li>AirConditioning</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+
+
+	<!--==========エルトゲルム発熱器==========-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_EltguelmHeater</defName>
+    <label>Eltguelm heater</label>
+    <description>The enigmatic structure which produces heat semi-permanently without refueling. The light sphere in the main part that seems to occur the phenomenon collapse is black boxed, and its transcendent mechanism is still unknown. It doesn't accept influence of the electromagnetic field of outside and keeps working also at the time of solar flare. According to one theory, it appears to be part of the parts originally used for energy amplification devices of huge tactics weapons.</description>
+    <graphicData>
+      <texPath>Things/Building/Special/EltguelmHeater</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1, 1)</drawSize>
+      <shadowData>
+        <volume>(0.9,0.3,0.9)</volume>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Special/EltguelmHeater_UI</uiIconPath>
+    <uiIconScale>1</uiIconScale>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <thingClass>LostForest.Building_NonPowerTempControl</thingClass>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <passability>PassThroughOnly</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0.1</fillPercent>
+    <coversFloor></coversFloor>
+    <blockLight></blockLight>
+    <canOverlapZones>true</canOverlapZones>
+    <castEdgeShadows></castEdgeShadows>
+    <staticSunShadowHeight></staticSunShadowHeight>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Beauty>10</Beauty>
+      <Mass>1</Mass>
+      <WorkToBuild>60000</WorkToBuild>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <tickerType>Rare</tickerType>
+    <costList>
+      <Gold>50</Gold>
+      <LF_AzureDragonScales>6</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>2</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>1</LF_ArcaneCrystal>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <building>
+      <canPlaceOverWall>true</canPlaceOverWall>
+    </building>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusher</compClass>
+        <heatPerSecond>20</heatPerSecond>
+        <heatPushMaxTemperature>-20</heatPushMaxTemperature>
+      </li>
+      <li Class="LostForest.CompProperties_NonPowerTempControl">
+        <IsHeater>true</IsHeater>
+        <energyPerSecond>100</energyPerSecond>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(300,250,220,0)</glowColor>
+      </li>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitDamage>100</LimitDamage>
+        <LimitHPRate>0.1</LimitHPRate>
+      </li>
+    </comps>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <designationCategory>Temperature</designationCategory>
+    <designationHotKey>Misc4</designationHotKey>
+    <researchPrerequisites>
+      <li>AirConditioning</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+  </ThingDef>
+
+	<!--============================== ダリウスの煌輝灯 ==============================-->
+
+  <ThingDef ParentName="LF_LampBase">
+    <defName>LF_DaliusSunLamp</defName>
+    <label>Dalius' sun</label>
+    <description>An enigmatic lamp which produce powerfully glowing light enough to grow crops. it's designed to run in the day and night always with far less power consumption than normal sunlamp. This dazzling light has an effect of the hindering infestation of the insectoid in bedrock. \n\n*Note: Infestation caused by drilling cannot be prevented.</description>
+    <thingClass>Building_SunLamp</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Special/DaliusSunLamp</texPath>
+      <drawSize>(2, 2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Special/DaliusSunLamp_UI</uiIconPath>
+    <uiIconScale>1</uiIconScale>
+    <blockWind>false</blockWind>
+    <tickerType>Rare</tickerType>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>30000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>20</Beauty>
+      <Mass>3</Mass>
+      <MarketValue>550</MarketValue>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <costList>
+      <Silver>400</Silver>
+      <Gold>20</Gold>
+      <LF_DragoniaWisdom>1</LF_DragoniaWisdom>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <overlightRadius>7.0</overlightRadius>
+        <glowRadius>14</glowRadius>
+        <glowColor>(380,380,330,0)</glowColor>
+      </li>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>false</shortCircuitInRain>
+        <basePowerConsumption>500</basePowerConsumption>
+      </li>
+<!--
+      <li Class="CompProperties_Schedule">
+        <startTime>0.25</startTime>
+        <endTime>0.8</endTime>
+        <offMessage>Off for plant resting period</offMessage>
+      </li>
+-->
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>6</heatPerSecond>
+        <heatPushMaxTemperature>23</heatPushMaxTemperature>
+      </li>
+      <li Class="LostForest.CompProperties_OverlayDaliusSunLamp" />
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitHPRate>0.5</LimitHPRate>
+      </li>
+    </comps>
+    <!-- Determined by trial and error
+    This value isn't perfect because these radii use different algorithms
+    but it matches in this case-->
+    <specialDisplayRadius>5.8</specialDisplayRadius>
+    <terrainAffordanceNeeded />
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LFSunLamp</li>
+    </placeWorkers>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+  </ThingDef>
+
+	<!--============================== アートルの星爛灯 ==============================-->
+
+  <ThingDef ParentName="LF_LampBase">
+    <defName>LF_AtzldoirStella</defName>
+    <label>Atzldoir's stella</label>
+    <description>An enigmatic lamp which produce warm brightness enough to grow crops in the day and night always. It does not consume any power for operation, and continues to emit gentle light constantly. This warm light has an effect of the hindering infestation of the insectoid in bedrock. \n\n*Note: Infestation caused by drilling cannot be prevented.</description>
+    <thingClass>LostForest.Building_AtzldoirStella</thingClass>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <drawSize>(2, 2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Special/AtzldoirStella_UI</uiIconPath>
+    <uiIconScale>1</uiIconScale>
+    <blockWind>false</blockWind>
+    <tickerType>Rare</tickerType>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>800</MaxHitPoints>
+      <WorkToBuild>60000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>50</Beauty>
+      <Mass>3</Mass>
+      <MarketValue>880</MarketValue>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <costList>
+      <Jade>40</Jade>
+      <LF_AzureDragonScales>6</LF_AzureDragonScales>
+      <LF_DragoniaWisdom>2</LF_DragoniaWisdom>
+      <LF_ArcaneCrystal>1</LF_ArcaneCrystal>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <overlightRadius>7.0</overlightRadius>
+        <glowRadius>14</glowRadius>
+        <glowColor>(320,400,300,0)</glowColor>
+      </li>
+
+<!--
+      <li Class="CompProperties_Schedule">
+        <startTime>0.25</startTime>
+        <endTime>0.8</endTime>
+        <offMessage>Off for plant resting period</offMessage>
+      </li>
+-->
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusher</compClass>
+        <heatPerSecond>2</heatPerSecond>
+        <heatPushMaxTemperature>20</heatPushMaxTemperature>
+      </li>
+      <li Class="LostForest.CompProperties_EffecterAtzldoirStella" />
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+        <LimitDamage>250</LimitDamage>
+      </li>
+    </comps>
+    <!-- Determined by trial and error
+    This value isn't perfect because these radii use different algorithms
+    but it matches in this case-->
+    <specialDisplayRadius>5.8</specialDisplayRadius>
+    <terrainAffordanceNeeded />
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LFSunLamp</li>
+    </placeWorkers>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+
+
+</Defs>

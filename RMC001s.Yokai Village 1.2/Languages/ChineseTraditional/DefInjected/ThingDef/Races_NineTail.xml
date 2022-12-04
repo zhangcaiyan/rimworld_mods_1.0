@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_NineTail.label>九尾狐</Yokai_NineTail.label>
+  <Yokai_NineTail.description>傳說中的妖狐，又因其傾城美貌而受人歌詠。極其高貴典雅的氣質，以及不亞於其美貌的戰鬥能力。一旦陷入瘋狂狀態，則將帶來滅村之殃。
+    \n嘗試成為夥伴會帶來高度的危機，但若是成功得到認同，就等於是獲得極大的助力，足以守護全村的人。
+    \n具有不可思議的力量，能為周遭的同伴們帶來加護。能定期取得她華美典雅的毛。
+    \n
+    \n與成年個體相比，九尾的小狐狸十分柔弱，請不要讓她參與戰鬥。
+    \n成年的九尾具有強烈的攻擊能力，據說還存在著特殊個體，具有更為恐怖的能力....</Yokai_NineTail.description>
+  <Yokai_NineTail.tools.0.label>左手</Yokai_NineTail.tools.0.label>
+  <Yokai_NineTail.tools.1.label>右手</Yokai_NineTail.tools.1.label>
+  <Yokai_NineTail_Corpse.label>九尾狐的屍體</Yokai_NineTail_Corpse.label>
+  <Yokai_NineTail_Corpse.description>冷卻後逐漸僵硬的九尾狐屍體。曾為傾城傾國之色，今臨香消玉殞之禍。</Yokai_NineTail_Corpse.description>
+</LanguageData>

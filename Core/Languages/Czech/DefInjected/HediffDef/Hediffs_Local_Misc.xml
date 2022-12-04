@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>chemické poškození</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>chemické poškození</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>cirhóza</Cirrhosis.label>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>psychóza po vzkříšení</ResurrectionPsychosis.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>počáteční</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>počáteční</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>mírná</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>pokročilá</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>vážná</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>totální</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>katatonická</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>poškození mozku (syndr. Savant)</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>poškození mozku (syndr. Savant)</TraumaSavant.labelNoun>
+  
+</LanguageData>

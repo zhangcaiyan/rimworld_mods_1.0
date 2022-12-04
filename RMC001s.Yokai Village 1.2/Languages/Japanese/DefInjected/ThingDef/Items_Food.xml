@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_cheeeese.label>ラミアチーズ</Yokai_cheeeese.label>
+  <Yokai_cheeeese.description>妖怪村秘伝のとっても美味しいデリシャスチーズです。ラミアのミルクから特殊な加工方法で作る事ができます。もちもちして美味しい上に長持ち保存食です。</Yokai_cheeeese.description>
+  <!--チーズケーキ -->
+  <Yokai_CheeeeseCake.label>妖怪チーズケーキ</Yokai_CheeeeseCake.label>
+  <Yokai_CheeeeseCake.description>素晴らしく美味しい妖怪製特別チーズケーキです。ベリーとお米、ラミアチーズで作ります。あまりの味に体は天に昇り、ほっぺは地に落ちてしまうとか…。</Yokai_CheeeeseCake.description>
+  <!-- ドミート -->
+  <Yokai_domeat.label>ドミート</Yokai_domeat.label>
+  <Yokai_domeat.description>ドラゴンのお肉から作られる特別製法のスペシャルステーキ。栄養満点で元気がでます。</Yokai_domeat.description>
+  <!-- 妖怪焼き-->
+  <Yokai_Yaki.label>妖怪焼き</Yokai_Yaki.label>
+  <Yokai_Yaki.description>お肉をこんがり焼いただけの味気ない食事です。調味料を使っていないため日持ちせず、美味しくもありませんが食中毒は防げます。</Yokai_Yaki.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hed_HotSpringWarmth.label>温泉の温もり</Hed_HotSpringWarmth.label>
+  <Hed_HotSpringWarmth.stages.0.label>わずかに温かい</Hed_HotSpringWarmth.stages.0.label>
+  <Hed_HotSpringWarmth.stages.1.label>温かい</Hed_HotSpringWarmth.stages.1.label>
+  <Hed_HotSpringWarmth.stages.2.label>ぽかぽか</Hed_HotSpringWarmth.stages.2.label>
+
+  <Hed_ColdSpringCoolness.label>冷水の涼やかさ</Hed_ColdSpringCoolness.label>
+  <Hed_ColdSpringCoolness.stages.0.label>わずかに涼しい(湿り)</Hed_ColdSpringCoolness.stages.0.label>
+  <Hed_ColdSpringCoolness.stages.1.label>涼しい(濡れ)</Hed_ColdSpringCoolness.stages.1.label>
+  <Hed_ColdSpringCoolness.stages.2.label>ひんやり(ずぶ濡れ)</Hed_ColdSpringCoolness.stages.2.label>
+
+
+</LanguageData>

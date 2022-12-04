@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_DragonTusk.label>月龍牙</Yokai_DragonTusk.label>
+  <Yokai_DragonTusk.description>帶著微光的月龍龍牙。只能從成年的月龍身上採取。
+   \n具有作為工藝品的價值，能以高價交易。也能在進行特別的研究後交由熟練的工匠加工，能鑄造出強大的刀刃或弓，足以左右戰局。</Yokai_DragonTusk.description>
+
+  <Yokai_DragonHeart.label>龍的心臟</Yokai_DragonHeart.label>
+  <Yokai_DragonHeart.description>仍鼓動著心脈的龍族心臟，即使從身體剝出也不會停止跳動。可用於製作傳承於妖怪村中的各式藥品與武具。
+   \n完成相關研究、蒐集好必要的素材後即可作為醫療、防衛設備、武器，裝飾品等使用。</Yokai_DragonHeart.description>
+  <Yokai_NurikabeCore.label>妖怪的圓石</Yokai_NurikabeCore.label>
+  <Yokai_NurikabeCore.description>由大涂壁產生的一顆不可思議的石頭，每年只產一顆。石頭本身並不附帶任何特殊效果，但賞心悅目的外型讓其具有藝術品的價值。
+\n此外，假如擁有特別的技術與材料的話，就能製造出更為優秀的涂壁核心。新生的緋色涂壁能保護殖民者們，並產出極具利益的礦物。</Yokai_NurikabeCore.description>
+  <Yokai_HHKCore.label>緋色的圓石</Yokai_HHKCore.label>
+  <Yokai_HHKCore.description>將涂壁的圓石加工製成的卵，能生出特殊的涂壁。從這顆圓石誕生的涂壁更為堅固有靠，能有效地保護殖民者們。
+\n此外，當他們成長至中型涂壁後，會產出一種名為"日緋色金"的貴金屬。這種金屬寄能成為村中的資產，也能為戰力帶來顯卓的貢獻。
+\n儘管能食用，但不具營養價值，味道更是難以下嚥。最重要的是:「用來吃掉也太浪費了吧!」的說。</Yokai_HHKCore.description>
+</LanguageData>

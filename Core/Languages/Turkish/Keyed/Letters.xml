@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Konuma Git</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Yaz</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Yaz başladı! Ama kış yolda.\n\nBitkiler kışın soğukta büyümeyecek.  Kış için uzun süre yetecek yiyecek depoladığından emin ol.\n\nYiyeceklerin çürümesini engellemek için bir soğutma odası yapabilirsin.\n\nAyrıca çalarak, üreterek veya satın alarak parka elde etmeye çalış, yoksa dışarı çıktığında donacaksın.</FirstSummerWarning>
+
+  <RelationsBrokenDown>{0} ile ilişkiniz bozuldu. Artık size düşmanlar.</RelationsBrokenDown>
+  <RelationsWarmed>{0} ile ilişkiniz düzeldi. Artık size düşman değiller.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Şunu esir aldığın için: {0}, {1} artık düşmanınız.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Koloni iyi niyeti</ColonyGoodwill>
+  <Neutral>Nötr</Neutral>
+
+  <ShortCircuitRain>A {0} kısa devre yaptı ve yanmaya başladı.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Bölge Açığa Çıktı</LetterLabelAreaRevealed>
+  <AreaRevealed>Yeni bir bölge açığa çıktı.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Yeni bir bölge açığa çıktı. İçinde antik düşman mekanikler var.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>Bir çatı çöktü çünkü herhangi bir destekten çok uzaktı.</RoofCollapsed>
+  <TheseThingsCrushed>Bunlar yok oldu:</TheseThingsCrushed>
+  <NothingCrushed>Hiçbir şey hasar görmedi.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Çatı Çökmesi</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} , {1}  kişisini başarıyla aramıza kattı({2} şansla).</RecruitSuccess>
+  <RecruitFail>{0} , {1} kişisini aramıza katamadı ({2} şansla).</RecruitFail>
+
+  <LetterLabelBirthday>Doğum Günü</LetterLabelBirthday>
+  <BirthdayChronological>Bugün {0} adlı kolonistin kronolojik doğum günü! {1} , biyolojik olarak {3} yaşında.\n\nKronolojik olarak {1} , {2} oldu.\n\nİnsanların cryptosleep içinde yaşlanmadıklarını unutmayın, kronolojik doğum günü biyolojik doğum gününden bağımsızdır.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0}  adlı kolonist biyolojik olarak {1} yaşına ulaştı.\n\nMaalesef, {0} yaşlanmadan dolayı şu rahatsızlıktan etkilenecek:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+  <NewDisease>{0} , {1} adlı kişiden hastalı kaptı.\n\nBir tıbbi yatağın ve doktorun olduğundan emin ol. {2} adlı kişinin gerekli tıbbi desteği aldığından ve yatakta yeterince dinlendiğinden emin ol.</NewDisease>
+  <NewPartDisease>{0} , {3} adlı kişiden hastalık kaptı. Enfeksiyon şu seviyede: {1}.\n\nBir tıbbi yatağın ve doktorun olduğundan emin ol. {2} adlı kişinin gerekli tıbbi desteği aldığından ve yatakta yeterince dinlendiğinden emin ol.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Antik Tehlike</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Duvardaki {0} çizimlerine göre, bir önsezi onu güçsüz düşürüyor. O emin değil, ama bu tozlu yapının büyük bir tehlike içerebileceğini düşünüyor.</AncientShrineWarning>
+
+  <StruckMineable>Bir {0} damarına çarptık!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} İntikam</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>Bir {0} incindikten sonra saldırıyor!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>Bir {0} bir evcilleştirme denemesinden dolayı saldırıyor!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Çevredeki diğer {0} ler de saldırganlaştı!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} Tuzağa Bastı</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} kazara bir tuzağa bastı ve hasar aldı.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} bir sağlık kondisyonu geliştirdi: {1}\n\nŞundan gelen bir zorluktu: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{0} bir sağlık kondisyonu geliştirdi: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Lider'in Ölümü</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{1} kolonisinin lideri {0} öldü ve yerine {2} geçti.</LetterLeadersDeath>
+  
+  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+	<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+	
+  <MentalBreakLetterLabel>Zihinsel Kırılma</MentalBreakLetterLabel>
+  <MentalBreakReason>Reason: {0}.</MentalBreakReason>
+  
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>İlişkiler</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>{0} grubunda kolonist veya mahkumlarınız ile ilişkisi bulunan saldırganlar var.\n\nBağları olsa da kötü ilişkileri yüzünden yine de birbirlerine saldıracaklar.\n\nBu kişiler:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>{0} dost grubunda kolonist veya mahkumlarınız ile ilişkisi bulunan kişiler var:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Gelen grupta kolonist veya mahkumlarınızla ilişkisi bulunan kişiler var:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Atmosferik tüccar kolonist veya mahkumlarınızla ilişkisi bulunan kişiler satıyor:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+
+  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] kolonistlerinden biriyle ilişkiye sahip. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] mahkumlarından biriyle ilişkiye sahip. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterAffair>{0}, ile evlendi: {1}, ile bir ilişki başlattı: {2}.</LetterAffair>
+  <LetterLabelNewLovers>Yeni Sevgililer</LetterLabelNewLovers>
+  <LetterNewLovers>{0} ve {1} bir araya geldiler ver artık sevgililer.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} ve {1} artık bir ilişki içinde değiller.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Ayrılık</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Bir evlilik var!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Reddedilmiş Teklif</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} , {0}'nin evlilik teklifini kabul etti.\n\nÖnümüzdeki günlerde bir evlilik töreni yapacak ve tüm kolonistleri davet edecekler . Törenin yapılacağı yeri belirlemek istiyorsan bir evlilik noktası oluşturabilirsin.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} , {0}'nin evlilik teklifini reddetti. {0} bu konuda mutsuz olacak.</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>İyi Niyet</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Kötü Niyet</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Psikolojik Kırılma</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Bağlı Hayvanın Ölümü</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{1}'e bağlı olan {0} öldü.Bu durum {1}'in moralini etkileyecek.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{2}'ye bağlı olan {0} isimli {1} öldü.Bu durum {2}'nin moralini etkileyecek.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} öldü. Bu durum kişilerin moralini etkileyecek:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} isimli {1} öldü. Bu durum kişilerin moralini etkileyecek:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Hapishane Kaçışık</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Mahkumlar bir kaçış düzenlediler! Bir şekilde kilidi aştılar ve kaçıyorlar. Silah arayabilirler, savaşabilir ya da kaçabilirler. Şu mahkumları kapsıyor:\n\n{0}\n\nMahkumlar daha çok mutsuz , çok sayıda ve sağlıklıyken kaçmaya çalışırlar.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>Parti</LetterLabelNewParty>
+  <LetterNewParty>{0} bir parti düzenliyor! Katılan herkes devamlı bir moral etkisi kazanacaklar.</LetterNewParty>
+  
+<!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} Bağımlılığı</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} şuna bağımlı oldu: {1}.\n\nŞimdi şuna ihtiyaç duyuyor: {1}, ihtiyaçları sekmesinde görünebilir. İhtiyaç halinde kendiliğinden uyuşturucuyu tüketecek. Eğer hiç {1} almassa krize girecek.</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>{0} Cümbüşü</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0}, {1} ile alem yapıyor.</LetterDrugBinge>
+
+  <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+  
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+  
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+  
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+  
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
+</LanguageData>
+
+<LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+<LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+<LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+<RejectLetter>Reject</RejectLetter>
+<LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
+<FinalStraw>The final straw was: {0}.</FinalStraw>
+<LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+<PostponeLetter>Postpone</PostponeLetter>

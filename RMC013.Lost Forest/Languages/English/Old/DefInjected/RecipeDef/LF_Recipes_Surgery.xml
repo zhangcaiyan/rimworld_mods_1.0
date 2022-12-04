@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AdministerFoxiaTears.label>Administer Foxia Tears</AdministerFoxiaTears.label>
+    <AdministerFoxiaTears.description>Administers Foxia Tears to cure old wounds, diseases, and missing body parts.</AdministerFoxiaTears.description>
+    <AdministerFoxiaTears.jobString>Administering Foxia Tears.</AdministerFoxiaTears.jobString>
+
+    <AdministerOmikujiSenbei.label>Administer Tsujiura</AdministerOmikujiSenbei.label>
+    <AdministerOmikujiSenbei.description>Administers Tsujiura.</AdministerOmikujiSenbei.description>
+    <AdministerOmikujiSenbei.jobString>Administering Tsujiura.</AdministerOmikujiSenbei.jobString>
+
+    <AdministerMysteriousWreath.label>Administer Lefca's Wreath</AdministerMysteriousWreath.label>
+    <AdministerMysteriousWreath.description>Administers Lefca's Wreath.</AdministerMysteriousWreath.description>
+    <AdministerMysteriousWreath.jobString>Administering Lefca's Wreath.</AdministerMysteriousWreath.jobString>
+
+    <AdministerNutChocolate.label>Administer Wolvern's Gift</AdministerNutChocolate.label>
+    <AdministerNutChocolate.description>Administers Wolvern's Gift</AdministerNutChocolate.description>
+    <AdministerNutChocolate.jobString>Administering Wolvern's Gift</AdministerNutChocolate.jobString>
+
+</LanguageData>

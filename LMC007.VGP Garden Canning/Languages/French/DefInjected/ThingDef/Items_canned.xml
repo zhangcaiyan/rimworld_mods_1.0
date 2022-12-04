@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealCannedFood.label>repas en boîte</MealCannedFood.label>
+  <MealCannedFood.description>Un repas conservé dans des boîtes de conserve pour éviter qu'il ne se détériore.</MealCannedFood.description>
+
+  <CannedVeg.label>légumes en conserve</CannedVeg.label>
+  <CannedVeg.description>Légumes qui ont été cuits et conservés dans une boîte de conserve pour éviter qu'ils ne se détériorent.</CannedVeg.description>
+
+  <CannedMeat.label>viande en conserve</CannedMeat.label>
+  <CannedMeat.description>Viande qui a été cuite et conservée dans une boîte de conserve pour éviter qu'elle ne se détériore.</CannedMeat.description>
+
+
+</LanguageData>

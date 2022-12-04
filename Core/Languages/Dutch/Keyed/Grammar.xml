@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>een</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>de</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>een {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>de {0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>zijn</Proits>
+  <!-- EN: his -->
+  <Prohis>zijn</Prohis>
+  <!-- EN: her -->
+  <Proher>haar</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>Zijn</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Zijn</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Haar</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>het</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>hem</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>haar</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>Het</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Hem</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Haar</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>hij</Prohe>
+  <!-- EN: she -->
+  <Proshe>zij</Proshe>
+  <!-- EN: it -->
+  <Proit>het</Proit>
+  <!-- EN: He -->
+  <ProheCap>Hij</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Zij</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>Het</ProitCap>
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 白猫 -->
+
+  <akaNEKO_shironeko.label>シロネコ</akaNEKO_shironeko.label>
+  <akaNEKO_shironeko.labelPlural>シロネコ</akaNEKO_shironeko.labelPlural>
+
+
+  <!-- 黒猫 -->
+
+  <akaNEKO_kuroneko.label>クロネコ</akaNEKO_kuroneko.label>
+  <akaNEKO_kuroneko.labelPlural>クロネコ</akaNEKO_kuroneko.labelPlural>
+
+
+  <!-- キジトラ -->
+
+  <akaNEKO_kijitora.label>トラネコ</akaNEKO_kijitora.label>
+  <akaNEKO_kijitora.labelPlural>トラネコ</akaNEKO_kijitora.labelPlural>
+
+  <!-- アメリカンショートヘア -->
+
+  <akaNEKO_A_Shorthair.label>アメリカンショートヘア</akaNEKO_A_Shorthair.label>
+  <akaNEKO_A_Shorthair.labelPlural>アメリカンショートヘア</akaNEKO_A_Shorthair.labelPlural>
+
+
+  <!-- ロシアンブルー -->
+
+  <akaNEKO_Russian_Blue.label>ロシアンブルー</akaNEKO_Russian_Blue.label>
+  <akaNEKO_Russian_Blue.labelPlural>ロシアンブルー</akaNEKO_Russian_Blue.labelPlural>
+
+
+  <!-- シャム猫 -->
+
+  <akaNEKO_Siamese.label>シャム</akaNEKO_Siamese.label>
+  <akaNEKO_Siamese.labelPlural>シャム</akaNEKO_Siamese.labelPlural>
+
+
+  <!-- ジャパニーズボブテイル -->
+
+  <akaNEKO_J_Bobtail.label>ジャパニーズボブテイル</akaNEKO_J_Bobtail.label>
+  <akaNEKO_J_Bobtail.labelPlural>ジャパニーズボブテイル</akaNEKO_J_Bobtail.labelPlural>
+
+
+</LanguageData>

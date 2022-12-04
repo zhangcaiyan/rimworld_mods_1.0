@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>pedregós</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>grava</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>gel</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>terra pantanosa</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>fang</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>terra coberta de líquens</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>fang</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>fang</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>sorra</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>sorra</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>sorra tova</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>sorra tova</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>terra</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>terra</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>terra rica</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>terra</SoilRich.tools.dirt.label>
+  
+</LanguageData>

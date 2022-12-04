@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital trader arrival -->
+  <OrbitalTraderArrival.label>ha arribat un comerciant orbital</OrbitalTraderArrival.label>
+  
+  <!-- EN: enemy raid (special locations) -->
+  <RaidEnemyBeacon.label>raid enemic (ubicacions especials)</RaidEnemyBeacon.label>
+  
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>raid aliat</RaidFriendly.label>
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>ha caigut un tros de nau</ShipChunkDrop.label>
+  
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>home de negre</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>Home de negre</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>Assabentat del problema, un [PAWN_kind] misteriós ha arribat.\n\Podrà ser capaç d’arreglar les coses?</StrangerInBlackJoin.letterText>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>ha arribat una caravana de comerciants</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>grup de viatgers</TravelerGroup.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>grup de visitants</VisitorGroup.label>
+  
+</LanguageData>

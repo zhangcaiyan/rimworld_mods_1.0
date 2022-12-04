@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <GameMapCamera.label>kamera</GameMapCamera.label>
+  <GameMapCamera.description>Umożliwia kontrolowanie kamery.</GameMapCamera.description>
+  
+  <Game.label>ogólne ustawienia </Game.label>
+  <Game.description>Opcje sterowania kolonią przydatne w większości wypadków.</Game.description>
+  
+  <SelectionMisc.label>różne</SelectionMisc.label>
+  <SelectionMisc.description>Opcje używane przez wiele przedmiotów i obiektów w grze.</SelectionMisc.description>
+  
+  <SelectionSpecial.label>specjalne</SelectionSpecial.label>
+  <SelectionSpecial.description>Opcje obsługi funkcji przedmiotów specjalnych.</SelectionSpecial.description>
+  
+  <Architect.label>architekt</Architect.label>
+  <Architect.description>Opcje służące obsłudze menu Architekta.</Architect.description>
+  
+  <MainTabs.label>główne zakładki</MainTabs.label>
+  <MainTabs.description>Kontrola głównych zakładek.</MainTabs.description>
+
+  <Modifiers.label>modyfikatory</Modifiers.label>
+  <Modifiers.description>Używane do modyfikowania innych akcji.</Modifiers.description>
+  
+  <Development.label>opcje deweloperskie</Development.label>
+  <Development.description>Opcje dla twórców i modderów. Aktywne tylko w trybie rozwoju.</Development.description>
+
+  
+</LanguageData>

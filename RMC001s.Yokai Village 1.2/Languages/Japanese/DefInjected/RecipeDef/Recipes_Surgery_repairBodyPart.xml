@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- humanlike -->
+
+  <RepairNineTail.label>欠損部位再生</RepairNineTail.label>
+  <RepairNineTail.description>妖怪包帯を使って欠損部位を再生します。</RepairNineTail.description>
+  <RepairNineTail.jobString>欠損部位再生治療中</RepairNineTail.jobString>
+
+  <RepairYoukaitail.label>欠損部位再生</RepairYoukaitail.label>
+  <RepairYoukaitail.description>妖怪包帯を使って欠損部位を再生します。</RepairYoukaitail.description>
+  <RepairYoukaitail.jobString>欠損部位再生治療中</RepairYoukaitail.jobString>
+
+  <RepairYoukai.label>欠損部位再生</RepairYoukai.label>
+  <RepairYoukai.description>妖怪包帯を使って欠損部位を再生します。</RepairYoukai.description>
+  <RepairYoukai.jobString>欠損部位再生治療中</RepairYoukai.jobString>
+
+
+  <!-- Lamia -->
+
+  <RepairLamia.label>欠損部位再生</RepairLamia.label>
+  <RepairLamia.description>妖怪包帯を使って欠損部位を再生します。</RepairLamia.description>
+  <RepairLamia.jobString>欠損部位再生治療中</RepairLamia.jobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairYokaiPawAnimals.label>欠損部位再生</RepairYokaiPawAnimals.label>
+  <RepairYokaiPawAnimals.description>妖怪包帯を使って欠損部位を再生します。</RepairYokaiPawAnimals.description>
+  <RepairYokaiPawAnimals.jobString>欠損部位再生治療中</RepairYokaiPawAnimals.jobString>
+
+
+  <!-- 月の竜 -->
+
+  <RepairYokaiHoovesAnimalswithHorn.label>repair body</RepairYokaiHoovesAnimalswithHorn.label>
+  <RepairYokaiHoovesAnimalswithHorn.description>repair body.</RepairYokaiHoovesAnimalswithHorn.description>
+  <RepairYokaiHoovesAnimalswithHorn.jobString>repairing body.</RepairYokaiHoovesAnimalswithHorn.jobString>
+
+
+  <!-- 牙もちドラゴン -->
+
+  <RepairYokaiHoovesAnimalswithTusk.label>repair body</RepairYokaiHoovesAnimalswithTusk.label>
+  <RepairYokaiHoovesAnimalswithTusk.description>repair body.</RepairYokaiHoovesAnimalswithTusk.description>
+  <RepairYokaiHoovesAnimalswithTusk.jobString>repairing body.</RepairYokaiHoovesAnimalswithTusk.jobString>
+
+
+  <!-- 女郎蜘蛛 -->
+
+  <RepairJorouGumo.label>欠損部位再生</RepairJorouGumo.label>
+  <RepairJorouGumo.description>妖怪包帯を使って欠損部位を再生します。</RepairJorouGumo.description>
+  <RepairJorouGumo.jobString>欠損部位再生治療中</RepairJorouGumo.jobString>
+
+
+  <!-- vanilla animals -->
+
+  <VanillaBase.description>欠損部位再生</VanillaBase.description>
+  <VanillaBase.jobString>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</VanillaBase.jobString>
+
+
+  <!-- バニラの動物たち -->
+
+  <RepairHuman.label>欠損部位再生</RepairHuman.label>
+  <RepairHuman.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHuman.description>
+  <RepairHuman.jobString>欠損部位再生治療中</RepairHuman.jobString>
+
+
+  <!-- 尻尾付き人型 -->
+
+  <RepairHumanWithTail.label>欠損部位再生</RepairHumanWithTail.label>
+  <RepairHumanWithTail.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHumanWithTail.description>
+  <RepairHumanWithTail.jobString>欠損部位再生治療中</RepairHumanWithTail.jobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairPawsAnimals.label>欠損部位再生</RepairPawsAnimals.label>
+  <RepairPawsAnimals.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairPawsAnimals.description>
+  <RepairPawsAnimals.jobString>欠損部位再生治療中</RepairPawsAnimals.jobString>
+
+  <RepairPawsAndTail.label>欠損部位再生</RepairPawsAndTail.label>
+  <RepairPawsAndTail.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairPawsAndTail.description>
+  <RepairPawsAndTail.jobString>欠損部位再生治療中</RepairPawsAndTail.jobString>
+
+
+  <!-- Hooves Animals -->
+
+  <RepairHoovesAnimal.label>欠損部位再生</RepairHoovesAnimal.label>
+  <RepairHoovesAnimal.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHoovesAnimal.description>
+  <RepairHoovesAnimal.jobString>欠損部位再生治療中</RepairHoovesAnimal.jobString>
+
+  <RepairHoovesAnimalswithHorn.label>欠損部位再生</RepairHoovesAnimalswithHorn.label>
+  <RepairHoovesAnimalswithHorn.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHoovesAnimalswithHorn.description>
+  <RepairHoovesAnimalswithHorn.jobString>欠損部位再生治療中</RepairHoovesAnimalswithHorn.jobString>
+
+  <RepairHoovesAnimalswithTusk.label>欠損部位再生</RepairHoovesAnimalswithTusk.label>
+  <RepairHoovesAnimalswithTusk.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHoovesAnimalswithTusk.description>
+  <RepairHoovesAnimalswithTusk.jobString>欠損部位再生治療中</RepairHoovesAnimalswithTusk.jobString>
+
+  <RepairHoovesAnimalswithTuskandTrunk.label>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHoovesAnimalswithTuskandTrunk.label>
+  <RepairHoovesAnimalswithTuskandTrunk.description>欠損部位再生.</RepairHoovesAnimalswithTuskandTrunk.description>
+  <RepairHoovesAnimalswithTuskandTrunk.jobString>欠損部位再生治療中</RepairHoovesAnimalswithTuskandTrunk.jobString>
+
+  <RepairHoovesAnimalswithHump.label>欠損部位再生</RepairHoovesAnimalswithHump.label>
+  <RepairHoovesAnimalswithHump.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHoovesAnimalswithHump.description>
+  <RepairHoovesAnimalswithHump.jobString>欠損部位再生治療中</RepairHoovesAnimalswithHump.jobString>
+
+
+  <!-- other type -->
+
+  <RepairWithClawsTailAndJowl.label>欠損部位再生</RepairWithClawsTailAndJowl.label>
+  <RepairWithClawsTailAndJowl.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairWithClawsTailAndJowl.description>
+  <RepairWithClawsTailAndJowl.jobString>欠損部位再生治療中</RepairWithClawsTailAndJowl.jobString>
+
+  <RepairTurtleLike.label>欠損部位再生</RepairTurtleLike.label>
+  <RepairTurtleLike.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairTurtleLike.description>
+  <RepairTurtleLike.jobString>欠損部位再生治療中</RepairTurtleLike.jobString>
+
+  <RepairBird.label>欠損部位再生</RepairBird.label>
+  <RepairBird.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairBird.description>
+  <RepairBird.jobString>欠損部位再生治療中</RepairBird.jobString>
+
+  <RepairSnake.label>欠損部位再生</RepairSnake.label>
+  <RepairSnake.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairSnake.description>
+  <RepairSnake.jobString>欠損部位再生治療中</RepairSnake.jobString>
+
+  <RepairHumanYokai.label>欠損部位再生</RepairHumanYokai.label>
+  <RepairHumanYokai.description>妖怪包帯と九尾の狐の毛を使って欠損部位を再生します。</RepairHumanYokai.description>
+  <RepairHumanYokai.jobString>欠損部位再生治療中</RepairHumanYokai.jobString>
+
+
+</LanguageData>

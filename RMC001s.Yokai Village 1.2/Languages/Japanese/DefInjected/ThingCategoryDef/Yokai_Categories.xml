@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Foods -->
+  <Yokai_Foods.label>妖怪のご飯</Yokai_Foods.label>
+  <Yokai_Resource.label>妖怪の素材</Yokai_Resource.label>
+  <Yokai_Stone.label>錬成素材</Yokai_Stone.label>
+  <Yokai_Wool.label>妖怪の毛</Yokai_Wool.label>
+  <!--装備 -->
+  <Yokai_Kimono.label>妖怪の衣服</Yokai_Kimono.label>
+  <Yokai_Omen.label>妖怪のお面</Yokai_Omen.label>
+  <Yokai_Omamori.label>妖怪のお守り</Yokai_Omamori.label>
+  <Yokai_Buki.label>妖怪の刀剣</Yokai_Buki.label>
+  <Yokai_Yumi.label>妖怪の弓矢</Yokai_Yumi.label>
+</LanguageData>

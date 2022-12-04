@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <JorouGumoBody.label>女郎蜘蛛</JorouGumoBody.label>
+  <JorouGumoBody.corePart.parts.6.customLabel>左肺</JorouGumoBody.corePart.parts.6.customLabel>
+  <JorouGumoBody.corePart.parts.7.customLabel>右肺</JorouGumoBody.corePart.parts.7.customLabel>
+  <JorouGumoBody.corePart.parts.8.customLabel>左腎</JorouGumoBody.corePart.parts.8.customLabel>
+  <JorouGumoBody.corePart.parts.9.customLabel>右kidney</JorouGumoBody.corePart.parts.9.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.1.customLabel>左眼</JorouGumoBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.2.customLabel>右眼</JorouGumoBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.3.customLabel>左耳</JorouGumoBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.4.customLabel>右耳</JorouGumoBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.0.customLabel>左鎖骨</JorouGumoBody.corePart.parts.12.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.0.customLabel>左上腕骨</JorouGumoBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.1.customLabel>左橈骨</JorouGumoBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>左小指</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>左薬指</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>左中指</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>左人差指</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>左親指</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.customLabel>左手</JorouGumoBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.customLabel>左腕</JorouGumoBody.corePart.parts.12.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.customLabel>左肩</JorouGumoBody.corePart.parts.12.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.0.customLabel>右鎖骨</JorouGumoBody.corePart.parts.13.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.0.customLabel>右上腕骨</JorouGumoBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.1.customLabel>右橈骨</JorouGumoBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>右小指</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>右薬指</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>右中指</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>右人差指</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>右親指</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.customLabel>右手</JorouGumoBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.customLabel>右腕</JorouGumoBody.corePart.parts.13.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.customLabel>右肩</JorouGumoBody.corePart.parts.13.customLabel>
+  <JorouGumoBody.corePart.parts.15.parts.0.customLabel>蜘蛛右第一爪先</JorouGumoBody.corePart.parts.15.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.15.customLabel>蜘蛛右第一脚</JorouGumoBody.corePart.parts.15.customLabel>
+  <JorouGumoBody.corePart.parts.16.parts.0.customLabel>蜘蛛右第二爪先</JorouGumoBody.corePart.parts.16.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.16.customLabel>蜘蛛右第二脚</JorouGumoBody.corePart.parts.16.customLabel>
+  <JorouGumoBody.corePart.parts.17.parts.0.customLabel>蜘蛛右第三爪先</JorouGumoBody.corePart.parts.17.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.17.customLabel>蜘蛛右第三脚</JorouGumoBody.corePart.parts.17.customLabel>
+  <JorouGumoBody.corePart.parts.18.parts.0.customLabel>蜘蛛左第一爪先</JorouGumoBody.corePart.parts.18.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.18.customLabel>蜘蛛左第一脚</JorouGumoBody.corePart.parts.18.customLabel>
+  <JorouGumoBody.corePart.parts.19.parts.0.customLabel>蜘蛛左第二爪先</JorouGumoBody.corePart.parts.19.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.19.customLabel>蜘蛛左第二脚</JorouGumoBody.corePart.parts.19.customLabel>
+  <JorouGumoBody.corePart.parts.20.parts.0.customLabel>蜘蛛左第三爪先</JorouGumoBody.corePart.parts.20.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.20.customLabel>蜘蛛左第三脚</JorouGumoBody.corePart.parts.20.customLabel>
+</LanguageData>

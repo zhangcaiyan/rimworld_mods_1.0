@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_JorouGumo.label>JorouGumo</Yokai_JorouGumo.label>
+  <Yokai_JorouGumo.description>Often found in humid climes, the Jorou Gumo is a picky huntress. This spider yokai only cares to eat the raw meat of her foes; however, her claws and bites make quick work of her prey. Colonists that choose to keep her company will be graced with a daily supply of yarn. As a friend, her gentle face may disarm you; but, always be aware of untamed Jorou Gumo near your colony: to them, colonists are easy prey.</Yokai_JorouGumo.description>
+  <Yokai_JorouGumo.tools.0.label>Stab</Yokai_JorouGumo.tools.0.label>
+  <Yokai_JorouGumo.tools.1.label>Stab</Yokai_JorouGumo.tools.1.label>
+  <Yokai_JorouGumo.tools.2.label>right hand</Yokai_JorouGumo.tools.2.label>
+  <Yokai_JorouGumo.tools.3.label>left hand</Yokai_JorouGumo.tools.3.label>
+  <Yokai_JorouGumo_Leather.label>JorouGumo leather</Yokai_JorouGumo_Leather.label>
+  <Yokai_JorouGumo_Leather.description>JorouGumo leather</Yokai_JorouGumo_Leather.description>
+  <Yokai_JorouGumo_Leather.stuffProps.stuffAdjective>JorouGumo leather</Yokai_JorouGumo_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_JorouGumo_Corpse.label>JorouGumo corpse</Yokai_JorouGumo_Corpse.label>
+  <Yokai_JorouGumo_Corpse.description>JorouGumo corpse</Yokai_JorouGumo_Corpse.description>
+
+
+</LanguageData>

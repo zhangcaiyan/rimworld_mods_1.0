@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>kategorie</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>procentuální životnost</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>tržní cena</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>hmotnost</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>název</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>nic</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>kvalita</Quality.label>
+  
+</LanguageData>

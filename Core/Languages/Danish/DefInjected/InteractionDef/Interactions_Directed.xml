@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildRapport.label>try to get to know</BuildRapport.label>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->Tried to build rapport with [other_nameShortIndef].</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to [other_nameShortIndef] build rapport with me.</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
+
+  <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Attempted to recruit [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to a recruitment pitch from [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
+
+
+</LanguageData>

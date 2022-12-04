@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Dragonia.label>青龍</LF_Dragonia.label>
+  <LF_Dragonia.description>受到赤龍讚賞的「蒼色思想家」，以及遠古森林之民口中的「青之睿智」，皆是指同一位龍族血脈的末裔。\n在過去，並沒有任何遠古森林的住人知曉她的存在，而屠殺了森林居民的兇手自然也不得而知。\n青龍被某位人士刻意隱匿起來，並養育成人。也因此，她對外面的世界不甚了解，甚至從未親眼見過自己的雙親。\n在漫長的成長過程中所忍受的孤獨與寂寞，使得青龍有著害羞怕生的個性。\n但她在魔術與古龍學的分野皆有高度造詣。雖仍年幼，但已經能自在地使用高深的術式與蘊含著強大力量的龍言。若是能說服她加入您的殖民地，想必會對研究失落科技的這塊領域帶來大幅度的躍進。\n在各個地區以天文學般的極低機率出現。\n(即使真的與她相遇，若是勸誘失敗，她也會在當日離開此地帶)</LF_Dragonia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Dragonia_Meat.label>青き竜の子の肉</LF_Dragonia_Meat.label>
+  <LF_Dragonia_Meat.description>青き竜の子の肉。壊れてしまった彼女の仲間たちの末路です。</LF_Dragonia_Meat.description>
+-->
+  <LF_Dragonia_Corpse.label>青龍的屍體</LF_Dragonia_Corpse.label>
+  <LF_Dragonia_Corpse.description>逐漸失去溫度的青龍屍體。再也沒有人能給她帶來更多痛苦。</LF_Dragonia_Corpse.description>
+
+
+</LanguageData>

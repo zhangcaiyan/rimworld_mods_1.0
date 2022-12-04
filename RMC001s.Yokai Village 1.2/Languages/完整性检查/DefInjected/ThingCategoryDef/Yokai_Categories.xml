@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Foods -->
+
+  <Yokai_Foods.label>Yokai Food</Yokai_Foods.label>
+
+
+  <!-- Items -->
+
+  <Yokai_Resource.label>Yokai Resource</Yokai_Resource.label>
+  <Yokai_Stone.label>Yokai Stone</Yokai_Stone.label>
+  <Yokai_Wool.label>Yokai Wool</Yokai_Wool.label>
+
+
+  <!-- 服 -->
+
+  <Yokai_Kimono.label>Yokai Kimono</Yokai_Kimono.label>
+  <Yokai_Omen.label>Yokai Omen</Yokai_Omen.label>
+  <Yokai_Omamori.label>Yokai Omamori</Yokai_Omamori.label>
+
+
+  <!-- 武器 -->
+
+  <Yokai_Buki.label>Yokai Weapon</Yokai_Buki.label>
+  <Yokai_Yumi.label>Yokai Bow</Yokai_Yumi.label>
+
+
+</LanguageData>

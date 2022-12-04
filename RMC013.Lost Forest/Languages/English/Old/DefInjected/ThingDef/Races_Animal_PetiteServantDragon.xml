@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_PetiteServantDragon.label>Petite Servant Dragon</LF_PetiteServantDragon.label>
+  <LF_PetiteServantDragon.description>Legend tells that three of these dragons act as servants of the Dragonia: perhaps this is one of them? In any case, their kind-as a whole-has fallen from great esteem, as they were once the aides of the emperor in the old age, having served until the blue dragon was destroyed. Although many categorize them as the weakest of dragons, their sense of loyalty is unshakable. From dawn to dusk, they devote themselves to supporting the child of the blue dragon. Loneliness shall not find her, for they are ever with her. If these little ones are seen in the wild, then one may assume that they are looking for a Dragonia. They appear in all biomes with a very low probability.</LF_PetiteServantDragon.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_PetiteServantDragon_Meat.label>Petite Servant Dragon meat</LF_PetiteServantDragon_Meat.label>
+  <LF_PetiteServantDragon_Meat.description>Curses, like blood, course through this meat, their existence silent, persistant, and insidious. This little one's time was cut short, and its solitary master now glares upon this land.</LF_PetiteServantDragon_Meat.description>
+-->
+  <LF_PetiteServantDragon_Corpse.label>Petite Servant Dragon corpse</LF_PetiteServantDragon_Corpse.label>
+  <LF_PetiteServantDragon_Corpse.description>When glancing upon this frame a wail can be heard from in the back of one's mind. Some distant maiden mourns the passing of her servant.</LF_PetiteServantDragon_Corpse.description>
+
+
+</LanguageData>

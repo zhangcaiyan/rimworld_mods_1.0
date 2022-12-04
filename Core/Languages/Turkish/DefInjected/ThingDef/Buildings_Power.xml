@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <PowerConduit.label>güç yolu</PowerConduit.label>
+    <PowerConduit.description>Elektrik kabloları ile etrafa gücü götürebilirsiniz. Duvar ve diğer binaların altından geçebilir.</PowerConduit.description>
+    
+    <PowerSwitch.label>Güç düğmesi</PowerSwitch.label>
+    <PowerSwitch.description>Gücü açıp kapatmaya yarar.</PowerSwitch.description>
+    
+    <SolarGenerator.label>güneş paneli</SolarGenerator.label>
+    <SolarGenerator.description>Güneş ışığından elektrik üretir. Geceleri çalışmaz.</SolarGenerator.description>
+    
+    <GeothermalGenerator.label>jeotermal jenaratör</GeothermalGenerator.label>
+    <GeothermalGenerator.description>Jeotermal buhar gayzerlerinden elektrik üretir. Bir gayzerin üzerine yapılmalı.</GeothermalGenerator.description>
+    
+    <FueledGenerator.label>yakıtlı jenaratör</FueledGenerator.label>
+    <FueledGenerator.description>Odunu yakarak elektrik üretir. Odunlar elle konulmalı..</FueledGenerator.description>
+    
+    <Battery.label>batarya</Battery.label>
+    <Battery.description>Fazla üretilen elektriği depolamaya ve gerektiğinde kullanmaya yarar. Uyarı - şarj olmuş bataryalar çok sıcakta veya ıslanınca patlamaya eğilimlidir!</Battery.description>
+    
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ToolCapacityDef>
+    <defName>FoxFlame</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>Yokai_Frostbite</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>YokaiPower</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>SpiderWeb</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>KamaitachiCut</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>DragonScratch</defName>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>DragonBite</defName>
+  </ToolCapacityDef>
+  <!--  <ToolCapacityDef>
+    <defName>Yokai_SpiderWeb</defName>
+  </ToolCapacityDef>-->
+</Defs>

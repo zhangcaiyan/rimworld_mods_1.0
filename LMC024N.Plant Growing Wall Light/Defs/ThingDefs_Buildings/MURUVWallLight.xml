@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef Name="MURUVWallLight" ParentName="BuildingBase">
+	<defName>Lighting_MURUVWallLight</defName>
+    <label>Plant growing wall light</label>
+	<description>A grow light fixture designed to be mounted on a wall.</description>
+	<thingClass>MURUVWallLight.UVWallLight</thingClass>
+	<thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+	<graphicData>
+      <texPath>Things/Building/MURUVWallLightOff</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>1.1,1.1</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/MURUVWallLight_UI</uiIconPath>
+	<minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Item</altitudeLayer>
+    <passability>Standable</passability>
+	<statBases>
+      <MaxHitPoints>20</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+	  <Mass>3</Mass>
+    </statBases>
+    <size>(1,1)</size>
+	<placeWorkers>
+		<li>MURUVWallLight.PlaceWorker_UVWallLight</li>
+	</placeWorkers>
+    <costList>
+      <Steel>10</Steel>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>600</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable" />
+	  <li Class="CompProperties_Schedule">
+	    <!-- Match plant growing times -->
+        <startTime>0.25</startTime>
+        <endTime>0.8</endTime>
+        <offMessage>Off for plant resting period.</offMessage>
+      </li>
+	  <li Class="CompProperties_Glower">
+        <glowRadius>0</glowRadius>
+        <glowColor>(0,0,0,0)</glowColor>
+      </li>
+    </comps>
+    <building>
+      <isEdifice>false</isEdifice>
+	  <canPlaceOverWall>true</canPlaceOverWall>
+    </building>
+	<tickerType>Never</tickerType>
+    <designationCategory>Furniture</designationCategory>
+    <rotatable>true</rotatable>
+	<selectable>true</selectable>
+	<destroyable>true</destroyable>
+	<useHitPoints>false</useHitPoints>
+	<isAutoAttackableMapObject>false</isAutoAttackableMapObject>
+	<clearBuildingArea>false</clearBuildingArea>
+	<defaultPlacingRot>South</defaultPlacingRot>
+	<researchPrerequisites><li>Electricity</li></researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef Name="MURUVWallLightGlower" ParentName = "BuildingBase">
+	<thingClass>MURUVWallLight.UVWallLightGlower</thingClass>
+	<label>Plant growing wall light</label>
+	<description>null</description>
+	<category>Attachment</category>
+    <defName>Lighting_MURUVWallLight_Glower</defName>
+    <graphicData>
+	  <texPath>Things/Building/MURUVWallLight_T</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1,1</drawSize>
+    </graphicData>
+	<building>
+		<isEdifice>false</isEdifice>
+	</building>
+	<statBases>
+		<Flammability>0</Flammability>
+	</statBases>
+	<comps>
+      <li Class="CompProperties_Glower">
+		<overlightRadius>5</overlightRadius>
+        <glowRadius>10</glowRadius>
+        <glowColor>(266,0,555,0)</glowColor>
+      </li>
+	  <li Class="CompProperties_Flickable" />
+    </comps>
+	<altitudeLayer>Floor</altitudeLayer>
+	<passability>Standable</passability>
+	<destroyable>false</destroyable>
+	<rotatable>false</rotatable>
+	<clearBuildingArea>false</clearBuildingArea>
+	<selectable>false</selectable>
+	<coversFloor>false</coversFloor>
+	<useHitPoints>false</useHitPoints>
+	<tradeability>None</tradeability>
+	<isAutoAttackableMapObject>false</isAutoAttackableMapObject>
+  </ThingDef>
+
+  <ThingDef Name="MURUVWallLightOn" ParentName = "BuildingBase">
+	<thingClass>MURUVWallLight.UVWallLight</thingClass>
+	<label>UV Wall light (On)</label>
+	<description>You shouldn't be seeing this.</description>
+	<category>Mote</category>
+    <defName>Lighting_MURUVWallLight_On</defName>
+	<graphicData>
+	  <texPath>Things/Building/MURUVWallLight</texPath>
+	  <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>1.1,1.1</drawSize>
+    </graphicData>
+	<building>
+		<isEdifice>false</isEdifice>
+	</building>
+	<statBases>
+		<Flammability>0</Flammability>
+	</statBases>
+	<altitudeLayer>ItemImportant</altitudeLayer>
+	<passability>Standable</passability>
+	<destroyable>false</destroyable>
+	<rotatable>false</rotatable>
+	<clearBuildingArea>false</clearBuildingArea>
+	<selectable>false</selectable>
+	<coversFloor>false</coversFloor>
+	<useHitPoints>false</useHitPoints>
+	<tradeability>None</tradeability>
+	<isAutoAttackableMapObject>false</isAutoAttackableMapObject>
+  </ThingDef>
+  
+</Defs>

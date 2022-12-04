@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Crush.deathMessage>Rozdrvenie na smrť: {0}</Crush.deathMessage>
+	
+	<Bludgeon.deathMessage>Dobitie na smrť: {0}</Bludgeon.deathMessage>
+	
+	<Bullet.deathMessage>Zastrelenie: {0}.</Bullet.deathMessage>
+	
+	<Bomb.deathMessage>Smrť pri explózii: {0}.</Bomb.deathMessage>
+	
+	<Flame.deathMessage>Upálenie: {0}</Flame.deathMessage>
+	
+	<Stun.deathMessage>Omráčenie a následná smrť: {0}</Stun.deathMessage>
+	
+	<Bleeding.deathMessage>Vykrvácanie: {0}</Bleeding.deathMessage>
+	
+	<Suffocation.deathMessage>Udusenie: {0}</Suffocation.deathMessage>
+	
+	<Starvation.deathMessage>Vyhladovanie: {0}</Starvation.deathMessage>
+
+	<Arrow.deathMessage>Zastrelenie: {0}.</Arrow.deathMessage>
+	
+	<Stab.deathMessage> Dobodaný: {0}</Stab.deathMessage>
+	
+	<Scratch.deathMessage>{0} bol roztrhnutý</Scratch.deathMessage>
+	
+	<EMP.deathMessage>{0} bol zastrelený mínometom</EMP.deathMessage>
+	
+	<Bite.deathMessage>{0} bol dohryzený na smrť.</Bite.deathMessage>
+	
+	<SurgicalCut.deathMessage>{0} zomrel behom operácie.</SurgicalCut.deathMessage>
+	
+	 <!-- Healing local injury -->
+	<HealLocalInjury.label>Ošetrenie jednotlivých zranení</HealLocalInjury.label>
+	
+  <!-- Healing global injury -->
+	<HealGlobalInjury.label>Ošetrenie všetkých zranení</HealGlobalInjury.label>
+	
+  <!-- Restoring body part -->
+	<RestoringBodyPart.label>Obnoviť časť tela</RestoringBodyPart.label>
+	
+  <!-- misc -->
+	<Breakdown.label>Kolaps</Breakdown.label>
+	<Mining.label>Ťažiť</Mining.label>
+	<Rotting.label>Hniť</Rotting.label>
+	<Extinguish.label>Uhasiť</Extinguish.label>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</LanguageData>

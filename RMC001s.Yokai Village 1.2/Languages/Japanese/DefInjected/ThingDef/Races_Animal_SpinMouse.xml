@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_SpinMouse.label>とげねずみ</Yokai_SpinMouse.label>
+  <Yokai_SpinMouse.description>人懐っこいこのとげねずみはハリネズミの亜種です。古くからペットとして飼育されてきました。
+\n見た目とは裏腹に棘は柔らかく野生ではすぐ食べられてしまいますが、少食で繁殖力があり人の言うことをよく聞きます。
+\n彼らは木々の多い所に好んで暮らしています。砂漠やサバンナでも稀に会うことができますし、世界のほぼあらゆる環境に適応しています。
+\n本当にもりもりと増えていきますからつがいで飼う場合は気を付けてくださいね。</Yokai_SpinMouse.description>
+  <Yokai_SpinMouse.tools.0.label>左前脚</Yokai_SpinMouse.tools.0.label>
+  <Yokai_SpinMouse.tools.1.label>右前脚</Yokai_SpinMouse.tools.1.label>
+  <Yokai_SpinMouse.tools.2.label>前歯</Yokai_SpinMouse.tools.2.label>
+  <Yokai_SpinMouse_Corpse.label>とげねずみの死骸</Yokai_SpinMouse_Corpse.label>
+  <Yokai_SpinMouse_Corpse.description>とげねずみの死骸。もう鼻を鳴らしてすり寄ってくることもありません・・・</Yokai_SpinMouse_Corpse.description>
+</LanguageData>

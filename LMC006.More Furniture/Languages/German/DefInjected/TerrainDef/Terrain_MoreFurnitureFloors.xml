@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Carpets -->
+
+	<CarpetBedGreen.label>Bett Grüner Teppich</CarpetBedGreen.label>
+	<CarpetBedGreen.description>Ein verblaßter grüner Teppich, passend zu einem Bett</CarpetBedGreen.description>
+
+	<CarpetBedOrange.label>Bett Orange Teppich</CarpetBedOrange.label>
+	<CarpetBedOrange.description>Ein matt orangefarbener Teppich, der zu einem Bett passt.</CarpetBedOrange.description>
+
+	<CarpetBedBlue.label>Bett Blauer Teppich</CarpetBedBlue.label>
+	<CarpetBedBlue.description>Ein entspannender blauer Teppich für ein Bett.</CarpetBedBlue.description>
+
+	<CarpetBedMaroon.label>Bett Kastanienbrauner Teppich</CarpetBedMaroon.label>
+	<CarpetBedMaroon.description>Ein kastanienbrauner Teppich, der zu einem Bett passt.</CarpetBedMaroon.description>
+
+</LanguageData>

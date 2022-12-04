@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>veren suodatus</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>veren pumppaus</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>hengittäminen</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>tietoisuus</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Tiedonkäsittely</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>syöminen</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>kuulo</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>käsittely</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>aineenvaihdunta</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>liikkuminen</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>näkö</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>puhuminen</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Viestintä</Talking.labelMechanoids>
+  
+</LanguageData>

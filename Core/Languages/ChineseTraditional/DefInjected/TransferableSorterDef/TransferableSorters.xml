@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>類型</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>耐久度</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>市價</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>重量</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>名稱</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>無</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>品質</Quality.label>
+  
+</LanguageData>

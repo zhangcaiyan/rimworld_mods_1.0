@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>quantity_adjphrase->grupa</li>
+		<li>quantity_adjphrase->kilku</li>
+		<li>quantity_adjphrase->wielu</li>
+		<li>quantity_adjphrase->dwóch</li>
+		<li>quantity_adjphrase->trzech</li>
+		<li>quantity_adjphrase->czterech</li>
+		<li>quantity_adjphrase->pięciu</li>
+		<li>quantity_adjphrase->sześciu</li>
+		<li>quantity_adjphrase->niepoliczalna ilość</li>
+		<li>quantity_adjphrase->niezliczenie dużo</li>
+		<li>trans-></li>
+		<li>trans->dla</li>
+		<li>trans->przez</li>
+		<li>trans->z</li>
+	</GlobalUtility.rulePack.rulesStrings>
+
+</LanguageData>

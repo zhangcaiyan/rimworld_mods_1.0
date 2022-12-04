@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableSA.label>苏联武器工作台</TableSA.label>
+  <TableSA.description>一个装配苏联和俄罗斯联邦的光荣武器的工作台（不要自欺欺人，它们基本上是相同的东西，但名字不同）</TableSA.description>
+  <TableSA_Blueprint.label>苏联武器工作台 (蓝图)</TableSA_Blueprint.label>
+  <TableSA_Blueprint_Install.label>苏联武器工作台 (蓝图)</TableSA_Blueprint_Install.label>
+  <TableSA_Frame.label>苏联武器工作台 (建造中)</TableSA_Frame.label>
+  <TableSA_Frame.description>>一个装配苏联和俄罗斯联邦的光荣武器的工作台（不要自欺欺人，它们基本上是相同的东西，但名字不同）</TableSA_Frame.description>
+
+
+</LanguageData>

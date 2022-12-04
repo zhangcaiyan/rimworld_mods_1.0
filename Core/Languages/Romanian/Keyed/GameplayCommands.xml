@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Interzis - coloniștii nu pot să interacționeze cu acest lucru.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Perims - coloniștii pot interacționa cu acest lucru.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Comută pornit/oprit.</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Comută pornit/oprit.</CommandTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Reconectare</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Încearcă reconectarea la o rețea electrică diferită. Este utilă în cazul conectării la o rețea nealimentată atunci când există una alimentată în jur.</CommandTryReconnectDesc>
+
+
+  <CommandGatherSpotToggleLabel>Loc de reuniune</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Activ - coloniștii se vor aduna în jurul acestui obiect.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inactiv - coloniștii nu se vor aduna în jurul acestui obiect.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Recrutare Militară</CommandDraftLabel>
+  <CommandUndraftLabel>Retragere</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Recrutare pentru servicii militare.\n\nColoniștii recrutați iau ordine și luptă. Ei nu mănâncă, nu muncesc și nu se odihnesc.</CommandToggleDraftDesc>
+  <IsIncapped>{0} este incapacitat.</IsIncapped>
+
+  
+  <CommandCancelConstructionLabel>Anulare</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Anulare construcție.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Eliberează patul</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Eliberează patul curent.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Proprietar</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Oferă acest pat unui colonist spre a-l folosi.</CommandBedSetOwnerDesc>
+  <BedAssign>Atribuie</BedAssign>
+  <CommandBedSetForPrisonersLabel>Pat pentru prizonieri</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Desemnează aceste paturi pentru prizonieri.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Nu poți desemna paturi exterioare ca paturi pentru prizonieri.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Pat pentru coloniști</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Desemnează aceste paturi pentru coloniști.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Pat medical</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Desemnează acest pat ca pat medical.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Pat non-medical</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Desemnează acest pat pentru uz non-medical.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Setarea modului de prizonier afectează întreaga cameră (prizonierii și coloniștii nu pot dormi în aceeași cameră).\n\nAcești oameni vor rămâne fără paturi:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Anularea modului de prizonier afectează întreaga cameră (prizonierii și coloniștii nu pot dormi în aceeași cameră).\n\nAcești oameni vor rămâne fără paturi:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Ești sigur că vrei să faci asta?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Numărătoare inversă până la detonare.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonare</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Redenumește această zonă.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Redenumire</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Ascunde/Arată această zonă.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Ascunde</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Arată</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Șterge această zonă.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Stergere</CommandDeleteZoneLabel>
+  
+  
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Desemnează țintă pentru atac forțat</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Setează o țintă asupra căreia tunul va trage cât timp este posibil.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Oprește atacul forțat</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Oprește atacul forțat și lasă tunul să tragă atunci când detectează un inamic.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Nu atacă forțat acum.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Țintă în afara razei maxime de acțiune.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Țintă în afara razei minime de acțiune.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Lansează navă</CommandShipLaunch>
+  <CommandShipLaunchDesc>Pornește secvența de lansare cu configurația actuală.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Arată raportul de lansare</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Arată un raport despre pregatirea navei de lansare.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Expulzare capsulă</CommandPodEject>
+  <CommandPodEjectDesc>Trezește persoana din capsulă și o expulzează.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Capsulă goală.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorLock>Comută Încuiat/Descuiat</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Încuie sau descuie o ușă. Ușile încuiate nu se vor deschide pentru nimeni.</CommandToggleDoorLockDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Resetare</CommandResetTemp>
+  <CommandResetTempDesc>Resetare temperatură țintă la temperatura camerei.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Mărește temperatura țintă.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Scade temperatura țintă.</CommandLowerTempDesc>
+
+  <!-- Art -->
+  <CommandInstall>Instalează</CommandInstall>
+  <CommandInstallDesc>Acest obiect este ambalat pentru transport. Folosește această comanda pentru a instala obiectul în locul decis pentru a-l putea vizualiza sau folosi.</CommandInstallDesc>
+
+
+
+</LanguageData>

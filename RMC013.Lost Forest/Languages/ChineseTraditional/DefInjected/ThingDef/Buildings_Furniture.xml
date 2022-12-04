@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_Bedroll.label>特製睡袋</LF_Bedroll.label>
+	<LF_Bedroll.description>為了便於攜帶而將輕量化設為優先考量，特別設計來提升旅途上的休息效率，並能對應受傷等突發意外。是適用於旅行者與冒険家的寝具。</LF_Bedroll.description>
+	<LF_Cushion.label>座布團</LF_Cushion.label>
+	<LF_Cushion.description>只要座在其上就能得到些許舒適感的簡易家具。能用皮革、毛皮、羽毛等柔軟的材料製作。</LF_Cushion.description>
+	<LF_Tinytable1st.label>迷你桌</LF_Tinytable1st.label>
+	<LF_Tinytable1st.description>將椅子擺在桌子前，讓人們能在其上用餐。（茶几式）</LF_Tinytable1st.description>
+	<LF_Tinytable2nd.label>迷你桌</LF_Tinytable2nd.label>
+	<LF_Tinytable2nd.description>將椅子擺在桌子前，讓人們能在其上用餐。（咖啡桌式）</LF_Tinytable2nd.description>
+	<LF_JackOLantern.label>傑克南瓜燈</LF_JackOLantern.label>
+	<LF_JackOLantern.description>將南瓜挖空後製成的燈籠。在某個世界裡，在慶祝秋收時會在祭典上擺設這種南瓜燈作為裝飾。會散發些許溫熱，在雨天不會使燃料消耗加快。雖然不太舒服，但在用餐時能作為椅子的暫時替代品。</LF_JackOLantern.description>
+</LanguageData>

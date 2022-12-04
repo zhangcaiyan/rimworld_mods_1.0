@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+	<!--============================== Main Categories ==============================-->
+
+
+	<ResearchProjectDef>
+		<defName>VG_CanningFactory</defName>
+		<label>Canning Factory</label>
+		<description>Researches methods of making a automated machine to can foods to preserve them in metal. \n\nUnlocks the canning factory and ablity to make canned food and meals.</description>
+		<tab>VG</tab>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+ 		<prerequisites>
+			<li>VG_CanningTable</li>
+		</prerequisites>
+		<researchViewX>3</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VG_CanningTable</defName>
+		<label>Canning Table</label>
+		<description>Researches methods to can food to preserve them in metal. \n\nUnlocks the billable canning machine and ablity to make cannned food and meals.</description>
+		<tab>VG</tab>
+		<baseCost>500</baseCost>
+		    <techLevel>Medieval</techLevel>
+ 		<researchViewX>2</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+
+
+</Defs>

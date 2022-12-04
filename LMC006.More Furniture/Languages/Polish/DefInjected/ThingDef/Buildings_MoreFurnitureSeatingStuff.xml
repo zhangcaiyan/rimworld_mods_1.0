@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Seating -->
+
+	<Anon2SquareDiningChair.label>Kwadratowe Krzesło Obiadowe</Anon2SquareDiningChair.label>
+	<Anon2SquareDiningChair.description>Komfortowe krzesło do siedzenia przy obiedzie.</Anon2SquareDiningChair.description>
+
+	<Anon2CushionedChair.label>Tapicerownane krzesło</Anon2CushionedChair.label>
+	<Anon2CushionedChair.description>Duże, miekkie i komfortowe krzesło do relaksu przy obiedzie.</Anon2CushionedChair.description>
+
+	<Anon2CouchRight.label>Prawa Część Sofy</Anon2CouchRight.label>
+	<Anon2CouchRight.description>Duży kawałek, miękkiej, komfortowej sofy. Wyśmienity do relaksu.</Anon2CouchRight.description>
+
+	<Anon2CouchCenter.label>Środkowa Cęść Sofy</Anon2CouchCenter.label>
+	<Anon2CouchCenter.description>Duży kawałek, miękkiej, komfortowej sofy. Wyśmienity do relaksu.</Anon2CouchCenter.description>
+
+	<Anon2CouchLeft.label>Lewa Część Sofy</Anon2CouchLeft.label>
+	<Anon2CouchLeft.description>Duży kawałek, miękkiej, komfortowej sofy. Wyśmienity do relaksu.</Anon2CouchLeft.description>
+
+	<Anon2CouchCorner.label>Narożnik Sofy</Anon2CouchCorner.label>
+	<Anon2CouchCorner.description>Duży kawałek, miękkiej, komfortowej sofy. Wyśmienity do relaksu.</Anon2CouchCorner.description>
+
+	<Anon2CouchCornerInv.label>Odwrócony Narożnik Sofy</Anon2CouchCornerInv.label>
+	<Anon2CouchCornerInv.description>Duży kawałek, miękkiej, komfortowej sofy. Wyśmienity do relaksu.</Anon2CouchCornerInv.description>
+
+</LanguageData>

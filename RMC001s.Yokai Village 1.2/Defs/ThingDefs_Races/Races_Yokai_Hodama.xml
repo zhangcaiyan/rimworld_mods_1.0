@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>Yokai_Hodama</defName>
+    <label>Ho Dama</label>
+    <description>A rare Yokai that can be found in any biome. Their widespread, infrequent nature has led to several beliefs concerning their existence; some people them to be the wandering spectres of dead relatives, while others see them as the chaotic embodiment of a forest fire. In few tales, however, are they known to actively harm others.
+    \nTrees are their favorite snack, and a frequent one at that due to their small stomachs. Colonists should take caution when trying to handle them, as their attacks can set foes aflame.
+    \nAs a ball of fire, cold is the only damage type they are vulnerable to. Slashing is somewhat effective, but blunt and heat have no effect.
+    \nHunting these Yokai bears little reason, as their corpses will always fail to render leather or meat; morever, Ho Dama are known to explode upon death.</description>
+    <statBases>
+      <MoveSpeed>4.4</MoveSpeed>
+      <ComfyTemperatureMax>2400</ComfyTemperatureMax>
+      <ComfyTemperatureMin>16</ComfyTemperatureMin>
+      <MarketValue>100</MarketValue>
+      <MeatAmount>0</MeatAmount>
+      <LeatherAmount>0</LeatherAmount>
+      <Flammability>0</Flammability>
+      <ArmorRating_Heat>3</ArmorRating_Heat>
+      <ArmorRating_Blunt>2</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.20</ArmorRating_Sharp>
+      <Mass>3</Mass>
+    </statBases>
+    <tools>
+      <li>
+        <label>Flame</label>
+        <capacities>
+          <li>FoxFlame</li>
+        </capacities>
+        <cooldownTime>2.4</cooldownTime>
+        <power>10</power>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>HodamaBody</body>
+      <deathActionWorkerClass>DeathActionWorker_BigExplosion</deathActionWorkerClass>
+      <executionRange>12</executionRange>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <baseBodySize>0.3</baseBodySize>
+      <baseHungerRate>3.8</baseHungerRate>
+      <baseHealthScale>4</baseHealthScale>
+      <foodType>DendrovoreAnimal</foodType>
+      <gestationPeriodDays>5</gestationPeriodDays>
+      <manhunterOnDamageChance>0.3</manhunterOnDamageChance>
+      <useMeatFrom>Yokai_Kamaitachi</useMeatFrom>
+      <manhunterOnTameFailChance>0.016</manhunterOnTameFailChance>
+      <wildness>0.99</wildness>
+      <wildBiomes>
+        <TropicalRainforest>0.08</TropicalRainforest>
+        <TemperateForest>0.08</TemperateForest>
+        <BorealForest>0.08</BorealForest>
+        <Desert>0.08</Desert>
+        <SeaIce>0.08</SeaIce>
+        <IceSheet>0.08</IceSheet>
+        <Tundra>0.08</Tundra>
+        <AridShrubland>0.08</AridShrubland>
+        <ExtremeDesert>0.08</ExtremeDesert>
+        <TemperateSwamp>0.4</TemperateSwamp>
+        <ColdBog>0.4</ColdBog>
+        <TropicalSwamp>0.4</TropicalSwamp>
+      </wildBiomes>
+      <lifeExpectancy>3</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0</minAge>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>Flame</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>FoxFlame</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>Frostbite</damageDef>
+        <multiplier>10</multiplier>
+      </li>
+      <li>
+        <damageDef>Cut</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+      <li>
+        <damageDef>Stab</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+      <li>
+        <damageDef>Blunt</damageDef>
+        <multiplier>0.5</multiplier>
+      </li>
+    </damageMultipliers>
+    <tradeTags>
+      <li>Yokai_Mythology</li>
+    </tradeTags>
+    <butcherProducts>
+      <Yokai_FlameStone>1</Yokai_FlameStone>
+    </butcherProducts>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Yokai_Hodama</defName>
+    <label>Ho Dama</label>
+    <race>Yokai_Hodama</race>
+    <combatPower>60</combatPower>
+    <canArriveManhunter>false</canArriveManhunter>
+    <ecoSystemWeight>0.5</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Hodama/Hodama</texPath>
+          <drawSize>1.4</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

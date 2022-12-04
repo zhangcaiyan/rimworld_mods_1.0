@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: belt -->
+  <Belt.label>kolem pasu</Belt.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>mezivrstva</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>přímo na kůži</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>na hlavě</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>vnější vrstva</Shell.label>
+  
+</LanguageData>

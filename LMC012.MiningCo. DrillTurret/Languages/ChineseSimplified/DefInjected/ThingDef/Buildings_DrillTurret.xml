@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DrillTurret.label>自动采矿炮塔</DrillTurret.label>
+  <DrillTurret.description>先进的自动炮塔。可以采集附近的矿石或者指定的岩石，通电和操作可以提高采矿效率。</DrillTurret.description>
+  <DrillTurret_Blueprint.label>自动采矿炮塔 (蓝图)</DrillTurret_Blueprint.label>
+  <DrillTurret_Blueprint_Install.label>自动采矿炮塔 (蓝图)</DrillTurret_Blueprint_Install.label>
+  <DrillTurret_Frame.label>自动采矿炮塔 (建造中)</DrillTurret_Frame.label>
+  <DrillTurret_Frame.description>先进的自动炮塔。可以采集附近的矿石或者指定的岩石，通电和操作可以提高采矿效率。</DrillTurret_Frame.description>
+
+
+</LanguageData>

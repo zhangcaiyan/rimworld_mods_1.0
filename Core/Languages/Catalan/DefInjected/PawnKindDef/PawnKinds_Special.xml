@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave -->
+  <Slave.label>esclau</Slave.label>
+  <Slave.labelPlural>esclaus</Slave.labelPlural>
+  
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>foraster de negre</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>dona de negre</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>home de negre</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>forasters de negre</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man -->
+  <WildMan.label>salvatge</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>dona salvatge</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>dones salvatges</WildMan.labelFemalePlural>
+  <WildMan.labelMale>home salvatge</WildMan.labelMale>
+  <WildMan.labelMalePlural>homes salvatges</WildMan.labelMalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>salvatges</WildMan.labelPlural>
+  
+</LanguageData>

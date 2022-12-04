@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DesignatorCancel>Tühista</DesignatorCancel>
+  <DesignatorCancelDesc>Tühista määratud ehitamine, kaevandamine, vedamine, viljakoristamine, ja kõik muud ülesanded.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Lõika taimi</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Määrab taimi, mida lõigata või lahkuda. Taim eemaldatakse täielikult ja mistahes toit koristatakse.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Lammuta</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Lammuta ehitis ja saa tagasi osa selle resurssidest.</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Deinstalli</DesignatorUninstall>
+  <DesignatorUninstallDesc>Deinstalli see, et seda saaks liigutada, müüa, või installida kuhugi mujale.</DesignatorUninstallDesc>
+  
+  <DesignatorHarvest>Korista vilja</DesignatorHarvest>
+  <DesignatorHarvestDesc>Määra taimi, mida koristada, et saada toitu ja muid tooteid.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Lõhu puid</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Määra puid, mida maha lõhkuda puidu saamiseks.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Vea asju</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Määra kivitükke ja teisi asju, mida vedada prügi aladesse. Pole vajalik asjadele nagu toit või laibad, mis on alati veatavad.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Saab ainult määrata veatavaid mitte-automaatilisi asju (näiteks kivitükid).</MustHaulHaulables>
+
+  <DesignatorHunt>Jahi</DesignatorHunt>
+  <DesignatorHuntDesc>Märgi loomi, mida küttitaks sinu küttijate poolt.</DesignatorHuntDesc>
+
+  <DesignatorMine>Kaevanda</DesignatorMine>
+  <DesignatorMineDesc>Määra piirkonnad, kus kaevandada kivi.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Silenda põrandat</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Määra ebatasasi kivi põrandaid, mida silendada.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Kavanda</DesignatorPlan>
+  <DesignatorPlanDesc>Aseta planeerimis juhiseid. Need ei tee midagi peale selle, et aitavad sul kavanda tuleviku laiendusi.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Eemalda kavandeid</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Eemalda planeerimis juhiseid.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Suurenda koduala</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistid parandavad ehitisi, puhastavad põrandaid, ja kustutavad tulekahjusid kodualal.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Eemalda koduala</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Eemaldab koduala. Kolonistid enam ei puhasta, paranda, või kustuta tulekahjusid.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Suurenda katuse ala</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonistid ehitavad katuseid siin alas.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Eemalda katuse ala</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Eemalda ala, kus kolonistid ehitavad katuseid. Olemasolevad katused jäävad alles, kuid kolonistid ei ehita neid juurde.</DesignatorAreaBuildRoofClearDesc>
+  
+  <DesignatorAreaNoRoofExpand>Suurenda katuseta ala</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Loo ala, kus katuseid ei teki. See eemaldab ka olemasolevad õhukesed katused.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Eemalda katuseta ala</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Eemaldab katuseta ala. Katused tekivad siin, ja olemasolevaid katuseid ei eemaldata.</DesignatorAreaNoRoofClearDesc>
+
+  <DesignatorAreaSnowClearExpand>Suurenda lumepuhastus ala</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Loo ala, mida kolonistid proovivad hoida lumevabana.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Eemalda lumepuhastus ala</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Eemaldab lumepuhastus ala. Kolonistid enam ei hoia seda ala lumest puhtana.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Suurenda lubatud ala</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Suurenda lubatud ala.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Eemalda lubatud ala</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Eemalda lubatud ala blokke.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Halda lubatud alasid...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Loo piirkond, kus sinu kolonistid proovivad kasvatada teatud tüüpi taime.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Loo tagavara, kus sinu kolonistid hoiavad resursse.\nSee tööriist saab ka suurendada olemas olevat tagavara.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Loo tagavara, kus sinu kolonistid hoiavad prügi.\nSee tööriist saab ka suurendada olemas olevat tagavara.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Kustuta piirkondi</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Eemalda piirkondi, nagu tagavara piirkonnad ja kasvatamis piirkonnad.</DesignatorZoneDeleteDesc>
+
+  <DesignatorClaim>Nõua</DesignatorClaim>
+  <DesignatorClaimDesc>Nõua neutraalsed struktuurid kolooniale, kaasa arvatud iidsed varemed ja maha jäetud piiramisbaasid. Nõutud struktuure saab parandada ja hooldada sinu kolonistide poolt.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Eemalda korrus</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Eemalda koorus, et tooda nähtavale maastik allpool.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Röövi</DesignatorStrip>
+  <DesignatorStripDesc>Röövi rõivad laipadelt ja vigastatutelt.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Sea üles lõks uuesti</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Sea üles lõks uuesti, et seda saaks vallandada jälle.</DesignatorRearmTrapDesc>
+  
+  <DesignatorOpen>Ava</DesignatorOpen>
+  <DesignatorOpenDesc>Ava täis hauad või konteinerid.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Tapa</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Tapa taltsutatud loom.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Taltsuta</DesignatorTame>
+  <DesignatorTameDesc>Talsuta metsik loom.</DesignatorTameDesc>
+
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Valimata materjal</UnchosenStuff>
+  <TooCloseToMapEdge>Liiga lähedal mapi äärele.</TooCloseToMapEdge>
+  <OutOfBounds>Väljaspool lubatud piire.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Ei saa asetada avastamata piirkondadesse.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Interaktsiooni koht on blokeeritud {0} poolt.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interaktsiooni koht on piiridest väljas.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interaktsiooni koht blokeeritakse {0} poolt.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} blokeeriks {1} interaktsiooni ruudu.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Maastik on juba siin {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Identiline ese juba eksisteerib siin.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identne kavand juba eksisteerib siin.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Maastik siin ei toeta seda.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Ruum juba hõivatud.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Peab sihtima eemaldatavat põrandat.</TerrainMustBeRemovable>
+
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Laienda {0} või\nLoo uus {1}</ExpandOrCreateZone>
+  <CreateNewZone>Loo uus {0}</CreateNewZone>
+
+  <!-- desc helpers -->
+  <TransmitsPower>Edastab elektrit</TransmitsPower>
+</LanguageData>

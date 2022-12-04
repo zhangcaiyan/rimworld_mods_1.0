@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase" Abstract="True" Name="YokaiWoolBase">
+    <graphicData>
+      <texPath>Things/Item/Resource/Wool</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <MarketValue>3.0</MarketValue>
+      <Mass>0.008</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>3.4</DeteriorationRate>
+      <Beauty>10</Beauty>
+    </statBases>
+    <stackLimit>300</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0.15</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="YokaiWoolBase">
+    <defName>NineTailWool</defName>
+    <label>Tuzurao Wool</label>
+    <description>More valuable than dragon skin, this wool is warm, cool, beautiful, and marked with the sweet smell of the golden Nine Tails.</description>
+    <graphicData>
+      <color>(240,210,040)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Mass>0.001</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>50</Beauty>
+      <MarketValue>50</MarketValue>
+      <StuffPower_Armor_Sharp>4.3</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>3.7</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.9</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>61</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>64</StuffPower_Insulation_Heat>
+    </statBases>
+    <stackLimit>300</stackLimit>
+    <stuffProps>
+      <color>(240,210,040)</color>
+      <commonality>0.001</commonality>
+      <statFactors>
+        <MarketValue>3.0</MarketValue>
+        <MaxHitPoints>4.5</MaxHitPoints>
+        <Flammability>0</Flammability>
+        <Beauty>15</Beauty>
+      </statFactors>
+      <statOffsets>
+        <ArmorRating_Sharp>0.43</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.37</ArmorRating_Blunt>
+        <ArmorRating_Heat>0.29</ArmorRating_Heat>
+        <Insulation_Heat>30</Insulation_Heat>
+        <Insulation_Cold>30</Insulation_Cold>
+      </statOffsets>
+    </stuffProps>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>3</glowRadius>
+        <glowColor>(100,187,187,80)</glowColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <!--   <ThingDef ParentName="ResourceBase">
+  <defName>NineTail</defName>
+    <label>Tuzura no O</label>
+    <description>Kyuubi wool that has been bundled into a tail shape.
+  \nNo great vision or effort is required to make such things; yet, many feel compelled to pay a high price for it-awed by its inescapable beauty.</description>
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+      </recipeUsers>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+    </recipeMaker>
+    <costList>
+      <NineTailWool>90</NineTailWool>
+    </costList>
+    <graphicData>
+      <texPath>Things/Item/product/ninetail</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>3000</Beauty>
+    </statBases>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>9</stackLimit>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+  </ThingDef> -->
+</Defs>

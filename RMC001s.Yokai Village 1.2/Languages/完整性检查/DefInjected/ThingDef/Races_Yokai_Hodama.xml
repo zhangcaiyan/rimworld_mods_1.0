@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Hodama.label>Ho Dama</Yokai_Hodama.label>
+  <Yokai_Hodama.description>A rare Yokai that can be found in any biome. Their widespread, infrequent nature has led to several beliefs concerning their existence; some people them to be the wandering spectres of dead relatives, while others see them as the chaotic embodiment of a forest fire. In few tales, however, are they known to actively harm others.
+    \nTrees are their favorite snack, and a frequent one at that due to their small stomachs. Colonists should take caution when trying to handle them, as their attacks can set foes aflame.
+    \nAs a ball of fire, cold is the only damage type they are vulnerable to. Slashing is somewhat effective, but blunt and heat have no effect.
+    \nHunting these Yokai bears little reason, as their corpses will always fail to render leather or meat; morever, Ho Dama are known to explode upon death.</Yokai_Hodama.description>
+  <Yokai_Hodama.tools.0.label>Flame</Yokai_Hodama.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Hodama_Corpse.label>Ho Dama corpse</Yokai_Hodama_Corpse.label>
+  <Yokai_Hodama_Corpse.description>Ho Dama corpse</Yokai_Hodama_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lamia シンプル Tail -->
+
+  <Yokai_Install_LamiaSPT.label>install simple Lamia tail</Yokai_Install_LamiaSPT.label>
+  <Yokai_Install_LamiaSPT.description>Installs Lamia's  Simple Prosthetic tail. Requires a min skill in medicine of 4.</Yokai_Install_LamiaSPT.description>
+  <Yokai_Install_LamiaSPT.jobString>Installing Simple Prosthetic Lamia tail.</Yokai_Install_LamiaSPT.jobString>
+
+  <Yokai_Install_LamiaBT.label>install bionic lamia tail</Yokai_Install_LamiaBT.label>
+  <Yokai_Install_LamiaBT.description>Installs Lamia's  bionic tail. Requires a min skill in medicine of 4.</Yokai_Install_LamiaBT.description>
+  <Yokai_Install_LamiaBT.jobString>Installing Lamia bionic tail.</Yokai_Install_LamiaBT.jobString>
+
+
+  <!-- Lamia Bionic Tail -->
+
+  <Yokai_Install_JorouGumoSPL.label>install simple JorouGumo leg</Yokai_Install_JorouGumoSPL.label>
+  <Yokai_Install_JorouGumoSPL.description>Installs JorouGumo's  Simple Prosthetic leg. Requires a min skill in medicine of 4.</Yokai_Install_JorouGumoSPL.description>
+  <Yokai_Install_JorouGumoSPL.jobString>Installing Simple Prosthetic JorouGumo leg.</Yokai_Install_JorouGumoSPL.jobString>
+
+  <Yokai_Install_JorouGumoBL.label>install bionic JorouGumo leg</Yokai_Install_JorouGumoBL.label>
+  <Yokai_Install_JorouGumoBL.description>Installs JogouGumo's  bionic leg. Requires a min skill in medicine of 4.</Yokai_Install_JorouGumoBL.description>
+  <Yokai_Install_JorouGumoBL.jobString>Installing JogouGumo bionic leg.</Yokai_Install_JorouGumoBL.jobString>
+
+
+</LanguageData>

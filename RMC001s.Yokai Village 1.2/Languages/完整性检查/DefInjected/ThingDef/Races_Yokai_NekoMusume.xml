@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_NekoMusume.label>NekoMusume</Yokai_NekoMusume.label>
+  <Yokai_NekoMusume.description>An adorable cat-like yokai, the Neko Musume serves colonies with a playful grace. Her diminutive size endears her to many, and her wool-which she gives every 2 weeks-can keep colonists warm. There are males Neko Musumes, but the difference between the genders are difficult to spot. If one of these feline servants should die, then be aware that a curse spoils are usuable leather. Though they can be found in temperate and somewhat cold climes, truly, deserts are where the nekos roam.</Yokai_NekoMusume.description>
+  <Yokai_NekoMusume.tools.0.label>LeftHand</Yokai_NekoMusume.tools.0.label>
+  <Yokai_NekoMusume.tools.1.label>RightHand</Yokai_NekoMusume.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Human -->
+  <Yokai_NekoMusume_Corpse.label>NekoMusume corpse</Yokai_NekoMusume_Corpse.label>
+  <Yokai_NekoMusume_Corpse.description>NekoMusume corpse</Yokai_NekoMusume_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Tables -->
+
+	<Anon2TableTiny.label>Кофейный столик</Anon2TableTiny.label>
+	<Anon2TableTiny.description>Маленький стол, за которым колонист может поесть.</Anon2TableTiny.description>
+
+	<Anon2CounterA.label>Барная стойка</Anon2CounterA.label>
+	<Anon2CounterA.description>Барная стойка с большим плоским верхом.</Anon2CounterA.description>
+
+	<Anon2CounterAFull.label>Развернутая барная стойка</Anon2CounterAFull.label>
+	<Anon2CounterAFull.description>Барная стойка с большим плоским верхом.Развернута для использования у передних стен.</Anon2CounterAFull.description>
+
+</LanguageData>

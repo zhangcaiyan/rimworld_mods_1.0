@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LMC007.菜园子罐头食物</name>
+  <author>dismarzero</author>
+  <url>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</url>
+  <targetVersion>1.0.0</targetVersion>
+  <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+  
+需要搭配VGP Vegetable Garden使用，国内貌似翻译是叫菜园子（真有特色！），可以将原版的生食，蔬菜及肉类打包成罐头防止腐烂，同时也兼容菜园子MOD新增的生食蔬菜肉类和水果。罐头由需要人工操作的工作台或全自动机器生产，原材料为食物和钢铁（想想也没问题罐头就是铁做的）。需要研究菜园子选项卡中的相关科技以解锁工作台、机器和配方。
+
+VGP Garden Canning (Requires Vegetable Garden, loaded first)
+
+Garden Canning addes two ways of canning food. With reserach.
+
+A canning stove that pawns can food at. It is powered by steel.
+
+And a canning factory, which pawns will load with food and will automatically can the food after an amount of time.
+
+Worktables and recipe :
+
+
+Canning Table
+-Canned meals
+-Canned vegetables
+-Canned meats
+-Canned fruits
+
+
+ </description>
+</ModMetaData>
+
+
+

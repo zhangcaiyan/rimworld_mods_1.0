@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurikabe.label>涂壁</Yokai_Nurikabe.label>
+  <Yokai_Nurikabe.description>無法在野生尋見的稀少妖怪。性格溫馴且易親近人，能從商人購入。妖如其名能作為牆壁保護殖民者。
+    \n堅硬厚實且不需要餵食。但還是帶有移動速度緩慢的缺點。因為是牆壁所以剖開來裡面既沒有皮也沒有肉。
+    \n據說有種極其稀少、會煥發赤紅光芒的涂壁生活在妖怪村中。深度鑽研妖怪文化想必能了解他們的秘密。</Yokai_Nurikabe.description>
+  <Yokai_Nurikabe.tools.0.label>左手</Yokai_Nurikabe.tools.0.label>
+  <Yokai_Nurikabe.tools.1.label>右手</Yokai_Nurikabe.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Nurikabe_Corpse.label>涂壁的屍體</Yokai_Nurikabe_Corpse.label>
+  <Yokai_Nurikabe_Corpse.description>涂壁的屍體。變成這樣也無法發揮引以為傲的防禦力了，解體後能取得岩石。</Yokai_Nurikabe_Corpse.description>
+</LanguageData>

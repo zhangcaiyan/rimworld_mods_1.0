@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef>
+    <defName>Yokai_Village</defName>
+    <label>Yokai Village</label>
+    <description>A gathering of dragons, Yokai, and people who have lived on this planet since ancient times. Diplomatically, they come off as a reserved, non-confrontational clan; however, despiste their opposition to violence, such clans are slow to forgive once they have been offended.</description>
+    <pawnsPlural>Yokai</pawnsPlural>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <techLevel>Ultra</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <expandingIconTexture>Things/YokaiIcon</expandingIconTexture>
+    <homeIconPath>Things/YokaiBase</homeIconPath>
+    <leaderTitle>Chief</leaderTitle>
+    <fixedName>妖怪村</fixedName>
+    <settlementGenerationWeight>0.4</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxCountAtGameStart>1</maxCountAtGameStart>
+    <listOrderPriority>31</listOrderPriority>
+    <rescueesCanJoin>false</rescueesCanJoin>
+    <humanlikeFaction>false</humanlikeFaction>
+    <autoFlee>false</autoFlee>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>false</canSiege>
+    <canStageAttacks>false</canStageAttacks>
+    <canUseAvoidGrid>true</canUseAvoidGrid>
+    <earliestRaidDays>60</earliestRaidDays>
+    <startingGoodwill>
+      <min>10</min>
+      <max>30</max>
+    </startingGoodwill>
+    <hairTags>
+      <li>Urban</li>
+      <li>Tribal</li>
+      <li>Rural</li>
+    </hairTags>
+    <naturalColonyGoodwill>
+      <min>-50</min>
+      <max>60</max>
+    </naturalColonyGoodwill>
+    <caravanTraderKinds>
+      <li>Caravan_Yokai</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>Visitor_Yokai_Standard</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>Base_Yokai_Standard</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-80</min>
+      <max>46</max>
+    </allowedArrivalTemperatureRange>
+    <raidCommonalityFromPointsCurve>
+      <points>
+        <li>(500, 0.1)</li>
+        <li>(1000, 0.2)</li>
+        <li>(2000, 0.4)</li>
+        <li>(4000, 0.5)</li>
+      </points>
+    </raidCommonalityFromPointsCurve>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(600, 200)</li>
+        <li>(1000, 2000)</li>
+        <li>(6000, 4000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <!-- Normal fights -->
+        <kindDef>Combat</kindDef>
+        <commonality>50</commonality>
+        <options>
+          <Yokai_Nurarihyon>30</Yokai_Nurarihyon>
+          <Yokai_Tukumo>30</Yokai_Tukumo>
+          <Yokai_Samia>30</Yokai_Samia>
+          <Yokai_Issun>50</Yokai_Issun>
+        </options>
+      </li>
+      <li>
+        <kindDef>Combat</kindDef>
+        <commonality>10</commonality>
+        <options>
+          <Yokai_NurarihyonR>30</Yokai_NurarihyonR>
+          <Yokai_Dragon_MoonDragon>50</Yokai_Dragon_MoonDragon>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <Yokai_Warrior>10</Yokai_Warrior>
+          <Yokai_Merchant>1</Yokai_Merchant>
+        </options>
+      </li>
+      <li>
+        <!-- Trader -->
+        <kindDef>Trader</kindDef>
+        <traders>
+          <Yokai_Merchant>1</Yokai_Merchant>
+        </traders>
+        <carriers>
+          <Yokai_Dragon_Shiro>10</Yokai_Dragon_Shiro>
+        </carriers>
+        <guards>
+          <Yokai_Tukumo>15</Yokai_Tukumo>
+          <Yokai_Samia>30</Yokai_Samia>
+          <Yokai_Issun>10</Yokai_Issun>
+        </guards>
+      </li>
+      <li>
+        <!-- Base defense -->
+        <kindDef>Settlement</kindDef>
+        <options>
+          <Yokai_NineTail>10</Yokai_NineTail>
+          <Yokai_Nurarihyon>30</Yokai_Nurarihyon>
+          <Yokai_NurarihyonR>10</Yokai_NurarihyonR>
+          <Yokai_Dragon_MoonDragon>10</Yokai_Dragon_MoonDragon>
+          <Yokai_Tukumo>10</Yokai_Tukumo>
+          <Yokai_Samia>10</Yokai_Samia>
+          <Yokai_Issun>10</Yokai_Issun>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+</Defs>

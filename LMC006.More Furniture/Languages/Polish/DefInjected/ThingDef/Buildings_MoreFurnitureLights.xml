@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Lighting stuff -->
+
+	<Anon2EndTableLight.label>Stolik Nocny z lampką</Anon2EndTableLight.label>
+	<Anon2EndTableLight.description>Miejsce dla kolonistów do przechowywania rzeczy osobistych. Po umieszczeniu w pobliżu łóżka poprawia komfort. Posiada lampę.</Anon2EndTableLight.description>
+
+	<Anon2RoyalEndTableLight.label>Królewski Stolik Nocny z lampką</Anon2RoyalEndTableLight.label>
+	<Anon2RoyalEndTableLight.description>Miejsce dla kolonistów do przechowywania rzeczy osobistych. Po umieszczeniu w pobliżu łóżka poprawia komfort. Posiada lampę.</Anon2RoyalEndTableLight.description>
+
+	<StandingLamp_Magenta.label>Stojąca lapma (magenta)</StandingLamp_Magenta.label>
+	<StandingLamp_Magenta.description>Stojąca lapma, Która oświetla obszar w kolorze magenta.</StandingLamp_Magenta.description>
+
+	<StandingLamp_Yellow.label>Stojąca lapma (Żółta)</StandingLamp_Yellow.label>
+	<StandingLamp_Yellow.description>Stojąca lapma, Która oświetla obszar w kolorze żółtym.</StandingLamp_Yellow.description>
+
+	<StandingLamp_Orange.label>Stojąca lapma (Pomarańczowa)</StandingLamp_Orange.label>
+	<StandingLamp_Orange.description>Stojąca lapma, Która oświetla obszar w kolorze pomarańczowym.</StandingLamp_Orange.description>
+
+	<StandingLamp_Purple.label>Stojąca lapma (Fioletowa)</StandingLamp_Purple.label>
+	<StandingLamp_Purple.description>Stojąca lapma, Która oświetla obszar w kolorze fioletowym.</StandingLamp_Purple.description>
+
+	<StandingLamp_Aqua.label>Stojąca lapma (Aqua)</StandingLamp_Aqua.label>
+	<StandingLamp_Aqua.description>Stojąca lapma, Która oświetla obszar w kolorze aqua.</StandingLamp_Aqua.description>
+	
+	<StandingLamp_Lime.label>Stojąca lapma (Limonkowa)</StandingLamp_Lime.label>
+	<StandingLamp_Lime.description>Stojąca lapma, Która oświetla obszar w kolorze limonkowym.</StandingLamp_Lime.description>
+
+
+</LanguageData>

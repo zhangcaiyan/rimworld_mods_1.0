@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_HinoKo.label>火之子</Yokai_HinoKo.label>
+  <Yokai_HinoKo.description>鬼靈精性格的火之子是喜好火焰的妖怪。主要出現於沙漠及極限沙漠，他們具有高度的耐火/耐熱特性。
+\n會直接使用火球攻擊，在防衛時須多加留意。此外，在死亡時會發生爆炸。
+\n與其他動物相比，馴養火之子的難易度並不高，雖不能取得皮及肉但會產生少許燃料。</Yokai_HinoKo.description>
+  <Yokai_HinoKo.tools.0.label>左手</Yokai_HinoKo.tools.0.label>
+  <Yokai_HinoKo.tools.1.label>右手</Yokai_HinoKo.tools.1.label>
+  <Yokai_HinoKo_Corpse.label>火之子的屍體</Yokai_HinoKo_Corpse.label>
+  <Yokai_HinoKo_Corpse.description>殘燼消逝的火妖，如今只剩餘灰。解體後部會取得任何東西。</Yokai_HinoKo_Corpse.description>
+</LanguageData>

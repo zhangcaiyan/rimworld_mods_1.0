@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_CentralTradeBeacon.label>中央貿易ビーコン</LF_CentralTradeBeacon.label>
+	<LF_CentralTradeBeacon.description>星間貿易の中継基地で使用されているものと同じ型式の貿易ビーコンです。消費電力は大きいですが、通常のビーコンよりもはるかに大規模な物流管理が可能になります。</LF_CentralTradeBeacon.description>
+
+	<LF_WaterwayConstructionSpot.label>水源引き込み予定地</LF_WaterwayConstructionSpot.label>
+	<LF_WaterwayConstructionSpot.description>隣接する地形から水源を引き込む工事を行います。工数は水源の通行コストに比例します。必要な研究を完了させる事で進入できないような深い水源も引き込む事が出来るようになります。ただし、深部水源の引き込みは周囲の土壌に塩害を引き起こす原因にもなるので注意して下さい。</LF_WaterwayConstructionSpot.description>
+
+	<LF_KAZUSA_WaterVeinDrillSystem.label>上総掘り櫓</LF_KAZUSA_WaterVeinDrillSystem.label>
+	<LF_KAZUSA_WaterVeinDrillSystem.description>電気を使わずに帯水層まで掘り抜く、異国の伝統的な垂直掘削装置。時間はかかりますが、木材と少量の鉄、そしてわずかな人員のみで500m以上の掘削が出来ます。掘削を終えると地形が温泉・泉・流水のいずれかに変わります。どれになるかは実際に掘り当てるまでわかりません。\n*この設備は作業地点に水源が湧くので設置場所に注意して下さい。</LF_KAZUSA_WaterVeinDrillSystem.description>
+
+	<LF_WaterVeinDrill.label>帯水層ボーリング装置</LF_WaterVeinDrill.label>
+	<LF_WaterVeinDrill.description>地下水を掘り当てるための電動掘削装置です。人力掘削よりも高速ですが、基本的にドリルは使い捨てなので資源は回収できません。掘削を終えると地形が温泉・泉・流水のいずれかに変わります。どれになるかは実際に掘り当てるまでわかりません。</LF_WaterVeinDrill.description>
+
+	<LF_LandfillDeep.label>深部水源の埋立</LF_LandfillDeep.label>
+	<LF_LandfillDeep.description>進入できない深部を埋め立てて通行可能な浅瀬にします。多くの資源と工数を要します。</LF_LandfillDeep.description>
+
+	<LF_LandAdaptationSoil.label>土壌改良（土）</LF_LandAdaptationSoil.label>
+	<LF_LandAdaptationSoil.description>指定した地面の土壌改良を行います。建設後から徐々に土壌へと定着し、一定時間経過後に地形を土に変化させます。（複製ではなくバニラの土地形そのものを生成します）</LF_LandAdaptationSoil.description>
+
+	<LF_LandAdaptationRichSoil.label>土壌改良（肥えた土）</LF_LandAdaptationRichSoil.label>
+	<LF_LandAdaptationRichSoil.description>指定した地面の土壌改良を行います。建設後から徐々に土壌へと定着し、一定時間経過後に地形を肥えた土に変化させます。（複製ではなくバニラの肥えた土地形そのものを生成します）</LF_LandAdaptationRichSoil.description>
+
+	<LF_LandAdaptationGravel.label>土壌改良（砂利）</LF_LandAdaptationGravel.label>
+	<LF_LandAdaptationGravel.description>指定した地面の土壌改良を行います。建設後から徐々に土壌へと定着し、一定時間経過後に地形を砂利に変化させます。（複製ではなくバニラの砂利地形そのものを生成します）</LF_LandAdaptationGravel.description>
+
+	<LF_LandAdaptationSand.label>土壌改良（砂）</LF_LandAdaptationSand.label>
+	<LF_LandAdaptationSand.description>指定した地面の土壌改良を行います。建設後から徐々に土壌へと定着し、一定時間経過後に地形を砂に変化させます。（複製ではなくバニラの砂地形そのものを生成します）</LF_LandAdaptationSand.description>
+
+	<LF_LandAdaptationMud.label>土壌改良（泥）</LF_LandAdaptationMud.label>
+	<LF_LandAdaptationMud.description>指定した地面の土壌改良を行います。建設後から徐々に土壌へと定着し、一定時間経過後に地形を泥に変化させます。（複製ではなくバニラの泥地形そのものを生成します）</LF_LandAdaptationMud.description>
+
+</LanguageData>

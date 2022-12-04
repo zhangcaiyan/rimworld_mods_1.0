@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Hodama.label>火玉</Yokai_Hodama.label>
+  <Yokai_Hodama.description>火玉的分布範圍廣泛，能在各處見到這種妖怪。
+    \n據說是往者的靈魂，也可能是在森林大火之中取得自我意識的火團。基本上無法馴養。
+    \n最喜歡樹目，假若放任不管會將樹木吞噬至盡。會直接用火焰攻擊，在討伐時須多加留意。
+    \n因其特性，毆打與斬擊基本上不具效果。雖然具有高度抗熱/抗火能力，但對於寒冷氣候是毫無抵抗力的。
+    \n無法取得皮與肉，死亡時會產生巨大的爆發。</Yokai_Hodama.description>
+  <Yokai_Hodama.tools.0.label>炎</Yokai_Hodama.tools.0.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Hodama_Corpse.label>火玉的屍體</Yokai_Hodama_Corpse.label>
+  <Yokai_Hodama_Corpse.description>殘焰消逝的火玉屍體。無法取得皮與肉。</Yokai_Hodama_Corpse.description>
+</LanguageData>

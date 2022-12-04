@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Kappa.label>Kappa</Yokai_Kappa.label>
+  <Yokai_Kappa.labelPlural>Kappas</Yokai_Kappa.labelPlural>
+  <Yokai_Kappa.lifeStages.0.label>Kappa</Yokai_Kappa.lifeStages.0.label>
+  <Yokai_Kappa.lifeStages.0.labelPlural>Kappa</Yokai_Kappa.lifeStages.0.labelPlural>
+  <Yokai_Kappa.lifeStages.0.labelMale>male Kappa</Yokai_Kappa.lifeStages.0.labelMale>
+  <Yokai_Kappa.lifeStages.0.labelMalePlural>male Kappas</Yokai_Kappa.lifeStages.0.labelMalePlural>
+  <Yokai_Kappa.lifeStages.0.labelFemale>female Kappa</Yokai_Kappa.lifeStages.0.labelFemale>
+  <Yokai_Kappa.lifeStages.0.labelFemalePlural>female Kappas</Yokai_Kappa.lifeStages.0.labelFemalePlural>
+  <Yokai_Kappa.lifeStages.1.label>Kappa</Yokai_Kappa.lifeStages.1.label>
+  <Yokai_Kappa.lifeStages.1.labelPlural>Kappa</Yokai_Kappa.lifeStages.1.labelPlural>
+  <Yokai_Kappa.lifeStages.1.labelMale>male Kappa</Yokai_Kappa.lifeStages.1.labelMale>
+  <Yokai_Kappa.lifeStages.1.labelMalePlural>male Kappas</Yokai_Kappa.lifeStages.1.labelMalePlural>
+  <Yokai_Kappa.lifeStages.1.labelFemale>female Kappa</Yokai_Kappa.lifeStages.1.labelFemale>
+  <Yokai_Kappa.lifeStages.1.labelFemalePlural>female Kappas</Yokai_Kappa.lifeStages.1.labelFemalePlural>
+  <Yokai_Kappa.labelMale>male Kappa</Yokai_Kappa.labelMale>
+  <Yokai_Kappa.labelMalePlural>male Kappas</Yokai_Kappa.labelMalePlural>
+  <Yokai_Kappa.labelFemale>female Kappa</Yokai_Kappa.labelFemale>
+  <Yokai_Kappa.labelFemalePlural>female Kappas</Yokai_Kappa.labelFemalePlural>
+
+
+  <!-- やせ河童 -->
+
+  <Yokai_OKappa.label>Kappa</Yokai_OKappa.label>
+  <Yokai_OKappa.labelPlural>Kappas</Yokai_OKappa.labelPlural>
+  <Yokai_OKappa.lifeStages.0.label>Kappa</Yokai_OKappa.lifeStages.0.label>
+  <Yokai_OKappa.lifeStages.0.labelPlural>Kappa</Yokai_OKappa.lifeStages.0.labelPlural>
+  <Yokai_OKappa.lifeStages.0.labelMale>male Kappa</Yokai_OKappa.lifeStages.0.labelMale>
+  <Yokai_OKappa.lifeStages.0.labelMalePlural>male Kappas</Yokai_OKappa.lifeStages.0.labelMalePlural>
+  <Yokai_OKappa.lifeStages.0.labelFemale>female Kappa</Yokai_OKappa.lifeStages.0.labelFemale>
+  <Yokai_OKappa.lifeStages.0.labelFemalePlural>female Kappas</Yokai_OKappa.lifeStages.0.labelFemalePlural>
+  <Yokai_OKappa.lifeStages.1.label>Kappa</Yokai_OKappa.lifeStages.1.label>
+  <Yokai_OKappa.lifeStages.1.labelPlural>Kappa</Yokai_OKappa.lifeStages.1.labelPlural>
+  <Yokai_OKappa.lifeStages.1.labelMale>male Kappa</Yokai_OKappa.lifeStages.1.labelMale>
+  <Yokai_OKappa.lifeStages.1.labelMalePlural>male Kappas</Yokai_OKappa.lifeStages.1.labelMalePlural>
+  <Yokai_OKappa.lifeStages.1.labelFemale>female Kappa</Yokai_OKappa.lifeStages.1.labelFemale>
+  <Yokai_OKappa.lifeStages.1.labelFemalePlural>female Kappas</Yokai_OKappa.lifeStages.1.labelFemalePlural>
+  <Yokai_OKappa.labelMale>male Kappa</Yokai_OKappa.labelMale>
+  <Yokai_OKappa.labelMalePlural>male Kappas</Yokai_OKappa.labelMalePlural>
+  <Yokai_OKappa.labelFemale>female Kappa</Yokai_OKappa.labelFemale>
+  <Yokai_OKappa.labelFemalePlural>female Kappas</Yokai_OKappa.labelFemalePlural>
+
+
+</LanguageData>

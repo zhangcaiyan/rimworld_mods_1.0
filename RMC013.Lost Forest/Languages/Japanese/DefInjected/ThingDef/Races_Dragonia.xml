@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Dragonia.label>青き竜の子</LF_Dragonia.label>
+  <LF_Dragonia.description>朱き竜からは"蒼き思慮"、古き森の民からは"青き叡智"の異名で呼ばれた竜の血脈の末裔です。彼らを滅ぼした者達にはおろか、かつての配下であった古き森の民にさえ、その存在を知る者は一人として居ません。とある存在に匿われて育てられたため、彼女は外の世界も、両親の顔も見たことがありません。ずっとひとりぼっちで、かなりの人見知りです。しかし魔術や古竜学の分野に関してはきわめて高い教養を与えられていたようで、幼いながらも難解な術式や強力な竜言語を造作もなく使いこなします。彼女を説得することができれば、あなたのコロニーに失われたテクノロジーに関わる大きな躍進がもたらされることでしょう。（出会えても、勧誘に失敗すれば彼女はその日のうちにその地を去ってしまいます。）</LF_Dragonia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Dragonia_Meat.label>青き竜の子の肉</LF_Dragonia_Meat.label>
+  <LF_Dragonia_Meat.description>青き竜の子の肉。壊れてしまった彼女の仲間たちの末路です。</LF_Dragonia_Meat.description>
+-->
+  <LF_Dragonia_Corpse.label>青き竜の子の死骸</LF_Dragonia_Corpse.label>
+  <LF_Dragonia_Corpse.description>冷たくなった青き竜の子の死骸です。もはや何者も、彼女を苦しめることはできません。</LF_Dragonia_Corpse.description>
+
+
+</LanguageData>

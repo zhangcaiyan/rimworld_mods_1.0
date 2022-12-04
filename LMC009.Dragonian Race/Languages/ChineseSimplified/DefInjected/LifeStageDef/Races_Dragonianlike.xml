@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DragonianlikeBaby.label>婴儿</DragonianlikeBaby.label>
+  <DragonianlikeToddler.label>幼儿</DragonianlikeToddler.label>
+  <DragonianlikeChild.label>小孩子</DragonianlikeChild.label>
+
+  <DragonianlikeTeenager.label>青年</DragonianlikeTeenager.label>
+  <DragonianlikeTeenager.adjective>青年</DragonianlikeTeenager.adjective>
+
+  <DragonianlikeAdult.label>成人</DragonianlikeAdult.label>
+
+
+</LanguageData>

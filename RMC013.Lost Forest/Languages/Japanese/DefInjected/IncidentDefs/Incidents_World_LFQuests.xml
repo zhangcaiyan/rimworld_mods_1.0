@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+
+    <Quest_LFFindOutSurvivor.label>遭難者捜索</Quest_LFFindOutSurvivor.label>
+
+    <Quest_LFFindOutSurvivor.letterLabel>遭難者捜索</Quest_LFFindOutSurvivor.letterLabel>
+
+    <Quest_LFFindOutSurvivor.letterText>コロニーの近くで、仲間とはぐれた獣人の姿が目撃されたとの噂を耳にしました。{0}日以内にその場所へ向かえば、何か手がかりがつかめるかもしれません。 \n {1}</Quest_LFFindOutSurvivor.letterText>
+
+
+    <Quest_LFGaitOfAncientOne.label>主の足取り</Quest_LFGaitOfAncientOne.label>
+
+    <Quest_LFGaitOfAncientOne.letterLabel>主の足取り</Quest_LFGaitOfAncientOne.letterLabel>
+
+    <Quest_LFGaitOfAncientOne.letterText>いくつかの手がかりによって、未知なる者の足取りをつかみました。召使いちび竜たちの主である”それ”は、恐らく、{0}日の間そこに留まっているでしょう。残念ながら、接触の時間的猶予はあまり多くないようです。</Quest_LFGaitOfAncientOne.letterText>
+
+
+
+
+
+
+
+</LanguageData>

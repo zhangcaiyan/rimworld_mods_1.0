@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Wolvern.label>小不点狼</LF_Wolvern.label>
+  <LF_Wolvern.description>带有幻想般异国风貌的少女型生物。她有着如狼一般覆着软绵柔毛的耳朵与尾巴，以及一双修长俏丽的美腿。身为远古森林巫女的贴身护卫，表现得相当可靠。对于一天到晚忽然消失，四处惹麻烦的搭档，常投予锐利的眼神与严厉的斥责。但也不时默默替她操心，有着温柔的一面。作为森林守卫的一员，其实力可称一流，以自身的肢体作为武器，并透过精巧的武艺来保护同伴。在作为故郷的森遭到破坏后，可能是在找寻流离四散的同伴时不慎落单，偶尔能在殖民地的附近目击到她的身姿。</LF_Wolvern.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Wolvern_Meat.label>ちび狼の肉</LF_Wolvern_Meat.label>
+  <LF_Wolvern_Meat.description>ちび狼の肉。壊れてしまった彼女の仲间たちの末路です。</LF_Wolvern_Meat.description>
+-->
+  <LF_Wolvern_Corpse.label>小不点狼的尸体</LF_Wolvern_Corpse.label>
+  <LF_Wolvern_Corpse.description>逐渐失去温度的小不点狼尸体。再也没人能带给她带来更多痛苦。</LF_Wolvern_Corpse.description>
+
+</LanguageData>

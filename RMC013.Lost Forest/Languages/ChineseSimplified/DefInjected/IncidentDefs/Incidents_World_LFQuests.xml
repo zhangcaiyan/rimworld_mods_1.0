@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+
+    <Quest_LFFindOutSurvivor.label>捜寻遇难者</Quest_LFFindOutSurvivor.label>
+
+    <Quest_LFFindOutSurvivor.letterLabel>搜寻遇难者</Quest_LFFindOutSurvivor.letterLabel>
+
+    <Quest_LFFindOutSurvivor.letterText>据说在这殖民地的附近有人曾目击到与同伴走散的兽人的身影。假如在{0}日内前往指定场所的话，说不订能找到一些线索\n {1}</Quest_LFFindOutSurvivor.letterText>
+
+
+    <Quest_LFGaitOfAncientOne.label>主人的行踪</Quest_LFGaitOfAncientOne.label>
+
+    <Quest_LFGaitOfAncientOne.letterLabel>主人的行踪</Quest_LFGaitOfAncientOne.letterLabel>
+
+    <Quest_LFGaitOfAncientOne.letterText>根据数个线索，我们成功掌握了未知人物的去向。小不点随从龙的主人估计会在{0}日之间滞留于那处。只怕，能让我们犹豫是否该与其交涉的时间似乎所剩不多。</Quest_LFGaitOfAncientOne.letterText>
+
+
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_HihiiroKabe.label>Hihiirokabe</Yokai_HihiiroKabe.label>
+  <Yokai_HihiiroKabe.description>A variation of the Nurikabe, these rare creatures are augmented to have greater defense and attack,though their movement speed suffers for it. As such, they cannot be found in the wild and must be purchased from various merchants. 
+      \nThese gentle guardians will give their lives to defend others; upon death they yield neither leather or meat, rather their form can be broken down into a deposit of rare metal.</Yokai_HihiiroKabe.description>
+  <Yokai_HihiiroKabe.tools.0.label>Left hand</Yokai_HihiiroKabe.tools.0.label>
+  <Yokai_HihiiroKabe.tools.1.label>Right hand</Yokai_HihiiroKabe.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_HihiiroKabe_Corpse.label>Hihiirokabe corpse</Yokai_HihiiroKabe_Corpse.label>
+  <Yokai_HihiiroKabe_Corpse.description>Hihiirokabe corpse</Yokai_HihiiroKabe_Corpse.description>
+
+
+  <!-- ヒヒイロカネ -->
+
+  <Yokai_HihiiroKane.label>Hihirokane</Yokai_HihiiroKane.label>
+  <Yokai_HihiiroKane.description>A valuable red metal that is lighter than silver, more durable than steel, and somewhat difficult to refine</Yokai_HihiiroKane.description>
+  <Yokai_HihiiroKane.stuffProps.stuffAdjective>Hihirokane</Yokai_HihiiroKane.stuffProps.stuffAdjective>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audio-vizual</Audiovisuals>
+  <GameVolume>Volum Joc</GameVolume>
+  <MusicVolume>Volum Muzică</MusicVolume>
+  <GraphicsQuality>Calitate grafică</GraphicsQuality>
+  <GraphicsQualityNormal>Normală</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Bună</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Deplasare cameră cu mouse</EdgeScreenScroll>
+  <CustomCursor>Cursor special</CustomCursor>
+  <KeyboardConfig>Configurare tastatură</KeyboardConfig>
+  <ChooseLanguage>Alege limba</ChooseLanguage>
+  <AdaptiveTutor>Tutore</AdaptiveTutor>
+  <ResetAdaptiveTutor>Resetare tutore</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Tutorele a fost resetat. O va lua de la început.</AdaptiveTutorIsReset>
+  <RunInBackground>Continuă jocul minimizat</RunInBackground>
+  <DevelopmentMode>Modul de depanare</DevelopmentMode>
+  <LogVerbose>Înregistrare tip Verbose</LogVerbose>
+  <OpenSaveGameDataFolder>Deschide fișierul cu salvări</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Numele de familie ale caracterelor ce vor apărea în joc:</NamesYouWantToSee>
+  <ChangeStoryteller>Alege un povestitor</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Rezoluție</Resolution>
+  <Fullscreen>Pe tot ecranul</Fullscreen>
+  <CurrentRes>Rezoluție: {0}</CurrentRes>
+  <ChooseResolution>Alege rezoluția</ChooseResolution>
+
+  
+  <!-- Privacy-->
+  <Privacy>Setări private</Privacy>
+  <UserName>Nume de utilizator</UserName>
+  <ChooseHistoryUploadPref>Preferințe de încărcare a istoriei jocurilor.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Momentan {0}</CurrentHistoryUploadPref>
+ <AboutHistoryUpload>Istoricul jocurilor ajută programatorii în dezvoltarea acestuia. Dacă ești de acord, informațiile vor fi trimise o dată la {0} zile în joc (sau la finalul acestuia) către server-ul RimWorld, unde vor fi analizate. Aceste informații sunt doar statistici legate de joc - nu va fi trimisă nici o informație personală.</AboutHistoryUpload>
+  
+</LanguageData>

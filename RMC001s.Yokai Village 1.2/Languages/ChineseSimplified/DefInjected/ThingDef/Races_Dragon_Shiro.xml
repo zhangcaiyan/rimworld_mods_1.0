@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Shiro.label>希洛</Yokai_Dragon_Shiro.label>
+  <Yokai_Dragon_Shiro.description>希洛是栖息在寒冷地带的草食性白龙。以青草丶橡果，以及果实等为主食。生性温驯丶容易与人亲近。但若招惹上它，强而有力的爪子能轻易的撕裂人类的皮肤。
+    \n聪明的希洛除了能作为帮忙搬运物品丶救助人命以外，在组织商队时也能作为卧兽派上用场。它们温暖蓬松的毛会在半年内换毛一次，能作为出色的服装素材。
+    \n会在野外形成小型兽群，较常栖息在针叶林丶苔原丶冰海等环境。
+    \n战斗方面也相当出色，若能号令整群的希洛大军向敌军突袭，将成为无可忽视的战力。</Yokai_Dragon_Shiro.description>
+  <Yokai_Dragon_Shiro.tools.0.label>左前脚</Yokai_Dragon_Shiro.tools.0.label>
+  <Yokai_Dragon_Shiro.tools.1.label>右前脚</Yokai_Dragon_Shiro.tools.1.label>
+  <Yokai_Dragon_Shiro.tools.2.label>牙</Yokai_Dragon_Shiro.tools.2.label>
+  <Yokai_Dragon_Shiro_Corpse.label>希洛的尸体</Yokai_Dragon_Shiro_Corpse.label>
+  <Yokai_Dragon_Shiro_Corpse.description>冷却後逐渐僵硬的希洛尸体。</Yokai_Dragon_Shiro_Corpse.description>
+</LanguageData>

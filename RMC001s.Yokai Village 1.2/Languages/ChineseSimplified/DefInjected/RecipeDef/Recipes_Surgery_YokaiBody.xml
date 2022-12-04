@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Lamia Bionic Tail -->
+  <Yokai_Install_LamiaSPT.label>义尾(手术)</Yokai_Install_LamiaSPT.label>
+  <Yokai_Install_LamiaSPT.description>替拉米亚装上人工尾巴。</Yokai_Install_LamiaSPT.description>
+  <Yokai_Install_LamiaSPT.jobString>接上义尾中。</Yokai_Install_LamiaSPT.jobString>
+  <Yokai_Install_LamiaBT.label>精良义尾(手术)</Yokai_Install_LamiaBT.label>
+  <Yokai_Install_LamiaBT.description>替拉米亚装上精良人工尻尾。</Yokai_Install_LamiaBT.description>
+  <Yokai_Install_LamiaBT.jobString>接上精良尾巴中。</Yokai_Install_LamiaBT.jobString>
+  <Yokai_Install_JorouGumoSPL.label>人工义足(手术)</Yokai_Install_JorouGumoSPL.label>
+  <Yokai_Install_JorouGumoSPL.description>替女郎蜘蛛装上人工义足。</Yokai_Install_JorouGumoSPL.description>
+  <Yokai_Install_JorouGumoSPL.jobString>接上义足中。</Yokai_Install_JorouGumoSPL.jobString>
+  <Yokai_Install_JorouGumoBL.label>精良人工义足(手术)</Yokai_Install_JorouGumoBL.label>
+  <Yokai_Install_JorouGumoBL.description>女郎蜘蛛装上精良人工义足。</Yokai_Install_JorouGumoBL.description>
+  <Yokai_Install_JorouGumoBL.jobString>接上精良人工义足中。</Yokai_Install_JorouGumoBL.jobString>
+</LanguageData>

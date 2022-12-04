@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Trees -->
+
+  <PlantTreeJapaneseMaple.label>日本楓樹</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>這種漂亮的樹的枝條以各種出人意料的角度扭轉卷曲，葉子是的燦爛的橙紅色，非常吸引人眼球。</PlantTreeJapaneseMaple.description>
+
+  <PlantTreeCherryBlossom.label>櫻花樹</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>櫻花樹算不上好的建材來源，但卻是你的草坪上最美的樹之一。</PlantTreeCherryBlossom.description>
+
+  <PlantTreeCamellia.label>山茶樹</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>這種矮小的觀賞樹有著美麗花朵。山茶花有一個著名的特點：即使在寒冬中依然能保持嬌嫩。</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>金合歡樹</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>金合歡樹是一種耐乾旱植物，生長在乾旱的草原和沙漠中。木材產量不高且長有尖刺。</PlantTreeAcacia.description>
+
+  <PlantTreeRedMaple.label>紅楓樹</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>一種長著紅色葉子的軟木樹。</PlantTreeRedMaple.description>
+
+
+</LanguageData>

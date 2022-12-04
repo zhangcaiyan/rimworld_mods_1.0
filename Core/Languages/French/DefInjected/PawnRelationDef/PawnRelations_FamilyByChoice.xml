@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>gendre</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>bru</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>ex-petit ami</ExLover.label>
+  <ExLover.labelFemale>ex-petite amie</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>ex-mari</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>ex-femme</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>fiancé</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>fiancée</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>amoureux</Lover.label>
+  <Lover.labelFemale>amoureuse</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>beau-père</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>belle-mère</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>mari</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>femme</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>beau-fils</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>belle-fille</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>beau-père</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>belle-mère</Stepparent.labelFemale>
+  
+</LanguageData>

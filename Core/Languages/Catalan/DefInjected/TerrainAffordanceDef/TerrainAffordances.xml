@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>s’hi pot posar un pont</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>s’hi pot excavar</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>s’hi pot plantar</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>pesat</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>lluminós</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>mitjà</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>aigua en moviment</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>aigua poc profunda</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>es pot allisar</SmoothableStone.label>
+  
+</LanguageData>

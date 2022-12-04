@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>Yokai_Tukumo</defName>
+    <label>Tukumo</label>
+    <description>Respect, honor, and tradition, every warrior is taught these tenets during training, and each one is encouraged by their peers, by the elders, by the Tsuzurao to pursue these goals: lest the village fall due to their apathy. Not all warriors go out for battle, but all train and maintain their readiness; this, of course, is atop their other duties as individuals, as they seek to contribute to the village through farming, crafting, or trading. 
+    \nAs each home should be ready for battle, the demand for swords is high in any Yokai village, and the crafting of these swords is an interesting affair. Several villages have adopted a more competitive approach, encouraging smiths to sell their best pieces at festivals; however, most villages still operate on the familial system, where younger villagers have their swords made by their family elders. The craftsmanship put into these swords makes each one a piece of art. Homes are often decorated with multiple swords representing prior generations. Tukumo come from such swords.
+    \nLegend states that when a family member dies their spirit can inhabit the sword they used as a child; however, to qualify the family member must exemplify the values of a warrior-though they didn't have to be one in life-and their childhood sword must be displayed prominently in their home, used at least once a year, and be well taken care of throughout the years: not just the last couple. As the Tukumo lack any ability to speak, it's impossible to prove whether each sword is actually an ancestral spirit or not. The Tsuzurao have remained silent on the matter, forcing villagers to speculate on their own.
+    \nAnyone that's hit by the Tukumo is declared an enemy of the Yokai village.</description>
+    <statBases>
+      <MoveSpeed>8</MoveSpeed>
+      <ComfyTemperatureMin>-600</ComfyTemperatureMin>
+      <ComfyTemperatureMax>600</ComfyTemperatureMax>
+      <MeatAmount>0</MeatAmount>
+      <LeatherAmount>0</LeatherAmount>
+      <ToxicSensitivity>0</ToxicSensitivity>
+      <PsychicSensitivity>0</PsychicSensitivity>
+      <Flammability>0</Flammability>
+      <ArmorRating_Blunt>0.60</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Heat>1</ArmorRating_Heat>
+      <MarketValue>800</MarketValue>
+      <Mass>16</Mass>
+      <MeleeArmorPenetration>1.5</MeleeArmorPenetration>
+      <MeleeHitChance>1.8</MeleeHitChance>
+      <MeleeDodgeChance>1.3</MeleeDodgeChance>
+    </statBases>
+    <tools>
+      <li>
+        <label>Cut</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>18</power>
+        <cooldownTime>1.4</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <herdAnimal>false</herdAnimal>
+      <herdMigrationAllowed>false</herdMigrationAllowed>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <intelligence>ToolUser</intelligence>
+      <thinkTreeMain>Humanlike</thinkTreeMain>
+      <body>TukumoBody</body>
+      <hasGenders>false</hasGenders>
+      <needsRest>false</needsRest>
+      <useMeatFrom>Yokai_Kamaitachi</useMeatFrom>
+      <baseHungerRate>0</baseHungerRate>
+      <baseHealthScale>2.5</baseHealthScale>
+      <baseBodySize>0.7</baseBodySize>
+      <foodType>OmnivoreAnimal, AnimalProduct</foodType>
+      <wildness>0</wildness>
+      <lifeExpectancy>100</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0</minAge>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <butcherProducts>
+      <Steel>50</Steel>
+    </butcherProducts>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Yokai_Tukumo</defName>
+    <label>Tukumo</label>
+    <race>Yokai_Tukumo</race>
+    <combatPower>50</combatPower>
+    <canArriveManhunter>false</canArriveManhunter>
+    <defaultFactionType>Yokai_Village</defaultFactionType>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Tukumo/Tukumo</texPath>
+          <drawSize>1.25</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.15)</offset>
+          </shadowData>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+    <apparelTags>
+      <li>NinetailBlessing</li>
+    </apparelTags>
+    <apparelMoney>
+      <min>0</min>
+      <max>10</max>
+    </apparelMoney>
+  </PawnKindDef>
+</Defs>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>Yokai_HinoKo</defName>
+    <label>Hi no Ko</label>
+    <description>This "Child of Fire," is a small unusual Yokai who-unironically-likes fire.
+    \nAs seemingly living flames, they are resistant to heat and fire damage, and are mainly seen in deserts and extreme deserts.
+    \nTheir fists are wrapped in flames, and their bodies explode upon death; thus, be careful when using them to defend your colony.
+    \nThey are somewhat easy to tame. Butchering their smoldering corpses will render liquid fuel, not leather or meat.</description>
+    <statBases>
+      <MoveSpeed>3.5</MoveSpeed>
+      <ComfyTemperatureMax>2400</ComfyTemperatureMax>
+      <ComfyTemperatureMin>0</ComfyTemperatureMin>
+      <MarketValue>800</MarketValue>
+      <MeatAmount>0</MeatAmount>
+      <LeatherAmount>0</LeatherAmount>
+      <ArmorRating_Heat>3</ArmorRating_Heat>
+      <Flammability>0</Flammability>
+      <Mass>40</Mass>
+    </statBases>
+    <tools>
+      <li>
+        <label>Left hand</label>
+        <capacities>
+          <li>FoxFlame</li>
+        </capacities>
+        <cooldownTime>1.3</cooldownTime>
+        <power>13</power>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>Right hand</label>
+        <capacities>
+          <li>FoxFlame</li>
+        </capacities>
+        <cooldownTime>1.3</cooldownTime>
+        <power>13</power>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>Human</body>
+      <deathActionWorkerClass>DeathActionWorker_BigExplosion</deathActionWorkerClass>
+      <executionRange>4</executionRange>
+      <baseBodySize>1.2</baseBodySize>
+      <baseHungerRate>1.0</baseHungerRate>
+      <baseHealthScale>2</baseHealthScale>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <manhunterOnDamageChance>0.3</manhunterOnDamageChance>
+      <useMeatFrom>Yokai_Kamaitachi</useMeatFrom>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <wildness>0.5</wildness>
+      <petness>0.1</petness>
+      <wildBiomes>
+        <Desert>0.1</Desert>
+        <AridShrubland>0.1</AridShrubland>
+        <ExtremeDesert>0.2</ExtremeDesert>
+        <TropicalRainforest>0.06</TropicalRainforest>
+        <TemperateForest>0.02</TemperateForest>
+        <BorealForest>0.02</BorealForest>
+        <TemperateSwamp>0.02</TemperateSwamp>
+        <ColdBog>0.001</ColdBog>
+        <TropicalSwamp>0.06</TropicalSwamp>
+      </wildBiomes>
+      <lifeExpectancy>30</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>8</minAge>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+      <ageGenerationCurve>
+        <points>
+          <li>(6,0)</li>
+          <li>(18,50)</li>
+          <li>(28,0)</li>
+        </points>
+      </ageGenerationCurve>
+    </race>
+    <tradeTags>
+      <li>Yokai_Nomal</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Chemfuel</milkDef>
+        <milkIntervalDays>3</milkIntervalDays>
+        <milkAmount>20</milkAmount>
+        <milkFemaleOnly>false</milkFemaleOnly>
+      </li>
+    </comps>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>Flame</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>FoxFlame</damageDef>
+        <multiplier>0</multiplier>
+      </li>
+      <li>
+        <damageDef>Frostbite</damageDef>
+        <multiplier>10</multiplier>
+      </li>
+    </damageMultipliers>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Yokai_HinoKo</defName>
+    <label>Hi no Ko</label>
+    <race>Yokai_HinoKo</race>
+    <combatPower>143</combatPower>
+    <ecoSystemWeight>0.3</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/HinoKo/HinoKo</texPath>
+          <drawSize>1.0</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/HinoKo/HinoKo</texPath>
+          <drawSize>1.2</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

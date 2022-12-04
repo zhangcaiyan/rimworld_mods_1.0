@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_TuskSprit.label>牙の精霊</Yokai_TuskSprit.label>
+  <Yokai_TuskSprit.description>無機物の様な見た目をした牙の精霊は成長のために食事や睡眠を必要とします。脆く弱いですが４年以上生きた牙の精霊の死骸からは竜の牙を得ることが出来ます。
+    \n野生には存在しておらず商人から買う事でペットにする事ができます。戦う事はできませんし狐にもあっさり狩られるため、育てるには細かな気配りが必要です。</Yokai_TuskSprit.description>
+  <Yokai_TuskSprit.tools.0.label>体当たり</Yokai_TuskSprit.tools.0.label>
+  <Yokai_TuskSprit_Corpse.label>牙の精霊の死骸</Yokai_TuskSprit_Corpse.label>
+  <Yokai_TuskSprit_Corpse.description>寿命を迎えた牙の精霊の死骸です。４年以上生きた個体からは竜の牙が得られます。</Yokai_TuskSprit_Corpse.description>
+</LanguageData>

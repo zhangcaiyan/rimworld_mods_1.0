@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial brain -->
+  <ArtificialBrain.label>artificiell hjärna</ArtificialBrain.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>klinga</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>vätskebahandlare</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>auditiv detektor</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>arm</MechanicalArm.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>kroppsring</MechanicalCentipedeBodyFifthRing.labelShort>
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>femte kroppsring</MechanicalCentipedeBodyFifthRing.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>kroppsring</MechanicalCentipedeBodyFirstRing.labelShort>
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>första kroppsring</MechanicalCentipedeBodyFirstRing.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>kroppsring</MechanicalCentipedeBodyFourthRing.labelShort>
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>fjärde kroppsring</MechanicalCentipedeBodyFourthRing.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>kroppsring</MechanicalCentipedeBodySecondRing.labelShort>
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>andra kroppsring</MechanicalCentipedeBodySecondRing.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>kroppsring</MechanicalCentipedeBodySixthRing.labelShort>
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>sjätte kroppsring</MechanicalCentipedeBodySixthRing.label>
+  
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>kroppsring</MechanicalCentipedeBodyThirdRing.labelShort>
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>tredje kroppsring</MechanicalCentipedeBodyThirdRing.label>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>finger</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>fot</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>hand</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>huvud</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>ben</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>nacke</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>axel</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>bröstkorg</MechanicalThorax.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>reaktor</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>visuell detektor</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>olfaktorisk detektor</SmellSensor.label>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Sand.label>sand</Sand.label>
+    
+    <Soil.label>jord</Soil.label>
+    
+    <MarshyTerrain.label>Myrlendt terreng</MarshyTerrain.label>
+    
+    <SoilRich.label>rik jord</SoilRich.label>
+    
+    <Mud.label>gjørme</Mud.label>
+    
+    <Marsh.label>mose</Marsh.label>
+    
+    <Gravel.label>grus</Gravel.label>
+    
+    <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
+    
+    <Ice.label>Ice</Ice.label>
+    
+</LanguageData>

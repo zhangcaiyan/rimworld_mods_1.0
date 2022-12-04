@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ヒイロの壁 -->
+
+  <Yokai_Wall.label>light wall</Yokai_Wall.label>
+  <Yokai_Wall.description>From wall to wall, the Hiirokane used to make this wall imbues it with spectral energy. The Nurikabe and its cousin share a sturdiness unmatched by anything on the Rim; that said, their durability comes from their magical nature: not just their physiology. Stories have spread far and wide about those walls, that they appear, suddenly, blocking a traveler's way, though such tales are often split upon whether the Nurikabe was invisible or not.</Yokai_Wall.description>
+  <Yokai_Wall_Blueprint.label>light wall (blueprint)</Yokai_Wall_Blueprint.label>
+  <Yokai_Wall_Frame.label>light wall (building)</Yokai_Wall_Frame.label>
+  <Yokai_Wall_Frame.description>From wall to wall, the Hiirokane used to make this wall imbues it with spectral energy. The Nurikabe and its cousin share a sturdiness unmatched by anything on the Rim; that said, their durability comes from their magical nature: not just their physiology. Stories have spread far and wide about those walls, that they appear, suddenly, blocking a traveler's way, though such tales are often split upon whether the Nurikabe was invisible or not.</Yokai_Wall_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_ninetail_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>ninetail_call</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_ninetail_Angry</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>ninetail_angry2</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_ninetail_Wounded</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>ninetail_wounded</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_ninetail_Death</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>ninetail_death1</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

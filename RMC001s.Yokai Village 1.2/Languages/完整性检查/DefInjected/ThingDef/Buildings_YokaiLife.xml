@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪松明 -->
+
+  <Yokai_taimatu.label>Yokai Shroom(light)</Yokai_taimatu.label>
+  <Yokai_taimatu.description>仄かな明かりをもたらす一抱えほどもある妖怪の茸の一つです。照明器具の代わりに利用されています。
+   \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があります。
+   \n栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。</Yokai_taimatu.description>
+  <Yokai_taimatu_Blueprint.label>Yokai Shroom(light) (blueprint)</Yokai_taimatu_Blueprint.label>
+  <Yokai_taimatu_Frame.label>Yokai Shroom(light) (building)</Yokai_taimatu_Frame.label>
+  <Yokai_taimatu_Frame.description>仄かな明かりをもたらす一抱えほどもある妖怪の茸の一つです。照明器具の代わりに利用されています。
+   \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があります。
+   \n栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。</Yokai_taimatu_Frame.description>
+
+
+  <!-- 土壌の改善 -->
+
+  <Yokai_Kinoko.label>Yokai Mushuroom(dry)</Yokai_Kinoko.label>
+  <Yokai_Kinoko.description>This yokai mushroom growing from the hair of NekoMusume sucks up moisture rapidly from the surrounding soil. Although the range is narrow, you can dry the ground faster than the soil improvement pump at low cost.</Yokai_Kinoko.description>
+  <Yokai_Kinoko_Blueprint.label>Yokai Mushuroom(dry) (blueprint)</Yokai_Kinoko_Blueprint.label>
+  <Yokai_Kinoko_Frame.label>Yokai Mushuroom(dry) (building)</Yokai_Kinoko_Frame.label>
+  <Yokai_Kinoko_Frame.description>This yokai mushroom growing from the hair of NekoMusume sucks up moisture rapidly from the surrounding soil. Although the range is narrow, you can dry the ground faster than the soil improvement pump at low cost.</Yokai_Kinoko_Frame.description>
+
+
+  <!-- 太陽茸 -->
+
+  <Yokai_TaiyouKinoko.label>Giant Sun Shroom</Yokai_TaiyouKinoko.label>
+  <Yokai_TaiyouKinoko.description>妖秘の石と猫娘の毛を使って作ることが出来る、間欠泉にのみ生存可能な大型の群生茸です。
+    \n太陽の名にふさわしい強力な熱と光を放つこの茸を壁で囲うことで、広く安定した温室を作ることができます。</Yokai_TaiyouKinoko.description>
+  <Yokai_TaiyouKinoko_Blueprint.label>Giant Sun Shroom (blueprint)</Yokai_TaiyouKinoko_Blueprint.label>
+  <Yokai_TaiyouKinoko_Frame.label>Giant Sun Shroom (building)</Yokai_TaiyouKinoko_Frame.label>
+  <Yokai_TaiyouKinoko_Frame.description>妖秘の石と猫娘の毛を使って作ることが出来る、間欠泉にのみ生存可能な大型の群生茸です。
+    \n太陽の名にふさわしい強力な熱と光を放つこの茸を壁で囲うことで、広く安定した温室を作ることができます。</Yokai_TaiyouKinoko_Frame.description>
+
+
+</LanguageData>

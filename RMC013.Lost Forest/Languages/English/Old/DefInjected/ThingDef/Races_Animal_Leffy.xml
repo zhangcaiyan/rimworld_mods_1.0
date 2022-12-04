@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Leffy.label>Leffy</LF_Leffy.label>
+  <LF_Leffy.description>A small, delicate animal covered in fleecy fur. Though recognized by their fluffy ears and tail, Leffy’s are known across the Rim for their fur. Hunters, collectors, and doctors alike have hunted these creatures to near extinction, as their fur resists various bacteria, making it very useful in medical settings. Has a small chance to appear in any biome.</LF_Leffy.description>
+  <LF_Leffy_Meat.label>Beast meat</LF_Leffy_Meat.label>
+  <LF_Leffy_Meat.description>The meat of a slain animal.</LF_Leffy_Meat.description>
+  <LF_Leffy_Corpse.label>Leffy corpse</LF_Leffy_Corpse.label>
+  <LF_Leffy_Corpse.description>A corpse of a poor Leffy, which brings their species one step closer to extinction.</LF_Leffy_Corpse.description>
+
+
+</LanguageData>

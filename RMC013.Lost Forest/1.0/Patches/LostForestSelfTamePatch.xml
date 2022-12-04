@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+
+    <xpath>/Defs/IncidentDef[defName = "SelfTame"]/workerClass</xpath>
+
+    <value>
+
+      <workerClass>LostForestSelfTamePatch.IncidentWorker_SelfTame</workerClass>
+
+    </value>
+
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+
+    <xpath>/Defs/IncidentDef[defName = "FarmAnimalsWanderIn"]/workerClass</xpath>
+
+    <value>
+
+      <workerClass>LostForestSelfTamePatch.IncidentWorker_FarmAnimalsWanderIn</workerClass>
+
+    </value>
+
+  </Operation>
+
+</Patch>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_NineTail.label>九尾の狐</Yokai_NineTail.label>
+  <Yokai_NineTail.description>傾城を詠われた伝説の妖狐です。気位が高く極めて高い戦闘能力を持つため一度怒り狂えば村を１つ滅ぼすとも伝えられています。
+    \n仲間にするのは危険を伴いますが、ひとたび認められれば絶大な力で入植者たちを守ってくれます。
+    \n周囲の仲間に加護を与える不思議な力を持ち、素晴らしく上質な毛がとれます。
+    \n
+    \n九尾の子ぎつねは大人の個体と比べて遥かに脆いため、戦闘には出さない方がいいでしょう。
+    \n大人の九尾は強烈な攻撃能力を持ちますが、さらに上の能力を持つ個体もいるとか・・・</Yokai_NineTail.description>
+  <Yokai_NineTail.tools.0.label>左手</Yokai_NineTail.tools.0.label>
+  <Yokai_NineTail.tools.1.label>右手</Yokai_NineTail.tools.1.label>
+  <Yokai_NineTail_Corpse.label>九尾の狐の死骸</Yokai_NineTail_Corpse.label>
+  <Yokai_NineTail_Corpse.description>冷たく硬くなった九尾の狐の死骸です。もう城も国も傾くことはありません。</Yokai_NineTail_Corpse.description>
+</LanguageData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Vytvoriť svet</CreateWorld>
+  <NewColony>Nová kolónia</NewColony>
+  <BackToGame>Späť do hry</BackToGame>
+  <Save>Uložiť</Save>
+  <Load>Nahrať</Load>
+  <Options>Nastavenia</Options>
+  <Mods>Módy</Mods>
+  <Credits>Poďakovanie</Credits>
+  <QuitToMainMenu>Späť na hlavné menu</QuitToMainMenu>
+  <QuitToOS>Ukončiť hru</QuitToOS>
+  <FictionPrimer>Úvod do príbehu</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Diskusné fóra</Forums>
+  <OfficialWiki>Oficiálna wiki</OfficialWiki>
+  <TynansTwitter>Tynanov twitter</TynansTwitter>
+  <TynansDesignBook>Tynanov dizajnblok</TynansDesignBook>
+  <HelpTranslate>Pomôž preložiť Rimworld</HelpTranslate>
+
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com</BuildNowAvailable>
+  <BuildUpToDate>Vaša verzia hry je aktuálna. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsvk@gmail.com </BuildUpToDate>
+  <ErrorGettingVersionInfo>Chyba pri kontrole informácií o verzii hry: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Načítavam informácie o verzii hry...</LoadingVersionInfo>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Získať mody</GetMods>
+  <ConfirmDisableCoreMod>Naozaj chcete zakázať základný mod? Hra nebude fungovať, pokiaľ nemáte iný mod, ktorý nahrádza základnú funkcionalitu.\n\nZapamätajte si, že iné mody môžu nahradiť definície v základnom mode použitím rovnakých "defName".</ConfirmDisableCoreMod>
+  <Author>Autor</Author>
+  <OpenModsDataFolder>Otvoriť priečinok s módami</OpenModsDataFolder>
+
+  <!--=========== Storyteller chooser ==========-->
+  <ChooseAIStoryteller>Voľba UI Rozprávača</ChooseAIStoryteller>
+  <HowStorytellersWork>UI Rozprávač vytvára udalosti ako pirátske nájazdy, straty zdrojov alebo útoky zvierat. Tieto rozhodnutia ovplyvňujú napredovanie a príbeh vašej kolónie.</HowStorytellersWork>
+  <MustChooseChallengeScale>Musíš si zvoliť obtiažnosť výziev.</MustChooseChallengeScale>
+  <ChallengeScale>Obtiažnosť výziev</ChallengeScale>
+  <ChallengeScaleTip>Keď po tebe rozprávač pošle hrozbu, bude mať  {0} z obtiažnosti Výzva.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Budovateľský mód</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Na voľný čas</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Normálny mód</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Výzva</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Veľká výzva</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Extrémná výzva</ChallengeScale_ExtremeChallenge>
+  <!--=========== Character chooser ==========-->  
+  <CreateCharacters>Tvorba postáv</CreateCharacters>
+  <FirstNameDesc>Krstné meno postavy.\n\nToto je zobrazené len v niektorých ponukách.</FirstNameDesc>
+  <ShortIdentifierDesc>Krátky identifikátor postavy.\n\nTento je zobrazený vždy. Môže to byť krstné meno alebo priezvisko, alebo niečo úplne iné.</ShortIdentifierDesc>
+  <LastNameDesc>Priezvisko postavy.\n\nToto je zobrazené len v niektorých ponukách.</LastNameDesc>
+  <Randomize>Náhodný výber</Randomize>
+  <AgeIndicator>vek {0}</AgeIndicator>
+  <Backstory>Príbeh postavy</Backstory>
+  <IncapableOf>Neschopný v:</IncapableOf>
+  <Traits>Črty</Traits>
+  <TraitsDoNothing>Črty sú zatiaľ iba zábavným doplnkom, keďže väčšina nemá žiadny vplyv na hru. To sa v budúcnosti ale zmení.</TraitsDoNothing>
+  <Skills>Schopnosti</Skills>
+  <NoneLower>žiadne</NoneLower>
+  <Adulthood>Dospelosť</Adulthood>
+  <Childhood>Detstvo</Childhood>
+  <Male>Muž</Male>
+  <Female>Žena</Female>
+
+  
+  <!--=========== Misc ==========-->
+  <Start>Štart</Start>
+  <Advanced>Pokročilé</Advanced>
+  <Next>Ďalej</Next>
+  <Back>Späť</Back>
+
+  <Gameplay>Hranie hry</Gameplay>
+
+  <ConfirmQuit>Naozaj chcete skončiť? Stratíte neuloženú hru.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Vytváram svet...</GeneratingWorld>
+    <GeneratingMap>Generujem mapu...</GeneratingMap>
+
+    <!--=========== Create/review world ================-->
+  <ReviewWorld>Ukážka sveta</ReviewWorld>
+  <WorldGenerate>Generovať</WorldGenerate>
+  <WorldSaveAndFinish>Uložiť a dokončiť</WorldSaveAndFinish>
+  <Reset>Resetovať</Reset>
+  <WorldSize>Veľkosť</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Náhodný seed</RandomizeSeed>
+  
+    <!--=========== Select world ===================-->
+  <SelectWorld>Zvoľ svet</SelectWorld>
+  <WorldChooseButton>Zvoliť</WorldChooseButton>
+  <NoWorldsFilesFound>Žiadne súbory nenájdené. Najskôr si vytvor svet.</NoWorldsFilesFound>
+    <!--=========== World generator =========-->
+  <GenerateWorld>Generovať svet</GenerateWorld>
+  
+    <!--=========== Landing site select =========-->
+  <SelectLandingSite>Zvoliť pristávacie miesto</SelectLandingSite>
+  <SelectSite>Zvoliť miesto</SelectSite>
+  <MustSelectLandingSite>Musíš zvoliť pristávacie miesto.</MustSelectLandingSite>
+  <CannotLandBiome>Nemôžes pristáť v tomto bióme: {0}</CannotLandBiome>
+  <WorldRenderMode>Mód</WorldRenderMode>
+  <WorldRenderModeFull>Všetko</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Teplota</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Nadmorská výška</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Úrodnosť zeme</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Množstvo zrážok</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biómy</WorldRenderModeBiomes>
+  <BiomeNotImplemented>ešte nie je v hre implentovaný. </BiomeNotImplemented>
+  <Biome>Bióm</Biome>
+  <Terrain>Povrch</Terrain>
+  <Elevation>Nadmorská výška</Elevation>
+  <Fertility>Úrodnosť zeme</Fertility>
+  <AvgTemp>Priemerná teplota</AvgTemp>
+  <Rainfall>Množstvo zrážok</Rainfall>
+  <HasCoast0>Severné pobrežie</HasCoast0>
+  <HasCoast1>Východné pobrežie</HasCoast1>
+  <HasCoast2>Južné pobrežie</HasCoast2>
+  <HasCoast3>Západné pobrežie</HasCoast3>
+  
+    <PermanentMoodEffect>Pernamentný efekt nálady</PermanentMoodEffect>
+<BaseAlreadyThere>{0} tu už má základňu.</BaseAlreadyThere>
+
+  <FactionBase>Základna frakcie</FactionBase>
+    <Pain>Bolesť</Pain>
+
+</LanguageData>

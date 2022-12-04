@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Foxia.label>Foxia</LF_Foxia.label>
+  <LF_Foxia.description>An elegant and exotic beastgirl. She has very fluffy ears, a large tail, and a strong immunity to most poisons and diseases, which surprises most given her frail appearance. Since the elder forest dwellers lost their leaders, Foxia have been relied on for their prophecies when deciding where the dwellers should move next. Yet due to their warm, dainty appearance, many have been caught by non-forest humans on this planet. Originally, they were a friendly race, but now they almost never appear to strangers. If you can see one, then you are very fortunate. They appear in all biomes with a very, very low probability.</LF_Foxia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Foxia_Meat.label>Foxia meat</LF_Foxia_Meat.label>
+  <LF_Foxia_Meat.description>The maiden of the forest is dead. Her secrets now mute, as her flesh is sliced and pressed into chunks, as her meat serves to satiate the dietary needs of a day: if even that.</LF_Foxia_Meat.description>
+-->
+  <LF_Foxia_Corpse.label>Foxia corpse</LF_Foxia_Corpse.label>
+  <LF_Foxia_Corpse.description>Generations of lore, the ability to guide others to peace and prosperity, and the humility to rely on others, all these things have been lost, as this once fair maiden loses her warmth.</LF_Foxia_Corpse.description>
+
+
+</LanguageData>

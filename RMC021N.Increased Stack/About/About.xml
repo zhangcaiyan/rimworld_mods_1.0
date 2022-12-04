@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RMC021N.更大的物品堆叠数量</name>
+	<author>Taveron</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>Taveron.IncreasedStack</packageId>
+	<description>
+英文名：Increased Stack
+
+- Вместимость стеков увеличена в 10 раз. Стеки с мясом и наркотиками остались неизменными.
+
+- Capacity stacks increased 10 times. Stacks with meat and drugs remained unchanged.
+
+- 物品存储上限增加了10倍，肉和成瘾品的上限没有改变。
+	</description>
+</ModMetaData>

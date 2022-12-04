@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely low -->
+  <ExtremelyLow.label>mimořádně nízká</ExtremelyLow.label>
+  
+  <!-- EN: high -->
+  <High.label>vysoká</High.label>
+  
+  <!-- EN: low -->
+  <Low.label>nízká</Low.label>
+  
+  <!-- EN: moderate -->
+  <Moderate.label>mírná</Moderate.label>
+  
+  <!-- EN: sky high -->
+  <SkyHigh.label>nesmírně vysoká</SkyHigh.label>
+  
+  <!-- EN: very low -->
+  <VeryLow.label>velmi nízká</VeryLow.label>
+  
+</LanguageData>

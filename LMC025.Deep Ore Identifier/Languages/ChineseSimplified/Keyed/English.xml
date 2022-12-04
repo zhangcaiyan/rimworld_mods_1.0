@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeepOre.TextBackground>绘制鼠标悬停背景</DeepOre.TextBackground>
+
+  <DeepOre.TextBackground.Tooltip>当悬停在矿脉上时，在深色背景上绘制矿石名称以提高可见性。</DeepOre.TextBackground.Tooltip>
+
+</LanguageData>

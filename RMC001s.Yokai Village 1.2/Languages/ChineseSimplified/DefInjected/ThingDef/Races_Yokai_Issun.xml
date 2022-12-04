@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Issun.label>一寸法师</Yokai_Issun.label>
+  <Yokai_Issun.description>身高3公分，掌中大小的妖怪村尖兵。虽然力气不大，但能以数量优势与妖怪村的敌人交战。
+    \n对妖怪村具有高度的忠诚心，无法将其驯养为宠物。体型过小的他们无法取得皮及肉。</Yokai_Issun.description>
+  <Yokai_Issun.tools.0.label>左手</Yokai_Issun.tools.0.label>
+  <Yokai_Issun.tools.1.label>右手</Yokai_Issun.tools.1.label>
+  <Yokai_Issun_Corpse.label>一寸法师的尸体</Yokai_Issun_Corpse.label>
+  <Yokai_Issun_Corpse.description>一寸法师的尸体。解体体型过小的他们是无法取得任何东西的。</Yokai_Issun_Corpse.description>
+</LanguageData>

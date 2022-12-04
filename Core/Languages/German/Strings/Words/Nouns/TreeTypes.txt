@@ -1,0 +1,13 @@
+﻿Eiche
+Pappel
+Kiefer
+Birke
+Palme
+Esche
+Espe
+Buche
+Ulme
+Tanne
+Lerche
+Zeder
+Fichte

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Kappa.label>Kappa</Yokai_Kappa.label>
+  <Yokai_Kappa.description>The most recognized yokai in the galaxy, Kappas love water, sumo, and cucumbers. In fact, just try talking to it about sumo, and you'll get along just fine. Don't expect to find them in warm climes; rather, search in colder biomes, like Boreal Forests and Ice Sheets.</Yokai_Kappa.description>
+  <Yokai_Kappa.tools.0.label>LeftHand</Yokai_Kappa.tools.0.label>
+  <Yokai_Kappa.tools.1.label>RightHand</Yokai_Kappa.tools.1.label>
+  <Yokai_Kappa.tools.2.label>Head</Yokai_Kappa.tools.2.label>
+  <Yokai_Kappa_Leather.label>Kappa leather</Yokai_Kappa_Leather.label>
+  <Yokai_Kappa_Leather.description>Kappa leather</Yokai_Kappa_Leather.description>
+  <Yokai_Kappa_Leather.stuffProps.stuffAdjective>Kappa leather</Yokai_Kappa_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_Kappa_Corpse.label>Kappa corpse</Yokai_Kappa_Corpse.label>
+  <Yokai_Kappa_Corpse.description>Kappa corpse</Yokai_Kappa_Corpse.description>
+
+
+  <!-- やせ河童 -->
+
+  <Yokai_OKappa.label>Kappa</Yokai_OKappa.label>
+  <Yokai_OKappa.description>Whereas Kappas are known for their love of cucumbers and wrestling, Okappas are rather indifferent to the latter. This lack of interest keeps them from bulking up their naturally lanky bodies; however, their love for cucumbers remains ever constant.</Yokai_OKappa.description>
+  <Yokai_OKappa.tools.0.label>LeftHand</Yokai_OKappa.tools.0.label>
+  <Yokai_OKappa.tools.1.label>RightHand</Yokai_OKappa.tools.1.label>
+  <Yokai_OKappa.tools.2.label>Head</Yokai_OKappa.tools.2.label>
+  <Yokai_OKappa_Leather.label>Kappa leather</Yokai_OKappa_Leather.label>
+  <Yokai_OKappa_Leather.description>Kappa leather</Yokai_OKappa_Leather.description>
+  <Yokai_OKappa_Leather.stuffProps.stuffAdjective>Kappa leather</Yokai_OKappa_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_OKappa_Corpse.label>Kappa corpse</Yokai_OKappa_Corpse.label>
+  <Yokai_OKappa_Corpse.description>Kappa corpse</Yokai_OKappa_Corpse.description>
+
+
+</LanguageData>

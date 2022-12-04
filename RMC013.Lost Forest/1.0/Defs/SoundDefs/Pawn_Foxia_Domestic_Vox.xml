@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_Foxia_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Foxia_call</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>40</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.999</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>50.40025</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Foxia_Angry</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>2</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Foxia_angry</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>30</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Foxia_Wounded</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Foxia_wounded</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>35</min>
+          <max>85</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.0</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+	<repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Foxia_Death</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Foxia_death</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>80</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9311764</min>
+          <max>1.068824</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

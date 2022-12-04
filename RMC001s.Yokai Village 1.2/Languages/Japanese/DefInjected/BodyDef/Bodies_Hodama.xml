@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HodamaBody.label>ほだま</HodamaBody.label>
+  <HodamaBody.corePart.parts.2.customLabel>左肺</HodamaBody.corePart.parts.2.customLabel>
+  <HodamaBody.corePart.parts.3.customLabel>右肺</HodamaBody.corePart.parts.3.customLabel>
+  <HodamaBody.corePart.parts.4.customLabel>左腎</HodamaBody.corePart.parts.4.customLabel>
+  <HodamaBody.corePart.parts.5.customLabel>右腎</HodamaBody.corePart.parts.5.customLabel>
+  <HodamaBody.corePart.parts.8.customLabel>左眼</HodamaBody.corePart.parts.8.customLabel>
+  <HodamaBody.corePart.parts.9.customLabel>右眼</HodamaBody.corePart.parts.9.customLabel>
+</LanguageData>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RFR.FewerRuinsTerrain>Configurable Maps -地形设定</RFR.FewerRuinsTerrain>
+  <RFR.FewerRuinsThings>Configurable Maps -遗迹/动植物设定</RFR.FewerRuinsThings>
+  <RFR.FewerRuinsWorld>Configurable Maps -世界地图设定</RFR.FewerRuinsWorld>
+
+  <RFR.ruinsLevel>新地图的遗迹密度:</RFR.ruinsLevel>
+
+  <RFR.RuinsNone>完全没有任何遗迹：原始的风景。</RFR.RuinsNone>
+  <RFR.RuinsVeryLow>非常低密度：几乎没有任何遗迹</RFR.RuinsVeryLow>
+  <RFR.RuinsLow>低密度</RFR.RuinsLow>
+  <RFR.RuinsNormal>通常密度：(预设)</RFR.RuinsNormal>
+  <RFR.RuinsHigh>高密度</RFR.RuinsHigh>
+  <RFR.RuinsVeryHigh>非常高密度</RFR.RuinsVeryHigh>
+  <RFR.RuinsExtreme>极其高密度</RFR.RuinsExtreme>
+  <RFR.RuinsInsane>无法用语言描述的超高密度：你可能是在遗迹内部，而不是野外。</RFR.RuinsInsane>
+  <RFR.RuinsRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.RuinsRandom>
+
+  <RFR.shrinesLevel>新地图“古代神殿”的密度:</RFR.shrinesLevel>
+
+  <RFR.ShrinesNone>没有任何古代神殿：绝对绝对不会发现任何的古代神殿。</RFR.ShrinesNone>
+  <RFR.ShrinesVeryLow>非常低密度：几乎没有古代神殿。恐怕是完全没有吧。</RFR.ShrinesVeryLow>
+  <RFR.ShrinesLow>低密度</RFR.ShrinesLow>
+  <RFR.ShrinesNormal>通常密度：(预设)</RFR.ShrinesNormal>
+  <RFR.ShrinesHigh>高密度</RFR.ShrinesHigh>
+  <RFR.ShrinesVeryHigh>非常高密度</RFR.ShrinesVeryHigh>
+  <RFR.ShrinesExtreme>极其高密度</RFR.ShrinesExtreme>
+  <RFR.ShrinesInsane>无法用语言描述的超高密度："古代危险"常伴汝身！</RFR.ShrinesInsane>
+  <RFR.ShrinesRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.ShrinesRandom>
+
+  <RFR.stoneType>古代神殿与遗迹中使用的石材:</RFR.stoneType>
+
+  <RFR.StoneVanilla>建造遗迹所使用的石材完全是随机的。(这也是通常的设定)</RFR.StoneVanilla>
+  <RFR.StoneMixed>大部分遗迹所使用的石材是可以从该地图上采集的种类（世界地图上存在的石材种类）。</RFR.StoneMixed>
+  <RFR.StoneLocal>所有的遗迹所使用的石材都是可以从该地图上采集的种类。</RFR.StoneLocal>
+  <RFR.StoneRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.StoneRandom>
+
+  <RFR.animalDensityLevel>新地图的动物密度:</RFR.animalDensityLevel>
+
+  <RFR.AnimalDensitySparse>稀薄：动物比通常少</RFR.AnimalDensitySparse>
+  <RFR.AnimalDensityNormal>通常：(预设)</RFR.AnimalDensityNormal>
+  <RFR.AnimalDensityDense>高密度：动物比通常多</RFR.AnimalDensityDense>
+  <RFR.AnimalDensityExtreme>极度：动物充满了整张地图</RFR.AnimalDensityExtreme>
+  <RFR.AnimalDensityRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.AnimalDensityRandom>
+
+  <RFR.plantDensityLevel>新地图的植物密度:</RFR.plantDensityLevel>
+
+  <RFR.PlantDensitySparse>稀薄：植物比通常少</RFR.PlantDensitySparse>
+  <RFR.PlantDensityNormal>通常：(预设)</RFR.PlantDensityNormal>
+  <RFR.PlantDensityDense>高密度：植物比通常多</RFR.PlantDensityDense>
+  <RFR.PlantDensityExtreme>極度：植物充满了整张地图</RFR.PlantDensityExtreme>
+  <RFR.PlantDensityRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.PlantDensityRandom>
+
+  <RFR.oreLevel>新地图的矿石密度:</RFR.oreLevel>
+
+  <RFR.OreNone>没有矿石：一丁点矿石都没有，当然这回使游戏更加困难。</RFR.OreNone>
+  <RFR.OreLow>低密度：通常密度的一半</RFR.OreLow>
+  <RFR.OreNormal>通常密度：(预设)</RFR.OreNormal>
+  <RFR.OreHigh>高密度：通常密度的2倍</RFR.OreHigh>
+  <RFR.OreVeryHigh>超高密度：通常密度的4倍</RFR.OreVeryHigh>
+  <RFR.OreRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.OreRandom>
+
+  <RFR.geysersLevel>新地图的间歇泉密度:</RFR.geysersLevel>
+
+  <RFR.GeysersNone>没有间歇泉：完全没有间歇泉，对于居住者来说没有任何地热能可用！</RFR.GeysersNone>
+  <RFR.GeysersLow>低密度：通常密度的一半</RFR.GeysersLow>
+  <RFR.GeysersNormal>通常：(预设)</RFR.GeysersNormal>
+  <RFR.GeysersHigh>高密度：通常密度的2倍</RFR.GeysersHigh>
+  <RFR.GeysersVeryHigh>超高密度：通常密度的4倍</RFR.GeysersVeryHigh>
+  <RFR.GeysersRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.GeysersRandom>
+
+  <RFR.chunksLevel>新地图的石块密度:</RFR.chunksLevel>
+
+  <RFR.ChunksNone>没有石块：完全没有任何石块，如果你需要石头的话，只能开采。</RFR.ChunksNone>
+  <RFR.ChunksLow>低密度：通常密度的一半</RFR.ChunksLow>
+  <RFR.ChunksNormal>通常：(预设)</RFR.ChunksNormal>
+  <RFR.ChunksRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.ChunksRandom>
+
+  <RFR.mountainLevel>新地图的山区密度:</RFR.mountainLevel>
+
+  <RFR.MountainVeryLow>非常低密度：平原地图几乎没有任何露出的岩石区域，山地地图有宽广的平地空间。</RFR.MountainVeryLow>
+  <RFR.MountainLow>低密度：山区比通常少</RFR.MountainLow>
+  <RFR.MountainNormal>通常：通常的山区密度(这也是预设的生成密度)</RFR.MountainNormal>
+  <RFR.MountainHigh>高密度：山区比通常多</RFR.MountainHigh>
+  <RFR.MountainVeryHigh>非常高密度：非常多的山区</RFR.MountainVeryHigh>
+  <RFR.MountainInsane>无法用语言描述的超高密度：平原地图和山地地图非常像，山地地图几乎全是山。</RFR.MountainInsane>
+  <RFR.MountainRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.MountainRandom>
+
+  <RFR.waterLevel>新地图的水位:</RFR.waterLevel>
+
+  <RFR.WaterVeryLow>非常低密度：水域比通常少了许多。湖泊和沼泽会变得很小。</RFR.WaterVeryLow>
+  <RFR.WaterLow>低密度：水域比通常少</RFR.WaterLow>
+  <RFR.WaterNormal>通常：通常的水域密度(这也是预设的生成密度)</RFR.WaterNormal>
+  <RFR.WaterHigh>高密度：水域比通常多</RFR.WaterHigh>
+  <RFR.WaterVeryHigh>非常高密度：水域非常多。地图上有大的湖沼和沼泽地</RFR.WaterVeryHigh>
+  <RFR.WaterRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.WaterRandom>
+
+  <RFR.fertilityLevel>新地图的土地肥沃度:</RFR.fertilityLevel>
+
+  <RFR.FertilityNone>非常低密度：一片荒芜的地图。肥沃的土壤非常少。</RFR.FertilityNone>
+  <RFR.FertilityLow>低密度：不毛之地。肥沃的土壌少。</RFR.FertilityLow>
+  <RFR.FertilityNormal>通常：通常的肥沃土地密度(这也是预设的生成密度)</RFR.FertilityNormal>
+  <RFR.FertilityHigh>高密度：肥沃的土地。肥沃的土壌很多</RFR.FertilityHigh>
+  <RFR.FertilityVeryHigh>非常高密度：非常肥沃的地方啊。</RFR.FertilityVeryHigh>
+  <RFR.FertilityRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.FertilityRandom>
+
+  <RFR.coastLevel>海岸地图的海面水位:</RFR.coastLevel>
+
+  <RFR.CoastNormal>通常：预设的状态。地图的一方向有海水和沙滩。</RFR.CoastNormal>
+  <RFR.CoastHigh1>稍微高密度：有点多。海水和沙滩区域比通常大。</RFR.CoastHigh1>
+  <RFR.CoastHigh2>高密度：多。有比通常更大的海水和沙滩区域。</RFR.CoastHigh2>
+  <RFR.CoastVeryHigh1>非常高密度：很多。更多的海水和沙滩区域。</RFR.CoastVeryHigh1>
+  <RFR.CoastVeryHigh2>更高密度：更多的海水，更多的沙滩，可利用的土地进一步减少。</RFR.CoastVeryHigh2>
+  <RFR.CoastVeryHigh3>极其高密度：非常多。地图大部分由海水和沙滩构成。</RFR.CoastVeryHigh3>
+  <RFR.CoastInsane>无法用语言描述的超高密度：接近疯狂，但愿你能找到干燥的土地！</RFR.CoastInsane>
+  <RFR.CoastRandom>随机：每次创建新地图时，都会随机选择一个设置。</RFR.CoastRandom>
+
+  <RFR.DisallowIslands>禁止只是拥有岩石的岛屿出现</RFR.DisallowIslands>
+  <RFR.DisallowIslandsTip>如果选中此选项，海洋、湖沼、沼泽地形将不再露出岩石。这个选项与“水域密度:高密度”组合的话，在山地地图上也能大幅度减少岩石的量。</RFR.DisallowIslandsTip>
+
+  <RFR.stoneMin>每块区域最少的岩石种类数(默认值：2):</RFR.stoneMin>
+  <RFR.stoneMax>每块区域最多的岩石种类数(默认值：3):</RFR.stoneMax>
+
+  <RFR.stoneNotes>如果将石头类型的最大数量设置为比最小值更小，则该错误将被自动修改，最大值将被重置为最小值。</RFR.stoneNotes>
+
+  <RFR.graniteCommonality>世界地图上花岗岩的存在概率:</RFR.graniteCommonality>
+  <RFR.limestoneCommonality>世界地图上石灰岩的存在概率:</RFR.limestoneCommonality>
+  <RFR.marbleCommonality>世界地图上大理石的存在概率:</RFR.marbleCommonality>
+  <RFR.sandstoneCommonality>世界地图上砂岩的存在概率:</RFR.sandstoneCommonality>
+  <RFR.slateCommonality>世界地图上粘板岩的存在概率:</RFR.slateCommonality>
+  <RFR.extraStoneCommonality>世界地图上MOD追加的岩石（如果有）的存在概率:</RFR.extraStoneCommonality>
+
+  <RFR.Rare>稀少</RFR.Rare>
+  <RFR.Average>平均</RFR.Average>
+  <RFR.Common>多</RFR.Common>
+
+  <RFR.AllowFakeOres>允许破坏的矿石</RFR.AllowFakeOres>
+  <RFR.AllowFakeOresTip>此选项将不会在地图上放置破坏的矿石，如断裂的钢材、断裂的塑料、断裂的机器零件等。当然，这将使游戏变得更加困难，但如果想玩一个真正的被遗弃的世界，而不是土著人留下的文化，你可以创建一个看上去更自然的地图。</RFR.AllowFakeOresTip>
+
+</LanguageData>

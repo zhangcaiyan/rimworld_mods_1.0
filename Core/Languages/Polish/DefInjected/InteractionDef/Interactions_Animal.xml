@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <AnimalChat.label>rozmowa ze zwierzakiem</AnimalChat.label>
+	<AnimalChat.logRulesInitiator.rulesStrings>
+		<li>logentry->Próbowano zacieśnić więzi z [other_nameShortIndef].</li>
+	</AnimalChat.logRulesInitiator.rulesStrings>
+	<AnimalChat.logRulesRecipient.rulesStrings>
+		<li>logentry->Odpowiedziano na przyjazną akcję ze strony [other_nameShortIndef].</li>
+	</AnimalChat.logRulesRecipient.rulesStrings>
+  
+  <TrainAttempt.label>próba tresury</TrainAttempt.label>
+	<TrainAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Wytresowano [other_nameShortIndef].</li>
+	</TrainAttempt.logRulesInitiator.rulesStrings>
+	<TrainAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Wytresowany przez [other_nameShortIndef].</li>
+	</TrainAttempt.logRulesRecipient.rulesStrings>
+  
+  <TameAttempt.label>próba oswojenia</TameAttempt.label>
+	<TameAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Usiłowano oswoić [other_nameShortIndef].</li>
+	</TameAttempt.logRulesInitiator.rulesStrings>
+	<TameAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Spogląda [other_nameShortIndef] na próbę oswojenia mnie.</li>
+	</TameAttempt.logRulesRecipient.rulesStrings>
+  
+  <Nuzzle.label>trącanie nosem</Nuzzle.label>
+	<Nuzzle.logRulesInitiator.rulesStrings>
+		<li>logentry->Trącono nosem [other_nameShortIndef].</li>
+	</Nuzzle.logRulesInitiator.rulesStrings>
+	<Nuzzle.logRulesRecipient.rulesStrings>
+		<li>logentry->Zwierzak [other_nameShortIndef] trącił mnie nosem.</li>
+	</Nuzzle.logRulesRecipient.rulesStrings>
+  
+  
+</LanguageData>

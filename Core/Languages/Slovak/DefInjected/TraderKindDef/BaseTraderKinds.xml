@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<FarmingVessel.label>Obchodník s jedlom</FarmingVessel.label>
+	
+	<IndustrialTrader.label>Priemyselný obchodník</IndustrialTrader.label>
+	
+	<CombatSupplier.label>Obchodník so zbraňami</CombatSupplier.label>
+	
+	<SlaveTrader.label>Obchodník s otrokmi</SlaveTrader.label>
+	
+		<ExoticTrader.label>Obchodník s exotickým tovarom</ExoticTrader.label>
+  
+</LanguageData>

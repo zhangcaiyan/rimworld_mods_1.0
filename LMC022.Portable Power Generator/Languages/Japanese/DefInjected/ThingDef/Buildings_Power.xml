@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Power gen -->
+
+  <CP_PortablePower.label>可搬型発電機</CP_PortablePower.label>
+  <CP_PortablePower.description>伝説のテリークルーズによって破滅の山に建てられた可搬型発電機です。多くの国で「強力すぎる」として禁止されています。</CP_PortablePower.description>
+  <Blueprint_CP_PortablePower.label>可搬型発電機(設計)</Blueprint_CP_PortablePower.label>
+  <Blueprint_Install_CP_PortablePower.label>可搬型発電機(移動先)</Blueprint_Install_CP_PortablePower.label>
+  <Frame_CP_PortablePower.label>可搬型発電機(施工)</Frame_CP_PortablePower.label>
+  <Frame_CP_PortablePower.description>伝説のテリークルーズによって破滅の山に建てられた可搬型発電機です。多くの国で「強力すぎる」として禁止されています。</Frame_CP_PortablePower.description>
+
+</LanguageData>

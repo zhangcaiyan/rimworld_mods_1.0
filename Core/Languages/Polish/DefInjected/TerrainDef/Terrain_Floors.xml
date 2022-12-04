@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Misc -->
+  
+  <Concrete.label>beton</Concrete.label>
+  <Concrete.description>Szybkoschnący beton. Najszybszy, jeżeli chodzi o poruszanie się, szybki w budowie, ale trochę brzydki.</Concrete.description>
+ 
+  <PavedTile.label>betonowe płytki</PavedTile.label>
+  <PavedTile.description>Utylitarne betonowe płytki. Dobre do szybkiego do poruszania się, neutralne, jeżeli chodzi o wygląd; wolne w budowie.</PavedTile.description>
+
+  <WoodPlankFloor.label>drewniana podłoga</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Podłoga zbita z drewnianych desek. Przytulnie jak w domu.</WoodPlankFloor.description>
+    
+  <MetalTile.label>metalowe płytki</MetalTile.label>
+  <MetalTile.description>Metalowe płytki nadadzą trochę kosmicznego wyglądu. Są ładne, jednak wymagają dużo materiału i pracy.</MetalTile.description>
+  
+  <SilverTile.label>srebrne płytki</SilverTile.label>
+  <SilverTile.description>Drogie i wolne w budowie, za to bardzo ładne. Pasują do każdego rodzaju luksusowych pomieszczeń.</SilverTile.description>
+  
+  <GoldTile.label>złote płytki</GoldTile.label>
+  <GoldTile.description>Najbardziej luksusowe płytki. Bardzo drogie i wymagają dużo pracy.</GoldTile.description>
+  
+  <SterileTile.label>sterylne płytki</SterileTile.label>
+  <SterileTile.description>Sterylne płytki pomagają utrzymać pomieszczenie w czystości. Najużyteczniejsze w szpitalu, bo zapobiegają infekcjom. Neutralne, jeżeli chodzi o wyglad i wolne w budowaniu.</SterileTile.description>
+
+
+  <!-- Carpets -->
+
+  <CarpetRed.label>czerwony dywan</CarpetRed.label>
+  <CarpetRed.description>Włochaty dywan w pięknym czerwonym odcieniu.</CarpetRed.description>
+  
+  <CarpetGreen.label>zielony dywan</CarpetGreen.label>
+  <CarpetGreen.description>Wyglądający naturalnie zielony dywan.</CarpetGreen.description>
+  
+  <CarpetBlue.label>niebieski dywan</CarpetBlue.label>
+  <CarpetBlue.description>Miły dla stóp włochaty dywan w niebieskim kolorze.</CarpetBlue.description>
+  
+  <CarpetCream.label>kremowy dywan</CarpetCream.label>
+  <CarpetCream.description>Miły dla oka kremowy dywan.</CarpetCream.description>
+  
+  <CarpetDark.label>ciemny dywan</CarpetDark.label>
+  <CarpetDark.description>Profesjonalnie wyglądający ciemnoszary dywan.</CarpetDark.description>
+  
+  
+</LanguageData>

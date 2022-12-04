@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖弓言の葉（限定） -->
+
+  <Yokai_A_KotoNoHa_Huu.label>KotoNoHa Arrow(sealed)</Yokai_A_KotoNoHa_Huu.label>
+
+  <Yokai_B_KotoNoHa_Huu.label>Koto No Ha(sealed)</Yokai_B_KotoNoHa_Huu.label>
+  <Yokai_B_KotoNoHa_Huu.description>竜の牙と竜刻の石に特別な加工を施して弓とし、九尾の毛を束ねて弦とした、妖怪村に伝わる伝説の弓です。射撃と工芸に精通した優れた鍛冶屋が、特別な製法を学ぶことで作成が可能となります。
+  \n圧倒的な射程と岩をも穿つ破壊力を兼ね備え、使用者に多くの加護を与えます。宙族の火器はおろかメカノイドさえ圧倒する凄まじい破壊力を誇りますが、まだ本当の力は封じられています。
+  \nまだ星々が遠い世界だった頃よりもさらに古く、神々が地上を闊歩していた時代に存在したとされる神の弓の模造品とされてます。</Yokai_B_KotoNoHa_Huu.description>
+  <Yokai_B_KotoNoHa_Huu.tools.0.label>姫反</Yokai_B_KotoNoHa_Huu.tools.0.label>
+
+
+  <!-- 妖弓言の葉 -->
+
+  <Yokai_A_KotoNoHa.label>KotoNoHa Arrow</Yokai_A_KotoNoHa.label>
+
+  <Yokai_B_KotoNoHa.label>Koto no Ha (Released)</Yokai_B_KotoNoHa.label>
+  <Yokai_B_KotoNoHa.description>封印の解かれた言の葉の弓は使用者に様々な加護を与え、使うたびに本来の力を取り戻していきます。
+  \n伝説の品々はどれも非常に強力で、使用者を守る力にも優れていますが、希少で高価なため狙うものは跡を絶ちません。襲撃の激化には気を配る必要があります。
+  \n
+  \nはるか過去に「忌まわしきもの」との戦いが起きた時、星中が破壊され妖怪も人も大変苦しめられました。それをみた九尾の狐たちは自らの毛と、竜刻の石、竜の牙を使って神代の弓の再現を試みました。
+  \n完成した弓は神弓と呼ぶほどではありませんでしたが、十二分に其の力を発揮し「忌まわしきもの」とその眷属との戦いを優位に運んだと伝えられています。
+  \n「忌まわしきもの」の眷属はこの辺境世界では「竜の巣」として知られています。</Yokai_B_KotoNoHa.description>
+  <Yokai_B_KotoNoHa.tools.0.label>姫反</Yokai_B_KotoNoHa.tools.0.label>
+
+
+  <!-- 月の雫 -->
+
+  <Yokai_K_TukiNoShizuku.label>Tuki No Shizuku</Yokai_K_TukiNoShizuku.label>
+  <Yokai_K_TukiNoShizuku.description>柄に翡翠と九尾の毛の飾りがついた、竜の牙から削り出された青白い光を放つ刀です。羽のように軽く岩さえ切り裂く鋭さをもち使用者に様々な加護を与えて守ります。
+  \n優れた剣の腕と、鍛冶の腕をあわせもった匠が希少な素材をふんだんに使って仕上げたこの刀もまた、他の妖怪武器のように使う度に強くなります。
+  \n
+  \n妖怪村に伝わる伝説の一つに「月の刀」というものがあります。
+  \n神代を過ぎた頃の話です。月が欠けていく闇夜の晩にその欠片が地上にたくさん落ちてきました。落ちた欠片を光亀と呼ばれる刀鍛冶が10年の歳月をかけて鍛え一振りの刀としました。月の刀の切れ味は類を見ず、岩や金属はもちろんのこと水や大地さえ切れたそうです。
+  \n「月の刀」は紆余曲折を経て大海の底に失われてしまいましたが、妖怪の鍛冶屋たちは月の刀の再現を夢見て試行錯誤を繰り返し、その結果出来上がったものがこの月の雫だと妖怪たちは信じ伝えています。</Yokai_K_TukiNoShizuku.description>
+  <Yokai_K_TukiNoShizuku.tools.0.label>fire blade</Yokai_K_TukiNoShizuku.tools.0.label>
+  <Yokai_K_TukiNoShizuku.tools.1.label>point</Yokai_K_TukiNoShizuku.tools.1.label>
+
+
+</LanguageData>

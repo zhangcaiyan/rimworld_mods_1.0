@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_HinoKo.label>火の子</Yokai_HinoKo.label>
+  <Yokai_HinoKo.description>火の子は火を好む少し変わった妖怪です。主に砂漠と極限の砂漠で見られる彼らは火と熱に耐性を持っています。
+\n彼らの攻撃は火そのものなので防衛に使う際は注意が必要です、また死を迎える際の爆発にも注意する必要があります。
+\n比較的簡単にペットにする事ができます。皮や肉を取る事はできませんが液体燃料を生み出します。</Yokai_HinoKo.description>
+  <Yokai_HinoKo.tools.0.label>左手</Yokai_HinoKo.tools.0.label>
+  <Yokai_HinoKo.tools.1.label>右手</Yokai_HinoKo.tools.1.label>
+  <Yokai_HinoKo_Corpse.label>火の子の死骸</Yokai_HinoKo_Corpse.label>
+  <Yokai_HinoKo_Corpse.description>火の消えたかつての火の妖怪です。解体しても得るものはありません。</Yokai_HinoKo_Corpse.description>
+</LanguageData>

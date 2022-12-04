@@ -1,0 +1,31 @@
+As planned from the beginning of development, the specifications around the subscription were changed. As a result, it is basically no longer compatible with v0.3.1 and earlier data.
+I recommend playing with new data.
+
+[New required MODs]
+-ResourcePackCore
+-AlienRace2.0 (Unused at present)
+
+[Changes from v0.3.0]
+
+-[Change] Some dragonic architectural texture remakes and animations
+-[Change] Expansion of deep water source: Increased man-hours, added demerits of salt damage to surrounding 5 masses
+-[Change] Water source drilling: Randomized from 3 choices: water current / cold spring / hot spring
+-[Change] Adjusting buffs for hot springs
+-[Change] Improvement of water surface drawing method
+-[Change] Fine adjustment of beast type race
+-[Change] Changed all beast human races (from wild appearance to quest method)
+--Only 3 petite servant dragons can appear per world.
+--Dragonia can only appear up to one in a game and cannot be revived even if it dies.
+--Requirement for the progress of the LostForest original quest line to be implemented in the future.
+-[New] "Achievement" implementation: for now only display and not recorded in the data.
+
+
+-[New] Soil resources and collection sites (soil, gravel, sand, mud)
+-[New] Additional rudimentary terraforming group (land reclamation, soil improvement, natural rock reconstruction)
+-[New] Add cold spring entertainment (not allowed by default, must be allowed from options)
+-[New] Central trade beacon (wide-area wall penetration trade beacon)
+-[New] Add active skill to beast race
+-[New] Implementation of original quest line (experimental)
+-[New] Modification around GUI (experimental)
+-[New] Animal bond prevention (ON / OFF available from option)
+-[New] Implementation of update notification function (what you are seeing now)

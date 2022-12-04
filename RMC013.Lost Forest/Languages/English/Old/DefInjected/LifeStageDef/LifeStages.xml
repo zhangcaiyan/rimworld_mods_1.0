@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FoxiaBaby.label>Baby Foxia</FoxiaBaby.label>
+  <FoxiaJuvenile.label>Juvenile Foxia</FoxiaJuvenile.label>
+  <FoxiaAdult.label>Adult Foxia</FoxiaAdult.label>
+
+  <LefcaBaby.label>Baby Lefca</LefcaBaby.label>
+  <LefcaJuvenile.label>Juvenile Lefca</LefcaJuvenile.label>
+  <LefcaAdult.label>Adult Lefca</LefcaAdult.label>
+
+  <WolvernBaby.label>Baby Wolvern</WolvernBaby.label>
+  <WolvernJuvenile.label>Juvenile Wolvern</WolvernJuvenile.label>
+  <WolvernAdult.label>Adult Wolvern</WolvernAdult.label>
+
+  <DragoniaBaby.label>Baby Dragonia</DragoniaBaby.label>
+  <DragoniaJuvenile.label>Juvenile Dragonia</DragoniaJuvenile.label>
+  <DragoniaAdult.label>Adult Dragonia</DragoniaAdult.label>
+
+  <PetiteServantDragonBaby.label>Baby Petite Servant Dragon</PetiteServantDragonBaby.label>
+  <PetiteServantDragonJuvenile.label>Juvenile Petite Servant Dragon</PetiteServantDragonJuvenile.label>
+  <PetiteServantDragonAdult.label>Adult Petite Servant Dragon</PetiteServantDragonAdult.label>
+
+  <GlaciaBaby.label>Baby Glacia</GlaciaBaby.label>
+  <GlaciaJuvenile.label>Juvenile Glacia</GlaciaJuvenile.label>
+  <GlaciaAdult.label>Adult Glacia</GlaciaAdult.label>
+
+  <FlammeliaBaby.label>Baby Flammelia</FlammeliaBaby.label>
+  <FlammeliaJuvenile.label>Juvenile Flammelia</FlammeliaJuvenile.label>
+  <FlammeliaAdult.label>Adult Flammelia</FlammeliaAdult.label>
+
+  <LeffyBaby.label>Baby Leffy</LeffyBaby.label>
+  <LeffyJuvenile.label>Juvenile Leffy</LeffyJuvenile.label>
+  <LeffyAdult.label>Adult Leffy</LeffyAdult.label>
+
+</LanguageData>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>生質煉油器</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>一具化學提煉裝置，用來將有機物如木頭和食物提煉加工成化合燃料。</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>釀酒器</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>一個具有各種所需設備的工作台。混合麥汁，經發酵後最終製成啤酒。</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>屠宰點</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>專門屠宰動物的指定地點。由於缺乏工具，在這裡進行屠宰只能獲得70%的生肉和毛皮數量。</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>手工工作區</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>一個製造簡單刀具或弓箭的地方。</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>採掘機</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>鑽開地表至地下礦脈採掘礦物的機器。需要先用地質探測儀找出礦脈位置。礦物枯竭後能夠轉為開採岩石塊。</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>藥物合成台</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>一張配備有各種容器、加熱器及測量設備的工作台，用來製作各種藥物。</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>火化爐</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>一座巨大的石質火化爐，在高溫下蒸發屍體。</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>金屬提煉器</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>從金屬碎片中提煉有用的金屬，將消耗大量電力。</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>電力鍛造台</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>製造非機械式武器和工具的工作台。</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>電子料理台</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>用來烹飪食物的工作台。</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>電動裁縫桌</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>用來裁縫衣服的工作台，工作效率只有電動裁縫桌的50%。</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>電子零件生產台</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>配有各種先進設備的工作台，用簡單的原料生產各種零件。</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>釀酒桶</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>用來將麥汁發酵成啤酒的巨大容器。</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>燃料鍛造台</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>製造非機械式武器和工具的工作台，需要消耗木材燃料。</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>爐灶</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>燃燒木材烹調食物的工作台。</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>裁縫桌</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>用來裁縫衣服的工作台，工作效率只有電動裁縫桌的50%。</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>高科技研究桌</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>一張備有電腦及電子測量設備的研究桌。提供更快的研究速度並解鎖更多研究項目。</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>儲料槽</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>為營養膏合成機這樣的大型機器儲存原料。</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>水培植物盆</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>用來種植作物的人工培養盆，提供營養素的泵必須持續運作，一旦斷電，植物便會死亡。</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>營養膏合成機</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>能將比鄰的儲料槽中的有機材料合成為營養膏的機器。比起其他的食物調理方式，合成營養高所消耗的物料成本與時間都更低，然而，沒人喜歡吃這黏糊糊的食物。可接受各種生食作為原料，除了牧草這類植物原料。</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>研究桌</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>一張備有書寫工具及簡單研究設備的桌子，研究人員在這裡發掘新事物。</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>屠宰桌</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>一個用來將死亡的動物屠宰成肉塊的重型桌子。</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>機械加工桌</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>一套專門組裝或拆解槍切、彈藥和機器人用的桌子與工具。</TableMachining.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>雕刻桌</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>專門進行雕刻工作的桌子。</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>岩石切割台</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>一個附帶了鋸子和鑿子的工作台。用於把粗糙的石塊切割成石材。</TableStonecutter.description>
+  
+</LanguageData>

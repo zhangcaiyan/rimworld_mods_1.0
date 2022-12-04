@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_JorouGumo.label>女郎蜘蛛</Yokai_JorouGumo.label>
+  <Yokai_JorouGumo.description>寒さに弱い女郎蜘蛛は腕のいい狩人なのでお腹を空かせている時に近づくのは危険です。
+   \n人にはよく懐き毎日上質な糸を産出するので仲間になれば頼りになるでしょう。力はありますが撃たれ弱いので戦いの際は援護が必要になります。
+   \n彼女たちは温帯林やサバンナ、砂漠などに暮らしています。
+   \n女郎蜘蛛の肉は人と全く変わらないため入植者たちは食べるのを嫌がります。</Yokai_JorouGumo.description>
+  <Yokai_JorouGumo.tools.0.label>爪</Yokai_JorouGumo.tools.0.label>
+  <Yokai_JorouGumo.tools.1.label>爪</Yokai_JorouGumo.tools.1.label>
+  <Yokai_JorouGumo.tools.3.label>左手</Yokai_JorouGumo.tools.3.label>
+  <Yokai_JorouGumo.tools.4.label>右手</Yokai_JorouGumo.tools.4.label>
+  <Yokai_JorouGumo_Corpse.label>女郎蜘蛛</Yokai_JorouGumo_Corpse.label>
+  <Yokai_JorouGumo_Corpse.description>もはや動かない女郎蜘蛛の死骸です。可愛い声も二度と聞けません。解体すると・・・・？</Yokai_JorouGumo_Corpse.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KamaitatiBody.label>カマイタチ</KamaitatiBody.label>
+  <KamaitatiBody.corePart.parts.4.customLabel>左肺</KamaitatiBody.corePart.parts.4.customLabel>
+  <KamaitatiBody.corePart.parts.5.customLabel>右肺</KamaitatiBody.corePart.parts.5.customLabel>
+  <KamaitatiBody.corePart.parts.6.customLabel>左腎</KamaitatiBody.corePart.parts.6.customLabel>
+  <KamaitatiBody.corePart.parts.7.customLabel>右腎</KamaitatiBody.corePart.parts.7.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.1.customLabel>左眼</KamaitatiBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.2.customLabel>右眼</KamaitatiBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.3.customLabel>左耳</KamaitatiBody.corePart.parts.9.parts.0.parts.3.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.4.customLabel>右耳</KamaitatiBody.corePart.parts.9.parts.0.parts.4.customLabel>
+  <KamaitatiBody.corePart.parts.10.parts.0.customLabel>前左掌</KamaitatiBody.corePart.parts.10.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.10.customLabel>前左脚</KamaitatiBody.corePart.parts.10.customLabel>
+  <KamaitatiBody.corePart.parts.11.parts.0.customLabel>前右掌</KamaitatiBody.corePart.parts.11.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.11.customLabel>前右脚</KamaitatiBody.corePart.parts.11.customLabel>
+  <KamaitatiBody.corePart.parts.12.parts.0.customLabel>後左掌</KamaitatiBody.corePart.parts.12.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.12.customLabel>後左脚</KamaitatiBody.corePart.parts.12.customLabel>
+  <KamaitatiBody.corePart.parts.13.parts.0.customLabel>後右掌</KamaitatiBody.corePart.parts.13.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.13.customLabel>後右脚</KamaitatiBody.corePart.parts.13.customLabel>
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+	<success>Always</success>
+		<xpath>*/ThingDef[defName = "SNOREGGSingle"]/comps/li[1]/linkableFacilities</xpath>
+		<value>
+			<li>Anon2Dresser</li>
+			<li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+	<success>Always</success>
+		<xpath>*/ThingDef[defName = "SNOREGGDouble"]/comps/li[1]/linkableFacilities</xpath>
+		<value>
+			<li>Anon2Dresser</li>
+			<li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+	<success>Always</success>
+		<xpath>*/ThingDef[defName = "PILFURBed"]/comps/li[1]/linkableFacilities</xpath>
+		<value>
+			<li>Anon2Dresser</li>
+			<li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+	<success>Always</success>
+		<xpath>*/ThingDef[defName = "KRUDNEPPSingle"]/comps/li[1]/linkableFacilities</xpath>
+		<value>
+			<li>Anon2Dresser</li>
+			<li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+	<success>Always</success>
+		<xpath>*/ThingDef[defName = "SLABNEPPDouble"]/comps/li[1]/linkableFacilities</xpath>
+		<value>
+			<li>Anon2Dresser</li>
+			<li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+		</value>
+	</Operation>
+
+</Patch>

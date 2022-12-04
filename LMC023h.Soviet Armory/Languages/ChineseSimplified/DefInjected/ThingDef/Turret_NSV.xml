@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Turret_NSV.label>固定式NSV Utyos 12.7毫米重机枪</Turret_NSV.label>
+  <Turret_NSV.description>安装在三脚架上的12.7毫米重机枪。</Turret_NSV.description>
+  <Turret_NSV_Blueprint.label>固定式NSV Utyos 12.7毫米重机枪 (blueprint)</Turret_NSV_Blueprint.label>
+  <Turret_NSV_Blueprint_Install.label>固定式NSV Utyos 12.7毫米重机枪 (blueprint)</Turret_NSV_Blueprint_Install.label>
+  <Turret_NSV_Frame.label>固定式NSV Utyos 12.7毫米重机枪 (building)</Turret_NSV_Frame.label>
+  <Turret_NSV_Frame.description>安装在三脚架上的12.7毫米重机枪。</Turret_NSV_Frame.description>
+
+  <Bullet_1270mm.label>重机枪弹药</Bullet_1270mm.label>
+
+  <Gun_NSV.label>固定式NSV</Gun_NSV.label>
+  <Gun_NSV.description>安装在三脚架上的12.7毫米重机枪。</Gun_NSV.description>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FoxiaBaby.label>巫女狐寶寶</FoxiaBaby.label>
+  <FoxiaJuvenile.label>幼年巫女狐</FoxiaJuvenile.label>
+  <FoxiaAdult.label>成年巫女狐</FoxiaAdult.label>
+
+  <LefcaBaby.label>小蕾芙卡寶寶</LefcaBaby.label>
+  <LefcaJuvenile.label>幼年蕾芙卡</LefcaJuvenile.label>
+  <LefcaAdult.label>成年蕾芙卡</LefcaAdult.label>
+
+  <WolvernBaby.label>小不點狼寶寶</WolvernBaby.label>
+  <WolvernJuvenile.label>幼年小不點狼</WolvernJuvenile.label>
+  <WolvernAdult.label>成年小不點狼</WolvernAdult.label>
+
+  <DragoniaBaby.label>青龍寶寶</DragoniaBaby.label>
+  <DragoniaJuvenile.label>幼年青龍</DragoniaJuvenile.label>
+  <DragoniaAdult.label>成年青龍</DragoniaAdult.label>
+
+  <PetiteServantDragonBaby.label>稚龍</PetiteServantDragonBaby.label>
+  <PetiteServantDragonJuvenile.label>幼年</PetiteServantDragonJuvenile.label>
+  <PetiteServantDragonAdult.label>成年</PetiteServantDragonAdult.label>
+
+  <GlaciaBaby.label>格蕾希亞寶寶</GlaciaBaby.label>
+  <GlaciaJuvenile.label>幼年格蕾希亞</GlaciaJuvenile.label>
+  <GlaciaAdult.label>成年格蕾希亞</GlaciaAdult.label>
+
+  <FlammeliaBaby.label>芙拉玫莉亞寶寶</FlammeliaBaby.label>
+  <FlammeliaJuvenile.label>幼年芙拉玫莉亞</FlammeliaJuvenile.label>
+  <FlammeliaAdult.label>成年芙拉玫莉亞</FlammeliaAdult.label>
+
+  <LeffyBaby.label>稚獸</LeffyBaby.label>
+  <LeffyJuvenile.label>幼年</LeffyJuvenile.label>
+  <LeffyAdult.label>成年</LeffyAdult.label>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimatomicsMinimap>激活地图需要来自MOD-Rimatomics的TACS（目标捕获与通信系统）</RimatomicsMinimap>
+  <CommsConsoleMap>激活迷你地图需要处于正常工作状态下的通讯台。</CommsConsoleMap>
+  <FreeMinimap>激活迷你地图不需要任何额外的建筑。</FreeMinimap>
+
+</LanguageData>

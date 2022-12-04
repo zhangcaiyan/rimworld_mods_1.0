@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- end table light -->
+
+  <Anon2EndTableLight.label>带灯茶几</Anon2EndTableLight.label>
+  <Anon2EndTableLight.description>这张带灯的小桌子和床很相配，当放在床旁边时会轻微增加舒适度。</Anon2EndTableLight.description>
+  <Anon2EndTableLight_Blueprint.label>带灯茶几 (蓝图)</Anon2EndTableLight_Blueprint.label>
+  <Anon2EndTableLight_Blueprint_Install.label>带灯茶几 (蓝图)</Anon2EndTableLight_Blueprint_Install.label>
+  <Anon2EndTableLight_Frame.label>带灯茶几 (建造中)</Anon2EndTableLight_Frame.label>
+  <Anon2EndTableLight_Frame.description>这张带灯的小桌子和床很相配，当放在床旁边时会轻微增加舒适度。</Anon2EndTableLight_Frame.description>
+
+
+  <!-- royal end table light -->
+
+  <Anon2RoyalEndTableLight.label>豪华带灯茶几</Anon2RoyalEndTableLight.label>
+  <Anon2RoyalEndTableLight.description>这张带灯的小桌子和豪华床很相配，当放在床旁边时会增加舒适度。</Anon2RoyalEndTableLight.description>
+  <Anon2RoyalEndTableLight_Blueprint.label>豪华带灯茶几 (蓝图)</Anon2RoyalEndTableLight_Blueprint.label>
+  <Anon2RoyalEndTableLight_Blueprint_Install.label>豪华带灯茶几 (蓝图)</Anon2RoyalEndTableLight_Blueprint_Install.label>
+  <Anon2RoyalEndTableLight_Frame.label>豪华带灯茶几 (建造中)</Anon2RoyalEndTableLight_Frame.label>
+  <Anon2RoyalEndTableLight_Frame.description>这张带灯的小桌子和豪华床很相配，当放在床旁边时会增加舒适度。</Anon2RoyalEndTableLight_Frame.description>
+
+
+  <!-- standing lamp (magenta) -->
+
+  <StandingLamp_Magenta.label>洋红色灯泡</StandingLamp_Magenta.label>
+  <StandingLamp_Magenta.description>一个发出洋红色光芒的普通灯泡。</StandingLamp_Magenta.description>
+  <StandingLamp_Magenta_Blueprint.label>红灯泡 (蓝图)</StandingLamp_Magenta_Blueprint.label>
+  <StandingLamp_Magenta_Blueprint_Install.label>红灯泡 (蓝图)</StandingLamp_Magenta_Blueprint_Install.label>
+  <StandingLamp_Magenta_Frame.label>红灯泡 (建造中)</StandingLamp_Magenta_Frame.label>
+  <StandingLamp_Magenta_Frame.description>一个发出洋红色光芒的普通灯泡。</StandingLamp_Magenta_Frame.description>
+
+
+  <!-- 黄色灯泡 -->
+
+  <StandingLamp_Yellow.label>黄色灯泡</StandingLamp_Yellow.label>
+  <StandingLamp_Yellow.description>一个发出黄色光芒的普通灯泡。</StandingLamp_Yellow.description>
+  <StandingLamp_Yellow_Blueprint.label>黄色灯泡 (蓝图)</StandingLamp_Yellow_Blueprint.label>
+  <StandingLamp_Yellow_Blueprint_Install.label>黄色灯泡 (蓝图)</StandingLamp_Yellow_Blueprint_Install.label>
+  <StandingLamp_Yellow_Frame.label>黄色灯泡 (建造中)</StandingLamp_Yellow_Frame.label>
+  <StandingLamp_Yellow_Frame.description>一个发出黄色光芒的普通灯泡。</StandingLamp_Yellow_Frame.description>
+
+
+  <!-- 橙色灯泡 -->
+
+  <StandingLamp_Orange.label>橙色灯泡</StandingLamp_Orange.label>
+  <StandingLamp_Orange.description>一个发出橙色光芒的普通灯泡。</StandingLamp_Orange.description>
+  <StandingLamp_Orange_Blueprint.label>橙色灯泡 (蓝图)</StandingLamp_Orange_Blueprint.label>
+  <StandingLamp_Orange_Blueprint_Install.label>橙色灯泡 (蓝图)</StandingLamp_Orange_Blueprint_Install.label>
+  <StandingLamp_Orange_Frame.label>橙色灯泡 (建造中)</StandingLamp_Orange_Frame.label>
+  <StandingLamp_Orange_Frame.description>一个发出橙色光芒的普通灯泡。</StandingLamp_Orange_Frame.description>
+
+
+  <!-- 紫色灯泡 -->
+
+  <StandingLamp_Purple.label>紫色灯泡</StandingLamp_Purple.label>
+  <StandingLamp_Purple.description>一个发出紫色光芒的普通灯泡。</StandingLamp_Purple.description>
+  <StandingLamp_Purple_Blueprint.label>紫色灯泡 (蓝图)</StandingLamp_Purple_Blueprint.label>
+  <StandingLamp_Purple_Blueprint_Install.label>紫色灯泡 (蓝图)</StandingLamp_Purple_Blueprint_Install.label>
+  <StandingLamp_Purple_Frame.label>紫色灯泡 (建造中)</StandingLamp_Purple_Frame.label>
+  <StandingLamp_Purple_Frame.description>一个发出紫色光芒的普通灯泡。</StandingLamp_Purple_Frame.description>
+
+
+  <!-- 绿色灯泡 -->
+
+  <StandingLamp_Aqua.label>绿色灯泡</StandingLamp_Aqua.label>
+  <StandingLamp_Aqua.description>一个发出绿色光芒的普通灯泡。</StandingLamp_Aqua.description>
+  <StandingLamp_Aqua_Blueprint.label>绿色灯泡 (蓝图)</StandingLamp_Aqua_Blueprint.label>
+  <StandingLamp_Aqua_Blueprint_Install.label>绿色灯泡 (蓝图)</StandingLamp_Aqua_Blueprint_Install.label>
+  <StandingLamp_Aqua_Frame.label>绿色灯泡 (建造中)</StandingLamp_Aqua_Frame.label>
+  <StandingLamp_Aqua_Frame.description>一个发出绿色光芒的普通灯泡。</StandingLamp_Aqua_Frame.description>
+
+
+  <!-- 青色灯泡 -->
+
+  <StandingLamp_Lime.label>青色灯泡</StandingLamp_Lime.label>
+  <StandingLamp_Lime.description>一个发出青色光芒的普通灯泡。</StandingLamp_Lime.description>
+  <StandingLamp_Lime_Blueprint.label>青色灯泡 (蓝图)</StandingLamp_Lime_Blueprint.label>
+  <StandingLamp_Lime_Blueprint_Install.label>青色灯泡 (蓝图)</StandingLamp_Lime_Blueprint_Install.label>
+  <StandingLamp_Lime_Frame.label>青色灯泡 (建造中)</StandingLamp_Lime_Frame.label>
+  <StandingLamp_Lime_Frame.description>一个发出青色光芒的普通灯泡。</StandingLamp_Lime_Frame.description>
+
+
+</LanguageData>

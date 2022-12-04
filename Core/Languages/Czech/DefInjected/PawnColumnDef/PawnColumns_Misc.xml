@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>povolená oblast</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>povolená oblast</AllowedAreaWide.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>drogová politika</DrugPolicy.label>
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>potravinové omezení</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Reakce na projev nepřátelství</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>páníček</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Lékařská péče</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>současná výstroj</Outfit.label>
+  
+</LanguageData>

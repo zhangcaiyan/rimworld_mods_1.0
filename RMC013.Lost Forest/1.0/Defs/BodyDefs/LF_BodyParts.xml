@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <BodyPartDef>
+    <defName>LF_LeftWing</defName>
+    <label>left wing</label>
+    <hitPoints>25</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <alive>false</alive>
+    <bleedRate>0</bleedRate>
+<!--
+    <tags>
+      <li>MovingLimbCore</li>
+    </tags>
+-->
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>LF_RightWing</defName>
+    <label>right wing</label>
+    <hitPoints>25</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <alive>false</alive>
+    <bleedRate>0</bleedRate>
+<!--
+    <tags>
+      <li>MovingLimbCore</li>
+    </tags>
+-->
+  </BodyPartDef>
+
+</Defs>

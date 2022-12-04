@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_JorouGumo.label>JorouGumo</Yokai_JorouGumo.label>
+  <Yokai_JorouGumo.labelPlural>JorouGumos</Yokai_JorouGumo.labelPlural>
+  <Yokai_JorouGumo.lifeStages.0.label>ShoujorouGumo</Yokai_JorouGumo.lifeStages.0.label>
+  <Yokai_JorouGumo.lifeStages.0.labelPlural>ShoujorouGumos</Yokai_JorouGumo.lifeStages.0.labelPlural>
+  <Yokai_JorouGumo.lifeStages.1.label>JorouGumo</Yokai_JorouGumo.lifeStages.1.label>
+  <Yokai_JorouGumo.lifeStages.1.labelPlural>JorouGumo</Yokai_JorouGumo.lifeStages.1.labelPlural>
+
+
+</LanguageData>

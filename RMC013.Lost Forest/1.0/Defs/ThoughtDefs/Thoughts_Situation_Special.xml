@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- 神聖大樹の苗木 -->
+  <ThoughtDef>
+    <defName>LF_Thought_HolyWoodSapling</defName>
+    <workerClass>LostForest.ThoughtWorker_ElderTreeSapling</workerClass>
+    <effectMultiplyingStat></effectMultiplyingStat>
+    <stages>
+      <li>
+        <label>clear forest breeze</label>
+        <description>The air here is fresh! It makes me feel open to nature.</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+</Defs>

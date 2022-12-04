@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LifeStageDef>
+    <defName>LamiaJuvenile</defName>
+    <label>Juvenile</label>
+    <voxPitch>1.0</voxPitch>
+    <bodySizeFactor>0.8</bodySizeFactor>
+    <healthScaleFactor>0.8</healthScaleFactor>
+    <hungerRateFactor>1.2</hungerRateFactor>
+    <marketValueFactor>0.8</marketValueFactor>
+    <statFactors>
+      <MoveSpeed>0.8</MoveSpeed>
+    </statFactors>
+    <milkable>true</milkable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>ShoKabe</defName>
+    <bodySizeFactor>0.50</bodySizeFactor>
+    <healthScaleFactor>0.50</healthScaleFactor>
+    <hungerRateFactor>0.50</hungerRateFactor>
+    <marketValueFactor>0.50</marketValueFactor>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>ChuKabe</defName>
+    <bodySizeFactor>0.80</bodySizeFactor>
+    <healthScaleFactor>0.80</healthScaleFactor>
+    <hungerRateFactor>0.80</hungerRateFactor>
+    <marketValueFactor>0.80</marketValueFactor>
+    <shearable>true</shearable>
+  </LifeStageDef>
+</Defs>

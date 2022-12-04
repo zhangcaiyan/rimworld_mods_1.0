@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_YukiShizuku.label>雪雫</Yokai_YukiShizuku.label>
+  <Yokai_YukiShizuku.description>雪雫は雪の多い地域に暮らす珍しい妖怪です。比較的人懐っこく大人しい性質をしており、飲食可能な特別な液体を生成します。
+    \n銃弾や弓矢を筆頭に物理的な攻撃を退けますが火と熱を弱点としています。
+    \n広い地域で暮らしていますが、暑さに弱いため夏に姿を見せる事は稀です。
+    \n彼女たちがいる空間は強烈に温度が下がるため気を付ける必要があります。食糧庫で暮らしてもらえれば・・？</Yokai_YukiShizuku.description>
+  <Yokai_YukiShizuku.tools.0.label>左手</Yokai_YukiShizuku.tools.0.label>
+  <Yokai_YukiShizuku.tools.1.label>右手</Yokai_YukiShizuku.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_YukiShizuku_Corpse.label>雪雫の死骸</Yokai_YukiShizuku_Corpse.label>
+  <Yokai_YukiShizuku_Corpse.description>雪雫の死骸です。生きている時より暖かい気がします…</Yokai_YukiShizuku_Corpse.description>
+</LanguageData>

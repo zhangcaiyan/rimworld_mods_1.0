@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_cheeeese.label>拉米亞奶酪</Yokai_cheeeese.label>
+  <Yokai_cheeeese.description>妖怪村秘傳的超好吃delicious奶酪。能透過特殊加工拉米亞的乳汁來製成。黏稠綿密的佳餚，亦能長時間存放當作保存糧食。</Yokai_cheeeese.description>
+  <!--チーズケーキ -->
+  <Yokai_CheeeeseCake.label>妖怪奶酪蛋糕</Yokai_CheeeeseCake.label>
+  <Yokai_CheeeeseCake.description>美味出色的妖怪製特別奶酪蛋糕。以莓果、米，以及拉米亞奶酪製成。絕妙的味雷衝擊讓人感到飄浮在雲朵間。</Yokai_CheeeeseCake.description>
+  <!-- ドミート -->
+  <Yokai_domeat.label>巨龍肉排</Yokai_domeat.label>
+  <Yokai_domeat.description>以龍肉經過特殊製程處理後燒烤而成的特別肉排。營養滿分元氣滿點的一道佳餚。</Yokai_domeat.description>
+  <!-- 妖怪焼き-->
+  <Yokai_Yaki.label>妖怪焼</Yokai_Yaki.label>
+  <Yokai_Yaki.description>僅是將肉烘烤成焦黃色的食物，沒什麼味道。沒有經過調味，因此也無法長久保存。雖然不怎麼美味但能防止食物中毒。</Yokai_Yaki.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Wolvern.label>Wolvern</LF_Wolvern.label>
+  <LF_Wolvern.description>A stoic and strong beastgirl. Her kind-like the Lefca-is tasked with finding a maiden of the forest, or Foxia as they are known, and protecting her with their every breath. Wolvern are recognized by their wolf-like ears, tail, and slender legs. Personality-wise, they are typically firm on themselves and others; this can manifest in a sharp gaze of dissappointment, like when a Lefca spends too much time collecting "trasures." Yet, it is her compassion that compels her to defend the Foxia, so-even if its rarely seen-she does have a gentle aspect to her. As a Wolvern, she is a 1st Class Defender. Whether it's her smoldering gaze or martial arts, she uses every ability she can to defend her friends. Wolverns rarely stray into colonies; however, when they do it is in search of their companion, who they lost track of during the destruction of their home forest. They appear in all biomes with a very, very low probability. (She has a slight tendency to prefer extreme environments.)</LF_Wolvern.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Wolvern_Meat.label>Wolvern meat</LF_Wolvern_Meat.label>
+  <LF_Wolvern_Meat.description>A tough, lean meat fraught with sinew. Such meat attests to the constant training the Wolvern put herself through; her life lacked any fat, as every moment was spent training or preparing for some future threat. Stories of old had filled the Wolvern's mind with horrors, with fears about what would happen to her friends if they were defeated again. No one else may be able to harm her, but-if she fell in battle-then doubt was surely her last thougt.</LF_Wolvern_Meat.description>
+-->
+  <LF_Wolvern_Corpse.label>Wolvern corpse</LF_Wolvern_Corpse.label>
+  <LF_Wolvern_Corpse.description>This defender battled to her last. A withered and crushed wreath can be seen in her pocket; despite its state, its fresh smell is still strong enough to cover that of the corpse. It is tradition on some worlds to bury a Wolvern before the wreath completely wilts; moreover, the wreath is placed in her hands, which are placed across her chest, and the grave is left open for a day. This allows any Lefca or Foxia in the region to pay their regards when no one is looking.</LF_Wolvern_Corpse.description>
+
+</LanguageData>

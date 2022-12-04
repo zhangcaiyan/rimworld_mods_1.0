@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human -->
+  <Human.label>humano</Human.label>
+  <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
+  <Human.description>Um ser humano padrão, na maior parte não modificado por engenharia genética e principalmente inalterado por pressões evolutivas em planetas não-terrestres.</Human.description>
+  <!-- EN: left fist -->
+  <Human.tools.left_fist.label>punho esquerdo</Human.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Human.tools.right_fist.label>punho direito</Human.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Human.tools.teeth.label>dentes</Human.tools.teeth.label>
+  <!-- EN: head -->
+  <Human.tools.head.label>cabeça</Human.tools.head.label>
+  
+</LanguageData>

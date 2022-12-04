@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_AlchemyCore.label>alchemy core</LF_AlchemyCore.label>
+	<LF_AlchemyCore.description>This enigmatic structure produces electricity by drawing it from the void. The alchemy core is one of the best-kept secrets of the Drarr era, and a complete unknown to modern science. Even if word spread about this device its core component, the black box, which enables such power generation, rivals Acrotech in terms of complexity. When used as a generator, it stabilizes connected circuits.</LF_AlchemyCore.description>
+
+	<LF_AlchemicBattery.label>alchemic battery</LF_AlchemicBattery.label>
+	<LF_AlchemicBattery.description>A miniaturized replica of the large capacity storage devices that alchemists used in the Drarr era. Despite its scaled back state, this battery boasts superior conversion rates and storage capacity to most modern day tech; moreover, failsafes within the device account for circuit-wide overcurrents due to battery leakage, and enable this battery to absorb the total power that would've been lost.</LF_AlchemicBattery.description>
+
+	<LF_HolyWoodSapling.label>holy wood sapling</LF_HolyWoodSapling.label>
+	<LF_HolyWoodSapling.description>This tree purifies the dirt around it, produces the cleanest, freshest air, and blesses any living thing nearby. Though a sapling, it seems to match the description of the trees found at the core of elder forests. Maturation of such trees, however, requires hundreds of years, so the current generation will not be able to see it become a new elder core.\nThe clean air will periodically cleanse any within its aura, curing them of parasitic infections like gut worms, muscle parasites, or even runaway mechanite viruses. It also has a strong repellent effect against insectoids hiding in the bedrock.\n\n*Note: Infestation caused by drilling cannot be prevented.</LF_HolyWoodSapling.description>
+
+	<LF_EntropyReductionCooler.label>entropy reduction cooler</LF_EntropyReductionCooler.label>
+	<LF_EntropyReductionCooler.description>A self-sustaining structure that converts ambient heat into usable energy; however, its main purpose is not to generate power, but rather to cool down its designated environment. A fortunate bonus of this device's self-sustaining design is that its black box-its core operating mechanism-is entirely shielded from the elctormagnetic field: meaning it is immune to solar flares. According to one theory, this machine may have been part energy control mechanism of a huge siege gun.</LF_EntropyReductionCooler.description>
+
+	<LF_EltguelmHeater.label>Eltguelm heater</LF_EltguelmHeater.label>
+	<LF_EltguelmHeater.description>A self-sustaining, Drarr era device that generates heat through-most likely-some sort of alchemic process. A fortunate bonus of this device's self-sustaining design is that its black box-its core operating mechanism-is entirely shielded from the elctormagnetic field: meaning it is immune to solar flares. According to one theory, this machine may have been part energy control mechanism of a huge siege gun.</LF_EltguelmHeater.description>
+
+	<LF_DaliusSunLamp.label>Star of Dalius</LF_DaliusSunLamp.label>
+	<LF_DaliusSunLamp.description>A perplexing lamp that produces a light powerful enough to grow crops. It's designed to run in the day and night, and works with far less power consumption than a normal sunlamp. This dazzling light also has the effect of hindering insectoid infestation.\n\n*Note: Infestation caused by drilling cannot be prevented.</LF_DaliusSunLamp.description>
+
+	<LF_AtzldoirStella.label>Atzldoir's Stella</LF_AtzldoirStella.label>
+	<LF_AtzldoirStella.description>A lamp even more powerful than the Star of Dalius. This lamp also works day and night, but has the added bonus of being self-sustaining: in other words, it does not require an external power source. Like the Dalius, it can also hinder insectoind infestations.\n\n*Note: Infestation caused by drilling cannot be prevented.</LF_AtzldoirStella.description>
+
+
+</LanguageData>

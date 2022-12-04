@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Flammelia.label>芙拉玫利亞</LF_Flammelia.label>
+  <LF_Flammelia.description>源自於恐鳥類等大型生物的獸人族，也是居住在遠古森林的一份子。其鮮紅的羽翼宛如炙熱燃燒的烈焰，前端的鉤爪使得她的翅膀不適用於飛行、與而代之的是強韌有利的雙腿。大多的個體皆是樂天派，擅長透過歌唱與舞蹈來享受生活，盡是愛找些樂子來玩。即使發生不愉快的事情，向來不拘小節的她也會在走2、3步後全數忘光。但若真的惹惱了她，以其體格所發出的連環打擊，對她的敵人來說將是無法輕視的威脅。身為森林守衛，平時不僅協助巡查森林周圍，也會幫忙一些勞動工作。她不會出現於野外，在被毀滅的遠古森林中英勇奮戰後，而成為俘虜的倖存者們，似乎仍稀少地在附近被目擊到。</LF_Flammelia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Flammelia_Corpse.label>芙拉玫利亞的屍體</LF_Flammelia_Corpse.label>
+  <LF_Flammelia_Corpse.description>逐漸失去溫度的芙拉玫利亞屍體，再也沒有人能帶給她更多痛苦。</LF_Flammelia_Corpse.description>
+
+</LanguageData>

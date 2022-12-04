@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Plant Pots -->
+
+	<Anon2SquarePlantPot.label>Kwadratowa Ozdobna Doniczka</Anon2SquarePlantPot.label>
+	<Anon2SquarePlantPot.description>Tu posiej ozdobne kwiaty aby poprawić samopoczucie osób znajdujących się w pobliżu.</Anon2SquarePlantPot.description>
+
+	<Anon2PlantSpot.label>Kwadratowa Doniczka</Anon2PlantSpot.label>
+	<Anon2PlantSpot.description>Duża płaska doniczka przecnaczona do sadzenia kwiató ozdobnych. Łatwiejsz w budowaniu ale nie tak ładna jak ozdobna doniczka.</Anon2PlantSpot.description>
+
+	<Anon2OrnatePlantPot.label>Ozdobny Wazon</Anon2OrnatePlantPot.label>
+	<Anon2OrnatePlantPot.description>Tu posiej ozdobne kwiaty aby poprawić samopoczucie osób znajdujących się w pobliżu. Ta doniczka jest dziłem sztuki.</Anon2OrnatePlantPot.description>
+
+	<Anon2OrnateSquarePlantPot.label>Kwadratowy Ozdobny Wazon</Anon2OrnateSquarePlantPot.label>
+	<Anon2OrnateSquarePlantPot.description>Tu posiej ozdobne kwiaty aby poprawić samopoczucie osób znajdujących się w pobliżu. Ta doniczka jest dziłem sztuki.</Anon2OrnateSquarePlantPot.description>
+
+</LanguageData>

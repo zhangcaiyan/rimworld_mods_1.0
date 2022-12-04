@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Foxia.label>巫女狐</LF_Foxia.label>
+  <LF_Foxia.description>拥有如幻想世界般异国风貌的巫女狐，是种具有人类少女外表的动物。\n她们的耳朵与尾巴上覆着舒适柔软的绒毛，其纤细的身体具有强大的免疫能力，这使巫女狐不受任何疾病威胁。\n透过精灵的神托而拥有特殊能力的她们，在这片古老的森林失去了身为指导者的青龙族后，成为了能够决定共同体今后去向的重要存在。但是对于想要渴望着她的血与肉的猎人来说，这也成了充分的理由。巫女狐平易近人的本性，使得她的同类多半被这个行星上的住民所捕捉。现今已不会随意出现在人类面前。若是能巧遇她们，那你也算是相当幸运。</LF_Foxia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Foxia_Meat.label>ちび巫女狐の肉</LF_Foxia_Meat.label>
+  <LF_Foxia_Meat.description>ちび巫女狐の肉。壊れてしまった彼女の仲间たちの末路です。</LF_Foxia_Meat.description>
+-->
+  <LF_Foxia_Corpse.label>巫女狐的尸体</LF_Foxia_Corpse.label>
+  <LF_Foxia_Corpse.description>逐渐失去温度的巫女狐尸体。再也没有人能给她带来更多痛苦。</LF_Foxia_Corpse.description>
+
+
+</LanguageData>

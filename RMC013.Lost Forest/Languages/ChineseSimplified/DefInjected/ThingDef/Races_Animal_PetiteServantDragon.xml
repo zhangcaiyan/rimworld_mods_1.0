@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_PetiteServantDragon.label>小不点随从龙</LF_PetiteServantDragon.label>
+  <LF_PetiteServantDragon.description>被拣选作为服侍青龙的随从中，三匹专属随从龙中的其中一只。自从其祖先受命成为了龙帝的亲信，直到他们灭亡为止。仆从龙们始终侍奉着青龙的血脉。虽为龙族中最弱的支脉，但其忠诚心至今仍丝毫不受动摇。即使只是杯水车薪，也想为掩饰着孤独寂寞的青龙尽上一份心力。今天，他们也为着奉献已身而努力不懈。若在野外看见他们，那肯定是在找寻青龙的身影。</LF_PetiteServantDragon.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_PetiteServantDragon_Meat.label>召使いちび竜の肉</LF_PetiteServantDragon_Meat.label>
+  <LF_PetiteServantDragon_Meat.description>召使いちび竜の肉。</LF_PetiteServantDragon_Meat.description>
+-->
+  <LF_PetiteServantDragon_Corpse.label>小不点随从龙的尸体</LF_PetiteServantDragon_Corpse.label>
+  <LF_PetiteServantDragon_Corpse.description>小不点随从龙的尸体。</LF_PetiteServantDragon_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+<li>Yokai_Nomal</li>
+とげねずみ
+かっぱ
+河童
+かまいたち
+垢嘗
+牙の精霊
+
+<li>Yokai_Farm</li>
+ラミア
+猫娘
+雪雫
+女郎蜘蛛
+ぬりかべ
+牙の精霊
+
+
+<li>Yokai_Dragon</li>
+シロ
+レドラ
+ペコドラ
+
+
+<li>Yokai_Mythology</li>
+九尾の狐
+月の竜
+ヒヒイロカベ
+
+Base
+Sell	Nomal	Farm	Dragon
+Buy	Dragon
+
+
+Caraban
+Sell	Nomal	Farm
+
+
+
+<li>Yokai_Art</li>
+絨毯3つ
+
+<lie>Yokai_Medicine?</li>
+お薬2種
+ドラッグ2種

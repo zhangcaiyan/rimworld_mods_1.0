@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creek -->
+  <Creek.label>rierol</Creek.label>
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>riu inmens</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>riu gran</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>riu</River.label>
+  
+</LanguageData>

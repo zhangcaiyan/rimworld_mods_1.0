@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchTabDef>
+    <defName>YokaiTradition</defName>
+    <label>Yokai Tradition</label>
+  </ResearchTabDef>
+  <ResearchProjectTagDef>
+    <defName>YokaiStart</defName>
+  </ResearchProjectTagDef>
+  <!--=============================== 妖怪文化 ===================================-->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionBasic</defName>
+    <label>Yokai Traditions</label>
+    <description>Search out rumors and records; pace through memory and question those around you; seek out the most meagre truth of Yokai culture: that it exists. Even with such scant knowledge our colonists will be able to put together some basic tailoring recipes.</description>
+    <baseCost>240</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>YokaiTradition</tab>
+    <tags>
+      <li>YokaiStart</li>
+    </tags>
+    <researchViewX>0</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <!-- 衣類 -->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionCloth</defName>
+    <label>Yokai Clothing</label>
+    <description>Unsatisfied with petty clothing? Good. Seek now the knowledge that sets the Yokai apart-that allows such an archaic group to persist into the space age: enchantment. This indepth study shall reveal the passive magics often found in Yokai clothing. These basic outfits focus on endearing the wearer to the animals around them, which includes Yokai.</description>
+    <baseCost>530</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>ComplexClothing</li>
+      <li>YokaiTraditionBasic</li>
+    </prerequisites>
+    <tags>
+      <li>YokaiStart</li>
+    </tags>
+    <researchViewX>1</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiTraditionArmor</defName>
+    <label>Yokai Armor</label>
+    <description>Evoke the knowledge of the Nurarihyon and learn to create armor and masks. The Nurarihyon are a frightful thing; their appearance is far closer to human than other Yokai, but-have no doubt-they are Yokai and not human.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionCloth</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <!-- 武器 -->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionWeapon</defName>
+    <label>Yokai Weapons</label>
+    <description>By examing the bows, axes, and swords used by Yokai villages, their method of development can be divined.</description>
+    <baseCost>620</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>RecurveBow</li>
+      <li>Smithing</li>
+      <li>YokaiTraditionBasic</li>
+    </prerequisites>
+    <tags>
+      <li>YokaiStart</li>
+    </tags>
+    <researchViewX>1</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiTraditionWeaponSecond</defName>
+    <label>Yokai Warfare</label>
+    <description>Unlocks more powerful traps, swords, and bows that will aid in the protection of your village.</description>
+    <baseCost>820</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionWeapon</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <!-- 生活補助 -->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionFood</defName>
+    <label>Yokai Food</label>
+    <description>Study of the eating and cullinary habits of Yokai villages. Despite the large variety of Yokai, the Lamia appears to be key in food production...</description>
+    <baseCost>380</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>Pemmican</li>
+      <li>YokaiTraditionBasic</li>
+    </prerequisites>
+    <tags>
+      <li>YokaiStart</li>
+    </tags>
+    <researchViewX>1</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiTraditionLife</defName>
+    <label>Seasonal Wisdom</label>
+    <description>Through intensive study of Yokai physiology and practical wards, unlock the ability to create efficient, non-eletrical heating and cooling.</description>
+    <baseCost>540</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>PassiveCooler</li>
+      <li>YokaiTraditionFood</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <!-- 癒し -->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionCure</defName>
+    <label>Healing Techniques</label>
+    <description>Learn how to regenerate body parts by harnessing the inert magics found in Yokai byproducts. Moreover, this will also unlock the advanced medicine "Yokai Houtai."</description>
+    <baseCost>380</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>DrugProduction</li>
+      <li>YokaiTraditionBasic</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiTraditionCureAnimal</defName>
+    <label>Expanded Healing</label>
+    <description>By using Yokai Houtai in combination with Kyuubi wool, colonists will be able to apply regenerative medicine to more creatures.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionCure</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiTraditionAddDragon</defName>
+    <label>Draconic Infusion</label>
+    <description>Learn how to raise the physical abilities of a colonist by transplanting the power of a dragon into them.</description>
+    <baseCost>640</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionCureAnimal</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <!--妖怪錬成 -->
+  <ResearchProjectDef>
+    <defName>YokaiAlchemyBasic</defName>
+    <label>Yokai Alchemy-Basics</label>
+    <description>The introductory study of Yokai alchemy. (Currently, however, this research is unimplemented and unlocks no new content.)</description>
+    <baseCost>300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>YokaiTradition</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiAlchemyMiddle</defName>
+    <label>Yokai Alchemy-Intermediate</label>
+    <description>The intermediate study of Yokai alchemy. (Currently, however, this research is unimplemented and unlocks no new content.)</description>
+    <baseCost>600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiAlchemyBasic</li>
+    </prerequisites>
+    <tags>
+      <li>YokaiStart</li>
+    </tags>
+    <researchViewX>1</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiAlchemyHigh</defName>
+    <label>Yokai Alchemy-Advanced</label>
+    <description>The advanced study of Yokai alchemy. Our plan for this level is to have complex recipes that will result in the ability to summon Yokai. (Currently, however, this research is unimplemented and unlocks no new content.)</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiAlchemyMiddle</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiAlchemyAnimated</defName>
+    <label>Yokai Alchemy-Mastery</label>
+    <description>The most advanced study of Yokai alchemy. Our plan for this level expand the player's gameplay options. (Currently, however, this research is unimplemented and unlocks no new content.)</description>
+    <baseCost>20000</baseCost>
+    <techLevel>Ultra</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiAlchemyHigh</li>
+      <li>YokaiMythology</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <!-- 伝承と神話 -->
+  <ResearchProjectDef>
+    <defName>YokaiTraditionSecret</defName>
+    <label>Secret of the Yokai</label>
+    <description>Learn how to create weapons using dragon tusks, hearts, and Kyuubi wool.</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionCureAnimal</li>
+      <li>YokaiTraditionWeaponSecond</li>
+      <li>YokaiTraditionArmor</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Yokai_Magatama</defName>
+    <label>Yokai Magatama</label>
+    <description>Study the ancient chants passed down through generations; learn their effects of productivity and protection; and master the creation of Magatama, jewels that radiate such blessings without constant recitation.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionCureAnimal</li>
+      <li>YokaiTraditionArmor</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Yokai_DragonDrop</defName>
+    <label>Moon Drop</label>
+    <description>As the sun glistens within a rain drop, so too might the moon linger within a sword. Through binding a dragon's tusk such a blade could be made.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionWeaponSecond</li>
+      <li>YokaiTraditionLife</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>YokaiMythology</defName>
+    <label>Yokai Myth</label>
+    <description>Pass into Yokai legend by breaking the Koto no Ha's seal.</description>
+    <baseCost>4000</baseCost>
+    <techLevel>Ultra</techLevel>
+    <tab>YokaiTradition</tab>
+    <prerequisites>
+      <li>YokaiTraditionSecret</li>
+      <li>Yokai_DragonDrop</li>
+      <li>Yokai_Magatama</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+</Defs>

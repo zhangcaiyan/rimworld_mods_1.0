@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>LMC047s.Dub的迷你地图</name>
+	<author>Dubwise</author>
+	<url>https://ludeon.com/forums/index.php?topic=29043.0</url>
+	  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+Adds a minimap, with some options, doesn't hurt fps, ping tool for multiplayer v1.0.1
+添加了一个带有一些自定义选项的迷你地图，不会影响到帧率，带有多人模式1.0.1的Ping工具。（我不知道ping工具是个啥，测延迟的？还是标点的？）
+
+Multiplayer ready
+多人模式，就绪！
+
+整体汉化（包括DLL）：jxb12306
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+	</description>
+</ModMetaData>

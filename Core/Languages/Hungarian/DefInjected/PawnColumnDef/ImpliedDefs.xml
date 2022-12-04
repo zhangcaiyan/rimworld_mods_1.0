@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cipekedés -->
+  <Trainable_Haul.headerTip>cipekedés</Trainable_Haul.headerTip>
+  
+  <!-- EN: Engedelmesség -->
+  <Trainable_Obedience.headerTip>engedelmesség</Trainable_Obedience.headerTip>
+  
+  <!-- EN: Laza póráz -->
+  <Trainable_Release.headerTip>laza póráz</Trainable_Release.headerTip>
+  
+  <!-- EN: Mentés -->
+  <Trainable_Rescue.headerTip>mentés</Trainable_Rescue.headerTip>
+  
+  <!-- EN: Szelídség -->
+  <Trainable_Tameness.headerTip>szelídség</Trainable_Tameness.headerTip>
+  
+</LanguageData>

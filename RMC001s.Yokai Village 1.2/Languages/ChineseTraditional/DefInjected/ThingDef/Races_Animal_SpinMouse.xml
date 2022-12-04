@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_SpinMouse.label>針鼠</Yokai_SpinMouse.label>
+  <Yokai_SpinMouse.description>容易與人輕近的針鼠，是刺蝟的亞種。自古就被當作寵物飼育。
+\n背棘其實遠比看上去要來得柔軟，在野外很容易就被吃掉。所需的飼料少又對主人的命令十分順從。
+\n他們習慣生活在樹木多的地方，有時也能在沙漠及草原等地帶遇見牠們。基本上能適應世界上的各種環境。
+\n繁殖速度真不是普通地快，成匹飼育時請多加留意。</Yokai_SpinMouse.description>
+  <Yokai_SpinMouse.tools.0.label>左前腳</Yokai_SpinMouse.tools.0.label>
+  <Yokai_SpinMouse.tools.1.label>右前腳</Yokai_SpinMouse.tools.1.label>
+  <Yokai_SpinMouse.tools.2.label>前牙</Yokai_SpinMouse.tools.2.label>
+  <Yokai_SpinMouse_Corpse.label>針鼠的屍體</Yokai_SpinMouse_Corpse.label>
+  <Yokai_SpinMouse_Corpse.description>針鼠的屍體。再也不會用可愛的鼻子發出聲音摩蹭人了...</Yokai_SpinMouse_Corpse.description>
+</LanguageData>

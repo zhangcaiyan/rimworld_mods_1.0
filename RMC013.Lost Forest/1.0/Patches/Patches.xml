@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+<!-- for "a Dog said"-->
+
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallSimpleProstheticTailAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallPegLegAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallSimpleProstheticLegAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicLegAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallSimpleProstheticArmAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicArmAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicEyeAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallEarAnimalSimple"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallEarAnimalBionic"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallJawAnimalSimple"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallJawAnimalBionic"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallAnimalBrainStimulator"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallSpineAnimalSimple"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallSpineAnimalBionic"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicAnimalHeart"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicAnimalLung"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicAnimalLiver"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicAnimalKidney"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>*/RecipeDef[defName = "InstallBionicAnimalStomach"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <success>Always</success>
+    <xpath>Defs/RecipeDef[@Name = "OldWoundsAnimal"]/recipeUsers/li</xpath>
+    <value>
+      <li>LF_Foxia</li>
+      <li>LF_Leffy</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </value>
+  </Operation>
+
+<!-- "Lost Forest" for vanilla-->
+
+		<!--ヒト型への投与追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "Human"]/recipes</xpath>
+    <value>
+      <li>AdministerFoxiaTears</li>
+      <li>AdministerOmikujiSenbei</li>
+      <li>AdministerMysteriousWreath</li>
+      <li>AdministerNutChocolate</li>
+    </value>
+  </Operation>
+		<!--動物への投与追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name = "AnimalThingBase"]/recipes</xpath>
+    <value>
+      <li>AdministerFoxiaTears</li>
+      <li>AdministerOmikujiSenbei</li>
+      <li>AdministerMysteriousWreath</li>
+      <li>AdministerNutChocolate</li>
+    </value>
+  </Operation>
+
+		<!--商人にちび狐の涙枠を追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Neolithic_ShamanMerchant"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>LFT_Exotic</tradeTag>
+	<price>Normal</price>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>LFT_Exotic</tradeTag>
+	<price>Normal</price>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Base_Neolithic_Standard"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>LFT_Exotic</tradeTag>
+	<price>Normal</price>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Base_Outlander_Standard"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>LFT_Exotic</tradeTag>
+	<price>Normal</price>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+
+		<!--商人にLFの戦争捕虜の売買追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Base_Neolithic_Standard"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>-1</min>
+          <max>2</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Base_Outlander_Standard"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>-1</min>
+          <max>2</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Neolithic_Slaver"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>0</min>
+          <max>2</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Neolithic_ShamanMerchant"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>-1</min>
+          <max>1</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Outlander_PirateMerchant"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>0</min>
+          <max>2</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Animals">
+        <maxWildness>0.70</maxWildness>
+<!--
+        <tradeTagsSell>
+          <li>LF_POW</li>
+        </tradeTagsSell>
+-->
+        <tradeTagsBuy>
+          <li>LF_AnimalExotic</li>
+        </tradeTagsBuy>
+<!--
+        <kindCountRange>
+          <min>0</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>-1</min>
+          <max>1</max>
+        </countRange>
+-->
+      </li>
+    </value>
+  </Operation>
+
+		<!--動物へ退却命令コマンド追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[thingClass = "Pawn"]/comps</xpath>
+    <value>
+      <li Class="LostForest.CompProperties_LFGeneralPawnComp"> </li>
+    </value>
+  </Operation>
+
+		<!--Siteに遭難者捜索・竜人族捜索を追加-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/WorldObjectDef[defName="Site"]/comps</xpath>
+    <value>
+      <li Class="LostForest.WorldObjectCompProperties_LFQuestFindOutSurvivor"> </li>
+      <li Class="LostForest.WorldObjectCompProperties_LFQuestGaitOfAncientOne"> </li>
+    </value>
+  </Operation>
+		<!--遭難者捜索の脅威設定-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/SitePartDef[defName="SleepingMechanoids" or defName="AmbushHidden"]/tags</xpath>
+    <value>
+      <li>LFFindOutSurvivorQuestThreat</li>
+    </value>
+  </Operation>
+		<!--主の足取りの脅威設定（ダミー）-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/SitePartDef[defName="AmbushEdge"]/tags</xpath>
+    <value>
+      <li>LFGaitOfAncientOneQuestThreat</li>
+    </value>
+  </Operation>
+
+		<!--ZOC-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/StatDef[defName="MoveSpeed"]/parts</xpath>
+    <value>
+      <li Class="LostForest.StatPart_LFZOC" />
+    </value>
+  </Operation>
+
+		<!--パーティ即時中断コマンド-->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+    <li Class="PatchOperationTest">
+      <xpath>/Defs/ThingDef[defName="PartySpot"]/comps</xpath>
+      <success>Invert</success>
+    </li>
+    <li Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="PartySpot"]</xpath>
+      <value>
+        <comps />
+      </value>
+    </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "PartySpot"]/comps</xpath>
+    <value>
+      <li Class="LostForest.CompProperties_LFPartyExecutor"> </li>
+    </value>
+  </Operation>
+
+</Patch>

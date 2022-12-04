@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>YokaiSodathi</defName>
+    <commonality>0.001</commonality>
+    <degreeDatas>
+      <li>
+        <label>Yokai Child</label>
+        <description>[PAWN_nameDef] grew up amongst the Yokai; the Tsuzurao itself, perhaps, deigned to take notice, and blessed [PAWN_nameDef] with greater agility and animal handling, though they suffer higher sensitivity to toxins and psychic attacks in exchange.</description>
+        <statOffsets>
+          <MoveSpeed>+0.2</MoveSpeed>
+          <TameAnimalChance>0.1</TameAnimalChance>
+          <TrainAnimalChance>0.1</TrainAnimalChance>
+          <PsychicSensitivity>+0.25</PsychicSensitivity>
+          <ToxicSensitivity>+0.5</ToxicSensitivity>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>HanYou</defName>
+    <commonality>0.001</commonality>
+    <degreeDatas>
+      <li>
+        <label>Nurarihyon's Blood</label>
+        <description>An ancestor of [PAWN_nameDef] married a Nurarihyon. Spectral blood fills their veins, granting them increased physical ability.</description>
+        <statOffsets>
+          <MeleeHitChance>0.2</MeleeHitChance>
+          <MeleeDodgeChance>0.15</MeleeDodgeChance>
+          <MoveSpeed>0.5</MoveSpeed>
+          <PsychicSensitivity>-0.1</PsychicSensitivity>
+          <ToxicSensitivity>-0.1</ToxicSensitivity>
+          <ImmunityGainSpeed>+0.2</ImmunityGainSpeed>
+        </statOffsets>
+        <marketValueFactorOffset>0.2</marketValueFactorOffset>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>YokaiWarrior</defName>
+    <degreeDatas>
+      <li>
+        <label>三尾</label>
+        <description>[PAWN_nameDef]は妖怪武術を学び達人と呼ばれる域に達しています。</description>
+        <commonality>0.01</commonality>
+        <statOffsets>
+          <MeleeHitChance>8</MeleeHitChance>
+          <MeleeDodgeChance>30</MeleeDodgeChance>
+          <MoveSpeed>1</MoveSpeed>
+        </statOffsets>
+        <degree>0</degree>
+        <marketValueFactorOffset>0.4</marketValueFactorOffset>
+      </li>
+      <li>
+        <label>五尾</label>
+        <description>達人たちの中でも飛び抜けた技術を身に着けた[PAWN_nameDef]は５つの尾を持つものと呼ばれています。</description>
+        <commonality>0.001</commonality>
+        <statOffsets>
+          <MeleeHitChance>12</MeleeHitChance>
+          <MeleeDodgeChance>40</MeleeDodgeChance>
+          <MoveSpeed>2</MoveSpeed>
+        </statOffsets>
+        <degree>1</degree>
+        <marketValueFactorOffset>0.7</marketValueFactorOffset>
+      </li>
+      <li>
+        <label>白尾</label>
+        <description>生まれ持った天賦の才を極限まで磨き上げた者にのみ「白尾」の称号が与えられます。</description>
+        <commonality>0.0001</commonality>
+        <statOffsets>
+          <MeleeHitChance>34</MeleeHitChance>
+          <MeleeDodgeChance>62</MeleeDodgeChance>
+          <MoveSpeed>3</MoveSpeed>
+          <ImmunityGainSpeed>0.4</ImmunityGainSpeed>
+        </statOffsets>
+        <degree>2</degree>
+        <marketValueFactorOffset>1</marketValueFactorOffset>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <!--  
+    <skillGains>　スキル伸ばせる
+    <disallowedInspirations>　これやると文句でるやつ。（遠距離武器持つと怒る）
+    <disabledWorkTags>　其の仕事ができなくなる
+    <conflictingTraits> 相反する特性
+    <requiredWorkTags>  この仕事やると幸せになる？ 
+    <theOnlyAllowedMentalBreaks>　メンタルブレイクの種類を限定できる
+    <randomMentalState>　ストレスとは無関係にランダムでメンタルブレイクする
+    <randomMentalStateMtbDaysMoodCurve>　確率
+    <marketValueFactorOffset>　価値が上下する
+    <commonalityFemale>　女性がこの性格を持つ確率
+    -->
+</Defs>

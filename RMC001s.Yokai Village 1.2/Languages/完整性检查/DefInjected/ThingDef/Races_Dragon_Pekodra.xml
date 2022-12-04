@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Dragon_Pekodra.label>Pekodra</Yokai_Dragon_Pekodra.label>
+  <Yokai_Dragon_Pekodra.description>A ferocious beast of crimson; this dragon's maw ever hungers for foes. If you see this yokai wandering about, then seek safety, for everything is its prey. It is said that Pekodra's ancestors were highly intelligent. Perhaps they were...perhaps it is, and its anger is simply dedication to some time-lost purpose.</Yokai_Dragon_Pekodra.description>
+  <Yokai_Dragon_Pekodra.tools.0.label>FrontLeftLeg</Yokai_Dragon_Pekodra.tools.0.label>
+  <Yokai_Dragon_Pekodra.tools.1.label>FrontRightLeg</Yokai_Dragon_Pekodra.tools.1.label>
+  <Yokai_Dragon_Pekodra.tools.2.label>Fang</Yokai_Dragon_Pekodra.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Dragon_Pekodra_Corpse.label>Pekodra corpse</Yokai_Dragon_Pekodra_Corpse.label>
+  <Yokai_Dragon_Pekodra_Corpse.description>Pekodra corpse</Yokai_Dragon_Pekodra_Corpse.description>
+
+
+</LanguageData>

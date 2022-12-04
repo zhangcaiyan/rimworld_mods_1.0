@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Lamia.label>拉米亞</Yokai_Lamia.label>
+  <Yokai_Lamia.labelPlural>拉米亞</Yokai_Lamia.labelPlural>
+  <Yokai_Lamia.lifeStages.0.label>拉米亞幼女</Yokai_Lamia.lifeStages.0.label>
+  <Yokai_Lamia.lifeStages.0.labelPlural>拉米亞幼女</Yokai_Lamia.lifeStages.0.labelPlural>
+  <Yokai_Lamia.lifeStages.1.label>拉米亞少女</Yokai_Lamia.lifeStages.1.label>
+  <Yokai_Lamia.lifeStages.1.labelPlural>拉米亞少女</Yokai_Lamia.lifeStages.1.labelPlural>
+  <Yokai_Lamia.lifeStages.2.label>拉米亞</Yokai_Lamia.lifeStages.2.label>
+  <Yokai_Lamia.lifeStages.2.labelPlural>拉米亞</Yokai_Lamia.lifeStages.2.labelPlural>
+  <!--紅拉米亞種 -->
+  <Yokai_RedLamia.label>紅拉米亞</Yokai_RedLamia.label>
+  <Yokai_RedLamia.labelPlural>紅拉米亞</Yokai_RedLamia.labelPlural>
+  <Yokai_RedLamia.lifeStages.0.label>紅拉米亞幼女</Yokai_RedLamia.lifeStages.0.label>
+  <Yokai_RedLamia.lifeStages.0.labelPlural>紅拉米亞幼女</Yokai_RedLamia.lifeStages.0.labelPlural>
+  <Yokai_RedLamia.lifeStages.1.label>紅拉米亞少女</Yokai_RedLamia.lifeStages.1.label>
+  <Yokai_RedLamia.lifeStages.1.labelPlural>紅拉米亞少女</Yokai_RedLamia.lifeStages.1.labelPlural>
+  <Yokai_RedLamia.lifeStages.2.label>紅拉米亞</Yokai_RedLamia.lifeStages.2.label>
+  <Yokai_RedLamia.lifeStages.2.labelPlural>紅拉米亞</Yokai_RedLamia.lifeStages.2.labelPlural>
+</LanguageData>

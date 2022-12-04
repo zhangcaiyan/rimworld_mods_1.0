@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurarihyon.label>滑瓢</Yokai_Nurarihyon.label>
+  <Yokai_Nurarihyon.description>滑瓢，眾妖之首。雖為領袖但畢竟是一個種族，因此有多隻個體。又從眾中滑瓢之中決定出妖怪村的代表。
+    \n代替放浪不羈的九尾狐，擔任妖怪村的代表。雖在外型上與人類相近，但其實力可不容小觑。</Yokai_Nurarihyon.description>
+  <Yokai_Nurarihyon.tools.0.label>左拳</Yokai_Nurarihyon.tools.0.label>
+  <Yokai_Nurarihyon.tools.1.label>右拳</Yokai_Nurarihyon.tools.1.label>
+  <Yokai_Nurarihyon.tools.2.label>頭槌</Yokai_Nurarihyon.tools.2.label>
+  <!-- Use Meat From: Yokai_NineTail -->
+  <Yokai_Nurarihyon_Corpse.label>滑瓢的屍體</Yokai_Nurarihyon_Corpse.label>
+  <Yokai_Nurarihyon_Corpse.description>滑瓢的屍體。近似人類的外型會使殖民者進行解體作業時感到不快。能得到人肉及皮。</Yokai_Nurarihyon_Corpse.description>
+  <!-- Use Leather From: Yokai_NineTail -->
+</LanguageData>

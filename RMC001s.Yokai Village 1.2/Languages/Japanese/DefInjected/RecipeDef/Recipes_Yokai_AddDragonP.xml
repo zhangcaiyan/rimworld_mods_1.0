@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Install artificial parts -->
+  <InstallYokai_DragonArm.label>竜の力(腕</InstallYokai_DragonArm.label>
+  <InstallYokai_DragonArm.description>竜の心臓から取り出された力を腕に埋め込みます。比較的容易な呪術ですが実行には医療の経験が必要です。</InstallYokai_DragonArm.description>
+  <InstallYokai_DragonArm.jobString>竜の力を腕に移植中</InstallYokai_DragonArm.jobString>
+  <InstallYokai_DragonLeg.label>竜の力(脚</InstallYokai_DragonLeg.label>
+  <InstallYokai_DragonLeg.description>竜の心臓から取り出された力を脚に埋め込みます。比較的容易な呪術ですが実行には医療の経験が必要です。</InstallYokai_DragonLeg.description>
+  <InstallYokai_DragonLeg.jobString>竜の力を脚に移植中</InstallYokai_DragonLeg.jobString>
+  <InstallYokai_DragonEye.label>竜の力（瞳</InstallYokai_DragonEye.label>
+  <InstallYokai_DragonEye.description>竜の心臓から取り出された力を瞳に埋め込みます。高等な呪術の一つであり、失敗には死の危険さえあります。</InstallYokai_DragonEye.description>
+  <InstallYokai_DragonEye.jobString>竜の力を瞳に移植中</InstallYokai_DragonEye.jobString>
+  <InstallYokai_DragonBrain.label>竜の力（知恵</InstallYokai_DragonBrain.label>
+  <InstallYokai_DragonBrain.description>竜の心臓から取り出された力を脳に埋め込みます。高等な呪術で死の危険を伴いますが効果は絶大です。</InstallYokai_DragonBrain.description>
+  <InstallYokai_DragonBrain.jobString>竜の力を脳に移植中</InstallYokai_DragonBrain.jobString>
+  <InstallYokai_DragonHeart.label>竜の力（心</InstallYokai_DragonHeart.label>
+  <InstallYokai_DragonHeart.description>竜の心臓から取り出された力を心臓に埋め込みます。最も高等な呪術で死の危険を伴いますが効果は絶大です。</InstallYokai_DragonHeart.description>
+  <InstallYokai_DragonHeart.jobString>竜の力を心臓に移植中</InstallYokai_DragonHeart.jobString>
+</LanguageData>

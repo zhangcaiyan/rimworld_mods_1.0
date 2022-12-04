@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>catégorie</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>points de vie (%)</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>valeur marchande</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>masse</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>nom</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>aucun</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>qualité</Quality.label>
+  
+</LanguageData>

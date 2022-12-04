@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lamia milk -->
+
+  <Yokai_LamiaMilk.label>Lamilk</Yokai_LamiaMilk.label>
+  <Yokai_LamiaMilk.description>Nutritious milk that can be used to make various food and medicine. Yokai traders initially had some difficulty when trying to sell this product; the first hurdle, of course, was the name: Lamia Milk. When exploration into the Rim was just beginning, few knew what a Lamia was, thus even fewer cared to buy some unknown creature's milk. Yet, as the Rim was explored and settled, knowledge spread about various Yokai, including the Lamia.
+    /nBetween the new renewed consumer and vendor interest, Lamia Milk was rebranded as Lamilk. Marketing articles of course claim that the advertisers made the switch first, after realizing that the word "Lamia" had an "mi" in it; however, user reviews and food blogs also began using the term before the first "Lamilk" commercial was released. The ironic fact of the matter is that this inter-galatic rebranding extended back to the source of Lamilk: Yokai villages. Villagers now call Lamia Milk, "Lamilk," and are happy to sell what companies now call "Organic, Range Fed Lamilk."
+    </Yokai_LamiaMilk.description>
+
+  <Yokai_SnowMilk.label>Snow Milk</Yokai_SnowMilk.label>
+  <Yokai_SnowMilk.description>A magical ward protects this liquid for spoiling due to heat. This milk can be processed into various medicinal drinks.</Yokai_SnowMilk.description>
+
+
+  <!-- Egg -->
+
+  <Yokai_LamiaEggB.label>Lamia Egg</Yokai_LamiaEggB.label>
+  <Yokai_LamiaEggB.description>A beautiful pruple egg. This fertilized egg will hatch into a Lamia if kept at the proper temperature.</Yokai_LamiaEggB.description>
+
+  <Yokai_LamiaEggR.label>Lamia Egg</Yokai_LamiaEggR.label>
+  <Yokai_LamiaEggR.description>A beautiful pruple egg. This fertilized egg will hatch into a Red Lamia if kept at the proper temperature.</Yokai_LamiaEggR.description>
+
+  <Yokai_JorouGumoEgg.label>Jorou Gumo Egg</Yokai_JorouGumoEgg.label>
+  <Yokai_JorouGumoEgg.description>A fertile egg that which hatch into a maiden spider, if kept at an appropriate temperature. A male Jorou Gumo has never been confirmed; yet, by some method of magic or body, their race continues to propogate.</Yokai_JorouGumoEgg.description>
+
+
+</LanguageData>

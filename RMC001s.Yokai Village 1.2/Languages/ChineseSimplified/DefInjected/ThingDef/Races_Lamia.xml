@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Lamia.label>拉米亚</Yokai_Lamia.label>
+  <Yokai_Lamia.description>容易与人亲近的拉米亚，自古就已发展出与人类共同生活的关系。
+\n力气小而不擅长在野外求生的拉米亚。性格温驯，所需的食物量又少。五天内会产出一次营养丰富的拉米亚乳汁。她们的肉与人类的并无差别。
+\n居住范围甚广，分布在苔原丶热带雨林，甚至极限沙漠中。不耐寒的体质使她倾向根据季节选择栖息地。</Yokai_Lamia.description>
+  <Yokai_Lamia.tools.0.label>左手</Yokai_Lamia.tools.0.label>
+  <Yokai_Lamia.tools.1.label>右手</Yokai_Lamia.tools.1.label>
+  <Yokai_Lamia.tools.1.label>尾</Yokai_Lamia.tools.1.label>
+  <Yokai_Lamia_Corpse.label>拉米亚的尸体</Yokai_Lamia_Corpse.label>
+  <Yokai_Lamia_Corpse.description>拉米亚的尸体。分解後能得到肉和皮。</Yokai_Lamia_Corpse.description>
+</LanguageData>

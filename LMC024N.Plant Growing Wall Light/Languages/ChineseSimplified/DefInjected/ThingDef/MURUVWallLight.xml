@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lighting_MURUVWallLight_Glower.label>太阳壁灯</Lighting_MURUVWallLight_Glower.label>
+  <Lighting_MURUVWallLight_Glower.description>null</Lighting_MURUVWallLight_Glower.description>
+  
+  <Lighting_MURUVWallLight.label>太阳壁灯</Lighting_MURUVWallLight.label>
+  <Lighting_MURUVWallLight.description>一种设计成安装于墙壁上的太阳灯。</Lighting_MURUVWallLight.description>
+  <Lighting_MURUVWallLight.comps.2.offMessage>在植物休眠期间停用</Lighting_MURUVWallLight.comps.2.offMessage>
+
+  <Lighting_MURUVWallLight_Glower.label>太阳壁灯</Lighting_MURUVWallLight_Glower.label>
+  <Lighting_MURUVWallLight_Glower.description>null</Lighting_MURUVWallLight_Glower.description>
+
+</LanguageData>

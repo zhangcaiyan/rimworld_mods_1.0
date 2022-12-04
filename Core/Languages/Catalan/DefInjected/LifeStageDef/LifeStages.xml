@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>adult</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>nadó</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>nadó</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>cadell</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>adult</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>immadur</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>larva</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>adult</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>nadó</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>petit/a</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>adolescència</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>adolescent</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>infant</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>madur</MechanoidFullyFormed.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurarihyon.label>ぬらりひょん</Yokai_Nurarihyon.label>
+  <Yokai_Nurarihyon.description>妖怪の親玉ぬらりひょんです。親玉といっても種族なので沢山います。彼らの中から妖怪村の代表が決まります。
+    \n放浪癖のある九尾の狐に代わって妖怪村の代表を務めています。見た目は人間そっくりですがその実力は侮れません。</Yokai_Nurarihyon.description>
+  <Yokai_Nurarihyon.tools.0.label>左拳</Yokai_Nurarihyon.tools.0.label>
+  <Yokai_Nurarihyon.tools.1.label>右拳</Yokai_Nurarihyon.tools.1.label>
+  <Yokai_Nurarihyon.tools.2.label>頭突き</Yokai_Nurarihyon.tools.2.label>
+  <!-- Use Meat From: Yokai_NineTail -->
+  <Yokai_Nurarihyon_Corpse.label>ぬらりひょんの死骸</Yokai_Nurarihyon_Corpse.label>
+  <Yokai_Nurarihyon_Corpse.description>ぬらりひょんの死骸です。人に似ているため入植者たちは見るとげんなりしますし解体作業も嫌がります。人の肉と皮がとれます。</Yokai_Nurarihyon_Corpse.description>
+  <!-- Use Leather From: Yokai_NineTail -->
+</LanguageData>

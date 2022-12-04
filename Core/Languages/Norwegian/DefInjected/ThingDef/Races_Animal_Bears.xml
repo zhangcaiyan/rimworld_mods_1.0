@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <GrizzlyBear.label>grizzlybjørn</GrizzlyBear.label>
+    <GrizzlyBear.description>Stort altetende pattedyr tilpasset kaldere strøk. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk, bær, honning og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</GrizzlyBear.description>
+    <GrizzlyBear_Leather.label>bjørneskinn</GrizzlyBear_Leather.label>
+    <GrizzlyBear_Leather.description>Skinn fra en grizzlybjørn.</GrizzlyBear_Leather.description>
+    <GrizzlyBear_Leather.stuffProps.stuffAdjective>bjørneskinns</GrizzlyBear_Leather.stuffProps.stuffAdjective>
+    <GrizzlyBear_Meat.label>bjørnekjøtt</GrizzlyBear_Meat.label>
+    <GrizzlyBear_Meat.description>Rått kjøtt fra en grizzlybjørn.</GrizzlyBear_Meat.description>
+    <GrizzlyBear_Corpse.label>grizzlybjørnkadaver</GrizzlyBear_Corpse.label>
+    <GrizzlyBear_Corpse.description>Det døde kadaveret av en grizzlybjørn.</GrizzlyBear_Corpse.description>
+    
+    <PolarBear.label>isbjørn</PolarBear.label>
+    <PolarBear.description>En kjempestor hvit bjørn, som kommer fra de arktiske strøkene rundt Nordpolen, på Den gamle Jorda. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</PolarBear.description>
+    <PolarBear_Leather.label>isbjørnskinn</PolarBear_Leather.label>
+    <PolarBear_Leather.description>Skinn fra en isbjørn.</PolarBear_Leather.description>
+    <PolarBear_Leather.stuffProps.stuffAdjective>isbjørnskinns</PolarBear_Leather.stuffProps.stuffAdjective>
+    <PolarBear_Meat.label>isbjørnkjøtt</PolarBear_Meat.label>
+    <PolarBear_Meat.description>Rått kjøtt fra en isbjørn.</PolarBear_Meat.description>
+    <PolarBear_Corpse.label>isbjørnkadaver.</PolarBear_Corpse.label>
+    <PolarBear_Corpse.description>Det døde kadaveret av en isbjørn.</PolarBear_Corpse.description>
+    
+</LanguageData>

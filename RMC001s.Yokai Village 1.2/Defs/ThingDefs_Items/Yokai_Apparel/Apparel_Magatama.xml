@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="Yokai_Magatama" ParentName="ApparelBase" Abstract="True">
+    <tradeability>None</tradeability>
+    <techLevel>Ultra</techLevel>
+    <useHitPoints>false</useHitPoints>
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>14</Crafting>
+      </skillRequirements>
+      <researchPrerequisite>Yokai_Magatama</researchPrerequisite>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>15000</WorkToMake>
+      <Flammability>0</Flammability>
+      <Beauty>120</Beauty>
+      <Mass>0.01</Mass>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Yokai_Omamori</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 陽の勾玉 -->
+  <ThingDef ParentName="Yokai_Magatama">
+    <defName>Yokai_Hi_No_Magatama</defName>
+    <label>Hi No Magatama</label>
+    <description>A Yokai treasure which is said to use gathered sunlight to create a barrier that protects the bearer. It carries several other blessings that compliment melee fighters.</description>
+    <thingClass>ShieldBelt</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Apparel/you/You</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <EnergyShieldRechargeRate>15</EnergyShieldRechargeRate>
+      <EnergyShieldEnergyMax>15.0</EnergyShieldEnergyMax>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+5</MoveSpeed>
+      <PsychicSensitivity>-1</PsychicSensitivity>
+      <MeleeHitChance>+3</MeleeHitChance>
+      <MeleeDodgeChance>+3</MeleeDodgeChance>
+      <MeleeArmorPenetration>+2</MeleeArmorPenetration>
+      <ImmunityGainSpeed>+5</ImmunityGainSpeed>
+      <MentalBreakThreshold>-0.5</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>FullHead</li>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <tags>
+        <li>Youkai_Kojiki</li>
+      </tags>
+    </apparel>
+    <costList>
+      <Yokai_DragonStone>1</Yokai_DragonStone>
+      <Yokai_ShiroWool>60</Yokai_ShiroWool>
+      <Yokai_NineTailWool>90</Yokai_NineTailWool>
+      <Jade>30</Jade>
+    </costList>
+  </ThingDef>
+  <!-- 凪の勾玉 -->
+  <ThingDef ParentName="Yokai_Magatama">
+    <defName>Yokai_Nagi_no_Magatama</defName>
+    <description>Wear this and no temperature shall harm you. Cold or heat, this bauble shall speed your hands and smooth your tongue.</description>
+    <label>Nagi No Magatama</label>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nagi/Nagi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Insulation_Cold>800</Insulation_Cold>
+      <Insulation_Heat>850</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+3.00</MoveSpeed>
+      <WorkSpeedGlobal>2</WorkSpeedGlobal>
+      <PsychicSensitivity>-1</PsychicSensitivity>
+      <SocialImpact>1.8</SocialImpact>
+      <GlobalLearningFactor>0.8</GlobalLearningFactor>
+      <ImmunityGainSpeed>+1.8</ImmunityGainSpeed>
+      <MentalBreakThreshold>-0.4</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+      <tags>
+        <li>Youkai_Kojiki</li>
+      </tags>
+    </apparel>
+    <costList>
+      <Yokai_NineTailWool>90</Yokai_NineTailWool>
+      <Yokai_DragonStone>1</Yokai_DragonStone>
+      <Yokai_ShiroWool>60</Yokai_ShiroWool>
+      <Jade>30</Jade>
+    </costList>
+  </ThingDef>
+  <!--NPC妖怪村住民専用 -->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Yokai_Tuzurao_Kago</defName>
+    <label>Tuzurao's Blessing</label>
+    <description>Nine tails flutter about, as dulcet hands weave a barrier against all projectiles. This protection is granted to those who fight with the Nine Tails, and it shall dissipate when all is done.</description>
+    <thingClass>ShieldBelt</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Blessing</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Ultra</techLevel>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MarketValue>500</MarketValue>
+      <Flammability>0</Flammability>
+      <Beauty>120</Beauty>
+      <Mass>0.01</Mass>
+      <DeteriorationRate>0</DeteriorationRate>
+      <EnergyShieldRechargeRate>1</EnergyShieldRechargeRate>
+      <EnergyShieldEnergyMax>2.0</EnergyShieldEnergyMax>
+    </statBases>
+    <equippedStatOffsets>
+      <MeleeHitChance>+0.3</MeleeHitChance>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>FullHead</li>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>NinetailBlessing</li>
+      </tags>
+    </apparel>
+    <tradeability>None</tradeability>
+    <destroyOnDrop>True</destroyOnDrop>
+    <menuHidden>True</menuHidden>
+    <thingCategories>
+      <li>Yokai_Omamori</li>
+    </thingCategories>
+  </ThingDef>
+  <!--量産型お守り -->
+  <ThingDef ParentName="Yokai_Magatama" Name="Yokai_Omamori" Abstract="True">
+    <tradeability>Sellable</tradeability>
+    <techLevel>Medieval</techLevel>
+    <useHitPoints>true</useHitPoints>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+      <researchPrerequisite>Yokai_Magatama</researchPrerequisite>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>8900</WorkToMake>
+      <Flammability>0.5</Flammability>
+      <Beauty>20</Beauty>
+      <Mass>0.01</Mass>
+      <DeteriorationRate>0.1</DeteriorationRate>
+      <MaxHitPoints>300</MaxHitPoints>
+    </statBases>
+    <costList>
+      <Jade>10</Jade>
+      <Yokai_SigilStone>5</Yokai_SigilStone>
+    </costList>
+  </ThingDef>
+  <!--生産 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Hirameki</defName>
+    <label>Hirameki no Omamori</label>
+    <description>Translated as "Flash Amulet," this charm gives the wearer a slight increase to production skills.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Hirameki</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <SculptingSpeed>0.15</SculptingSpeed>
+      <TailoringSpeed>0.15</TailoringSpeed>
+      <SmithingSpeed>0.15</SmithingSpeed>
+      <DrugSynthesisSpeed>0.15</DrugSynthesisSpeed>
+      <CookSpeed>0.15</CookSpeed>
+      <FoodPoisonChance>-0.15</FoodPoisonChance>
+      <DrugCookingSpeed>0.15</DrugCookingSpeed>
+      <ButcheryFleshSpeed>0.15</ButcheryFleshSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!--農業、採掘 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Tuchi</defName>
+    <label>Tsuchi no Kami</label>
+    <description>Many dream of a peaceful world where swords are turned to plowshares: and not the other way around. This charm-known as "God of the Soil"-is an effort to engender such a reality; per its namesake, the charm increases one's productivity when farming, mining, or smoothing stone.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Tuchi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <MiningSpeed>0.2</MiningSpeed>
+      <MiningYield>0.1</MiningYield>
+      <SmoothingSpeed>0.1</SmoothingSpeed>
+      <PlantWorkSpeed>0.2</PlantWorkSpeed>
+      <PlantHarvestYield>0.1</PlantHarvestYield>
+      <MoveSpeed>0.2</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!--飼育 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Wa</defName>
+    <label>Chowa no Omamori</label>
+    <description>The effects of this, "Amulet of Harmony," are far more akin to the tricks of a Ninetails than an actual blessing. Though it seems to sharpen the ability of its wearer, the amulet actually dulls the awareness of all those around it, making it easier for the wearer to convince them of anything. The effect also extends to animals</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Wa</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <TameAnimalChance>0.1</TameAnimalChance>
+      <TrainAnimalChance>0.2</TrainAnimalChance>
+      <AnimalGatherSpeed>0.2</AnimalGatherSpeed>
+      <AnimalGatherYield>0.1</AnimalGatherYield>
+      <NegotiationAbility>0.2</NegotiationAbility>
+      <SocialImpact>0.1</SocialImpact>
+      <TradePriceImprovement>0.1</TradePriceImprovement>
+      <MoveSpeed>0.2</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!--戦闘 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Ikusa</defName>
+    <label>Ikusanin no Omamori</label>
+    <description>Known in another tongue as the "Warrior's Amulet." This charm boosts the wearer's movement speed, melee fighting ability, and immune system. It also carries a minor protection blessing from the Kyuubi.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Ikusa</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <EnergyShieldRechargeRate>0.21</EnergyShieldRechargeRate>
+      <EnergyShieldEnergyMax>0.65</EnergyShieldEnergyMax>
+    </statBases>
+    <equippedStatOffsets>
+      <MeleeArmorPenetration>0.15</MeleeArmorPenetration>
+      <MeleeHitChance>0.15</MeleeHitChance>
+      <MeleeDodgeChance>0.2</MeleeDodgeChance>
+      <MoveSpeed>0.25</MoveSpeed>
+      <ImmunityGainSpeed>0.08</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!--医療 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Jin</defName>
+    <label>Jinjutsu no Omamori</label>
+    <description>This charm attempts to resonate one's heart and mind with each other, therefore drawing out the compassion and empathy in one's heart, and using that energy to focus and motivate the mind rather than distract it. The result is a boost to medical skills; moreover, the charm has several other blessings that increase the wearer's immune system and grant them a modicum of protection.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Jin</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <MedicalTendSpeed>0.2</MedicalTendSpeed>
+      <MedicalTendQuality>0.12</MedicalTendQuality>
+      <MedicalOperationSpeed>0.2</MedicalOperationSpeed>
+      <MedicalSurgerySuccessChance>0.1</MedicalSurgerySuccessChance>
+      <ImmunityGainSpeed>0.05</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!--戦闘 -->
+  <ThingDef ParentName="Yokai_Omamori">
+    <defName>Yokai_Omamori_Karibito</defName>
+    <label>Karibito no Omamori</label>
+    <description>\nThe Kariudo no Omamori is a symbol of power. With wisdom, power can bring balance; with hate, power will bring only destruction. The Pekodra are to be feared, yes, but they also serve as guardians at times, protecting villages without their knowledge: this service was nearly lost. The legacy of this bloodlust infects such charms, making it far more difficult to train or tame animals while wearing one. So, what shall this amulet mean for your village?</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/Nine/Karibito</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
+      <AimingDelayFactor>0.1</AimingDelayFactor>
+      <HuntingStealth>0.2</HuntingStealth>
+      <TameAnimalChance>-0.5</TameAnimalChance>
+      <TrainAnimalChance>-0.5</TrainAnimalChance>
+      <AnimalGatherSpeed>-0.5</AnimalGatherSpeed>
+      <AnimalGatherYield>-0.5</AnimalGatherYield>
+    </equippedStatOffsets>
+    <apparel>
+      <careIfWornByCorpse>true</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Yokai_Omamori</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

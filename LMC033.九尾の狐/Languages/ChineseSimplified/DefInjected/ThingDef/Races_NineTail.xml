@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_NineTail.label>九尾の狐</Yokai_NineTail.label>
+  <Yokai_NineTail.description>传说中的妖怪————九尾狐。\n一般不会在人前露面，因为自恃清高不会轻易与人亲近，但如果成为朋友的话没有比这更可靠的存在。\n她们可以使用奇异的力量提升附近人类的战斗能力，也可以用强大的攻击能力来驱散敌人。而且她们的毛是非常好的素材。</Yokai_NineTail.description>
+  <Yokai_NineTail.tools.0.label>左手</Yokai_NineTail.tools.0.label>
+  <Yokai_NineTail.tools.1.label>右手</Yokai_NineTail.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_NineTail_Corpse.label>九尾狐的尸体</Yokai_NineTail_Corpse.label>
+  <Yokai_NineTail_Corpse.description>冰冷僵硬的九尾狐尸体，倾国倾城之姿香消玉殒。</Yokai_NineTail_Corpse.description>
+
+
+</LanguageData>

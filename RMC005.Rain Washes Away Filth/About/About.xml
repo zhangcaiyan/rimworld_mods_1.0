@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>RMC005.雨水冲走污物</name>
+		<author>FrozenSnowFox</author>
+		<url></url>
+		<targetVersion>1.0.0</targetVersion>
+		<description>Changes filth so every type washes away with the rain\n\n让每一种污物都被雨水冲走，可以用来清理地图，提高游戏性能。</description>
+</ModMetaData>

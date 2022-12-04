@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Install artificial parts -->
+  <InstallYokai_DragonArm.label>龍之力(腕)</InstallYokai_DragonArm.label>
+  <InstallYokai_DragonArm.description>將龍心中蘊藏的力量埋入手腕。雖然是較為容易施行的咒術，施術者仍需一定的醫療經驗。</InstallYokai_DragonArm.description>
+  <InstallYokai_DragonArm.jobString>移植龍之力中。</InstallYokai_DragonArm.jobString>
+  <InstallYokai_DragonLeg.label>龍之力(腳)</InstallYokai_DragonLeg.label>
+  <InstallYokai_DragonLeg.description>將龍心中蘊藏的力量埋入腳部。比較的容易な呪術ですが実行には医療の経験が必要です。</InstallYokai_DragonLeg.description>
+  <InstallYokai_DragonLeg.jobString>移植龍之力中</InstallYokai_DragonLeg.jobString>
+  <InstallYokai_DragonEye.label>龍之力（瞳)</InstallYokai_DragonEye.label>
+  <InstallYokai_DragonEye.description>將龍心中蘊藏的力量埋入眼瞳。是高等的咒術之一，嚴重失誤的話甚至會導致死亡。</InstallYokai_DragonEye.description>
+  <InstallYokai_DragonEye.jobString>移植龍之力中</InstallYokai_DragonEye.jobString>
+  <InstallYokai_DragonBrain.label>龍之力（知恵)</InstallYokai_DragonBrain.label>
+  <InstallYokai_DragonBrain.description>將龍心中蘊藏的力量埋入腦部。是高等的咒術之一，雖伴隨著死亡的風險，但也會帶來絕佳的效果。</InstallYokai_DragonBrain.description>
+  <InstallYokai_DragonBrain.jobString>移植龍之力中</InstallYokai_DragonBrain.jobString>
+  <InstallYokai_DragonHeart.label>龍之力（心)</InstallYokai_DragonHeart.label>
+  <InstallYokai_DragonHeart.description>將龍心中蘊藏的力量埋入心臓。最上等的咒術，雖伴隨著死亡的風險，但也會帶來絕佳的效果。。</InstallYokai_DragonHeart.description>
+  <InstallYokai_DragonHeart.jobString>移植龍之力中</InstallYokai_DragonHeart.jobString>
+</LanguageData>

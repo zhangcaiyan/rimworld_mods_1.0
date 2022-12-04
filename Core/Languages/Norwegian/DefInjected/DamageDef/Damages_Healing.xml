@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Repair.label>reparerer</Repair.label>
+    
+    <HealInjury.label>helbred skade</HealInjury.label>
+    
+    <HealGlobal.label>heal global</HealGlobal.label>
+    
+    <RestoreBodyPart.label>restore body part</RestoreBodyPart.label>
+    
+</LanguageData>

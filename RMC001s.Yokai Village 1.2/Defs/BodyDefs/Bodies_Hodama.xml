@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BodyDef>
+    <defName>HodamaBody</defName>
+    <label>Hodama Body</label>
+    <corePart>
+      <def>HodamaCore</def>
+      <height>Middle</height>
+      <depth>Outside</depth>
+      <groups>
+        <li>Mouth</li>
+        <li>HeadAttackTool</li>
+      </groups>
+      <parts>
+        <li>
+          <def>Stomach</def>
+          <coverage>0.05</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Heart</def>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Lung</def>
+          <customLabel>left Lung</customLabel>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Lung</def>
+          <customLabel>right Lung</customLabel>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Kidney</def>
+          <customLabel>left kidney</customLabel>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Kidney</def>
+          <customLabel>right kidney</customLabel>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Liver</def>
+          <coverage>0.05</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Brain</def>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Eye</def>
+          <customLabel>left Eye</customLabel>
+          <coverage>0.15</coverage>
+        </li>
+        <li>
+          <def>Eye</def>
+          <customLabel>right Eye</customLabel>
+          <coverage>0.15</coverage>
+        </li>
+      </parts>
+    </corePart>
+  </BodyDef>
+</Defs>

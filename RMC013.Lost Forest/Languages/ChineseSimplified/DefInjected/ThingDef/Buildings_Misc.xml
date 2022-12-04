@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<LF_CentralTradeBeacon.label>中央贸易信标</LF_CentralTradeBeacon.label>
+	<LF_CentralTradeBeacon.description>与跨星球贸易的中继基地上所采用的贸易信标型式相同。虽然需要消耗大量电力，但能借此进行比原本的信标更大规模的物流管理。</LF_CentralTradeBeacon.description>
+
+	<LF_WaterwayConstructionSpot.label>引圳预定地</LF_WaterwayConstructionSpot.label>
+	<LF_WaterwayConstructionSpot.description>从邻接地点引入水源的工事。工程时数与水源流量成正比。完成必要的研究后，无法涉足的深湶也能进行引圳。但是，若是引进无法进入的深部水源，会对周围土壤造成盐害，请多加留意。</LF_WaterwayConstructionSpot.description>
+
+	<LF_KAZUSA_WaterVeinDrillSystem.label>上总掘橹</LF_KAZUSA_WaterVeinDrillSystem.label>
+	<LF_KAZUSA_WaterVeinDrillSystem.description>异国的传统型垂直挖凿装置，无须使用电力即能挖凿至蓄水层。虽须耗上一段时间，但只需木材、少许钢铁，以及些许人力即能挖凿至500米深。工程完竣后，原施工处会变成温泉、泉水、水流其中一种，会变成哪一种得要实际挖过才知道。\n*此设备会让作业地点涌出水源，请注意设置的场所。</LF_KAZUSA_WaterVeinDrillSystem.description>
+
+	<LF_WaterVeinDrill.label>蓄水层凿井装置</LF_WaterVeinDrill.label>
+	<LF_WaterVeinDrill.description>为了挖掘地下水而设置的电动挖凿装置。比起人力挖掘要来得快速，钻头会随工程而磨损，因此无法重复使用。工程完竣后，原施工处会变成温泉、泉水、水流其中一种，会变成哪一种得要实际挖过才知道。</LF_WaterVeinDrill.description>
+
+	<LF_LandfillDeep.label>填平深部水域</LF_LandfillDeep.label>
+	<LF_LandfillDeep.description>将无法进入的深部水域填铺成可通行的浅水区，需要许多资源与工程时数。</LF_LandfillDeep.description>
+
+	<LF_LandAdaptationSoil.label>土壌改良（土）</LF_LandAdaptationSoil.label>
+	<LF_LandAdaptationSoil.description>对指定地面进行土壤改良，开始建设后会逐渐定着成土壤，过了一段时间后会将地形变化成土。(并非复制，而是生成跟原版相同的土壤地形)</LF_LandAdaptationSoil.description>
+
+	<LF_LandAdaptationRichSoil.label>土壌改良（沃土）</LF_LandAdaptationRichSoil.label>
+	<LF_LandAdaptationRichSoil.description>对指定地面进行土壤改良，开始建设后会逐渐定着成土壤，过了一段时间后会将地形变化成肥沃的土。(并非复制，而是生成跟原版相同的肥沃土壤地形)</LF_LandAdaptationRichSoil.description>
+
+	<LF_LandAdaptationGravel.label>土壌改良（砾石）</LF_LandAdaptationGravel.label>
+	<LF_LandAdaptationGravel.description>对指定地面进行土壤改良，开始建设后会逐渐定着成土壤，过了一段时间后会将地形变化成砾石。(并非复制，而是生成跟原版相同的砾石地形)</LF_LandAdaptationGravel.description>
+
+	<LF_LandAdaptationSand.label>土壌改良（沙）</LF_LandAdaptationSand.label>
+	<LF_LandAdaptationSand.description>对指定地面进行土壤改良，开始建设后会逐渐定着成土壤，过了一段时间后会将地形变化成沙地。(并非复制，而是生成跟原版相同的沙地地形)</LF_LandAdaptationSand.description>
+
+	<LF_LandAdaptationMud.label>土壌改良（泥）</LF_LandAdaptationMud.label>
+	<LF_LandAdaptationMud.description>对指定地面进行土壤改良，开始建设后会逐渐定着成土壤，过了一段时间后会将地形变化成泥地。(并非复制，而是生成跟原版相同的泥地地形)</LF_LandAdaptationMud.description>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Tables -->
+
+	<Anon2TableTiny.label>Tisch (winzig)</Anon2TableTiny.label>
+	<Anon2TableTiny.description>Ein kleiner Tisch für Kolonisten zum Essen.</Anon2TableTiny.description>
+
+	<Anon2CounterA.label>Tresen</Anon2CounterA.label>
+	<Anon2CounterA.description>Ein Tresen, hat eine große flache Oberseite.</Anon2CounterA.description>
+
+	<Anon2CounterAFull.label>Tresen Voll</Anon2CounterAFull.label>
+	<Anon2CounterAFull.description>Ein Tresen, hat eine große flache Oberseite. Alle Tresen top, nützlich für diese Vorderwände.</Anon2CounterAFull.description>
+
+</LanguageData>

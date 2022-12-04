@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple mineables -->
+
+  <CollapsedRocks.label>Kollapsed klippe</CollapsedRocks.label>
+  <CollapsedRocks.description>Kollapsede klipper, pakket tæt nok tuk at kunne holde et tag oppe.</CollapsedRocks.description>
+
+
+  <!-- Resource rocks -->
+
+  <MineableSteel.label>kompakt stål</MineableSteel.label>
+  <MineableSteel.description>Resterne af nogle gamle, kollapsede struktur. Rig på stål.</MineableSteel.description>
+
+  <MineableSilver.label>sølvmalm</MineableSilver.label>
+  <MineableSilver.description>Klipper der indeholder stykker af sølv.</MineableSilver.description>
+
+  <MineableGold.label>guldmalm</MineableGold.label>
+  <MineableGold.description>Klipper der indeholder stykker af guld.</MineableGold.description>
+
+  <MineableUranium.label>uranmalm</MineableUranium.label>
+  <MineableUranium.description>Klipper der indeholder stykker af uran.</MineableUranium.description>
+
+  <MineablePlasteel.label>kompakt plastål</MineablePlasteel.label>
+  <MineablePlasteel.description>Ældgammelt komprimeret skrammel der er rig på plastål.</MineablePlasteel.description>
+
+  <MineableJade.label>jade</MineableJade.label>
+  <MineableJade.description>Klipper der indeholder stykker af jade.</MineableJade.description>
+
+  <MineableComponents.label>kompakt maskenri</MineableComponents.label>
+  <MineableComponents.description>Ældgammelt maskenri, der er blevet komprimeret med tiden. Kan blive udgravet for brugbare komponenter.</MineableComponents.description>
+
+  <SteamGeyser.label>damp gejser</SteamGeyser.label>
+  <SteamGeyser.description>Naturlig dampkilde.</SteamGeyser.description>
+
+  <Hive.label>kube</Hive.label>
+  <Hive.description>En kube af kæmpe insekter. Vil føde flere insekter og kuber med tiden.</Hive.description>
+
+  <GlowPod.label>lyspuppe</GlowPod.label>
+  <GlowPod.description>En bioluminescerende kapsel der er produceret af gigantiske insekter. Lyser af sig selv i lang tid, for derefter at gå ud.</GlowPod.description>
+  <GlowPod_Blueprint_Install.label>lyspuppe (plan)</GlowPod_Blueprint_Install.label>
+
+</LanguageData>

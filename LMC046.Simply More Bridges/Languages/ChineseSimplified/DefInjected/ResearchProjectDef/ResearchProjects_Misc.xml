@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeavyBridges.label>重型桥梁</HeavyBridges.label>
+  <HeavyBridges.description>研究建造重型桥梁以提供水上通道，甚至可以在上面建造重型建筑物。</HeavyBridges.description>
+
+  <DeepWaterBridges.label>深水桥梁</DeepWaterBridges.label>
+  <DeepWaterBridges.description>研究建造大型支撑结构，这可以让你的桥梁建在深水中。</DeepWaterBridges.description>
+
+
+</LanguageData>

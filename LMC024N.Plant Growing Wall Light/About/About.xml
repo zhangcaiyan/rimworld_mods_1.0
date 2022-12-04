@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC24N.壁挂式太阳灯</name>
+	<author>Murmur</author>
+	<supportedVersions>
+	  <li>1.0</li>
+	  <li>1.1</li>
+	</supportedVersions>
+	<modDependencies>
+	  <li>
+	    <packageId>UnlimitedHugs.HugsLib</packageId>
+	    <displayName>HugsLib</displayName>
+	    <steamWorkshopUrl>steam://steamcommunity.com/workshop/filedetails/?id=818773962</steamWorkshopUrl>
+	  </li>
+	</modDependencies>
+	<loadAfter>
+      <li>UnlimitedHugs.HugsLib</li>
+    </loadAfter>
+	<packageId>Murmur.UVWallLight</packageId>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Mod/Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+英文名：Plant Growing Wall Light	
+添加可以直接建造在墙上的太阳灯，默认情况下，它的功率比游戏自带的太阳灯小得多，但范围也小得多。
+Adds a grow light that is placed directly on walls. By default it uses a lot less power than the Sun Lamp but also has a lot less range.</description>
+</ModMetaData>

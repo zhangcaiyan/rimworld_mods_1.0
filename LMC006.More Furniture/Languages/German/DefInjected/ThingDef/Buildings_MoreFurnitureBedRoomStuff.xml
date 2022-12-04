@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Bedroom stuff -->
+
+	<Anon2Dresser.label>Kommode</Anon2Dresser.label>
+	<Anon2Dresser.description>Ein Ort für Kolonisten, um persönliche Gegenstände zu verstauen. Wenn es mit einem Bett platziert wird, erhöht es den Komfort.</Anon2Dresser.description>
+
+	<Anon2EndTable.label>Nachttisch</Anon2EndTable.label>
+	<Anon2EndTable.description>Dieser kleine Tisch passt gut zu einem Bett. Wenn es mit einem Bett platziert wird, erhöht es den Komfort.</Anon2EndTable.description>
+
+	<Anon2RoyalEndTable.label>Königliches Nachttisch</Anon2RoyalEndTable.label>
+	<Anon2RoyalEndTable.description>Dieser kleine Tisch passt gut zu einem königliches Bett. Wenn es mit einem Bett gelegt wird, erhöht es Komfort.</Anon2RoyalEndTable.description>
+
+</LanguageData>

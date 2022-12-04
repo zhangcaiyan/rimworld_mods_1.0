@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ペルシャ -->
+
+  <akaNEKO_Persian.label>ペルシャ</akaNEKO_Persian.label>
+  <akaNEKO_Persian.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Persian.description>
+  <akaNEKO_Persian.tools.0.label>左爪</akaNEKO_Persian.tools.0.label>
+  <akaNEKO_Persian.tools.1.label>右爪</akaNEKO_Persian.tools.1.label>
+  <akaNEKO_Persian.tools.3.label>頭部</akaNEKO_Persian.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Persian_Corpse.label>ペルシャの死骸</akaNEKO_Persian_Corpse.label>
+  <akaNEKO_Persian_Corpse.description>ペルシャの死骸</akaNEKO_Persian_Corpse.description>
+
+
+  <!-- スコティッシュフォールド -->
+
+  <akaNEKO_Scottish_Fold.label>スコティッシュフォールド</akaNEKO_Scottish_Fold.label>
+  <akaNEKO_Scottish_Fold.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Scottish_Fold.description>
+  <akaNEKO_Scottish_Fold.tools.0.label>左爪</akaNEKO_Scottish_Fold.tools.0.label>
+  <akaNEKO_Scottish_Fold.tools.1.label>右爪</akaNEKO_Scottish_Fold.tools.1.label>
+  <akaNEKO_Scottish_Fold.tools.3.label>頭部</akaNEKO_Scottish_Fold.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Scottish_Fold_Corpse.label>スコティッシュフォールドの死骸</akaNEKO_Scottish_Fold_Corpse.label>
+  <akaNEKO_Scottish_Fold_Corpse.description>スコティッシュフォールドの死骸</akaNEKO_Scottish_Fold_Corpse.description>
+
+
+  <!-- スコティッシュフォールドロング -->
+
+  <akaNEKO_Scottish_Fold_Long.label>スコティッシュフォールド ロング</akaNEKO_Scottish_Fold_Long.label>
+  <akaNEKO_Scottish_Fold_Long.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Scottish_Fold_Long.description>
+  <akaNEKO_Scottish_Fold_Long.tools.0.label>左爪</akaNEKO_Scottish_Fold_Long.tools.0.label>
+  <akaNEKO_Scottish_Fold_Long.tools.1.label>右爪</akaNEKO_Scottish_Fold_Long.tools.1.label>
+  <akaNEKO_Scottish_Fold_Long.tools.3.label>頭部</akaNEKO_Scottish_Fold_Long.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Scottish_Fold_Long_Corpse.label>スコティッシュフォールド ロングの死骸</akaNEKO_Scottish_Fold_Long_Corpse.label>
+  <akaNEKO_Scottish_Fold_Long_Corpse.description>スコティッシュフォールド ロングの死骸</akaNEKO_Scottish_Fold_Long_Corpse.description>
+
+
+  <!-- メインクーン -->
+
+  <akaNEKO_Maine_Coon.label>メインクーン</akaNEKO_Maine_Coon.label>
+  <akaNEKO_Maine_Coon.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Maine_Coon.description>
+  <akaNEKO_Maine_Coon.tools.0.label>左爪</akaNEKO_Maine_Coon.tools.0.label>
+  <akaNEKO_Maine_Coon.tools.1.label>右爪</akaNEKO_Maine_Coon.tools.1.label>
+  <akaNEKO_Maine_Coon.tools.3.label>頭部</akaNEKO_Maine_Coon.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Maine_Coon_Corpse.label>メインクーンの死骸</akaNEKO_Maine_Coon_Corpse.label>
+  <akaNEKO_Maine_Coon_Corpse.description>メインクーンの死骸</akaNEKO_Maine_Coon_Corpse.description>
+
+
+</LanguageData>

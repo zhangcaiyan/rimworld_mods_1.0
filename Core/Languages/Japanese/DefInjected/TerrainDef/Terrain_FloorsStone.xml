@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FlagstoneSandstone.label>砂岩の敷石</FlagstoneSandstone.label>
+	<FlagstoneSandstone.description>荒削りな石版タイルです.美しくはないけれど,道や散歩道にピッタリです.敷石を解体しても何も残りません.</FlagstoneSandstone.description>
+
+	<FlagstoneGranite.label>花崗岩の敷石</FlagstoneGranite.label>
+	<FlagstoneGranite.description>荒削りな石版タイルです.美しくはないけれど,道や散歩道にピッタリです.敷石を解体しても何も残りません.</FlagstoneGranite.description>
+
+	<FlagstoneLimestone.label>石灰岩の敷石</FlagstoneLimestone.label>
+	<FlagstoneLimestone.description>荒削りな石版タイルです.美しくはないけれど,道や散歩道にピッタリです.敷石を解体しても何も残りません.</FlagstoneLimestone.description>
+
+	<FlagstoneSlate.label>粘板岩の敷石</FlagstoneSlate.label>
+	<FlagstoneSlate.description>荒削りな石版タイルです.美しくはないけれど,道や散歩道にピッタリです.敷石を解体しても何も残りません.</FlagstoneSlate.description>
+
+	<FlagstoneMarble.label>大理石の敷石</FlagstoneMarble.label>
+	<FlagstoneMarble.description>荒削りな石版タイルです.美しくはないけれど,道や散歩道にピッタリです.敷石を解体しても何も残りません.</FlagstoneMarble.description>
+
+	<!-- ================= Tile ================= -->
+
+	<TileSandstone.label>砂岩タイル</TileSandstone.label>
+	<TileSandstone.description>城郭の風合いを出すために,注意深く切り出し敷き詰められたタイルです.見た目は良いですが,敷くのに時間がかかります.</TileSandstone.description>
+
+	<TileGranite.label>花崗岩タイル</TileGranite.label>
+    <TileGranite.description>城郭の風合いを出すために,注意深く切り出し敷き詰められたタイルです.見た目は良いですが,敷くのに時間がかかります.</TileGranite.description>
+
+	<TileLimestone.label>石灰岩タイル</TileLimestone.label>
+    <TileLimestone.description>城郭の風合いを出すために,注意深く切り出し敷き詰められたタイルです.見た目は良いですが,敷くのに時間がかかります.</TileLimestone.description>
+
+	<TileSlate.label>粘板岩タイル</TileSlate.label>
+    <TileSlate.description>城郭の風合いを出すために,注意深く切り出し敷き詰められたタイルです.見た目は良いですが,敷くのに時間がかかります.</TileSlate.description>
+
+	<TileMarble.label>大理石タイル</TileMarble.label>
+    <TileMarble.description>城郭の風合いを出すために,注意深く切り出し敷き詰められたタイルです.見た目は良いですが,敷くのに時間がかかります.</TileMarble.description>
+
+    <!-- ================= Foundation solids ================= -->
+  <Sandstone_Rough.label>荒い砂岩</Sandstone_Rough.label>
+  <Sandstone_Rough.description>荒削りな砂岩</Sandstone_Rough.description>
+  <Sandstone_RoughHewn.label>荒削りな砂岩</Sandstone_RoughHewn.label>
+  <Sandstone_RoughHewn.description>ざっくりとカットされた自然な砂岩</Sandstone_RoughHewn.description>
+  <Sandstone_Smooth.label>滑らかな砂岩</Sandstone_Smooth.label>
+  <Sandstone_Smooth.description>滑らかで自然な砂岩</Sandstone_Smooth.description>
+
+  <Granite_Rough.label>荒い花崗岩</Granite_Rough.label>
+  <Granite_Rough.description>荒削りな花崗岩</Granite_Rough.description>
+  <Granite_RoughHewn.label>荒削りな花崗岩</Granite_RoughHewn.label>
+  <Granite_RoughHewn.description>ざっくりとカットされた自然な花崗岩</Granite_RoughHewn.description>
+  <Granite_Smooth.label>滑らかな花崗岩</Granite_Smooth.label>
+  <Granite_Smooth.description>滑らかで自然な花崗岩</Granite_Smooth.description>
+
+  <Limestone_Rough.label>荒い石灰岩</Limestone_Rough.label>
+  <Limestone_Rough.description>荒削りな石灰岩</Limestone_Rough.description>
+  <Limestone_RoughHewn.label>荒削りな石灰岩</Limestone_RoughHewn.label>
+  <Limestone_RoughHewn.description>ざっくりとカットされた自然な石灰岩</Limestone_RoughHewn.description>
+  <Limestone_Smooth.label>滑らかな石灰岩</Limestone_Smooth.label>
+  <Limestone_Smooth.description>滑らかで自然な石灰岩</Limestone_Smooth.description>
+
+  <Slate_Rough.label>荒い粘板岩</Slate_Rough.label>
+  <Slate_Rough.description>荒削りな粘板岩</Slate_Rough.description>
+  <Slate_RoughHewn.label>荒削りな粘板岩</Slate_RoughHewn.label>
+  <Slate_RoughHewn.description>ざっくりとカットされた自然な粘板岩</Slate_RoughHewn.description>
+  <Slate_Smooth.label>滑らかな粘板岩</Slate_Smooth.label>
+  <Slate_Smooth.description>滑らかで自然な粘板岩</Slate_Smooth.description>
+
+  <Marble_Rough.label>荒い大理石</Marble_Rough.label>
+  <Marble_Rough.description>荒削りな大理石</Marble_Rough.description>
+  <Marble_RoughHewn.label>荒削りな大理石</Marble_RoughHewn.label>
+  <Marble_RoughHewn.description>ざっくりとカットされた自然な大理石</Marble_RoughHewn.description>
+  <Marble_Smooth.label>滑らかな大理石</Marble_Smooth.label>
+  <Marble_Smooth.description>滑らかで自然な大理石</Marble_Smooth.description>
+
+</LanguageData>

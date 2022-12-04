@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>Yokai_DragonTusk</defName>
+    <label>MoonDragon's Tusk</label>
+    <description>It is a dragon's fang that gives off a dull light.
+   \n Although it can sell at a very high price, it shows its true value by learning and processing technology.</description>
+    <graphicData>
+      <texPath>Things/Item/product/DragonTusk</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>10000</MarketValue>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>15</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>50</Beauty>
+    </statBases>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>9</stackLimit>
+    <thingCategories>
+      <li>Yokai_Resource</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>2</glowRadius>
+        <glowColor>(35,35,180,50)</glowColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>Yokai_DragonHeart</defName>
+    <label>Dragon's Heart</label>
+    <description>Voice, memory, emotion, these things invade the mind when this still beating heart is held in one's hand. Despite whatever effort was made to quell the life of this dragon, the beast has used some unknownable wisdom to retreat its essence into this heart. It beats and thumps and waits: whether held or not. Though, perhaps its most pernicious of tricks is when an afflicted begs for affirmation, and others swear that the heart lays still.
+    \nYet, if one can surmount the madness of this thing, then its essence might be used to infuse the body with unnatural power, create weapons that surpass Space Age tech, or buildings that can manipulate temperature or obliterate enemies. 
+    \nThese hearts fetch a high price from merchants; however, for what reason do spacers seek these hearts? Tales of lab experiments dot the web, and theories speculate that such companies seek to recreate or repurpose the dragons’ power: while ignoring Yokai tradition. This contention has led many Yokai villages to refuse spacer business when it comes to Dragon Hearts or Moon Dragon Tusks.
+    \nConflict. It has always surrounded the Dragon Hearts. Dragons themselves have been both friend and foe of Yokai villages; sometimes their protectors, sometimes their tormenters, coexistence with such powerful and aged creatures is not an easy deed. Yet each period of peace and conflict has shaped Yokai tradition, pushing their magics, and unveiling new and varied ways to use every part of the dragon, from its fangs to its heart.
+    </description>
+    <graphicData>
+      <texPath>Things/Item/product/dragonheart</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3000</MarketValue>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>5</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>-30</Beauty>
+    </statBases>
+    <stackLimit>10</stackLimit>
+    <thingCategories>
+      <li>Yokai_Resource</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+    <thingSetMakerTags>
+      <li>RewardSpecial</li>
+    </thingSetMakerTags>
+  </ThingDef>
+  <!--ヌリカベの核 -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>Yokai_NurikabeCore</defName>
+    <label>Yokai Round Stone</label>
+    <description>A mysterious stone produced by Nurikabe once a year. Most treasure it as a beautiful piece of art, while others-more keen to Yokai tradition-know its true value. With sufficient knowledge and skill, one may use the stone as a nucleus for an egg. 
+\nThe creatures born from such eggs transcend their predecessors, and bring great wealth and power to their masters.</description>
+    <graphicData>
+      <texPath>Things/Item/product/Maruishi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>600</MarketValue>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>30</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>30</Beauty>
+    </statBases>
+    <stackLimit>10</stackLimit>
+    <thingCategories>
+      <li>Yokai_Resource</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+  <!--ヒヒイロカベの核 -->
+  <ThingDef ParentName="EggFertBase">
+    <defName>Yokai_HHKCore</defName>
+    <label>Scarlet Stone Egg</label>
+    <description>Through magic, ore, and sacred rite, this egg has been cobbled together. A living stone, it shifts and sighs, as the life inside it grows towards its invariable fate. Once hatched, colonists will be blessed with the presence of a Hihiirokabe.\nThis stone egg has no nutritional value, and it tastes awful: as one might expect from a rock.</description>
+    <graphicData>
+      <texPath>Things/Item/product/MaruishiH</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Nutrition>0.01</Nutrition>
+      <Mass>50</Mass>
+      <WorkToMake>4</WorkToMake>
+      <MarketValue>3000</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>10</hatcherDaystoHatch>
+        <hatcherPawn>Yokai_HihiiroKabe</hatcherPawn>
+      </li>
+      <li Class="CompProperties_TemperatureRuinable">
+        <minSafeTemperature>-80</minSafeTemperature>
+        <maxSafeTemperature>160</maxSafeTemperature>
+        <progressPerDegreePerTick>0.00003</progressPerDegreePerTick>
+      </li>
+    </comps>
+    <recipeMaker>
+      <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+      <workAmount>700</workAmount>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiTraditionCure</researchPrerequisite>
+    </recipeMaker>
+    <costList>
+      <Yokai_NurikabeCore>1</Yokai_NurikabeCore>
+      <Yokai_HihiiroKane>40</Yokai_HihiiroKane>
+    </costList>
+    <thingCategories>
+      <li>Yokai_Resource</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Mechanoid_Centipede.label>tusenbein</Mechanoid_Centipede.label>
+    <Mechanoid_Centipede.description>Tung kampmekanoid som glir avgårde på flere dusin små bein. Deres tunge panser og ildkraft gjør dem svært effektive mot sammenklumpede forsvarere som står stille. De er noe sårbare mot angripere som beveger seg.</Mechanoid_Centipede.description>
+    <Mechanoid_Centipede_Corpse.label>tusenbeinkropp</Mechanoid_Centipede_Corpse.label>
+    <Mechanoid_Centipede_Corpse.description>Den døde kroppen av et mekanoid tusenbein.</Mechanoid_Centipede_Corpse.description>
+    
+    <Mechanoid_Scyther.label>ljåbot</Mechanoid_Scyther.label>
+    <Mechanoid_Scyther.description>En ljåbot er en rask, tynnlemmet kampmekanoid av menneskestørrelse. De bærer vanligvis et skytevåpen som hovedvåpen, og kroppene deres er ustyrt med to svære knivblader, noe som gjør dem dødelige i nærkamp. De søker aldri dekning. Håndteres best med konsentrert, overveldende styrke.</Mechanoid_Scyther.description>
+    <Mechanoid_Scyther_Corpse.label>ljåbotkropp</Mechanoid_Scyther_Corpse.label>
+    <Mechanoid_Scyther_Corpse.description>Den døde kroppen av en mekanoid ljåbot.</Mechanoid_Scyther_Corpse.description>
+    
+</LanguageData>

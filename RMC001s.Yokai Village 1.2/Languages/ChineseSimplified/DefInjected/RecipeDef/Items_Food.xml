@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe -->
+  <Makecheeeese.label>制作拉米亚奶酪</Makecheeeese.label>
+  <Makecheeeese.description>用拉米亚乳汁制作10个拉米亚奶酪。</Makecheeeese.description>
+  <Makecheeeese.jobString>制作拉米亚奶酪中。</Makecheeeese.jobString>
+  <MakeCheeeeseCake.label>烘焙奶酪蛋糕</MakeCheeeeseCake.label>
+  <MakeCheeeeseCake.description>用米丶莓果丶拉米亚奶酪制作10个奶酪蛋糕。</MakeCheeeeseCake.description>
+  <MakeCheeeeseCake.jobString>烘焙奶酪蛋糕中。</MakeCheeeeseCake.jobString>
+  <!-- Domeet -->
+  <make_domeat.label>烧烤龙肉</make_domeat.label>
+  <make_domeat.description>烧烤龙肉，以制成营养满分的美味烤龙肉。</make_domeat.description>
+  <make_domeat.jobString>烧烤龙肉中。</make_domeat.jobString>
+   <!-- 妖怪焼き -->
+  <make_Yokai_Yaki.label>制作妖怪焼</make_Yokai_Yaki.label>
+  <make_Yokai_Yaki.description>把肉烤一烤，妖怪烧大功告成!</make_Yokai_Yaki.description>
+  <make_Yokai_Yaki.jobString>制作妖怪焼中。</make_Yokai_Yaki.jobString>
+
+</LanguageData>

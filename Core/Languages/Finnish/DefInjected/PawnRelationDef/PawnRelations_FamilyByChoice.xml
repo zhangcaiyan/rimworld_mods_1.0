@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>vävy</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>miniä</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>ex-rakastaja</ExLover.label>
+  <ExLover.labelFemale>ex-rakastajatar</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>ex-mies</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>ex-vaimo</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>sulhanen</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>morsian</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>rakastaja</Lover.label>
+  <Lover.labelFemale>rakastajatar</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>appi</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>anoppi</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>aviomies</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>vaimo</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>poikapuoli</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>tytärpuoli</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>isäpuoli</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>äitipuoli</Stepparent.labelFemale>
+  
+</LanguageData>

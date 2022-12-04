@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Tatami_floor.label>榻榻米 (新制成的)</Tatami_floor.label>
+  <Tatami_floor.description>榻榻米是日本独有的。\n使用这种地板材料的房间被称为和室。\n榻榻米在空气净化，绝缘，吸湿排汗，隔音，抗菌等各个方面都是十分优越的。\n与地毯不同，榻榻米含有水分，因此具有一定的防火性能。\n榻榻米的气味也会让人放松下来。</Tatami_floor.description>
+
+  <Tatami_floor_old.label>榻榻米 (晒干的)</Tatami_floor_old.label>
+  <Tatami_floor_old.description>榻榻米是日本独有的。\n使用这种地板材料的房间被称为和室。\n榻榻米在空气净化，绝缘，吸湿排汗，隔音，抗菌等各个方面都是十分优越的。\n与地毯不同，榻榻米含有水分，因此具有一定的防火性能。\n榻榻米的气味也会让人放松下来。</Tatami_floor_old.description>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--狂気の秘薬 -->
+  <Yokai_Hiyaku.label>狂氣秘藥</Yokai_Hiyaku.label>
+  <Yokai_Hiyaku.description>妖怪村秘傳的藥丸，服用後能在短時間內得到怪力。妖怪村的戰士們會在戰鬥前服用，五天內效果會逐漸消失，在藥效完全消退前會出現嚴重的副作用。</Yokai_Hiyaku.description>
+  <Yokai_Hiyaku.ingestible.ingestCommandString>使用{0}</Yokai_Hiyaku.ingestible.ingestCommandString>
+  <Yokai_Hiyaku.ingestible.ingestReportString>服用{0}中。</Yokai_Hiyaku.ingestible.ingestReportString>
+  <!--癒しの霊薬 -->
+  <Yokai_Reiyaku.label>治癒霊薬</Yokai_Reiyaku.label>
+  <Yokai_Reiyaku.description>藉由妖怪村的特殊咒術製成的靈藥。服用後能使簡單的傷痕及缺失的身體部位痊癒。大多數的情況下，需要非常長的時間才會發揮藥效。
+\n一粒的藥效只能維持15天，須在半年到一年間持續服用才能發揮成效。雖然輕微，但仍有意識散漫等副作用。
+\n\n注意・被扯斷的手腕或腳是無法再生的。</Yokai_Reiyaku.description>
+  <Yokai_Reiyaku.ingestible.ingestCommandString>使用{0}</Yokai_Reiyaku.ingestible.ingestCommandString>
+  <Yokai_Reiyaku.ingestible.ingestReportString>服用{0}中。</Yokai_Reiyaku.ingestible.ingestReportString>
+  <!-- IceDrink -->
+  <Yokai_IceDrink.label>
+  冰涼飲料</Yokai_IceDrink.label>
+  <Yokai_IceDrink.description>以雪之雫製成的飲料，能暫時提升耐暑能力。效果足以維持1天，但會逐漸衰減。會讓身體感覺冰涼涼的。</Yokai_IceDrink.description>
+  <!-- HotDrink -->
+  <Yokai_HotDrink.label>熱飲</Yokai_HotDrink.label>
+  <Yokai_HotDrink.description>以雪之雫製成的飲料，能暫時提升耐寒能力。效果足以維持1天，嚴冬中就算只喝上一杯也能讓身心放鬆下來。</Yokai_HotDrink.description>
+  <!-- Yokai Medicine -->
+  <Yokai_Bandage.label>妖怪的繃帯</Yokai_Bandage.label>
+  <Yokai_Bandage.description>足以與奈米治療包匹敵的妖怪繃帶，具有優秀的治療效果。能在治療缺損部位時發揮其價值。可以用妖怪的藥與貓娘的毛製作。</Yokai_Bandage.description>
+  <!-- Yokai Medicine -->
+  <Yokai_Herbs.label>妖怪的薬</Yokai_Herbs.label>
+  <Yokai_Herbs.description>以特別的比例調劑天然藥草，再施予特別的咒術而成的藥。效果雖比醫療包還差，但仍勝過一般的藥草。是妖怪秘藥及繃帶的材料。</Yokai_Herbs.description>
+</LanguageData>

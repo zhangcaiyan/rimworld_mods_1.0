@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 医療用寝袋 -->
+
+  <Yokai_MRoll.label>Medicinal sleeping bag</Yokai_MRoll.label>
+  <Yokai_MRoll.description>A fusion of modern convenience and Yokai tradition; this sleeping bag has been treated with Yokai medicine to encourage the body's natural regenerative processes during sleep or rest. Like any other sleeping bag, it can be rolled up for easy transport. This bed-though not as comfy as an actual bed-is a favorite amongst caravans for its medicinal properties.</Yokai_MRoll.description>
+  <Yokai_MRoll_Blueprint.label>Medicinal sleeping bag (blueprint)</Yokai_MRoll_Blueprint.label>
+  <Yokai_MRoll_Blueprint_Install.label>Medicinal sleeping bag (blueprint)</Yokai_MRoll_Blueprint_Install.label>
+  <Yokai_MRoll_Frame.label>Medicinal sleeping bag (building)</Yokai_MRoll_Frame.label>
+  <Yokai_MRoll_Frame.description>A fusion of modern convenience and Yokai tradition; this sleeping bag has been treated with Yokai medicine to encourage the body's natural regenerative processes during sleep or rest. Like any other sleeping bag, it can be rolled up for easy transport. This bed-though not as comfy as an actual bed-is a favorite amongst caravans for its medicinal properties.</Yokai_MRoll_Frame.description>
+
+  <Yokai_MDRoll.label>Double medicinal sleeping bag</Yokai_MDRoll.label>
+  <Yokai_MDRoll.description>This sleeping bag has all the features of a single-sized medicinal sleeping bag, but with the added bonus of intimately sharing the experience with another person! So lay down, zip up, and snooze that alarm as two colonists share warmth, lice, mites, and all the other things that itch and bite.</Yokai_MDRoll.description>
+  <Yokai_MDRoll_Blueprint.label>Double medicinal sleeping bag (blueprint)</Yokai_MDRoll_Blueprint.label>
+  <Yokai_MDRoll_Blueprint_Install.label>Double medicinal sleeping bag (blueprint)</Yokai_MDRoll_Blueprint_Install.label>
+  <Yokai_MDRoll_Frame.label>Double medicinal sleeping bag (building)</Yokai_MDRoll_Frame.label>
+  <Yokai_MDRoll_Frame.description>This sleeping bag has all the features of a single-sized medicinal sleeping bag, but with the added bonus of intimately sharing the experience with another person! So lay down, zip up, and snooze that alarm as two colonists share warmth, lice, mites, and all the other things that itch and bite.</Yokai_MDRoll_Frame.description>
+
+
+  <!-- 妖怪用寝床3種 -->
+
+  <!--[Core] <AnimalSleepingSpot.label>Schlafplatz (Tier)</AnimalSleepingSpot.label>-->
+  <!--[Core] <AnimalSleepingSpot.description>Kennzeichnet einen Platz auf dem Boden, an dem Tiere schlafen sollen.</AnimalSleepingSpot.description>-->
+  <!--[Core] <AnimalSleepingSpot_Blueprint.label>animal sleeping spot (blueprint)</AnimalSleepingSpot_Blueprint.label>-->
+  <!--[Core] <AnimalSleepingSpot_Frame.label>animal sleeping spot (building)</AnimalSleepingSpot_Frame.label>-->
+  <!--[Core] <AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot_Frame.description>-->
+
+  <Yokai_NedokoS.label>妖怪座布団（小）</Yokai_NedokoS.label>
+  <Yokai_NedokoS.description>小型の妖怪や動物たちの寝床です。</Yokai_NedokoS.description>
+  <Yokai_NedokoS_Blueprint.label>妖怪座布団（小） (blueprint)</Yokai_NedokoS_Blueprint.label>
+  <Yokai_NedokoS_Blueprint_Install.label>妖怪座布団（小） (blueprint)</Yokai_NedokoS_Blueprint_Install.label>
+  <Yokai_NedokoS_Frame.label>妖怪座布団（小） (building)</Yokai_NedokoS_Frame.label>
+  <Yokai_NedokoS_Frame.description>小型の妖怪や動物たちの寝床です。</Yokai_NedokoS_Frame.description>
+
+  <Yokai_NedokoC.label>妖怪座布団（中）</Yokai_NedokoC.label>
+  <Yokai_NedokoC.description>中型の妖怪や動物たちの寝床です。</Yokai_NedokoC.description>
+  <Yokai_NedokoC_Blueprint.label>妖怪座布団（中） (blueprint)</Yokai_NedokoC_Blueprint.label>
+  <Yokai_NedokoC_Blueprint_Install.label>妖怪座布団（中） (blueprint)</Yokai_NedokoC_Blueprint_Install.label>
+  <Yokai_NedokoC_Frame.label>妖怪座布団（中） (building)</Yokai_NedokoC_Frame.label>
+  <Yokai_NedokoC_Frame.description>中型の妖怪や動物たちの寝床です。</Yokai_NedokoC_Frame.description>
+
+  <Yokai_NedokoD.label>妖怪座布団（大）</Yokai_NedokoD.label>
+  <Yokai_NedokoD.description>大型の妖怪や動物たちの寝床です。</Yokai_NedokoD.description>
+  <Yokai_NedokoD_Blueprint.label>妖怪座布団（大） (blueprint)</Yokai_NedokoD_Blueprint.label>
+  <Yokai_NedokoD_Blueprint_Install.label>妖怪座布団（大） (blueprint)</Yokai_NedokoD_Blueprint_Install.label>
+  <Yokai_NedokoD_Frame.label>妖怪座布団（大） (building)</Yokai_NedokoD_Frame.label>
+  <Yokai_NedokoD_Frame.description>大型の妖怪や動物たちの寝床です。</Yokai_NedokoD_Frame.description>
+
+
+</LanguageData>

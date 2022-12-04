@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖怪マット -->
+  <Yokai_RugSmall.label>小型妖怪地毯</Yokai_RugSmall.label>
+  <Yokai_RugSmall.description>小型地毯，其上編織著象徵妖怪文化的紋樣。</Yokai_RugSmall.description>
+  <Yokai_RugSmall_Blueprint_Install.label>小型妖怪地毯(設置予定地）</Yokai_RugSmall_Blueprint_Install.label>
+  <Yokai_RugLarge.label>妖怪地毯</Yokai_RugLarge.label>
+  <Yokai_RugLarge.description>一張地毯，編織著妖怪的傳承故事。</Yokai_RugLarge.description>
+  <Yokai_RugLarge_Blueprint_Install.label>妖怪地毯(設置予定地）</Yokai_RugLarge_Blueprint_Install.label>
+  <Yokai_RugGrand.label>大型妖怪地毯</Yokai_RugGrand.label>
+  <Yokai_RugGrand.description>大型地毯，編織著妖怪們的歴史。</Yokai_RugGrand.description>
+  <Yokai_RugGrand_Blueprint_Install.label>大型妖怪地毯(設置予定地）</Yokai_RugGrand_Blueprint_Install.label>
+</LanguageData>

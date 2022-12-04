@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Reiyaku.label>Reiyaku</Yokai_Reiyaku.label>
+  <Yokai_Reiyaku.description>This "miracle drug" comes in pill form, and is the result of mixing several Yokai products together. Tsuzurao magic is said to enable this pill's fantastical effects; however, even Yokai villagers ponder whether the blessing is placed on the pill, or is simply knowledge to make it in the first place.
+    \nAs to its effects, this medicine heals any wound or defect over a very long time: this does not include limb growth, however. The regenerative effect can take anywhere from half a year to a year to occur; moreover, a dose must be taken every 5 days to maintain this process. The predominant side effect of this elixir is a mild penalty to conciousness.
+    \nIn village and colony alike, children are known to complain about the terrible taste of this elixir.</Yokai_Reiyaku.description>
+  <Yokai_Reiyaku.ingestible.ingestCommandString>Take {0}</Yokai_Reiyaku.ingestible.ingestCommandString>
+  <Yokai_Reiyaku.ingestible.ingestReportString>Taking {0}.</Yokai_Reiyaku.ingestible.ingestReportString>
+
+
+</LanguageData>

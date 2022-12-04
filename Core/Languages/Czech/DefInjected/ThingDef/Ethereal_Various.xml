@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>plíseň</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>exploze</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>spoušť</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>tornádo</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>nezamlžená spoušť</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>tunel</TunnelHiveSpawner.label>
+  
+</LanguageData>

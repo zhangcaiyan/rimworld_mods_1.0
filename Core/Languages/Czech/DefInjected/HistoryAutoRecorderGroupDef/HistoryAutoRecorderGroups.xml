@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>nálada kolonistů</ColonistMood.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>ladění</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>populace</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>hodnota</Wealth.label>
+  
+</LanguageData>

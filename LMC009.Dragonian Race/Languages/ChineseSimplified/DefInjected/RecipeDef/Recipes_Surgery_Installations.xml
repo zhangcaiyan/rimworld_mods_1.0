@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_InstallFakeTail.label>安装简易的假尾巴</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>安装简易的假尾巴。</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>正在安装简易的假尾巴。</DR_InstallFakeTail.jobString>
+
+  <DR_InstallBionicTail.label>安装仿生尾巴</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>安装仿生尾巴。</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>正在安装仿生尾巴。</DR_InstallBionicTail.jobString>
+
+
+</LanguageData>

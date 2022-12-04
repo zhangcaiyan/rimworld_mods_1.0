@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Tukumo.label>Tukumo</Yokai_Tukumo.label>
+  <Yokai_Tukumo.description>Respect, honor, and tradition, every warrior is taught these tenets during training, and each one is encouraged by their peers, by the elders, by the Tsuzurao to pursue these goals: lest the village fall due to their apathy. Not all warriors go out for battle, but all train and maintain their readiness; this, of course, is atop their other duties as individuals, as they seek to contribute to the village through farming, crafting, or trading. 
+    \nAs each home should be ready for battle, the demand for swords is high in any Yokai village, and the crafting of these swords is an interesting affair. Several villages have adopted a more competitive approach, encouraging smiths to sell their best pieces at festivals; however, most villages still operate on the familial system, where younger villagers have their swords made by their family elders. The craftsmanship put into these swords makes each one a piece of art. Homes are often decorated with multiple swords representing prior generations. Tukumo come from such swords.
+    \nLegend states that when a family member dies their spirit can inhabit the sword they used as a child; however, to qualify the family member must exemplify the values of a warrior-though they didn't have to be one in life-and their childhood sword must be displayed prominently in their home, used at least once a year, and be well taken care of throughout the years: not just the last couple. As the Tukumo lack any ability to speak, it's impossible to prove whether each sword is actually an ancestral spirit or not. The Tsuzurao have remained silent on the matter, forcing villagers to speculate on their own.
+    \nAnyone that's hit by the Tukumo is declared an enemy of the Yokai village.</Yokai_Tukumo.description>
+  <Yokai_Tukumo.tools.0.label>Cut</Yokai_Tukumo.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Tukumo_Corpse.label>Tukumo corpse</Yokai_Tukumo_Corpse.label>
+  <Yokai_Tukumo_Corpse.description>Tukumo corpse</Yokai_Tukumo_Corpse.description>
+
+
+</LanguageData>

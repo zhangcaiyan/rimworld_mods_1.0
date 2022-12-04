@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_ArrowSlit.label>アロースリット</LF_ArrowSlit.label>
+	<LF_ArrowSlit.description>射撃用の窓が設けられた壁。優れたカバーを提供する代わり、通常の壁よりも耐久性がやや劣る。視界や空気の出入りを遮らない。</LF_ArrowSlit.description>
+
+	<LF_WallIce.label>氷の壁</LF_WallIce.label>
+	<LF_WallIce.description>ただの氷の壁です。屋根を支えます。もちろん、摂氏0度以下でなければ溶けるので注意（修理不可）。霜が付くため視界は通りません。</LF_WallIce.description>
+
+	<LF_DoorIce.label>氷の扉</LF_DoorIce.label>
+	<LF_DoorIce.description>ただの氷で出来た粗末な扉です。扉というよりは蓋といった方が近いかも…。もちろん、摂氏0度以下でなければ溶けるので注意（修理不可）。横に転がして開けるタイプで、とても開けづらい。</LF_DoorIce.description>
+
+	<LF_DoorJail.label>監獄ドア</LF_DoorJail.label>
+	<LF_DoorJail.description>監獄の格子扉です。通常の扉よりも耐久はやや劣りますが、囚人からのダメージを25%に軽減し、さらに4未満のダメージを無効化します。生半可な力の囚人ではびくともしません。ただし、これを設置すると囚人はあまり快く思わないでしょう。（敵対心に応じた心情デバフが適用されます）</LF_DoorJail.description>
+
+
+</LanguageData>

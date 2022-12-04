@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Added body parts -->
+  <Yokai_DragonEye.label>龍眼</Yokai_DragonEye.label>
+  <Yokai_DragonEye.labelNoun>龍瞳</Yokai_DragonEye.labelNoun>
+  <Yokai_DragonArm.label>龍腕</Yokai_DragonArm.label>
+  <Yokai_DragonArm.comps.0.tools.0.label>龍拳</Yokai_DragonArm.comps.0.tools.0.label>
+  <Yokai_DragonArm.labelNoun>龍腕</Yokai_DragonArm.labelNoun>
+  <Yokai_DragonLeg.label>龍腳</Yokai_DragonLeg.label>
+  <Yokai_DragonLeg.labelNoun>龍腳</Yokai_DragonLeg.labelNoun>
+  <Yokai_DragonBrain.label>龍的智慧</Yokai_DragonBrain.label>
+  <Yokai_DragonBrain.labelNoun>龍的智慧</Yokai_DragonBrain.labelNoun>
+  <Yokai_DragonHeart.label>龍心</Yokai_DragonHeart.label>
+  <Yokai_DragonHeart.labelNoun>龍心</Yokai_DragonHeart.labelNoun>
+</LanguageData>

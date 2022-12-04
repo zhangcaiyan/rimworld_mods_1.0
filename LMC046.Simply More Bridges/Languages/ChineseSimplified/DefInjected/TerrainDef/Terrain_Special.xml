@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 深水桥梁 -->
+
+  <DeepWaterBridgeSteel.label>钢铁深水桥梁</DeepWaterBridgeSteel.label>
+  <DeepWaterBridgeSteel.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeSteel.description>
+
+  <DeepWaterBridgePlasteel.label>塑钢深水桥梁</DeepWaterBridgePlasteel.label>
+  <DeepWaterBridgePlasteel.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgePlasteel.description>
+
+  <DeepWaterBridgeSandstone.label>砂岩深水桥梁</DeepWaterBridgeSandstone.label>
+  <DeepWaterBridgeSandstone.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeSandstone.description>
+
+  <DeepWaterBridgeGranite.label>花岗岩深水桥梁</DeepWaterBridgeGranite.label>
+  <DeepWaterBridgeGranite.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeGranite.description>
+
+  <DeepWaterBridgeLimestone.label>石灰岩深水桥梁</DeepWaterBridgeLimestone.label>
+  <DeepWaterBridgeLimestone.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeLimestone.description>
+
+  <DeepWaterBridgeSlate.label>板岩深水桥梁</DeepWaterBridgeSlate.label>
+  <DeepWaterBridgeSlate.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeSlate.description>
+
+  <DeepWaterBridgeMarble.label>大理石深水桥梁</DeepWaterBridgeMarble.label>
+  <DeepWaterBridgeMarble.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</DeepWaterBridgeMarble.description>
+
+
+  <!-- Heavy bridge -->
+
+  <HeavyBridgeSteel.label>钢铁桥梁</HeavyBridgeSteel.label>
+  <HeavyBridgeSteel.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeSteel.description>
+
+  <HeavyBridgePlasteel.label>塑钢桥梁</HeavyBridgePlasteel.label>
+  <HeavyBridgePlasteel.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgePlasteel.description>
+
+  <HeavyBridgeSandstone.label>砂岩桥梁</HeavyBridgeSandstone.label>
+  <HeavyBridgeSandstone.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeSandstone.description>
+
+  <HeavyBridgeGranite.label>花岗岩桥梁</HeavyBridgeGranite.label>
+  <HeavyBridgeGranite.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeGranite.description>
+
+  <HeavyBridgeLimestone.label>石灰岩桥梁</HeavyBridgeLimestone.label>
+  <HeavyBridgeLimestone.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeLimestone.description>
+
+  <HeavyBridgeSlate.label>板岩桥梁</HeavyBridgeSlate.label>
+  <HeavyBridgeSlate.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeSlate.description>
+
+  <HeavyBridgeMarble.label>大理石桥梁</HeavyBridgeMarble.label>
+  <HeavyBridgeMarble.description>使用特定的材料建在水面上的支撑平面，你甚至可以在这些桥上建造很重的结构，但是要小心，它们仍然很脆弱。如果一座桥倒塌了，它上面的建筑物也会倒塌。</HeavyBridgeMarble.description>
+
+
+</LanguageData>

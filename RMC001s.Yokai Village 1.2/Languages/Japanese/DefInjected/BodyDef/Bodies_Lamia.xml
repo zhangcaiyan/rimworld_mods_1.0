@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LamiaBody.label>ラミア</LamiaBody.label>
+  <LamiaBody.corePart.parts.6.customLabel>左肺</LamiaBody.corePart.parts.6.customLabel>
+  <LamiaBody.corePart.parts.7.customLabel>右肺</LamiaBody.corePart.parts.7.customLabel>
+  <LamiaBody.corePart.parts.8.customLabel>左腎</LamiaBody.corePart.parts.8.customLabel>
+  <LamiaBody.corePart.parts.9.customLabel>右腎</LamiaBody.corePart.parts.9.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.1.customLabel>左眼</LamiaBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.2.customLabel>右眼</LamiaBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.3.customLabel>左耳</LamiaBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.4.customLabel>右耳</LamiaBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <LamiaBody.corePart.parts.12.parts.0.customLabel>左鎖骨</LamiaBody.corePart.parts.12.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.0.customLabel>左上腕骨</LamiaBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.1.customLabel>左橈骨</LamiaBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>左小指</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>左薬指</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>左中指</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>左人差指</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>左親指</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.customLabel>左手</LamiaBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.customLabel>左腕</LamiaBody.corePart.parts.12.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.customLabel>左肩</LamiaBody.corePart.parts.12.customLabel>
+  <LamiaBody.corePart.parts.13.parts.0.customLabel>右鎖骨</LamiaBody.corePart.parts.13.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.0.customLabel>右上腕骨</LamiaBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.1.customLabel>右橈骨</LamiaBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>右小指</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>右薬指</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>右中指</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>右人差指</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>右親指</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.customLabel>右手</LamiaBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.customLabel>右腕</LamiaBody.corePart.parts.13.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.customLabel>右肩</LamiaBody.corePart.parts.13.customLabel>
+</LanguageData>

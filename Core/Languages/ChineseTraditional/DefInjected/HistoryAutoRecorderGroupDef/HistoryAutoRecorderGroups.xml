@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>居民心情</ColonistMood.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>除錯</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>人口</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>資產</Wealth.label>
+  
+</LanguageData>

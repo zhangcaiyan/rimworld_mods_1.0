@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <Yokai_DragonEye.label>Draconic Eye</Yokai_DragonEye.label>
+  <Yokai_DragonEye.labelNoun>a dragon eye</Yokai_DragonEye.labelNoun>
+
+  <Yokai_DragonArm.label>Draconic Arm</Yokai_DragonArm.label>
+  <Yokai_DragonArm.comps.0.tools.0.label>Fist</Yokai_DragonArm.comps.0.tools.0.label>
+  <Yokai_DragonArm.labelNoun>a dragon arm</Yokai_DragonArm.labelNoun>
+
+  <Yokai_DragonLeg.label>Draconic Leg</Yokai_DragonLeg.label>
+  <Yokai_DragonLeg.labelNoun>a doragon leg</Yokai_DragonLeg.labelNoun>
+
+  <Yokai_DragonBrain.label>Draconic Mind</Yokai_DragonBrain.label>
+  <Yokai_DragonBrain.labelNoun>a dragon Brain</Yokai_DragonBrain.labelNoun>
+
+  <Yokai_DragonHeart.label>Draconic Power</Yokai_DragonHeart.label>
+  <Yokai_DragonHeart.labelNoun>a dragon Heart</Yokai_DragonHeart.labelNoun>
+
+
+</LanguageData>

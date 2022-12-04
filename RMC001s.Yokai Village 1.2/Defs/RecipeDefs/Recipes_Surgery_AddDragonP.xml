@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Abstract="True" ParentName="SurgeryFlesh" Name="Yokai_AddDragonP">
+    <researchPrerequisite>YokaiTraditionAddDragon</researchPrerequisite>
+    <recipeUsers>
+      <li>Yokai_NekoMusume</li>
+      <li>Yokai_Kappa</li>
+      <li>Yokai_OKappa</li>
+      <li>Yokai_YukiShizuku</li>
+      <li>Yokai_Nurarihyon</li>
+      <li>Yokai_JorouGumo</li>
+      <li>Human</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--==================== Install artificial parts =======================-->
+  <RecipeDef ParentName="Yokai_AddDragonP">
+    <defName>InstallYokai_DragonArm</defName>
+    <label>Install dragon arm</label>
+    <description>Extract the power of a dragon from its still beating heart and place it an arm. This is a relatively easy magic, but some medical experience is required.</description>
+    <jobString>Transplanting the power of the dragon</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>2500</workAmount>
+    <skillRequirements>
+      <Medicine>8</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_Bandage</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_DragonStone</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_Bandage</li>
+        <li>Yokai_DragonStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Shoulder</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Yokai_DragonArm</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="Yokai_AddDragonP">
+    <defName>InstallYokai_DragonLeg</defName>
+    <label>Install dragon leg</label>
+    <description>Extract the power of a dragon from its still beating heart and place it a leg. This is a relatively easy magic, but some medical experience is required.</description>
+    <jobString>Install DragonLeg</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>2500</workAmount>
+    <skillRequirements>
+      <Medicine>8</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_Bandage</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_DragonStone</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_Bandage</li>
+        <li>Yokai_DragonStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Leg</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Yokai_DragonLeg</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="Yokai_AddDragonP">
+    <defName>InstallYokai_DragonEye</defName>
+    <label>Install dragon eye</label>
+    <description>Extract the power of a dragon from its still beating heart and place it an eye. This is a relatively easy magic, but some medical experience is required.</description>
+    <jobString>Install DragonEye</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>3500</workAmount>
+    <surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.10</deathOnFailedSurgeryChance>
+    <skillRequirements>
+      <Medicine>10</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_Bandage</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_DragonStone</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_Bandage</li>
+        <li>Yokai_DragonStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Eye</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Yokai_DragonEye</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="Yokai_AddDragonP">
+    <defName>InstallYokai_DragonBrain</defName>
+    <label>Install dragon brain</label>
+    <description>Extract the power of a dragon from its still beating heart and place it a brain. This is a relatively easy magic, but some medical experience is required.
+    \nCan a dragon's will truly be supressed? Shall the mind remind your own? For did not the dragon still live within its disembodied heart? Or does such fear assume a dragon shares the same nature as man? Perhaps such creatures are too noble for revenge.</description>
+    <jobString>Install Yokai_DragonStone</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>3500</workAmount>
+    <surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.5</deathOnFailedSurgeryChance>
+    <skillRequirements>
+      <Medicine>12</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_Bandage</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_DragonStone</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_Bandage</li>
+        <li>Yokai_DragonStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Brain</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Yokai_DragonBrain</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="Yokai_AddDragonP">
+    <defName>InstallYokai_DragonStone</defName>
+    <label>Install dragon heart</label>
+    <description>Embed the force extracted from the heart of the dragon into the heart. The highest magic entails a crisis of death, but the effect is absolute.</description>
+    <jobString>Install Yokai_DragonStone</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>4500</workAmount>
+    <surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.65</deathOnFailedSurgeryChance>
+    <skillRequirements>
+      <Medicine>12</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_Bandage</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_DragonStone</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_Bandage</li>
+        <li>Yokai_DragonStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Heart</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Yokai_DragonHeart</addsHediff>
+  </RecipeDef>
+</Defs>

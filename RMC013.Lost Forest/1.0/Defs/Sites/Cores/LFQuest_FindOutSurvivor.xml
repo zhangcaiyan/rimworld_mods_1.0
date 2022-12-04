@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <SiteCoreDef>
+
+    <defName>FindOutSurvivor</defName>
+
+    <label>report of sightings</label>
+	
+    <description>A strayed beasthuman being sighted in.</description>
+
+    <siteTexture>World/WorldObjects/Sites/GenericSite</siteTexture>
+
+    <expandingIconTexture>World/WorldObjects/Expanding/Sites/DownedRefugee</expandingIconTexture>
+
+    <forceExitAndRemoveMapCountdownDurationDays>3</forceExitAndRemoveMapCountdownDurationDays>
+
+    <requiresFaction>false</requiresFaction>
+
+  </SiteCoreDef>
+
+
+  <GenStepDef>
+
+    <defName>FindOutSurvivor</defName>
+
+    <linkWithSite>FindOutSurvivor</linkWithSite>
+
+    <order>460</order>
+
+    <genStep Class="LostForest.GenStep_LFQuestFindOutSurvivor">
+
+      <count>1</count>
+
+      <nearMapCenter>true</nearMapCenter>
+
+    </genStep>
+
+  </GenStepDef>
+
+<!--
+  <GenStepDef>
+    <defName>ScatterMinerable_FindOutSurvivor</defName>
+
+    <linkWithSite>FindOutSurvivor</linkWithSite>
+
+    <order>100</order>
+    <genStep Class="GenStep_ScatterDeepResourceLumps">
+      <minSpacing>3</minSpacing>
+      <countPer10kCellsRange>
+	<min>14</min>
+	<max>14</max>
+      </countPer10kCellsRange>
+      <warnOnFail>false</warnOnFail>
+    </genStep>
+  </GenStepDef>
+-->
+
+
+
+</Defs>
+
+

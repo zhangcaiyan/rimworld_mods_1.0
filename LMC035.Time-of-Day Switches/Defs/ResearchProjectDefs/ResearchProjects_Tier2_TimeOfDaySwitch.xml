@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>ResearchTimeOfDaySwitch</defName>
+    <label>Time of Day Switch</label>
+    <description>Research a power switch that can be configured to turn on or off depending on the time of day.</description>
+    <discoveredLetterTitle>Time-of-Day Switch Complete</discoveredLetterTitle>
+    <discoveredLetterText>You may now construct power switches that can be configured to turn on or off at specified times. \n\nNOTE: Do not connect your lamps, turrets, etc. directly to the switch! Add a power cable and connect that!</discoveredLetterText>
+    <baseCost>250</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+    <researchViewX>9</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>

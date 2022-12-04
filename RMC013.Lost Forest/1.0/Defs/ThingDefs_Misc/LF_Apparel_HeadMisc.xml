@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+		<!--====================Headgear Base Defs=======================-->
+  <ThingDef Name="LF_HatBase" ParentName="LF_ApparelBase" Abstract="True">
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef Name="LF_HatMakeableBase" ParentName="LF_ApparelMakeableBase" Abstract="True">
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef Name="LF_ArmorHelmetMakeableBase" ParentName="LF_ArmorMachineableBase" Abstract="True">
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+  </ThingDef>
+
+		<!--====================Headgear=======================-->
+
+
+</Defs>

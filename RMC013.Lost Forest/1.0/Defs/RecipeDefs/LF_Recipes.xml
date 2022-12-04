@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--=============== LF_HolyWoodLog ====================-->
+
+	<RecipeDef>
+		<defName>MakeHolyWood150</defName>
+		<label>make 150 AncientWood</label>
+		<description>Make lost ancient wood.</description>
+		<jobString>Making 150 AncientWood</jobString>
+		<workAmount>1000</workAmount>
+		<effectWorking>Smelt</effectWorking>
+		<soundWorking>Recipe_Smelt</soundWorking>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<targetCountAdjustment>150</targetCountAdjustment>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</filter>
+				<count>150</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>LF_MofuMofu</li>
+						<li>LF_FukaFuka</li>
+						<li>LF_FuwaFuwa</li>
+					</thingDefs>
+				</filter>
+				<count>100</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>LF_FoxiaTears</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+				<li>LF_MofuMofu</li>
+				<li>LF_FukaFuka</li>
+				<li>LF_FuwaFuwa</li>
+				<li>LF_FoxiaTears</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<LF_WoodLog>150</LF_WoodLog>
+		</products>
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+	</RecipeDef>
+
+  <!--=============== Compress Iron Scraps ====================-->
+
+	<RecipeDef>
+		<defName>PressIronScrap</defName>
+		<label>compress slag chunk</label>
+		<description>compress slag chunk into a block.</description>
+		<jobString>Compressing slag chunk.</jobString>
+		<workAmount>200</workAmount>
+		<workSpeedStat></workSpeedStat>
+		<effectWorking>CutStone</effectWorking>
+		<soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+		<recipeUsers>
+			<li>TableStonecutter</li>
+		</recipeUsers>
+		<allowMixingIngredients></allowMixingIngredients>
+		<targetCountAdjustment>20</targetCountAdjustment>
+		<ingredients>
+		  <li>
+		    <filter>
+		      <thingDefs>
+			<li>ChunkSlagSteel</li>
+		      </thingDefs>
+		    </filter>
+		    <count>1</count>
+		  </li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkSlagSteel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<PressedIronScraps>20</PressedIronScraps>
+		</products>
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill></workSkill>
+	</RecipeDef>
+
+	<RecipeDef>
+		<defName>PressBulkIronScraps</defName>
+		<label>compress bulk slag chunks</label>
+		<description>compress bulk slag chunks into blocks.</description>
+		<jobString>Compressing bulk slag chunks.</jobString>
+		<workAmount>1000</workAmount>
+		<workSpeedStat></workSpeedStat>
+		<effectWorking>CutStone</effectWorking>
+		<soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+		<recipeUsers>
+			<li>TableStonecutter</li>
+		</recipeUsers>
+		<allowMixingIngredients></allowMixingIngredients>
+		<targetCountAdjustment>100</targetCountAdjustment>
+		<ingredients>
+		  <li>
+		    <filter>
+		      <thingDefs>
+			<li>ChunkSlagSteel</li>
+		      </thingDefs>
+		    </filter>
+		    <count>5</count>
+		  </li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkSlagSteel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<PressedIronScraps>100</PressedIronScraps>
+		</products>
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill></workSkill>
+	</RecipeDef>
+
+
+  <!--=============== Smelt Pressed Iron Scraps ====================-->
+
+	<RecipeDef>
+		<defName>SmeltPressedIronScraps</defName>
+		<label>smelt compressed scraps</label>
+		<description>smelt compressed scraps into steel ingots.</description>
+		<jobString>Smelting iron scraps.</jobString>
+		<workAmount>500</workAmount>
+		<workSpeedStat>SmeltingSpeed</workSpeedStat>
+		<effectWorking>Smelt</effectWorking>
+		<soundWorking>Recipe_Smelt</soundWorking>
+		<recipeUsers>
+			<li>ElectricSmelter</li>
+		</recipeUsers>
+		<allowMixingIngredients></allowMixingIngredients>
+		<targetCountAdjustment>20</targetCountAdjustment>
+		<ingredients>
+		  <li>
+		    <filter>
+		      <thingDefs>
+			<li>PressedIronScraps</li>
+		      </thingDefs>
+		    </filter>
+		    <count>20</count>
+		  </li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>PressedIronScraps</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Steel>20</Steel>
+		</products>
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill></workSkill>
+	</RecipeDef>
+
+	<RecipeDef>
+		<defName>SmeltBulkPressedIronScraps</defName>
+		<label>smelt bulk compressed scraps</label>
+		<description>smelt bulk compressed scraps into steel ingots.</description>
+		<jobString>Smelting iron scraps.</jobString>
+		<workAmount>2000</workAmount>
+		<workSpeedStat>SmeltingSpeed</workSpeedStat>
+		<effectWorking>Smelt</effectWorking>
+		<soundWorking>Recipe_Smelt</soundWorking>
+		<recipeUsers>
+			<li>ElectricSmelter</li>
+		</recipeUsers>
+		<allowMixingIngredients></allowMixingIngredients>
+		<targetCountAdjustment>100</targetCountAdjustment>
+		<ingredients>
+		  <li>
+		    <filter>
+		      <thingDefs>
+			<li>PressedIronScraps</li>
+		      </thingDefs>
+		    </filter>
+		    <count>100</count>
+		  </li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>PressedIronScraps</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Steel>100</Steel>
+		</products>
+		<skillRequirements>
+		</skillRequirements>
+		<workSkill></workSkill>
+	</RecipeDef>
+
+  <!--=============== Butchery without equipment ====================-->
+
+	<RecipeDef>
+		<defName>LF_ButcherCorpseFleshDE</defName>
+		<label>butcher creature (destroy equip)</label>
+		<description>Butcher a creature to obtain its meat, leather, and other body products.</description>
+    <workerCounterClass>RecipeWorkerCounter_ButcherAnimals</workerCounterClass>
+		<jobString>Butchering.</jobString>
+		<workAmount>450</workAmount>
+		<workSpeedStat>ButcheryFleshSpeed</workSpeedStat>
+    <workSkill>Cooking</workSkill>
+		<efficiencyStat>ButcheryFleshEfficiency</efficiencyStat>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
+    <autoStripCorpses>false</autoStripCorpses>
+		<recipeUsers>
+			<li>ButcherSpot</li>
+			<li>TableButcher</li>
+		</recipeUsers>
+    <ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Corpses</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<specialProducts>
+			<li>Butchery</li>
+		</specialProducts>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Corpses</li>
+			</categories>
+			<disallowedCategories>
+				<li>CorpsesMechanoid</li>
+			</disallowedCategories>
+      <specialFiltersToDisallow>
+        <li>AllowRotten</li>
+      </specialFiltersToDisallow>
+		</fixedIngredientFilter>
+		<defaultIngredientFilter>
+			<categories>
+				<li>CorpsesAnimal</li>
+			</categories>
+		</defaultIngredientFilter>
+	</RecipeDef>
+
+  <!--=============== Cemetery burial ====================-->
+
+  <RecipeDef>
+    <defName>LF_BuryCorpse</defName>
+    <label>bury corpse</label>
+    <description>bury a corpse to cemetery.</description>
+    <jobString>entomb.</jobString>
+    <workAmount>150</workAmount>
+    <workSpeedStat>UnskilledLaborSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <autoStripCorpses>false</autoStripCorpses>
+    <recipeUsers>
+	
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Corpses</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Corpses</li>
+      </categories>
+      <disallowedCategories>
+        <li>CorpsesMechanoid</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+        <li>Corpse_Human</li>
+      </thingDefs>
+      <specialFiltersToAllow>
+        <li>AllowCorpsesColonist</li>
+        <li>AllowCorpsesStranger</li>
+      </specialFiltersToAllow>
+    </defaultIngredientFilter>
+  </RecipeDef>
+
+</Defs>

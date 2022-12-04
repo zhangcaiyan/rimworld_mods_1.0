@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!--========================= Doors =============================-->
+	
+	<Door.label>Dvere</Door.label>
+	<Door.description>Oddeľuje miestnosti. Musia byť ručne otvárané a zatvárané, čo spomaľuje ľudí.</Door.description>
+	
+	<Autodoor.label>Automatické dvere</Autodoor.label>
+	<Autodoor.description>Oddeľuje miestnosti. Automatické otváranie umožnuje prechádzanie dvermi bez spomaľovania.</Autodoor.description>
+	
+	<!--========================= Walls =============================-->
+	
+	<Wall.label>Stena</Wall.label>
+	<Wall.description>Nepreniknuteľná stena schopná udržať strechu.</Wall.description>
+	
+	<WallConduit.label>Stena s elektrickým káblom</WallConduit.label>
+	<WallConduit.description>Stena so stavaným elektrickým káblom.</WallConduit.description>
+
+</LanguageData>

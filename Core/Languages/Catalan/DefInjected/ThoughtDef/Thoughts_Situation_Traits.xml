@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>asceta amb habitació horrible</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>La meva cambra és com hauria de ser: humil i senzilla.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>asceta amb cambra trista</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>La meva cambra és senzilla i humil. M'agrada.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>asceta amb cambra mediocre</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Tinc una cambra senzilla i humil. M’agrada.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>asceta amb cambra impressionant</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>No m'agrada tenir una cambra impressionant.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>lluitador amb arma a distancia</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Odio disparar a distància. Prefereixo el «contacte físic»!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>roba molesta</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Sóc nudista i em fan portar aquesta roba. No és que no es pugui portar, però és incomoda i em molesta.</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>cobdícia per cambra impressionant</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Tinc cobdícia. Vull una cambra realment impressionant.</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>cobdícia per cambra impressionant</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Tinc cobdícia. La meva cambra és patètica! En vull una d'impressionant.</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>cobdícia per cambra impressionant</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Tinc cobdícia. La meva cambra no és prou bona. La vull realment impressionant.</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>cobdícia per cambra impressionant</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Tinc cobdícia. La meva cambra no és prou bona. La vull realment impressionant.</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>cobdícia per cambra impressionant</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Tinc cobdícia. La meva cambra no és prou bona. La vull realment impressionant.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>nuesa feliç</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>Vaig sense roba i m'encanta! Em sento lliure i en contacte amb l'entorn!</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>gelosia de la cambra de {0}</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>Vull la millor!</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>masoquista amb una mica de dolor</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Au... Hi hi hi... M'hi podria acabar acostumant!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>masoquista amb dolor moderat</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>aiiix... Fa mal, però m'encanta! Deixeu-lo fer!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>masoquista amb dolor agut</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>aaaaaaii... Em sembla que m'he trencat alguna cosa... Quina sensació tant bona!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>masoquista amb dolor excepciona</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Arggg... Sóc al paradís?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>noctàmbula de dia</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>No m'agrada treballar de dia.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>noctàmbula de nit</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Em sento molt millor a la nit.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: transhumanist pleased -->
+  <ProsthophileHappy.stages.transhumanist_pleased.label>transhumanista content</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: This artificial part is cool. I want more. -->
+  <ProsthophileHappy.stages.transhumanist_pleased.description>Sóc un producte de la tecnologia moderna! Ho puc fer tot millor!</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <!-- EN: transhumanist quite pleased -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>transhumanista molt content</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <!-- EN: Two artificial parts are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>dues parts artificials són millor que una. A veure si en puc tenir més.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <!-- EN: transhumanist delighted -->
+  <ProsthophileHappy.stages.transhumanist_delighted.label>transhumanista entusiasmat</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.transhumanist_delighted.description>Tres parts artificials i la meva debil canr humana està retrocedint. Encara vull tenir més potència mecànica.</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <!-- EN: transhumanist enchanted -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>transhumanista encantat</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Quatre parts del cos artificials i ja em començo a sentir superior a un humà. Encara tinc alguna part del cos que es podria cambiar.</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <!-- EN: transhumanist overjoyed -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>transhumanista feliç</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>cinc parts del cos artificials! Com podria un ésses millorat com jo sentir-se trist?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>cos mecànic complert</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Això és el que volia.</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: transhumanist frustrated -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>transhumanista sense part biònica</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>La carn et limita. M'encantaria tenir algun tipus de part biònica.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>protofobia amb part biònica</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>M'han convertit en una abominació tecnològica... Si, com a mínim, m'haguessin demanat l'opinió...</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>purista del cos disgustat</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Dues parts del cos artificials embruten el meu cos natural. Només de pensar-hi em poso malalt</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>violació de purista del cos</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Tres parts del cos artificials violen la meva carn pura. Tremolo només de pensar-hi... i sento com les peces tremolen amb mi.</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>purista del cos horroritzat</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>tinc quatre parts del cos artificials. És com si m’estigués convertint en un robot. Quina sensació més horrible.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>malson de purista del cos</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Cinc parts del cos artificials... En queda res de mi? O només sóc un robot que es pensa que és humà?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>m’he convertit en el que més odio</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>El que jo volia era tot el contrari!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>piromania amb arma incendiaria</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I'm so happy. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Em fa pensar en flames i foc. Em fa sentir feliç.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+</LanguageData>

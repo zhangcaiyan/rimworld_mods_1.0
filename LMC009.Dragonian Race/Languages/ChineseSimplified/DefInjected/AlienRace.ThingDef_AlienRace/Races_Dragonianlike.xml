@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Female.label>龙女</Dragonian_Female.label>
+  <Dragonian_Female.description>一种美丽的半爬行生物，拥有神话中龙的特征和人类的特征，因为其丝滑的银色头发而在黑市上高价交易，经常被当做偷猎者的目标。</Dragonian_Female.description>
+  <Dragonian_Female.tools.0.label>牙齿</Dragonian_Female.tools.0.label>
+  <Dragonian_Female.tools.1.label>左臂</Dragonian_Female.tools.1.label>
+  <Dragonian_Female.tools.2.label>右臂</Dragonian_Female.tools.2.label>
+  <Dragonian_Female.tools.3.label>尾巴</Dragonian_Female.tools.3.label>
+
+  <Dragonian_Male.label>龙女</Dragonian_Male.label>
+  <Dragonian_Male.description>一种美丽的半爬行生物，拥有神话中龙的特征和人类的特征，因为其丝滑的银色头发而在黑市上高价交易，经常被当做偷猎者的目标。</Dragonian_Male.description>
+  <Dragonian_Male.tools.0.label>牙齿</Dragonian_Male.tools.0.label>
+  <Dragonian_Male.tools.1.label>左臂</Dragonian_Male.tools.1.label>
+  <Dragonian_Male.tools.2.label>右臂</Dragonian_Male.tools.2.label>
+  <Dragonian_Male.tools.3.label>尾巴</Dragonian_Male.tools.3.label>
+
+
+</LanguageData>

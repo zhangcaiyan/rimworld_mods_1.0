@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Lamia.label>Lamia</Yokai_Lamia.label>
+  <Yokai_Lamia.description>An alluring Yokai, the Lamia supports any village with her milk. Her agrairian utility and high intelligence are offset, however, by her fragile frame. It would thus be wise to keep such a valuable friend off the battlefield. Lamia can be found in temperate biomes, like the forest and shrublands; moreover, they are vulnerable to the cold, so take care to keep them warm.
+    \nThe name "Lamia" derives from the mythological Greek figure of the same name. In that tale, the woman-Lamia-was punished by Hera for her tryst with Zues; Hera killed Lamia's children, and the grief of that loss transformed Lamia into a half snake, half human monster. The commercialization of Lamia Milk, or Lamilk, is most likely what caused this Western label to supplant the term "Naga," which also refers to a human-snake creature. Commercially speaking, Lamia have been a rather contentious figure; their attractive appearance has become iconic over the web, but advocacy groups have pushed back against their use in marketing: especially in relation to Lamilk.
+    \nLamilk's status as a standard grocery item necessitated a more family friendly image. Lamia, despite their advanced intelligence, lack any sense of shame, and thus don't care about clothing or proper behavior. Most companies solved this PR problem by switching to cartoon styled mascots; others, however, began to seek the Samia. The Samia are Lamia that have been endowed with human-like mental and emotional intelligence. All personal accounts and reports cite that Samia can only be found in Yokai villages and caravans: there are no "wild" Samia. Whether by magic or force of will, any capture of these creatures has only ended in death.</Yokai_Lamia.description>
+  <Yokai_Lamia.tools.0.label>LeftHand</Yokai_Lamia.tools.0.label>
+  <Yokai_Lamia.tools.1.label>RightHand</Yokai_Lamia.tools.1.label>
+  <Yokai_Lamia.tools.2.label>LamiaTail</Yokai_Lamia.tools.2.label>
+  <Yokai_Lamia_Leather.label>Lamia leather</Yokai_Lamia_Leather.label>
+  <Yokai_Lamia_Leather.description>Lamia leather</Yokai_Lamia_Leather.description>
+  <Yokai_Lamia_Leather.stuffProps.stuffAdjective>Lamia leather</Yokai_Lamia_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_Lamia_Corpse.label>Lamia corpse</Yokai_Lamia_Corpse.label>
+  <Yokai_Lamia_Corpse.description>Lamia corpse</Yokai_Lamia_Corpse.description>
+
+
+</LanguageData>

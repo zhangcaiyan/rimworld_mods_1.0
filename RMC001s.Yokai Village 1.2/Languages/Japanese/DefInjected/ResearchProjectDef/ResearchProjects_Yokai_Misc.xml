@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖怪文化 -->
+  <YokaiTraditionBasic.label>妖怪文化</YokaiTraditionBasic.label>
+  <YokaiTraditionBasic.description>妖怪文化の基礎的な事柄について学びます。織物が生産可能になります</YokaiTraditionBasic.description>
+  <!-- 衣類 -->
+  <YokaiTraditionCloth.label>妖怪の衣類</YokaiTraditionCloth.label>
+  <YokaiTraditionCloth.description>妖怪たちが使っている衣類の研究です。妖怪の衣類をまとえば動物の信頼を得られます</YokaiTraditionCloth.description>
+  <YokaiTraditionArmor.label>妖怪の防具</YokaiTraditionArmor.label>
+  <YokaiTraditionArmor.description>ぬらりひょんが身にまとう戦装束と仮面が作成可能になります。素材として竜の皮とシロの毛が必要です</YokaiTraditionArmor.description>
+  <!-- 武器 -->
+  <YokaiTraditionWeapon.label>妖怪の武器</YokaiTraditionWeapon.label>
+  <YokaiTraditionWeapon.description>妖怪たちの使う弓、斧、剣について調べることで、初歩的な妖怪武器や罠が作成可能になります</YokaiTraditionWeapon.description>
+  <YokaiTraditionWeaponSecond.label>妖怪の戦備え</YokaiTraditionWeaponSecond.label>
+  <YokaiTraditionWeaponSecond.description>さらに強力な罠や剣、弓の作り方を知る事は貴方の村を守る手助けになるでしょう。\n作成には特殊な素材と高度な工芸の能力が要求されます</YokaiTraditionWeaponSecond.description>
+  <!-- 生活補助 -->
+  <YokaiTraditionFood.label>妖怪のご飯</YokaiTraditionFood.label>
+  <YokaiTraditionFood.description>妖怪たちの食事について調べることで、ラミアのチーズやドラゴンステーキの作り方がわかります。</YokaiTraditionFood.description>
+  <YokaiTraditionLife.label>暮らしの知恵</YokaiTraditionLife.label>
+  <YokaiTraditionLife.description>妖怪たちが使う生活用具の制作法を知ることが出来ます。猫娘の毛や雪の雫が必要です。</YokaiTraditionLife.description>
+  <!-- 癒し -->
+  <YokaiTraditionCure.label>治癒の術</YokaiTraditionCure.label>
+  <YokaiTraditionCure.description>妖怪の医術を学ぶことで妖怪たちの体を再生させる事ができるようになります。猫娘の毛と医薬品で作る高度な医薬品である妖怪包帯の作成法も判明します</YokaiTraditionCure.description>
+  <YokaiTraditionCureAnimal.label>医術の応用</YokaiTraditionCureAnimal.label>
+  <YokaiTraditionCureAnimal.description>妖怪包帯と九尾の呪力により、さらに多くの生き物に対して再生医療を施せるようになります</YokaiTraditionCureAnimal.description>
+  <YokaiTraditionAddDragon.label>竜力の呪術</YokaiTraditionAddDragon.label>
+  <YokaiTraditionAddDragon.description>竜の力を人体に移植することで身体能力を引き上げる術を学びます</YokaiTraditionAddDragon.description>
+  <!-- 伝承と神話 -->
+  <YokaiTraditionSecret.label>言の葉（封）</YokaiTraditionSecret.label>
+  <YokaiTraditionSecret.description>竜の牙と九尾の毛、竜の心臓といった貴重な品々から生み出される言の葉と呼ばれる弓は、迫りくる宙族の軍隊さえ退けると伝えられています</YokaiTraditionSecret.description>
+  <Yokai_Magatama.label>太陽と海の守り</Yokai_Magatama.label>
+  <Yokai_Magatama.description>妖怪村に伝わる伝説の勾玉と、その作り方について知る事は貴方の村をより豊かにし、入植者を危険から遠ざけてくれます</Yokai_Magatama.description>
+  <Yokai_DragonDrop.label>月の雫</Yokai_DragonDrop.label>
+  <Yokai_DragonDrop.description>妖怪村に伝わる竜の牙を加工して作る剣は、石の壁を易々と切り裂き、装備するものに加護をもたらし、成長します。</Yokai_DragonDrop.description>
+  <YokaiMythology.label>妖怪の神話</YokaiMythology.label>
+  <YokaiMythology.description>妖怪たちの神話を知ることで究極の弓の封印をときます。雷鳴よりも早くあらゆる敵を打ち倒します。</YokaiMythology.description>
+  <!--妖怪錬成 -->
+  <YokaiAlchemyBasic.label>初級錬成研究</YokaiAlchemyBasic.label>
+  <YokaiAlchemyBasic.description>もっとも初歩的な錬成の研究です。【現在は未実装の研究で、中身はありません】</YokaiAlchemyBasic.description>
+  <YokaiAlchemyMiddle.label>中級錬成研究</YokaiAlchemyMiddle.label>
+  <YokaiAlchemyMiddle.description>この研究を終えることで妖怪村由来の様々な素材を作成可能になります。【現在は未実装の研究で、中身はありません】</YokaiAlchemyMiddle.description>
+  <YokaiAlchemyHigh.label>上級錬成研究</YokaiAlchemyHigh.label>
+  <YokaiAlchemyHigh.description>複雑な錬成を含めた高度に呪術的な研究です。この研究を終えれば妖怪すら呼び出せるようになるでしょう。【現在は未実装の研究で、中身はありません】</YokaiAlchemyHigh.description>
+  <YokaiAlchemyAnimated.label>錬成の探求</YokaiAlchemyAnimated.label>
+  <YokaiAlchemyAnimated.description>最も高度で非常に長い時間のかかる最後の研究です。この錬成を終えることで新たな平和への選択肢が手に入ります。【現在は未実装の研究で、中身はありません】</YokaiAlchemyAnimated.description>
+</LanguageData>

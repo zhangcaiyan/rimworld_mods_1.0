@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Flowers -->
+
+  <PlantAlliumGiganteum.label>Allium Giganteum</PlantAlliumGiganteum.label>
+  <PlantAlliumGiganteum.description>Eine schöne kultivierte Blume, dunkle purpurrote Blüten.</PlantAlliumGiganteum.description>
+
+  <PlantAnthurium.label>Anthurium</PlantAnthurium.label>
+  <PlantAnthurium.description>Eine schöne kultivierte rote Blume.</PlantAnthurium.description>
+
+  <PlantNymphHair.label>Nymphenhaar</PlantNymphHair.label>
+  <PlantNymphHair.description>Ein wunderschönes, bläuliches Gras.</PlantNymphHair.description>
+
+  <PlantPinkRimstalk.label>PinkRimbim</PlantPinkRimstalk.label>
+  <PlantPinkRimstalk.description>Eine schöne kultivierte langstielige rosa Blume.</PlantPinkRimstalk.description>
+
+  <PlantPlumeria.label>Plumeria</PlantPlumeria.label>
+  <PlantPlumeria.description>Eine schöne kultivierte, kleine buschige Blume, die in den abwechsluchsreichsten Farben wächst.</PlantPlumeria.description>
+
+  <PlantSunflower.label>Sonnenblume</PlantSunflower.label>
+  <PlantSunflower.description>Die Sonne, eingefangen als Blume.</PlantSunflower.description>
+
+
+</LanguageData>

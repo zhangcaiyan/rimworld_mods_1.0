@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_HinoKo.label>Hi no Ko</Yokai_HinoKo.label>
+  <Yokai_HinoKo.labelPlural>Hi no Kos</Yokai_HinoKo.labelPlural>
+  <Yokai_HinoKo.lifeStages.0.label>Hi no Ko</Yokai_HinoKo.lifeStages.0.label>
+  <Yokai_HinoKo.lifeStages.0.labelPlural>Hi no Ko</Yokai_HinoKo.lifeStages.0.labelPlural>
+  <Yokai_HinoKo.lifeStages.0.labelMale>male Hi no Ko</Yokai_HinoKo.lifeStages.0.labelMale>
+  <Yokai_HinoKo.lifeStages.0.labelMalePlural>male Hi no Kos</Yokai_HinoKo.lifeStages.0.labelMalePlural>
+  <Yokai_HinoKo.lifeStages.0.labelFemale>female Hi no Ko</Yokai_HinoKo.lifeStages.0.labelFemale>
+  <Yokai_HinoKo.lifeStages.0.labelFemalePlural>female Hi no Kos</Yokai_HinoKo.lifeStages.0.labelFemalePlural>
+  <Yokai_HinoKo.lifeStages.1.label>Hi no Ko</Yokai_HinoKo.lifeStages.1.label>
+  <Yokai_HinoKo.lifeStages.1.labelPlural>Hi no Ko</Yokai_HinoKo.lifeStages.1.labelPlural>
+  <Yokai_HinoKo.lifeStages.1.labelMale>male Hi no Ko</Yokai_HinoKo.lifeStages.1.labelMale>
+  <Yokai_HinoKo.lifeStages.1.labelMalePlural>male Hi no Kos</Yokai_HinoKo.lifeStages.1.labelMalePlural>
+  <Yokai_HinoKo.lifeStages.1.labelFemale>female Hi no Ko</Yokai_HinoKo.lifeStages.1.labelFemale>
+  <Yokai_HinoKo.lifeStages.1.labelFemalePlural>female Hi no Kos</Yokai_HinoKo.lifeStages.1.labelFemalePlural>
+  <Yokai_HinoKo.labelMale>male Hi no Ko</Yokai_HinoKo.labelMale>
+  <Yokai_HinoKo.labelMalePlural>male Hi no Kos</Yokai_HinoKo.labelMalePlural>
+  <Yokai_HinoKo.labelFemale>female Hi no Ko</Yokai_HinoKo.labelFemale>
+  <Yokai_HinoKo.labelFemalePlural>female Hi no Kos</Yokai_HinoKo.labelFemalePlural>
+
+
+</LanguageData>

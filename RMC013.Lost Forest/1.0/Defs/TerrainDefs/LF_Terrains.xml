@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Base Defs-->
+
+  <TerrainDef Name="LF_FloorBase" Abstract="True">
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <designationCategory>Floors</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <acceptTerrainSourceFilth>True</acceptTerrainSourceFilth>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+  </TerrainDef>
+
+  <TerrainDef Abstract="True" Name="LF_WaterBase">
+    <edgeType>Water</edgeType>
+    <acceptFilth>false</acceptFilth>
+    <fertility>0</fertility>
+    <avoidWander>true</avoidWander>
+    <holdSnow>false</holdSnow>
+    <takeSplashes>true</takeSplashes>
+    <extinguishesFire>true</extinguishesFire>
+    <extraDeteriorationFactor>3</extraDeteriorationFactor>
+    <traversedThought>SoakingWet</traversedThought>
+    <extraNonDraftedPerceivedPathCost>180</extraNonDraftedPerceivedPathCost>
+    <extraDraftedPerceivedPathCost>18</extraDraftedPerceivedPathCost>
+    <tags>
+      <li>Water</li>
+    </tags>
+    <tools>
+      <li>
+        <label>water</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>WaterInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+  </TerrainDef>
+
+  <TerrainDef Abstract="True" Name="LF_WaterShallowBase" ParentName="LF_WaterBase">
+    <pathCost>30</pathCost>
+    <affordances>
+      <li>ShallowWater</li>
+      <li>Bridgeable</li>
+    </affordances>
+  </TerrainDef>
+
+	<!-- 排水溝 -->
+
+  <TerrainDef ParentName="LF_FloorBase">
+    <defName>LFTerr_Drain</defName>
+    <label>drain</label>
+    <description>A drain groove for washing away dirt. Floor contamination does not adhere.</description>
+    <texturePath>Things/Terrain/Drain</texturePath>
+    <edgeType>Hard</edgeType>
+    <renderPrecedence>70</renderPrecedence>
+    <pathCost>0</pathCost>
+    <color>(0.8,0.8,0.8)</color>
+    <statBases>
+      <WorkToBuild>800</WorkToBuild>
+      <Beauty>-4</Beauty>
+      <Cleanliness>0</Cleanliness>
+    </statBases>
+    <costList>
+      <Steel>7</Steel>
+    </costList>
+    <scatterType></scatterType>
+    <generatedFilth></generatedFilth>
+    <fertility>0</fertility>
+    <takeFootprints>false</takeFootprints>
+    <acceptFilth>false</acceptFilth>
+    <researchPrerequisites>
+      <li>Smithing</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <constructEffect>ConstructMetal</constructEffect>
+  </TerrainDef>
+
+	<!--冷泉-->
+
+  <TerrainDef ParentName="LF_WaterShallowBase">
+    <defName>LFTerr_Spring</defName>
+    <label>cold spring</label>
+    <texturePath>Terrain/Surfaces/WaterShallowRamp</texturePath>
+    <waterDepthShader>Map/WaterDepth</waterDepthShader>
+    <renderPrecedence>394</renderPrecedence>
+    <driesTo>Gravel</driesTo>
+    <affordances>
+      <li>MovingFluid</li>
+      <li>LFTrAf_Spring</li>
+    </affordances>
+    <traversedThought />
+  </TerrainDef>
+
+	<!--温泉-->
+
+  <TerrainDef ParentName="LF_WaterShallowBase">
+    <defName>LFTerr_HotSpring</defName>
+    <label>hot spring</label>
+    <texturePath>Terrain/Surfaces/WaterShallowRamp</texturePath>
+    <waterDepthShader>Map/WaterDepth</waterDepthShader>
+    <renderPrecedence>394</renderPrecedence>
+    <driesTo>Gravel</driesTo>
+    <affordances>
+      <li>MovingFluid</li>
+      <li>LFTrAf_HotSpring</li>
+    </affordances>
+    <traversedThought />
+  </TerrainDef>
+
+	<!-- 埋立土壌 -->
+
+  <TerrainDef>
+    <defName>LFTerr_LandfillSoil</defName>
+    <label>landfill soil</label>
+    <description>Soil that was landfilled and solidified with gravel. Although it is possible to construct heavy objects, it is not suitable for agriculture because of its low water buffering capacity.</description>
+    <texturePath>Terrain/Surfaces/Gravel</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <color>(255,255,255)</color>
+    <renderPrecedence>320</renderPrecedence>
+    <pathCost>4</pathCost>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <Beauty>-1</Beauty>
+      <Cleanliness>-1</Cleanliness>
+    </statBases>
+    <scatterType>Rocky</scatterType>
+    <costList>
+      <RPC_Gravel>25</RPC_Gravel>
+    </costList>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>Diggable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>0.5</fertility>
+    <takeFootprints>True</takeFootprints>
+    <tools>
+      <li>
+        <label>gravel</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>GravelInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_Landfill</li>
+    </placeWorkers>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </TerrainDef>
+
+	<!-- 塩害土壌 -->
+
+  <TerrainDef>
+    <defName>LFTerr_SaltDamagedSoil</defName>
+    <label>salt-damaged soil</label>
+    <description>A soil that has suffered salt damage. Most plants can not grow here.</description>
+    <texturePath>Things/Terrain/SaltDamagedSoil</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <color>(255,255,255)</color>
+    <renderPrecedence>320</renderPrecedence>
+    <pathCost>4</pathCost>
+    <statBases>
+      <Beauty>-1</Beauty>
+      <Cleanliness>-1</Cleanliness>
+    </statBases>
+    <scatterType>Rocky</scatterType>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>Diggable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>0</fertility>
+    <takeFootprints>True</takeFootprints>
+    <tools>
+      <li>
+        <label>gravel</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>GravelInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+  </TerrainDef>
+
+  <!-- 濡れた土 -->
+
+  <TerrainDef>
+    <defName>LFTerr_WetArableLand</defName>
+    <label>wet arable land</label>
+    <description>It is a cultivated land drawn irrigation water. Rich water improves fertility to 140%. It can only be laid near the water source. (Necessary: over ​​100% fertility, water source within 9x9)</description>
+    <texturePath>Terrain/Surfaces/SoilRich</texturePath>
+    <color>(255,255,255)</color>
+    <edgeType>FadeRough</edgeType>
+    <renderPrecedence>335</renderPrecedence>
+    <pathCost>2</pathCost>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <Beauty>-1</Beauty>
+      <Cleanliness>-1</Cleanliness>
+    </statBases>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+      <li>RPC_DirtGatherable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>1.4</fertility>
+    <takeFootprints>True</takeFootprints>
+    <tools>
+      <li>
+        <label>dirt</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>DirtInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_WetSoil</li>
+    </placeWorkers>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </TerrainDef>
+
+  <!-- 濡れた肥沃な土 -->
+
+  <TerrainDef>
+    <defName>LFTerr_WetRichArableLand</defName>
+    <label>wet rich arable land</label>
+    <description>It is a cultivated land drawn irrigation water. Rich water improves fertility to 200%. It can only be laid on a rich soil near the water source. (Necessary: over ​​140% fertility, water source within 9x9)</description>
+    <texturePath>Terrain/Surfaces/SoilRich</texturePath>
+    <color>(255,255,255)</color>
+    <edgeType>FadeRough</edgeType>
+    <renderPrecedence>335</renderPrecedence>
+    <pathCost>2</pathCost>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <Beauty>-1</Beauty>
+      <Cleanliness>-1</Cleanliness>
+    </statBases>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+      <li>RPC_DirtGatherable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>2.0</fertility>
+    <takeFootprints>True</takeFootprints>
+    <tools>
+      <li>
+        <label>dirt</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>DirtInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_WetRichSoil</li>
+    </placeWorkers>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </TerrainDef>
+
+	<!--冷泉（Comp付与用）-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_Spring</defName>
+    <label>cold spring water</label>
+    <thingClass>LostForest.LF_SpringWater</thingClass>	
+    <description>Cold water is gushing from underground.</description>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFSpringBase">
+        <driesTo>Gravel</driesTo>      
+        <IsHot>false</IsHot>      
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusher</compClass>
+        <heatPerSecond>-2</heatPerSecond>
+        <heatPushMaxTemperature>28</heatPushMaxTemperature>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>false</selectable>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <Flammability>0</Flammability>
+      <Beauty>8</Beauty>
+      <Comfort>0.5</Comfort>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+		<building>
+			<ai_chillDestination>true</ai_chillDestination>
+		</building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+	<!--温泉（Comp付与用）-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_HotSpring</defName>
+    <label>hot spring water</label>
+    <thingClass>LostForest.LF_SpringWater</thingClass>	
+    <description>Hot water is gushing from underground.</description>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFSpringBase">
+        <driesTo>Gravel</driesTo>      
+        <IsHot>true</IsHot>      
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusher</compClass>
+        <heatPerSecond>2</heatPerSecond>
+        <heatPushMaxTemperature>25</heatPushMaxTemperature>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>false</selectable>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <Flammability>0</Flammability>
+      <Beauty>8</Beauty>
+      <Comfort>0.85</Comfort>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+		<building>
+			<ai_chillDestination>true</ai_chillDestination>
+		</building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+<!-- 地形同化DLL使用 -->
+
+	<!--埋立（深部）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandfillDeep</defName>
+    <label>landfill (deep)</label>
+    <thingClass>Building</thingClass>	
+    <description>Landfill deep water sources to shallow. Requires a lot of resources and work amount.</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/WaterDeepRamp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>WaterShallow</ChangeTo>
+	<TicksToAdaptation>-1</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Gravel>50</RPC_Gravel>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>6000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandfillDeep</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded />
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+	<!--土壌改良（土）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandAdaptationSoil</defName>
+    <label>soil improvement (soil)</label>
+    <thingClass>Building</thingClass>
+    <description>Improve soil of the specified ground. After construction, it gradually assimilates with land, and after a certain period of time, changes the topography to the soil of the vanilla. (Generates the vanilla soil form itself, not the duplicate)</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/Soil</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>Soil</ChangeTo>
+	<TicksToAdaptation>180000</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Dirt>20</RPC_Dirt>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandAdaptationSoil</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+	<!--土壌改良（肥えた土）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandAdaptationRichSoil</defName>
+    <label>soil improvement (rich soil)</label>
+    <thingClass>Building</thingClass>
+    <description>Improve soil of the specified ground. After construction, it gradually assimilates with land, and after a certain period of time, changes the topography to the rich soil of the vanilla. (Generates the vanilla rich soil form itself, not the duplicate)</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/SoilRich</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>SoilRich</ChangeTo>
+	<TicksToAdaptation>240000</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Compost>15</RPC_Compost>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandAdaptationRichSoil</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory></designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+	<!--土壌改良（砂利）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandAdaptationGravel</defName>
+    <label>soil improvement (gravel)</label>
+    <thingClass>Building</thingClass>
+    <description>Improve soil of the specified ground. After construction, it gradually assimilates with land, and after a certain period of time, changes the topography to the gravel of the vanilla. (Generates the vanilla gravel form itself, not the duplicate)</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/Gravel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>Gravel</ChangeTo>
+	<TicksToAdaptation>80000</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Dirt>10</RPC_Dirt>
+      <RPC_Gravel>10</RPC_Gravel>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandAdaptationGravel</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+	<!--土壌改良（砂）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandAdaptationSand</defName>
+    <label>soil improvement (sand)</label>
+    <thingClass>Building</thingClass>
+    <description>Improve soil of the specified ground. After construction, it gradually assimilates with land, and after a certain period of time, changes the topography to the sand of the vanilla. (Generates the vanilla sand form itself, not the duplicate)</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/Sand</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>Sand</ChangeTo>
+	<TicksToAdaptation>60000</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Sand>20</RPC_Sand>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandAdaptationSand</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+	<!--土壌改良（泥）-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_LandAdaptationMud</defName>
+    <label>soil improvement (mud)</label>
+    <thingClass>Building</thingClass>
+    <description>Improve soil of the specified ground. After construction, it gradually assimilates with land, and after a certain period of time, changes the topography to the mud of the vanilla. (Generates the vanilla mud form itself, not the duplicate)</description>
+    <graphicData>
+      <texPath>Terrain/Surfaces/Mud</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFTerrainAdaptation">
+        <ChangeTo>Mud</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <costList>
+      <RPC_Mud>20</RPC_Mud>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <fillPercent>0.15</fillPercent>
+    <rotatable>false</rotatable>
+    <placeWorkers>
+      <li>LostForest.PlaceWorker_LandAdaptationMud</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+  </ThingDef>
+
+</Defs>

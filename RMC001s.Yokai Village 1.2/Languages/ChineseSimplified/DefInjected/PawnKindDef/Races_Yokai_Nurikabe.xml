@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurikabe.label>涂壁</Yokai_Nurikabe.label>
+  <Yokai_Nurikabe.labelPlural>涂壁</Yokai_Nurikabe.labelPlural>
+  <Yokai_Nurikabe.lifeStages.0.label>小涂壁</Yokai_Nurikabe.lifeStages.0.label>
+  <Yokai_Nurikabe.lifeStages.0.labelPlural>小涂壁</Yokai_Nurikabe.lifeStages.0.labelPlural>
+  <Yokai_Nurikabe.lifeStages.1.label>中涂壁</Yokai_Nurikabe.lifeStages.1.label>
+  <Yokai_Nurikabe.lifeStages.1.labelPlural>中涂壁</Yokai_Nurikabe.lifeStages.1.labelPlural>
+  <Yokai_Nurikabe.lifeStages.2.label>大涂壁</Yokai_Nurikabe.lifeStages.2.label>
+  <Yokai_Nurikabe.lifeStages.2.labelPlural>大涂壁</Yokai_Nurikabe.lifeStages.2.labelPlural>
+</LanguageData>

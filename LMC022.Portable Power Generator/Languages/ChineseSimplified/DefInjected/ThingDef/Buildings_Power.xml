@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Power gen -->
+
+  <CP_PortablePower.label>便携式发电机</CP_PortablePower.label>
+  <CP_PortablePower.description>传说特里·克鲁斯在末日山建造了一台便携式发电机，因为其过于逆天在许多地区被禁止使用。</CP_PortablePower.description>
+  <CP_PortablePower_Blueprint.label>便携式发电机 (蓝图)</CP_PortablePower_Blueprint.label>
+  <CP_PortablePower_Blueprint_Install.label>便携式发电机 (蓝图)</CP_PortablePower_Blueprint_Install.label>
+  <CP_PortablePower_Frame.label>便携式发电机 (建造中)</CP_PortablePower_Frame.label>
+  <CP_PortablePower_Frame.description>传说特里·克鲁斯在末日山建造了一台便携式发电机，因为其过于逆天在许多地区被禁止使用。</CP_PortablePower_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Pekodra.label>ペコドラ</Yokai_Dragon_Pekodra.label>
+  <Yokai_Dragon_Pekodra.description>いつもお腹を空かせている凶暴な赤い竜です。獲物を探していつも走り回っているため巨体に見合わぬ足の速さを持っています。
+\n彼らから見れば入植者もまたただの肉の塊でしかありません。速やかに討伐してしまうか、居住区を壁で囲むなどの工夫が必要になるでしょう。
+\n獲物の豊富な熱帯雨林や温帯林でのみ姿を見ることが出来ます。
+\n「竜の心には特別な力が宿っている」という妖怪村の伝承があります。</Yokai_Dragon_Pekodra.description>
+  <Yokai_Dragon_Pekodra.tools.0.label>左爪</Yokai_Dragon_Pekodra.tools.0.label>
+  <Yokai_Dragon_Pekodra.tools.1.label>右爪</Yokai_Dragon_Pekodra.tools.1.label>
+  <Yokai_Dragon_Pekodra.tools.2.label>牙</Yokai_Dragon_Pekodra.tools.2.label>
+  <Yokai_Dragon_Pekodra_Corpse.label>ペコドラの死骸</Yokai_Dragon_Pekodra_Corpse.label>
+  <Yokai_Dragon_Pekodra_Corpse.description>ペコドラの死骸。捌くことでたくさんの皮と肉などが手に入ります。</Yokai_Dragon_Pekodra_Corpse.description>
+</LanguageData>

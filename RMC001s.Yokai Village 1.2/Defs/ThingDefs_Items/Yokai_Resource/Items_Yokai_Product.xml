@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--=============================== Lamia milk ================================-->
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>Yokai_LamiaMilk</defName>
+    <label>Lamilk</label>
+    <description>Nutritious milk that can be used to make various food and medicine. Yokai traders initially had some difficulty when trying to sell this product; the first hurdle, of course, was the name: Lamia Milk. When exploration into the Rim was just beginning, few knew what a Lamia was, thus even fewer cared to buy some unknown creature's milk. Yet, as the Rim was explored and settled, knowledge spread about various Yokai, including the Lamia.
+    /nBetween the new renewed consumer and vendor interest, Lamia Milk was rebranded as Lamilk. Marketing articles of course claim that the advertisers made the switch first, after realizing that the word "Lamia" had an "mi" in it; however, user reviews and food blogs also began using the term before the first "Lamilk" commercial was released. The ironic fact of the matter is that this inter-galatic rebranding extended back to the source of Lamilk: Yokai villages. Villagers now call Lamia Milk, "Lamilk," and are happy to sell what companies now call "Organic, Range Fed Lamilk."
+    </description>
+    <graphicData>
+      <texPath>Things/Item/product/LamiaMilk</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MarketValue>6.4</MarketValue>
+      <Mass>0.045</Mass>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Nutrition>0.20</Nutrition>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>20</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawTasty</preferability>
+      <foodType>AnimalProduct, Fluid</foodType>
+      <optimalityOffsetHumanlikes>-15</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-30</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <thingCategories>
+      <li>Yokai_Foods</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>Yokai_SnowMilk</defName>
+    <label>Snow Milk</label>
+    <description>A magical ward protects this liquid for spoiling due to heat. This milk can be processed into various medicinal drinks.</description>
+    <graphicData>
+      <texPath>Things/Item/product/SnowMilk</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MarketValue>15</MarketValue>
+      <Mass>0.09</Mass>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Nutrition>0.1</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>RawTasty</preferability>
+      <foodType>AnimalProduct, Fluid</foodType>
+      <optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <thingCategories>
+      <li>Yokai_Foods</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- =============================  Egg  ============================================ -->
+  <ThingDef ParentName="EggFertBase">
+    <defName>Yokai_LamiaEggB</defName>
+    <label>Lamia Egg</label>
+    <description>A beautiful pruple egg. This fertilized egg will hatch into a Lamia if kept at the proper temperature.</description>
+    <graphicData>
+      <texPath>Things/Item/product/LamiaEggB</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <Mass>0.15</Mass>
+      <MarketValue>50.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>8.0</hatcherDaystoHatch>
+        <hatcherPawn>Yokai_Lamia</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>Yokai_LamiaEggR</defName>
+    <label>Lamia Egg</label>
+    <description>A beautiful pruple egg. This fertilized egg will hatch into a Red Lamia if kept at the proper temperature.</description>
+    <graphicData>
+      <texPath>Things/Item/product/LamiaEggR</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <Mass>0.15</Mass>
+      <MarketValue>50.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>8.0</hatcherDaystoHatch>
+        <hatcherPawn>Yokai_RedLamia</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>Yokai_JorouGumoEgg</defName>
+    <label>Jorou Gumo Egg</label>
+    <description>A fertile egg that which hatch into a maiden spider, if kept at an appropriate temperature. A male Jorou Gumo has never been confirmed; yet, by some method of magic or body, their race continues to propogate.</description>
+    <graphicData>
+      <texPath>Things/Item/product/JorouGumoEgg</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>80.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>10</hatcherDaystoHatch>
+        <hatcherPawn>Yokai_JorouGumo</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

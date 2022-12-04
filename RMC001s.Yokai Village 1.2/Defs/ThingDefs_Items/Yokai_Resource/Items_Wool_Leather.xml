@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase" Abstract="True" Name="YokaiWoolBase">
+    <graphicData>
+      <texPath>Things/Item/Resource/Wool</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <MarketValue>3.0</MarketValue>
+      <Mass>0.008</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>3.4</DeteriorationRate>
+      <Beauty>10</Beauty>
+    </statBases>
+    <stackLimit>300</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+    </stuffProps>
+    <thingCategories>
+      <li>Yokai_Wool</li>
+    </thingCategories>
+  </ThingDef>
+  <!--つづらお様 -->
+  <ThingDef ParentName="YokaiWoolBase">
+    <defName>Yokai_NineTailWool</defName>
+    <label>Kyuubi Wool</label>
+    <description>More valuable than dragon skin, this wool is warm, cool, beautiful, and marked with the sweet smell of the golden Nine Tails.</description>
+    <graphicData>
+      <color>(240,210,040)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Mass>0.001</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>50</Beauty>
+      <MarketValue>50</MarketValue>
+      <StuffPower_Armor_Sharp>3.3</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>2.7</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>3.9</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>61</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>64</StuffPower_Insulation_Heat>
+    </statBases>
+    <stackLimit>300</stackLimit>
+    <stuffProps>
+      <color>(240,210,040)</color>
+      <commonality>0.001</commonality>
+      <statFactors>
+        <MarketValue>3.0</MarketValue>
+        <MaxHitPoints>4.5</MaxHitPoints>
+        <Flammability>0</Flammability>
+        <Beauty>5</Beauty>
+      </statFactors>
+      <statOffsets>
+        <ArmorRating_Sharp>0.43</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.37</ArmorRating_Blunt>
+        <ArmorRating_Heat>2</ArmorRating_Heat>
+        <Insulation_Heat>30</Insulation_Heat>
+        <Insulation_Cold>30</Insulation_Cold>
+        <Beauty>30</Beauty>
+      </statOffsets>
+    </stuffProps>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>8</glowRadius>
+        <glowColor>(100,187,187,80)</glowColor>
+      </li>
+    </comps>
+    <thingSetMakerTags>
+      <li>RewardSpecial</li>
+    </thingSetMakerTags>
+  </ThingDef>
+  <!-- 猫娘 -->
+  <ThingDef ParentName="YokaiWoolBase">
+    <defName>Yokai_NekoMusumeWool</defName>
+    <label>Neko Musume Wool</label>
+    <description>The fluffy hair of a catgirl. Many find it unsuitable for clothing due to its lack of durability; however, it is commonly used to produce beautiful furniture. Neko Musume hair is also known for its ability to retain moisture. Owners of Musume find this tidbit annoying, while resourceful villagers have used the hair to grow various Yokai fungi.</description>
+    <graphicData>
+      <color>(66,66,66)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>5.5</MarketValue>
+      <Beauty>5</Beauty>
+    </statBases>
+    <stuffProps>
+      <color>(66,66,66)</color>
+      <commonality>0.5</commonality>
+      <statFactors>
+        <MarketValue>2.5</MarketValue>
+        <Beauty>2</Beauty>
+      </statFactors>
+      <statOffsets>
+        <Beauty>15</Beauty>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+  <!-- 女郎蜘蛛の糸 -->
+  <ThingDef ParentName="YokaiWoolBase">
+    <defName>Yokai_JorouGumoThread</defName>
+    <label>Jorou Gumo Thread</label>
+    <description>Sturdy spider thread that was carefully extracted from a Jorou Gumo. The thick thread is often woven together to create a mesh strong enough to allow most clothing to act as armor.</description>
+    <graphicData>
+      <color>(255,255,255)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(255,255,255)</color>
+      <commonality>0.05</commonality>
+      <statFactors>
+        <Flammability>0.5</Flammability>
+      </statFactors>
+    </stuffProps>
+    <statBases>
+      <Mass>0.1</Mass>
+      <Beauty>2</Beauty>
+      <StuffPower_Armor_Sharp>1.3</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.4</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>2</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>4</StuffPower_Insulation_Heat>
+    </statBases>
+  </ThingDef>
+  <!-- シロ -->
+  <ThingDef ParentName="YokaiWoolBase">
+    <defName>Yokai_ShiroWool</defName>
+    <label>Shiro Wool</label>
+    <description>Soft hair that was sheared from a Shiro. It can be used to make well insulated and durable clothing.</description>
+    <graphicData>
+      <color>(230,230,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>6.5</MarketValue>
+      <Flammability>0.3</Flammability>
+      <DeteriorationRate>1.4</DeteriorationRate>
+      <Beauty>8</Beauty>
+      <StuffPower_Armor_Sharp>1.7</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.3</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.4</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>32</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>8</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(230,230,255)</color>
+      <commonality>0.003</commonality>
+      <statFactors>
+        <MarketValue>1.5</MarketValue>
+        <Flammability>0.3</Flammability>
+        <MaxHitPoints>2.0</MaxHitPoints>
+      </statFactors>
+      <statOffsets>
+        <ArmorRating_Sharp>0.08</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.06</ArmorRating_Blunt>
+        <Insulation_Cold>16</Insulation_Cold>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+  <!--竜の皮 -->
+  <ThingDef ParentName="LeatherBase">
+    <defName>Yokai_Leather_Dragon</defName>
+    <label>Dragon Leather</label>
+    <description>It is a dragon blue skin with a dull blue color. Dragons are generally aggressive and dangerous tribes, and in a small settlement it may be ruined by a single dragon. That is why this durable leather is traded at a high price as being of rare value. By using the dragon skin it is possible to make fine clothing that is excellent in durability and anti-blade property and strong against temperature difference.
+  \n Strong armor made of dragon skin and Shiloh 's hair supports the strength of warriors in Yokai village. According to the story of people in Yokai village, this skin also seems to have strong spirit power.
+  </description>
+    <graphicData>
+      <color>(32,32,64)</color>
+      <colorTwo>(162,106,57)</colorTwo>
+    </graphicData>
+    <stuffProps>
+      <color>(32,32,64)</color>
+      <commonality>0.002</commonality>
+      <statFactors>
+        <MarketValue>2.0</MarketValue>
+        <Flammability>0</Flammability>
+        <MaxHitPoints>2.0</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <DeteriorationRate>0.1</DeteriorationRate>
+      <Mass>0.3</Mass>
+      <Flammability>0</Flammability>
+      <MarketValue>16</MarketValue>
+      <StuffPower_Armor_Sharp>2.8</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>3.0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.0</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>22</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>18</StuffPower_Insulation_Heat>
+    </statBases>
+  </ThingDef>
+</Defs>

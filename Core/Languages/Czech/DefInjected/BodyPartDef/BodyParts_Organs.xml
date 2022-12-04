@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>srdce</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>ledvina</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>játra</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>plíce</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>žaludek</Stomach.label>
+  
+</LanguageData>

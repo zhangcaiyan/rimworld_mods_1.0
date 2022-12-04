@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC009.龙女</name>
+	<author>Gloomylynx NukaFrog</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Mod/Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+
+英文名：Dragonian Race
+
+已经于2020/2/23更新为Steam最新版本（2019年9月26日上午12:02），Dragonian Race Factions and Scenarios已同步更新，注意只有我发布的Dragonian Race Factions and Scenarios才能搭配本汉化使用，Steam原版剧本会直接爆炸！！！
+
+更新内容：
+-新增了男性（我：喵喵喵？？？）
+-新增了晚礼服与花束丝带
+-龙女可以自愈，但是已经缺失的身体部位不会重生
+
+相比最初发布的版本，更新如下：
+-新增了发型
+-新增了服装
+-修复标签错误
+-兼容性改善
+
+Playable Dragonian
+- Appeared only slave and wildman
+- Good at melee combat
+- Strong Body (resilience, resistance)
+- Low working speed, high yield
+- Can milking, shearing
+	</description>
+</ModMetaData>

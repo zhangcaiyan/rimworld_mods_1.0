@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SculptureSmall.label>skulptur som er liten</SculptureSmall.label>
+    <SculptureSmall.description>Materiale på størrelse med en torso, skulpturert på artistisk vis.</SculptureSmall.description>
+    
+    <SculptureLarge.label>skulptur som er stor</SculptureLarge.label>
+    <SculptureLarge.description>Materiale på størrelse med en person, skulpturert på artistisk vis.</SculptureLarge.description>
+    
+    <SculptureGrand.label>skulptur som er gigantisk</SculptureGrand.label>
+    <SculptureGrand.description>Materiale på størrelse med en bil, skulpturert på artistisk vis.</SculptureGrand.description>
+    
+    <Snowman.label>snømann</Snowman.label>
+    <Snowman.description>Store snøballer stablet på hverandre, for å ligne en person.</Snowman.description>
+    
+</LanguageData>

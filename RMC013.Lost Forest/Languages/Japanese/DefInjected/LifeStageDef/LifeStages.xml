@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FoxiaBaby.label>幼児Foxia</FoxiaBaby.label>
+  <FoxiaJuvenile.label>幼獣Foxia</FoxiaJuvenile.label>
+  <FoxiaAdult.label>成獣Foxia</FoxiaAdult.label>
+
+  <LefcaBaby.label>幼児Lefca</LefcaBaby.label>
+  <LefcaJuvenile.label>幼獣Lefca</LefcaJuvenile.label>
+  <LefcaAdult.label>成獣Lefca</LefcaAdult.label>
+
+  <WolvernBaby.label>幼児Wolvern</WolvernBaby.label>
+  <WolvernJuvenile.label>幼獣Wolvern</WolvernJuvenile.label>
+  <WolvernAdult.label>成獣Wolvern</WolvernAdult.label>
+
+  <DragoniaBaby.label>幼児Dragonia</DragoniaBaby.label>
+  <DragoniaJuvenile.label>幼獣Dragonia</DragoniaJuvenile.label>
+  <DragoniaAdult.label>成獣Dragonia</DragoniaAdult.label>
+
+  <PetiteServantDragonBaby.label>雛</PetiteServantDragonBaby.label>
+  <PetiteServantDragonJuvenile.label>幼獣</PetiteServantDragonJuvenile.label>
+  <PetiteServantDragonAdult.label>成獣</PetiteServantDragonAdult.label>
+
+  <GlaciaBaby.label>幼児Glacia</GlaciaBaby.label>
+  <GlaciaJuvenile.label>幼獣Glacia</GlaciaJuvenile.label>
+  <GlaciaAdult.label>成獣Glacia</GlaciaAdult.label>
+
+  <FlammeliaBaby.label>幼児Flammelia</FlammeliaBaby.label>
+  <FlammeliaJuvenile.label>幼獣Flammelia</FlammeliaJuvenile.label>
+  <FlammeliaAdult.label>成獣Flammelia</FlammeliaAdult.label>
+
+  <LeffyBaby.label>雛</LeffyBaby.label>
+  <LeffyJuvenile.label>幼獣</LeffyJuvenile.label>
+  <LeffyAdult.label>成獣</LeffyAdult.label>
+
+</LanguageData>

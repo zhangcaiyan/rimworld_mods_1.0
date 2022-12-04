@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>plafond bâti</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>plafond rocheux (épais)</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>plafond de pierre (fin)</RoofRockThin.label>
+  
+</LanguageData>

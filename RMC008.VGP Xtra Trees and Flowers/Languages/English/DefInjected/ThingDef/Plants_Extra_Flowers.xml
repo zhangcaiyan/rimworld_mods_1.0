@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Flowers -->
+
+  <PlantAlliumGiganteum.label>allium giganteum</PlantAlliumGiganteum.label>
+  <PlantAlliumGiganteum.description>A beautiful cultivated flower, dark purple bulb.</PlantAlliumGiganteum.description>
+
+  <PlantAnthurium.label>anthurium</PlantAnthurium.label>
+  <PlantAnthurium.description>A beautiful cultivated red flower.</PlantAnthurium.description>
+
+  <PlantNymphHair.label>NymphHair</PlantNymphHair.label>
+  <PlantNymphHair.description>A beautiful blueish grass.</PlantNymphHair.description>
+
+  <PlantPinkRimstalk.label>PinkRimstalk</PlantPinkRimstalk.label>
+  <PlantPinkRimstalk.description>A beautiful cultivated long stemmed pink flower.</PlantPinkRimstalk.description>
+
+  <PlantPlumeria.label>Plumeria</PlantPlumeria.label>
+  <PlantPlumeria.description>A beautiful cultivated small bushy flower that grows in random colors.</PlantPlumeria.description>
+
+  <PlantSunflower.label>Sunflower</PlantSunflower.label>
+  <PlantSunflower.description>A beautiful tall growing bright yellow flower.</PlantSunflower.description>
+
+
+</LanguageData>

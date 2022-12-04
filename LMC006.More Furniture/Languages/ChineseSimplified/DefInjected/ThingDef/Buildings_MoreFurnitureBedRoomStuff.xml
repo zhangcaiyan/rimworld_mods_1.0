@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- dresser -->
+
+  <Anon2Dresser.label>梳妆台</Anon2Dresser.label>
+  <Anon2Dresser.description>一个殖民者用来存放个人物品的地方，放在床旁边时会略微增加舒适度。</Anon2Dresser.description>
+  <Anon2Dresser_Blueprint.label>梳妆台 (蓝图)</Anon2Dresser_Blueprint.label>
+  <Anon2Dresser_Blueprint_Install.label>梳妆台 (蓝图)</Anon2Dresser_Blueprint_Install.label>
+  <Anon2Dresser_Frame.label>梳妆台 (建造中)</Anon2Dresser_Frame.label>
+  <Anon2Dresser_Frame.description>一个殖民者用来存放个人物品的地方，放在床旁边时会略微增加舒适度。</Anon2Dresser_Frame.description>
+
+
+  <!-- end table -->
+
+  <Anon2EndTable.label>茶几</Anon2EndTable.label>
+  <Anon2EndTable.description>这张小桌子和床很相配，当放在床旁边时会略微增加舒适度.</Anon2EndTable.description>
+  <Anon2EndTable_Blueprint.label>茶几 (蓝图)</Anon2EndTable_Blueprint.label>
+  <Anon2EndTable_Blueprint_Install.label>茶几 (蓝图)</Anon2EndTable_Blueprint_Install.label>
+  <Anon2EndTable_Frame.label>茶几 (建造中)</Anon2EndTable_Frame.label>
+  <Anon2EndTable_Frame.description>这张小桌子和床很相配，当放在床旁边时会略微增加舒适度.</Anon2EndTable_Frame.description>
+
+
+  <!-- royal end table -->
+
+  <Anon2RoyalEndTable.label>豪华茶几</Anon2RoyalEndTable.label>
+  <Anon2RoyalEndTable.description>这张小桌子和床很相配，当放在床旁边时会增加舒适度。</Anon2RoyalEndTable.description>
+  <Anon2RoyalEndTable_Blueprint.label>豪华茶几 (蓝图)</Anon2RoyalEndTable_Blueprint.label>
+  <Anon2RoyalEndTable_Blueprint_Install.label>豪华茶几 (蓝图)</Anon2RoyalEndTable_Blueprint_Install.label>
+  <Anon2RoyalEndTable_Frame.label>豪华茶几 (建造中)</Anon2RoyalEndTable_Frame.label>
+  <Anon2RoyalEndTable_Frame.description>这张小桌子和床很相配，当放在床旁边时会增加舒适度。</Anon2RoyalEndTable_Frame.description>
+
+
+</LanguageData>

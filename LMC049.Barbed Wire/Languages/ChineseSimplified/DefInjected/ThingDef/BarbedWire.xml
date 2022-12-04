@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BarbedWire.label>铁丝网</BarbedWire.label>
+  <BarbedWire.description>简单的防御结构，减缓敌人移动速度，不提供掩护。</BarbedWire.description>
+  <BarbedWire_Blueprint.label>铁丝网 (蓝图)</BarbedWire_Blueprint.label>
+  <BarbedWire_Frame.label>铁丝网 (建造中)</BarbedWire_Frame.label>
+  <BarbedWire_Frame.description>简单的防御结构，减缓敌人移动速度，不提供掩护。</BarbedWire_Frame.description>
+
+
+</LanguageData>

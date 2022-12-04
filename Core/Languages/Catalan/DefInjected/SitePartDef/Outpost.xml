@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outpost -->
+  <Outpost.label>campament</Outpost.label>
+  <!-- EN: A small, guarded outpost. -->
+  <Outpost.description>Un petit campament protegit.</Outpost.description>
+  <!-- EN: Attacking {0} -->
+  <Outpost.approachingReportString>Ataquen {0}</Outpost.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <Outpost.approachOrderString>Ataca {0}</Outpost.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <Outpost.arrivedLetter>Hi ha un campament enemic a la zona</Outpost.arrivedLetter>
+  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
+  <Outpost.descriptionDialogue>hi ha un campament enemic format per {0} persones</Outpost.descriptionDialogue>
+  
+  
+</LanguageData>

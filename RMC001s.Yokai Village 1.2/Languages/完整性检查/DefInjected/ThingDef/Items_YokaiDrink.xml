@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- IceDrink -->
+
+  <Yokai_IceDrink.label>Winter's Blessing</Yokai_IceDrink.label>
+  <Yokai_IceDrink.description>Made with Snow Milk, this drink drastically increases the consumer's heat tolerance for a day. The effect will weaken before disappearing completely.</Yokai_IceDrink.description>
+  <Yokai_IceDrink.ingestible.ingestCommandString>Take {0}</Yokai_IceDrink.ingestible.ingestCommandString>
+  <Yokai_IceDrink.ingestible.ingestReportString>Taking {0}.</Yokai_IceDrink.ingestible.ingestReportString>
+
+
+  <!-- HotDrink -->
+
+  <Yokai_HotDrink.label>Summer's Rebuke</Yokai_HotDrink.label>
+  <Yokai_HotDrink.description>By changing the method of preperation, Snow Milk can also produce Summer's Rebuke. This drink has the opposite effect of Winter's Blessing, and therefore increases the consumer's resistance to cold.</Yokai_HotDrink.description>
+  <Yokai_HotDrink.ingestible.ingestCommandString>Take {0}</Yokai_HotDrink.ingestible.ingestCommandString>
+  <Yokai_HotDrink.ingestible.ingestReportString>Taking {0}.</Yokai_HotDrink.ingestible.ingestReportString>
+
+
+</LanguageData>

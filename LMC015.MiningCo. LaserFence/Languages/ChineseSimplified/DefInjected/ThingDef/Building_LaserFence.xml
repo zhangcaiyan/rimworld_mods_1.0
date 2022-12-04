@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LaserFencePylon.label>激光栅栏塔</LaserFencePylon.label>
+  <LaserFencePylon.description>先进的激光栅栏塔。\n-它将自动与附近主方向的塔连接。\n-每个方向的栅栏都可以独立地打开或关闭。\n-激光栅栏的最大范围：7个方块。\n警告！在进行任何维护操作之前，务必戴上防护眼镜。如果直接暴露在激光下，当地野生动物/植被可能会被点燃。</LaserFencePylon.description>
+  <LaserFencePylon_Blueprint.label>激光栅栏塔 (蓝图)</LaserFencePylon_Blueprint.label>
+  <LaserFencePylon_Blueprint_Install.label>激光栅栏塔 (蓝图)</LaserFencePylon_Blueprint_Install.label>
+  <LaserFencePylon_Frame.label>激光栅栏塔 (建造中)</LaserFencePylon_Frame.label>
+  <LaserFencePylon_Frame.description>先进的激光栅栏塔。\n-它将自动与附近主方向的塔连接。\n-每个方向的栅栏都可以独立地打开或关闭。\n-激光栅栏的最大范围：7个方块。\n警告！在进行任何维护操作之前，务必戴上防护眼镜。如果直接暴露在激光下，当地野生动物/植被可能会被点燃。</LaserFencePylon_Frame.description>
+
+  <LaserFence.label>激光栅栏</LaserFence.label>
+  <LaserFence.description>不可逾越的激光栅栏。</LaserFence.description>
+
+
+</LanguageData>

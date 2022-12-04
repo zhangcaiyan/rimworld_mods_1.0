@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_NineTail.label>Tsuzurao</Yokai_NineTail.label>
+  <Yokai_NineTail.description>Siren, fiend, beauty of beauties, Nine Tails are legendary figures that transcend those around them.
+    \nAnger them not, for their wrath is a fire quenched only by the blood of an entire colony. Her ability to fight is unrivaled by myth or science.
+    \nA mysterious power also emanates from her, protecting those she calls "friends." A high price is paid for even a lock of her enchanted hair.
+    \nAccording to a traveler from a distant world, the Nine Tails can also be referred to as Tsuzurao (Japanese for "nine tails"), Kyuubi (which also means "nine tails," but is taken from the phrase "kyubi no kitsune"), and Inari (this one is a bit of a misnomer, however, as it describes the god(s) of foxes, rice, tea, fertility, sake, industry, and agriculture).</Yokai_NineTail.description>
+  <Yokai_NineTail.tools.0.label>left hand</Yokai_NineTail.tools.0.label>
+  <Yokai_NineTail.tools.1.label>right hand</Yokai_NineTail.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_NineTail_Corpse.label>Tsuzurao corpse</Yokai_NineTail_Corpse.label>
+  <Yokai_NineTail_Corpse.description>Tsuzurao corpse</Yokai_NineTail_Corpse.description>
+
+
+</LanguageData>

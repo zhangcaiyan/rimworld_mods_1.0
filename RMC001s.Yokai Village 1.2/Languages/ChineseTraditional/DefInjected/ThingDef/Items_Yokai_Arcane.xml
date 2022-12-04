@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--下位素材 -->
+  <Yokai_Fragment.label>妖氣的碎片</Yokai_Fragment.label>
+  <Yokai_Fragment.description>小塊的妖氣碎片，並不是什麼稀有的東西。以妖怪村為中心廣泛地流通於各地，相當容易入手。
+  \n這塊小小的碎片是鍊成術中最為基本的素材，只要得到它就能開啟鍛製偉大的武器及傳說中妖狐的鍊成之路。</Yokai_Fragment.description>
+  <!--中位素材 -->
+  <Yokai_SigilStone.label>妖刻之石</Yokai_SigilStone.label>
+  <Yokai_SigilStone.description>刻入了渾厚妖氣的鍊成素材，是中階鍊成中最基礎的材料。
+  \n這塊小小的石頭不僅能製成其他中階素材，再加工其他中階素材後亦能變回此石頭。
+  \n只要取得這塊石頭就能進行大多數的基礎鍊成。</Yokai_SigilStone.description>
+  <Yokai_FlameStone.label>火刻之石</Yokai_FlameStone.label>
+  <Yokai_FlameStone.description>觸摸時會散發出些微溫度，一塊不可思議的石頭。並不是什麼稀奇的物品，以妖怪村為中心廣泛地流通於各地，相當容易入手。
+  \n能作為妖怪村中各種製作台的燃料，若不使用這些工具台就沒什麼用處了。</Yokai_FlameStone.description>
+  <Yokai_EnergyStone.label>精刻之石</Yokai_EnergyStone.label>
+  <Yokai_EnergyStone.description>凝聚著高純度妖氣的石頭。蘊含著刺激攻擊衝動的力量，能作為多種武器的素材使用。</Yokai_EnergyStone.description>
+  <Yokai_HydroStone.label>水刻之石</Yokai_HydroStone.label>
+  <Yokai_HydroStone.description>蘊藏著養育生命的滔滔江河之力，這塊石頭能用在妖怪村中的特殊發電機上。
+  \n河童會定期產出此石頭，並會對應河童的數量產生轉換器。</Yokai_HydroStone.description>
+  <Yokai_ArcaneStone.label>妖秘之石</Yokai_ArcaneStone.label>
+  <Yokai_ArcaneStone.description>中級素材之中最為貴重的妖秘核心。將數枚妖刻之石合成後即可製成。
+  \n能以此核心鍊成更上階的上位素材，也能變換成多種道具及素材。</Yokai_ArcaneStone.description>
+  <!--上位素材 -->
+  <Yokai_DragonStone.label>竜刻之石</Yokai_DragonStone.label>
+  <Yokai_DragonStone.description>蘊含著強大力量的上位練成素材，會對應巨龍的數量生成轉換器。此外，也能從龍心製成。
+  \n適用於鍛製強力的特殊道具及武器。</Yokai_DragonStone.description>
+  <Yokai_AnimaCore.label>妖怪之心核</Yokai_AnimaCore.label>
+  <Yokai_AnimaCore.description>最上位的錬成素材，入手難易度/作成難易度極高的物品。
+  \n運用了特別的知識及設備，適用於多種道具、武器，甚至是召喚妖怪上。</Yokai_AnimaCore.description>
+</LanguageData>

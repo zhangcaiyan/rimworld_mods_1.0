@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+    <defName>Yokai_Person</defName>
+    <label>YokaiPeople</label>
+    <race>Human</race>
+    <defaultFactionType>Yokai_Village_Player</defaultFactionType>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <apparelTags>
+      <li>Yokai_Ihuku</li>
+    </apparelTags>
+    <apparelMoney>
+      <min>800</min>
+      <max>1200</max>
+    </apparelMoney>
+    <backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+  </PawnKindDef>
+</Defs>

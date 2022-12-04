@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_AlchemyCore.label>錬成コア</LF_AlchemyCore.label>
+	<LF_AlchemyCore.description>虚無から電気を発生させる謎めいた構造体。事象崩壊が起きているであろう内部はブラックボックス化しており、その超越的なメカニズムは未知のままである。少なくとも古代龍帝時代にはアーコテックが生み出したものと等価な永久発電機関が既に存在していたようだ。発電機として用いた場合、接続した電気系統を高度に制御し安定化する。</LF_AlchemyCore.description>
+
+	<LF_AlchemicBattery.label>錬成蓄電器</LF_AlchemicBattery.label>
+	<LF_AlchemicBattery.description>古代龍帝時代において主に高エネルギー錬成の研究に用いられていたと思われる、大容量蓄電装置のパーツの模倣品。どのような形でエネルギーを蓄えているのかは謎だが、異常に高い変換効率と蓄電容量を誇り、大電流の入出力にも耐えうる。一度蓄えたエネルギーは自己放電や漏電によって喪失する事も無い。接続した回路で漏電による過電流が発生した場合、損失した電力をすべて吸収してしまう。</LF_AlchemicBattery.description>
+
+	<LF_HolyWoodSapling.label>神聖樹の苗木</LF_HolyWoodSapling.label>
+	<LF_HolyWoodSapling.description>生命を育むといわれる古代神聖大樹の苗木。それは周囲の穢れを浄化し清浄な空気として吐き出し、生きとし生けるものに特別な力を与えるという。古き森の核となっているものと同じもののようだ。残念ながら生長には数百年の時を要するため、我々がその大樹を直接目にすることは叶わないだろう。回虫・せん毛虫など長期に亘り入植者を苦しませる寄生虫感染症を定期的に治療し、暴走したメカナイトウイルスを沈静化させる。また、岩盤に潜むインセクトイドに対して強力な忌避効果を持つ。\n\n* ただし深部ドリルが原因のものまでは防げない。</LF_HolyWoodSapling.description>
+
+	<LF_EntropyReductionCooler.label>エントロピー遡行冷却器</LF_EntropyReductionCooler.label>
+	<LF_EntropyReductionCooler.description>周囲の熱を吸収し電力に変換する謎めいた構造体。生み出した電力のほとんどは自身の永久機関化コストに消費される。事象崩壊が起きているであろう主要部の黒体はブラックボックス化しており、その超越的なメカニズムは未知のままである。外部の電磁場の影響を受け付けず、太陽フレア時でも機能し続ける。一説によれば、本来は巨大戦略兵器のエネルギー制御機関に用いられていたパーツの一部であるらしい。</LF_EntropyReductionCooler.description>
+
+	<LF_EltguelmHeater.label>エルトゲルム発熱器</LF_EltguelmHeater.label>
+	<LF_EltguelmHeater.description>燃料補給なしで半永久的に熱を生み出す謎めいた構造体。事象崩壊が起きているであろう主要部の光体はブラックボックス化しており、その超越的なメカニズムは未知のままである。外部の電磁場の影響を受け付けず、太陽フレア時でも機能し続ける。一説によれば、本来は巨大戦略兵器のエネルギー増幅装置に用いられていたパーツの一部であるようだ。</LF_EltguelmHeater.description>
+
+	<LF_DaliusSunLamp.label>ダリウスの煌輝灯</LF_DaliusSunLamp.label>
+	<LF_DaliusSunLamp.description>力強く煌びやかな輝きを生み出すこの謎めいたランプは、通常の太陽灯よりはるかに少ない電力消費で昼夜を問わず辺りを照らし、屋内の作物が生育するのを手助けします。その眩い光には、岩盤中に潜むインセクトイドの発生を妨げる効果もあるようです。\n\n* ただし深部ドリルが原因のものまでは防げない。</LF_DaliusSunLamp.description>
+
+	<LF_AtzldoirStella.label>アートルの星爛灯</LF_AtzldoirStella.label>
+	<LF_AtzldoirStella.description>暖かく神秘的な輝きを生み出すこの謎めいたランプは、動作に一切の電力を必要とせず、優しい光で常に辺りを照らし作物の生育を手助けします。その穏やかな光には、岩盤中に潜むインセクトイドの発生を妨げる効果もあるようです。\n\n* ただし深部ドリルが原因のものまでは防げない。</LF_AtzldoirStella.description>
+
+
+</LanguageData>

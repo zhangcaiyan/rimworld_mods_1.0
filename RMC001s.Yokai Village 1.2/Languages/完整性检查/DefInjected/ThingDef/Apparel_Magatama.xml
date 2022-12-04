@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 陽の勾玉 -->
+
+  <Yokai_Hi_No_Magatama.label>Hi No Magatama</Yokai_Hi_No_Magatama.label>
+  <Yokai_Hi_No_Magatama.description>A Yokai treasure which is said to use gathered sunlight to create a barrier that protects the bearer. It carries several other blessings that compliment melee fighters.</Yokai_Hi_No_Magatama.description>
+
+
+  <!-- 凪の勾玉 -->
+
+  <Yokai_Nagi_no_Magatama.label>Nagi No Magatama</Yokai_Nagi_no_Magatama.label>
+  <Yokai_Nagi_no_Magatama.description>Wear this and no temperature shall harm you. Cold or heat, this bauble shall speed your hands and smooth your tongue.</Yokai_Nagi_no_Magatama.description>
+
+
+  <!-- NPC妖怪村住民専用 -->
+
+  <Yokai_Tuzurao_Kago.label>Tuzurao's Blessing</Yokai_Tuzurao_Kago.label>
+  <Yokai_Tuzurao_Kago.description>Nine tails flutter about, as dulcet hands weave a barrier against all projectiles. This protection is granted to those who fight with the Nine Tails, and it shall dissipate when all is done.</Yokai_Tuzurao_Kago.description>
+
+
+  <!-- 生産 -->
+
+  <Yokai_Omamori_Hirameki.label>Hirameki no Omamori</Yokai_Omamori_Hirameki.label>
+  <Yokai_Omamori_Hirameki.description>Translated as "Flash Amulet," this charm gives the wearer a slight increase to production skills.</Yokai_Omamori_Hirameki.description>
+
+
+  <!-- 農業、採掘 -->
+
+  <Yokai_Omamori_Tuchi.label>Tsuchi no Kami</Yokai_Omamori_Tuchi.label>
+  <Yokai_Omamori_Tuchi.description>Many dream of a peaceful world where swords are turned to plowshares: and not the other way around. This charm-known as "God of the Soil"-is an effort to engender such a reality; per its namesake, the charm increases one's productivity when farming, mining, or smoothing stone.</Yokai_Omamori_Tuchi.description>
+
+
+  <!-- 飼育 -->
+
+  <Yokai_Omamori_Wa.label>Chowa no Omamori</Yokai_Omamori_Wa.label>
+  <Yokai_Omamori_Wa.description>The effects of this, "Amulet of Harmony," are far more akin to the tricks of a Ninetails than an actual blessing. Though it seems to sharpen the ability of its wearer, the amulet actually dulls the awareness of all those around it, making it easier for the wearer to convince them of anything. The effect also extends to animals</Yokai_Omamori_Wa.description>
+
+
+  <!-- 戦闘 -->
+
+  <Yokai_Omamori_Ikusa.label>Ikusanin no Omamori</Yokai_Omamori_Ikusa.label>
+  <Yokai_Omamori_Ikusa.description>Known in another tongue as the "Warrior's Amulet." This charm boosts the wearer's movement speed, melee fighting ability, and immune system. It also carries a minor protection blessing from the Kyuubi.</Yokai_Omamori_Ikusa.description>
+
+
+  <!-- 医療 -->
+
+  <Yokai_Omamori_Jin.label>Jinjutsu no Omamori</Yokai_Omamori_Jin.label>
+  <Yokai_Omamori_Jin.description>This charm attempts to resonate one's heart and mind with each other, therefore drawing out the compassion and empathy in one's heart, and using that energy to focus and motivate the mind rather than distract it. The result is a boost to medical skills; moreover, the charm has several other blessings that increase the wearer's immune system and grant them a modicum of protection.</Yokai_Omamori_Jin.description>
+
+
+  <!-- 戦闘 -->
+
+  <Yokai_Omamori_Karibito.label>Karibito no Omamori</Yokai_Omamori_Karibito.label>
+  <Yokai_Omamori_Karibito.description>\nThe Kariudo no Omamori is a symbol of power. With wisdom, power can bring balance; with hate, power will bring only destruction. The Pekodra are to be feared, yes, but they also serve as guardians at times, protecting villages without their knowledge: this service was nearly lost. The legacy of this bloodlust infects such charms, making it far more difficult to train or tame animals while wearing one. So, what shall this amulet mean for your village?</Yokai_Omamori_Karibito.description>
+
+
+</LanguageData>

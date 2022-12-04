@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Universal Fermenter -->
+  <Canning_ContainsIngredient>包含 {0} / {1} {2}.</Canning_ContainsIngredient>
+  <Canning_ContainsProduct>包含 {0} / {1} {2}.</Canning_ContainsProduct>
+  <Canning_NoIngredient>需要材料</Canning_NoIngredient>
+  <Canning_IdealSafeFermentingTemperature>理想的（安全的）罐头制造温度</Canning_IdealSafeFermentingTemperature>
+  <Canning_Finished>完成</Canning_Finished>
+  <Canning_Ideal>理想的</Canning_Ideal>
+  <Canning_Safe>安全的</Canning_Safe>
+  <Canning_OutOfIdealTemperature>不理想的温度。罐头制造速度： {0}</Canning_OutOfIdealTemperature>
+
+</LanguageData>

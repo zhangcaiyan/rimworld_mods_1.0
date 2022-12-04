@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Glacia.label>Glacia</LF_Glacia.label>
+  <LF_Glacia.description>A beastgirl that may be the result of a pumanoid and an elder forest resident coming together. Her head and limbs are protected by her long hair, which seems to be frozen in a hard, quartz-like state. Her extremely high damage resistance is only matched by power armor and the like. In a pinch, she can rush into action thanks to her leg strength, though in combat she focuses on defense rather than offense. Glacia are typically quiet and obedient, and prefer to work as defenders: just like their ancestors did for the elder forests. On the other hand, Glacia love to take naps whenever they can find a silent, isolated location; which, of course, means that they hate whoever disturbs their rest: "Damn red demon!" They will never appear in the wild; instead, they are sold by merchants, who peddle the progeny of those that courageously defended their forest till their ice shattered.</LF_Glacia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Glacia_Corpse.label>Glacia corpse</LF_Glacia_Corpse.label>
+  <LF_Glacia_Corpse.description>Death's grip was warm on this one; her magic kept her body colder than all else, and now-with that cold spark gone-it thaws. The ice that girds her limbs melts, thaws, and breaks away, revealing the fragile frame that was ever beneath: the innocent girl that so desperately sought to defend all others.</LF_Glacia_Corpse.description>
+
+</LanguageData>

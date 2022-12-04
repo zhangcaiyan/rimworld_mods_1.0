@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC046.更多的桥梁</name>
+	<author>Lanilor</author>
+	<url>https://github.com/Lanilor/</url>
+	<targetVersion>1.0.0</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+汉化：jxb12306
+合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+	
+&lt;size=20&gt;Simply More Bridges&lt;/size&gt;
+更多的桥梁
+
+A simple mod that adds more briges types on top of the wood bridges that rimworld core provides. Heavy briges work the same way as wood ones, but also provide support for heavy stuctures. Deep water bridges can be built in deep water.
+一个简单的mod，在rimworld core（核心MOD）提供的木质上添加了更多的桥架类型。重型桥梁的工作方式与木质桥梁相同，但也为重型结构提供支持。深水桥梁可以在深水中建造。
+
+You can build these new bridges out of steel, plasteel and stone types.
+你能使用钢铁，塑钢和各种岩石来建设这些新的桥梁。
+
+Research "heavy bridges" and "deep water bridges" to build them.
+但是记住先研究“重型桥梁”和“深水桥梁”来解锁它们。
+	</description>
+</ModMetaData>

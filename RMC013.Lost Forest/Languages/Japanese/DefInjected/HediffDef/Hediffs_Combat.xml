@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- ========================= デバフ ======================== -->
+
+  <Hed_PhitonToxic.label>植物毒</Hed_PhitonToxic.label>
+  <Hed_PhitonToxic.stages.0.label>軽度</Hed_PhitonToxic.stages.0.label>
+  <Hed_PhitonToxic.stages.1.label>中度</Hed_PhitonToxic.stages.1.label>
+  <Hed_PhitonToxic.stages.2.label>重度</Hed_PhitonToxic.stages.2.label>
+
+  <Hed_DeadlyPoison.label>致死毒</Hed_DeadlyPoison.label>
+  <Hed_DeadlyPoison.stages.0.label>軽度</Hed_DeadlyPoison.stages.0.label>
+  <Hed_DeadlyPoison.stages.1.label>中度</Hed_DeadlyPoison.stages.1.label>
+  <Hed_DeadlyPoison.stages.2.label>重度</Hed_DeadlyPoison.stages.2.label>
+
+  <Hed_Blind.label>盲目</Hed_Blind.label>
+  <Hed_Blind.stages.0.label>軽度</Hed_Blind.stages.0.label>
+  <Hed_Blind.stages.1.label>重度</Hed_Blind.stages.1.label>
+
+  <Hed_DarkFog.label>闇き霧</Hed_DarkFog.label>
+  <Hed_DarkFog.stages.0.label>軽度</Hed_DarkFog.stages.0.label>
+  <Hed_DarkFog.stages.1.label>重度</Hed_DarkFog.stages.1.label>
+
+  <Hed_Armorbreak.label>アーマーブレイク</Hed_Armorbreak.label>
+  <Hed_Armorbreak.stages.0.label>小破</Hed_Armorbreak.stages.0.label>
+  <Hed_Armorbreak.stages.1.label>中破</Hed_Armorbreak.stages.1.label>
+  <Hed_Armorbreak.stages.2.label>大破</Hed_Armorbreak.stages.2.label>
+
+  <Hed_Armbreak.label>アームブレイク</Hed_Armbreak.label>
+  <Hed_Armbreak.stages.0.label>軽微</Hed_Armbreak.stages.0.label>
+  <Hed_Armbreak.stages.1.label>中度</Hed_Armbreak.stages.1.label>
+  <Hed_Armbreak.stages.2.label>重度</Hed_Armbreak.stages.2.label>
+
+  <Hed_Legbreak.label>レッグブレイク</Hed_Legbreak.label>
+  <Hed_Legbreak.stages.0.label>軽微</Hed_Legbreak.stages.0.label>
+  <Hed_Legbreak.stages.1.label>中度</Hed_Legbreak.stages.1.label>
+  <Hed_Legbreak.stages.2.label>重度</Hed_Legbreak.stages.2.label>
+
+  <Hed_ArmorRavage.label>装甲破壊</Hed_ArmorRavage.label>
+  <Hed_ArmorRavage.stages.0.label>小破</Hed_ArmorRavage.stages.0.label>
+  <Hed_ArmorRavage.stages.1.label>中破</Hed_ArmorRavage.stages.1.label>
+  <Hed_ArmorRavage.stages.2.label>大破</Hed_ArmorRavage.stages.2.label>
+
+  <Hed_MobilityRavage.label>機動破壊</Hed_MobilityRavage.label>
+  <Hed_MobilityRavage.stages.0.label>軽微</Hed_MobilityRavage.stages.0.label>
+  <Hed_MobilityRavage.stages.1.label>中度</Hed_MobilityRavage.stages.1.label>
+  <Hed_MobilityRavage.stages.2.label>重度</Hed_MobilityRavage.stages.2.label>
+
+  <Hed_Cocytus.label>Cocytus</Hed_Cocytus.label>
+  <Hed_Cocytus.stages.0.label>凍え</Hed_Cocytus.stages.0.label>
+  <Hed_Cocytus.stages.1.label>表層凍結</Hed_Cocytus.stages.1.label>
+  <Hed_Cocytus.stages.2.label>深層凍結</Hed_Cocytus.stages.2.label>
+  <Hed_Cocytus.stages.3.label>氷獄</Hed_Cocytus.stages.3.label>
+
+  <Hed_DragonicSigil.label>龍印</Hed_DragonicSigil.label>
+  <Hed_DragonicSigil.stages.0.label>徴</Hed_DragonicSigil.stages.0.label>
+  <Hed_DragonicSigil.stages.1.label>壱ノ刻印</Hed_DragonicSigil.stages.1.label>
+  <Hed_DragonicSigil.stages.2.label>弐ノ刻印</Hed_DragonicSigil.stages.2.label>
+
+<!-- ========================= バフ ======================== -->
+
+  <Hed_LFGuardianPride.label>詠守</Hed_LFGuardianPride.label>
+  <Hed_LFGuardianPride.stages.0.label>守人の自負</Hed_LFGuardianPride.stages.0.label>
+  <Hed_LFGuardianPride.stages.1.label>守人の矜持</Hed_LFGuardianPride.stages.1.label>
+
+  <Hed_LFMetabolicSaving.label>代謝調節</Hed_LFMetabolicSaving.label>
+  <Hed_LFMetabolicSaving.stages.0.label>不活性</Hed_LFMetabolicSaving.stages.0.label>
+  <Hed_LFMetabolicSaving.stages.1.label>不活性</Hed_LFMetabolicSaving.stages.1.label>
+
+  <Hed_LFAdrenalineBurst.label>アドレナリンバースト</Hed_LFAdrenalineBurst.label>
+  <Hed_LFAdrenalineBurst.stages.0.label>活性</Hed_LFAdrenalineBurst.stages.0.label>
+  <Hed_LFAdrenalineBurst.stages.1.label>オーバーヒート</Hed_LFAdrenalineBurst.stages.1.label>
+
+  <Hed_LFSolidLoyalty.label>堅固たる忠誠心</Hed_LFSolidLoyalty.label>
+  <Hed_LFSolidLoyalty.stages.0.label>"ご主人様が帰ってきた！"</Hed_LFSolidLoyalty.stages.0.label>
+
+  <Hed_LFPureBloodOfAzureDrarr.label>完全耐性</Hed_LFPureBloodOfAzureDrarr.label>
+  <Hed_LFEyeOfTheDrarrAzure.label>竜眼</Hed_LFEyeOfTheDrarrAzure.label>
+  <Hed_LFEyeOfTheDrarrAzure.stages.0.label>蒼き慧眼</Hed_LFEyeOfTheDrarrAzure.stages.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<ModMetaData>
+	<name>LMC043os.矿物树Ver0.2</name>
+	<author>jxb12306</author>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<url>http://bbs.3dmgame.com/thread-5842015-1-1.html</url>
+	<description>前言：灵光一闪，突然就会写一些简单的MOD了，趁着没事做一点东西出来。
+
+制作这个MOD的目的是想解决发展到后期的矿物缺乏情况，MC也有类似的MOD，通过种植系统就能得到矿物。
+
+目前允许通过种植得到的矿物（Ver0.2）
+-钢铁	5天	50     无需种植技能
+-白银	10天	35     5级种植技能
+-黄金	15天	20     7级种植技能
+-翡翠	15天	20     8级种植技能
+
+添加了新的研究标签，种植前需要先研究对应科技，目前的科技树：植树->钢铁树->白银树->黄金树->翡翠树，未来可能添加更多矿物。
+
+如果有意见或者改进建议，请在论坛反馈。
+
+作者：jxb12306
+合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+		</description>
+</ModMetaData>

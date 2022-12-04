@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Lamia.label>ラミア</Yokai_Lamia.label>
+  <Yokai_Lamia.description>人懐っこいラミアたちは古くから人と共に暮らしてきました。
+\n非力で野生では長く生きられませんが、少食で人の言うことをよく聞きます。五日に一度栄養豊富なラミアミルクがとれます。彼女たちのお肉は人間と同じものです。
+\nツンドラから熱帯雨林、極限の砂漠など広く分布していますが、寒さにはあまり強くないため季節によって住む地域を選びます。</Yokai_Lamia.description>
+  <Yokai_Lamia.tools.0.label>左手</Yokai_Lamia.tools.0.label>
+  <Yokai_Lamia.tools.1.label>右手</Yokai_Lamia.tools.1.label>
+  <Yokai_Lamia.tools.1.label>尾</Yokai_Lamia.tools.1.label>
+  <Yokai_Lamia_Corpse.label>ラミアの死骸</Yokai_Lamia_Corpse.label>
+  <Yokai_Lamia_Corpse.description>ラミアの死骸です。捌くことで肉と皮が手に入ります。</Yokai_Lamia_Corpse.description>
+</LanguageData>

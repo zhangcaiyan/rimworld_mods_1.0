@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Lighting stuff -->
+
+	<Anon2EndTableLight.label>Nachttisch (Lampe)</Anon2EndTableLight.label>
+	<Anon2EndTableLight.description>Dieser kleine Tisch passt gut zu einem Bett. Wenn es mit einem Bett gelegt wird, erhöht es Komfort. Beinhaltet eine Lampe.</Anon2EndTableLight.description>
+
+	<Anon2RoyalEndTableLight.label>Königliches Nachttisch (Lampe)</Anon2RoyalEndTableLight.label>
+	<Anon2RoyalEndTableLight.description>Dieser kleine Tisch passt gut zu einem königliches Bett. Wenn es mit einem Bett platziert wird, erhöht es den Komfort. Beinhaltet eine Lampe.</Anon2RoyalEndTableLight.description>
+
+	<StandingLamp_Magenta.label>Stehleuchte (magenta)</StandingLamp_Magenta.label>
+	<StandingLamp_Magenta.description>Stehleuchte, die einen Bereich in Magenta beleuchtet.</StandingLamp_Magenta.description>
+
+	<StandingLamp_Yellow.label>Stehleuchte (gelb)</StandingLamp_Yellow.label>
+	<StandingLamp_Yellow.description>Stehleuchte, die einen gelb Bereich beleuchtet.</StandingLamp_Yellow.description>
+
+	<StandingLamp_Orange.label>Stehleuchte (orange)</StandingLamp_Orange.label>
+	<StandingLamp_Orange.description>Stehleuchte, die einen orangefarbenen Bereich beleuchtet.</StandingLamp_Orange.description>
+
+	<StandingLamp_Purple.label>Stehleuchte (lila)</StandingLamp_Purple.label>
+	<StandingLamp_Purple.description>Stehleuchte, die einen lila Bereich beleuchtet.</StandingLamp_Purple.description>
+
+	<StandingLamp_Aqua.label>Stehleuchte (cyan)</StandingLamp_Aqua.label>
+	<StandingLamp_Aqua.description>Stehleuchte, die einen Bereich in Cyan beleuchtet.</StandingLamp_Aqua.description>
+	
+	<StandingLamp_Lime.label>Stehleuchte (hellgrün)</StandingLamp_Lime.label>
+	<StandingLamp_Lime.description>Stehleuchte, die einen Bereich in hellgrün beleuchtet.</StandingLamp_Lime.description>
+
+
+</LanguageData>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LMC034.不是我的-取消占有结构</name>
+  <author>Neon1028</author>
+  <targetVersion>1.0.2059</targetVersion>
+  <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+  
+机翻警告！（太长了不想手动翻译了）
+ 
+无人认领的建筑物和建筑导致敌人不去攻击这些建筑物和殖民者不去修理它们。
+
+如果你像我一样，那么你喜欢把自己挖到山的一边，建立一个完美的死亡走廊，然后意外地挖出一块你不想要的瓷砖。现在你完美的杀戮方式被一个小角落毁了，一个狙击手步枪的混蛋要用它来做掩护。你可以用一堵墙把它填满，但是现在所有的突袭机都挂起来了，在那堵小钢铁墙上打洞。没有更多的好!
+
+这个mod在命令选项卡下添加了一个新命令，允许您取消结构的声明。当一个建筑无人认领时，它(大部分)将被视为废墟，殖民者不会修复或使用它，敌人也不太可能攻击它。它将不再计入你的殖民地的财富，并可以在你想要的任何时候被收回。无人认领的炮塔和防御将被认为是敌对的，所以要小心。
+
+警告:小心使用这个mod**
+
+它可以与现有的保存一起工作，并且没有像我看到的那样造成任何bug或错误，但是我觉得有一些东西需要解释，我真的建议您阅读下一部分。
+
+它是如何工作的:
+Rimworld的代码不允许任何派别“无人认领”。一旦一个对象有它的派系设置，游戏将不允许它回到有没有派系。为了解决这个问题这个mod实际上不允许你取消任何东西。相反，当用于一个结构时，它将该结构的分支设置为昆虫。是的，显然那些吃果冻的混蛋有他们自己的阵营。
+
+派系的反应:
+你的殖民者和同盟者:对待它就像它不存在一样。就像你出生时地图上的废墟。
+敌对派系:可以攻击它，但是优先级太小，他们基本上会攻击其他任何东西。如果这是唯一/最快的路线，他们会挖墙，就像他们会用石头一样。
+昆虫:不要对它有任何反应。他们不会被吸引到无人认领的建筑中，如果建筑受到攻击、破坏或收回，他们也不会变得敌对。
+建筑本身:技术上是敌对的。由于昆虫是一个敌对派别，任何无人认领的东西都会站在它们这一边。所以如果你想要收回炮塔的所有权，那么你只要给虫子一把枪，他们就会告诉它射击你。
+
+平衡问题:
+我做这个模型的目的是只在墙上使用它，我必须建立修补我本来天然的石头防御。然而，在玩了它之后我发现，如果被滥用，这个mod可以用来严重操纵敌人的AI。有了正确的设置，你可以到达大多数突袭行动在放弃和离开之前徘徊的地方。我想我的观点是:少用，否则你最终会得到一个非常无聊的游戏
+ 
+  
+ Unclaim structures and buildings causing enemies to not target those structures and colonist to not repair them.
+
+If you’re like me then you like digging yourself into the side of a mountain, setting up the perfect hallway of death, then accidently mining out a tile you didn’t mean to. Now your perfect killway is ruined by that one little nook that some jerk with a sniper rifle is going to use for cover. You could just fill it in with a wall, but now all the raiders are hung up punching that tiny patch of steel wall. Well no more!
+
+This mod adds a new command under the orders tab that allows you to unclaim structures. When a structure is unclaimed it will (mostly) be treated like ruins, colonist will not repair or use it and enemies are much less likely to attack it. It will no longer count towards the wealth of your colony and can be re-claimed whenever you want. Unclaimed turrets and defences will be considered hostile, so watch out.
+
+**Warning: Be careful using this mod**
+It works with existing saves and has not caused any bugs or errors that I’ve seen, BUT there are some things I feel like I need to explain and I would really recommend you read the next bit.
+
+How it works:
+The code for Rimworld doesn’t really allow for anything to be “unclaimed” by a faction. Once an object has it’s faction set the game will not allow it to go back to having a null faction. So, to work around that this mod doesn’t actually allow you to unclaim anything. Instead, when used on a structure, it sets the faction of that structure to be the Insects. Ya, apparently those jelly eating jerks have their own faction.
+
+Reaction By Faction:
+Your colonist and Allied Factions: treat it like it’s not there. Like the ruins on the map when you spawn.
+Hostile Factions: can target it, but the priority is so small they will attack basically anything else. They will dig through walls if it’s the only/quickest route, as they would stone.
+Insects: don’t react to it at all. They will not be draw to unclaimed structures and they will not become hostile if the structure is attacked, destroyed, or reclaimed.
+The building itself: is technically hostile. Since the insects are a hostile faction, anything unclaimed will be on their side. So if you try to unclaim a turret, well then you just gave the bugs a gun and they will tell it to shooting you.
+
+Balancing Problems:
+I made this mod with the intent to only use it on walls I had to build to patch up my otherwise natural stone defences. However, after playing around with it I found that, if abused, this mod can be used to heavily manipulate the enemy AI. With the right set up you can get where most raids just wander around before giving up and leaving. I guess my point is: use sparingly, otherwise you will end up with a really boring game.</description>
+</ModMetaData>

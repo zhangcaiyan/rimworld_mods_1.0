@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 日凪の勾玉 -->
+  <Yokai_Hi_No_Magatama.label>日の勾玉</Yokai_Hi_No_Magatama.label>
+  <Yokai_Hi_No_Magatama.description>妖怪村に伝わる一揃いの秘宝の一つは太陽の光を集めることで、全身を覆う非常に強力な結界を作り出し装着者を飛び道具から守ります。作成には高い技術と貴重な素材に加え専門の研究が必要です。</Yokai_Hi_No_Magatama.description>
+  <Yokai_Nagi_no_Magatama.label>凪の勾玉</Yokai_Nagi_no_Magatama.label>
+  <Yokai_Nagi_no_Magatama.description>妖怪村に伝わる秘宝の片割れは海の大いなる力を宿しています。寒さと暑さから装着者を守り様々な能力を大幅にひき上げる強力な一品です。作成には高い技術と貴重な素材に加え専門の研究が必要です。</Yokai_Nagi_no_Magatama.description>
+  <!--九尾の言祝ぎ -->
+  <Yokai_Tuzurao_Kago.label>九尾の言祝ぎ</Yokai_Tuzurao_Kago.label>
+  <Yokai_Tuzurao_Kago.description>九尾の狐から戦へ向かう者たちに与えられる強力な加護です。結界を張る事で矢弾を防ぎます。妖怪村の人間の手を離れると消滅してしまいます。</Yokai_Tuzurao_Kago.description>
+  <!--下位お守り -->
+  <Yokai_Omamori_Hirameki.label>作り手のお守り</Yokai_Omamori_Hirameki.label>
+  <Yokai_Omamori_Hirameki.description>ヒスイで作られた妖怪村の下位のお守りの一つです。身につけることで製作全般に対する感受性が増し様々な作業の速度があがり、食中毒の可能性を下げます。</Yokai_Omamori_Hirameki.description>
+  <Yokai_Omamori_Tuchi.label>土神のお守り</Yokai_Omamori_Tuchi.label>
+  <Yokai_Omamori_Tuchi.description>ヒスイで作られた妖怪村の下位のお守りの一つです。土に対する親和性を高め、採掘、農作業速度、壁と床のならしの速度が向上する他、僅かですが移動速度が上がります。</Yokai_Omamori_Tuchi.description>
+  <Yokai_Omamori_Wa.label>和のお守り</Yokai_Omamori_Wa.label>
+  <Yokai_Omamori_Wa.description>ヒスイで作られた妖怪村の下位のお守りの一つです。人を含めた生き物の警戒心を弱める効果があり、交渉役や動物の調教を助ける他、僅かですが移動速度があがります。</Yokai_Omamori_Wa.description>
+  <Yokai_Omamori_Ikusa.label>戦人のお守り</Yokai_Omamori_Ikusa.label>
+  <Yokai_Omamori_Ikusa.description>ヒスイで作られた妖怪村の下位のお守りの一つです。九尾の加護により僅かですが近接戦闘能力を高めます。また同時に免疫力を高め移動速度を上げる効果があります。</Yokai_Omamori_Ikusa.description>
+  <Yokai_Omamori_Karibito.label>狩人の呪い</Yokai_Omamori_Karibito.label>
+  <Yokai_Omamori_Karibito.description>ヒスイで作られたこの勾玉は妖怪村の下位のお守りの一つであり禁忌の一つでもあります。装備することで狩猟時に獣の反撃を受けにくくなり、遠距離攻撃の命中精度と速度が上がります。
+  \nしかし獣から嫌われてしまうため動物の世話や調教の成功率が大幅に下ってしまいます。</Yokai_Omamori_Karibito.description>
+  <Yokai_Omamori_Jin.label>仁術のお守り</Yokai_Omamori_Jin.label>
+  <Yokai_Omamori_Jin.description>ヒスイで作られた妖怪村の下位のお守りの一つです。慈しみの心と高い集中力を引き出し医療の速度と精度を向上させ、僅かですが装着者の免疫力を高める効果もあります。</Yokai_Omamori_Jin.description>
+  <!-- 妖怪衣 -->
+  <Yokai_Kimono_Koromo.label>妖怪の衣</Yokai_Kimono_Koromo.label>
+  <Yokai_Kimono_Koromo.description>妖怪の紋様が編みこまれた寒暖の差に強い一枚布です。肌着の上から羽織る防寒着ですが、防刃効果はあまりありません。\n身につけることで動物たちと仲良くなれる効果があります。。</Yokai_Kimono_Koromo.description>
+  <!--蜘蛛糸の肌着セット -->
+  <Yokai_Kimono_Katabira.label>蜘蛛糸の帷子</Yokai_Kimono_Katabira.label>
+  <Yokai_Kimono_Katabira.description>女郎蜘蛛の糸で織られた鎖帷子です。首と腕まで覆う防刃装備兼肌着です。妖怪村の人達の基本的な衣類の一つで、軽く頑丈なうえ動きを阻害しませんが防寒性能はありません。</Yokai_Kimono_Katabira.description>
+  <Yokai_Kimono_Shitabaki.label>蜘蛛糸の下穿き</Yokai_Kimono_Shitabaki.label>
+  <Yokai_Kimono_Shitabaki.description>妖怪衣の下に穿く女郎蜘蛛の糸で織られた下穿きです。\n軽く頑丈な防刃装備で動きを阻害しませんが、やはり防寒性能はありません。</Yokai_Kimono_Shitabaki.description>
+ 　<!-- 装束 -->
+  <Yokai_Kimono_Kitune.label>狐の装束</Yokai_Kimono_Kitune.label>
+  <Yokai_Kimono_Kitune.description>妖怪村の神事に携わるものたちが纏う神聖な装束です。女郎蜘蛛の糸で織られていますが戦闘向きのものではありません。
+\n妖怪村の神職は主に調理と医療に携わっており、この装束にもそれらに関する加護がかけられています。</Yokai_Kimono_Kitune.description>
+  <!-- 獣の外套 -->
+  <Yokai_Kimono_Gaitou.label>獣の外套</Yokai_Kimono_Gaitou.label>
+  <Yokai_Kimono_Gaitou.description>獣の皮を女郎蜘蛛の糸で補強したこの外套は長旅にもよく耐える丈夫さで知られています。
+\nやや重たいですが、耐久性に優れ生半可な刃物ならば防ぐ事もできます。寒さにも強いため寒冷地方の妖怪村の人々によく使われます。</Yokai_Kimono_Gaitou.description>
+  <!-- 戦装束 -->
+  <Yokai_Kimono_Ikusa.label>戦の装束</Yokai_Kimono_Ikusa.label>
+  <Yokai_Kimono_Ikusa.description>竜の皮とシロの毛で作られた軽く丈夫な戦用の外套です。寒暖に強く耐久性に優れた非常に強力な装備ですが作成や購入には相応の手間かシルバーがかかります。
+蜘蛛糸の肌着や妖怪の衣の上から着込むことで激しい攻撃から装着者を守ってくれるでしょう。妖怪村の呪術がかけられているため移動速度を向上させ近接戦闘を誘致に導いてくれます。
+\n妖怪村の戦士たちは戦装束と戦仮面を身に着け、九尾の加護を受けて刀と斧で戦いに挑みます。</Yokai_Kimono_Ikusa.description>
+  <!-- 豊穣の面 -->
+  <Yokai_Omen_Warai.label>豊穣の面</Yokai_Omen_Warai.label>
+  <Yokai_Omen_Warai.description>柔らかな表情の描かれた木製の狐のお面です。小さな呪力が宿っているため動物たちとより早く仲良くなれます。</Yokai_Omen_Warai.description>
+  <!-- 狐面 -->
+  <Yokai_Omen_Kitune.label>狐の面</Yokai_Omen_Kitune.label>
+  <Yokai_Omen_Kitune.description>戦化粧の施された狐の面にはわずかですが呪力が宿っています。
+\n痛みへの耐性を高め、敵の武器から目を離さない勇気を与え、湧き上がる力は力強く背中を押すでしょう。
+\nただし所詮は木であり強靭な武器の前には気休め程度の守りにしかならず、寒さや暑さに弱い点を忘れてはいけません。</Yokai_Omen_Kitune.description>
+  <!-- 戦仮面 -->
+  <Yokai_Omen_Ikusa.label>戦の面</Yokai_Omen_Ikusa.label>
+  <Yokai_Omen_Ikusa.description>九尾を模った妖怪村に伝わる戦仮面です。竜の皮にシロの毛を編んだものを妖怪村の術式により強化したものです。
+\n革と毛で作られたとは思えないほど丈夫で激しい戦闘にも耐えられる上に、様々な呪力により白兵戦等を助けてくれます。
+\n寒暖に強く耐久性に優れた非常に強力な装備ですが作成や購入には相応の手間かシルバーがかかります。</Yokai_Omen_Ikusa.description>
+</LanguageData>

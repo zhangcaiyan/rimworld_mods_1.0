@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 暖房器具 -->
+
+  <Yokai_karyuu_tomosibi.label>Dragon's Light</Yokai_karyuu_tomosibi.label>
+  <Yokai_karyuu_tomosibi.description>妖怪にとって翡翠は特別な価値のあるものです。霊気の宿る神聖な鉱物である翡翠、竜刻の石、そして妖気の欠片からこの竜の灯火は作られます。
+    \n補充の必要もなく電力に頼らないこの灯籠は強い光を放つことで植物の生育を助けます。また同時に暖房器具としてもとても優れています。
+    \n間欠泉に恵まれない土地では竜の灯火が妖怪たちの畑を守り育み、戦乱の時代を生き抜く大きな助けとなりました。</Yokai_karyuu_tomosibi.description>
+  <Yokai_karyuu_tomosibi_Blueprint.label>Dragon's Light (blueprint)</Yokai_karyuu_tomosibi_Blueprint.label>
+  <Yokai_karyuu_tomosibi_Blueprint_Install.label>Dragon's Light (blueprint)</Yokai_karyuu_tomosibi_Blueprint_Install.label>
+  <Yokai_karyuu_tomosibi_Frame.label>Dragon's Light (building)</Yokai_karyuu_tomosibi_Frame.label>
+  <Yokai_karyuu_tomosibi_Frame.description>妖怪にとって翡翠は特別な価値のあるものです。霊気の宿る神聖な鉱物である翡翠、竜刻の石、そして妖気の欠片からこの竜の灯火は作られます。
+    \n補充の必要もなく電力に頼らないこの灯籠は強い光を放つことで植物の生育を助けます。また同時に暖房器具としてもとても優れています。
+    \n間欠泉に恵まれない土地では竜の灯火が妖怪たちの畑を守り育み、戦乱の時代を生き抜く大きな助けとなりました。</Yokai_karyuu_tomosibi_Frame.description>
+
+
+  <!-- 冷房器具 -->
+
+  <Yokai_Himuro.label>Winter's Sigh</Yokai_Himuro.label>
+  <Yokai_Himuro.description>銀と翡翠は妖怪にとって特別な価値のあるものです。妖怪にとっては金やウランよりも翡翠のほうが尊ばれます。（とはいえ惑星通貨として銀が使われている事を理解していないわけではありません。）
+\n水刻の石、銀、雪の雫から作られる冷気の溢れる不思議な壺です。強烈な冷気は周囲の気温をマイナス５０度まで下げることができます。
+\n一度作成すれば補充も電力も必要としませんが、その強烈な効果を上手く調整する必要があります。</Yokai_Himuro.description>
+  <Yokai_Himuro_Blueprint.label>Winter's Sigh (blueprint)</Yokai_Himuro_Blueprint.label>
+  <Yokai_Himuro_Blueprint_Install.label>Winter's Sigh (blueprint)</Yokai_Himuro_Blueprint_Install.label>
+  <Yokai_Himuro_Frame.label>Winter's Sigh (building)</Yokai_Himuro_Frame.label>
+  <Yokai_Himuro_Frame.description>銀と翡翠は妖怪にとって特別な価値のあるものです。妖怪にとっては金やウランよりも翡翠のほうが尊ばれます。（とはいえ惑星通貨として銀が使われている事を理解していないわけではありません。）
+\n水刻の石、銀、雪の雫から作られる冷気の溢れる不思議な壺です。強烈な冷気は周囲の気温をマイナス５０度まで下げることができます。
+\n一度作成すれば補充も電力も必要としませんが、その強烈な効果を上手く調整する必要があります。</Yokai_Himuro_Frame.description>
+
+
+  <!-- 簡易 暖房器具 -->
+
+  <Yokai_KaenTake.label>火炎茸</Yokai_KaenTake.label>
+  <Yokai_KaenTake.description>周辺に熱を放つ一抱えほどもある妖怪の茸の一つで、砂漠や氷海など木材の乏しい土地で貴重な暖房器具として重宝されています。
+    \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があり、栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。
+\n妖怪の茸は多くの種類がありますが、妖怪村の外部へ育成方法が伝わっている茸は１０種にみたない数しかありません。</Yokai_KaenTake.description>
+  <Yokai_KaenTake_Blueprint.label>火炎茸 (blueprint)</Yokai_KaenTake_Blueprint.label>
+  <Yokai_KaenTake_Frame.label>火炎茸 (building)</Yokai_KaenTake_Frame.label>
+  <Yokai_KaenTake_Frame.description>周辺に熱を放つ一抱えほどもある妖怪の茸の一つで、砂漠や氷海など木材の乏しい土地で貴重な暖房器具として重宝されています。
+    \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があり、栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。
+\n妖怪の茸は多くの種類がありますが、妖怪村の外部へ育成方法が伝わっている茸は１０種にみたない数しかありません。</Yokai_KaenTake_Frame.description>
+
+
+  <!-- 簡易冷凍 -->
+
+  <Yokai_ShimoTake.label>霜茸</Yokai_ShimoTake.label>
+  <Yokai_ShimoTake.description>周囲に冷気を放つ一抱えほどもある妖怪の茸の一つです。複数用意すれば狭い範囲であれば氷点下にすることもできますが、主に極限の砂漠などでの熱波への備えとして使われています。
+\n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与えなければ朽ちてしまいます。
+\n妖怪の茸を作る方法として一番簡単なのは妖気の欠片を砕いてそこに菌糸を撒くことです。そしてまた猫娘の毛を使う方法もいくつか知られていますが、それらは技術がいるとされています。
+\nなぜ茸を育てるのに建築の技術が必要とされているかは妖怪村でも解明されていない謎の一つです。</Yokai_ShimoTake.description>
+  <Yokai_ShimoTake_Blueprint.label>霜茸 (blueprint)</Yokai_ShimoTake_Blueprint.label>
+  <Yokai_ShimoTake_Frame.label>霜茸 (building)</Yokai_ShimoTake_Frame.label>
+  <Yokai_ShimoTake_Frame.description>周囲に冷気を放つ一抱えほどもある妖怪の茸の一つです。複数用意すれば狭い範囲であれば氷点下にすることもできますが、主に極限の砂漠などでの熱波への備えとして使われています。
+\n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与えなければ朽ちてしまいます。
+\n妖怪の茸を作る方法として一番簡単なのは妖気の欠片を砕いてそこに菌糸を撒くことです。そしてまた猫娘の毛を使う方法もいくつか知られていますが、それらは技術がいるとされています。
+\nなぜ茸を育てるのに建築の技術が必要とされているかは妖怪村でも解明されていない謎の一つです。</Yokai_ShimoTake_Frame.description>
+
+
+</LanguageData>

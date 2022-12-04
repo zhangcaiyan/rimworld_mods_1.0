@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Issun.label>Issun</Yokai_Issun.label>
+  <Yokai_Issun.description>The Issun would be most accurately described as the "scouts" of any Yokai village. Their height is a meager 3 cm. This creature sacrifices strength and intelligence for great speed; moreover, their powerless state can easily be overcome by their large numbers. Due to their size, colonists have found it impossible to extract any usable meat or leather from Issun corpses.
+    \nThe name "Issun" refers to the fairytale character Issun-boshi, whose name means "one-sun boy." (One sun is equal to 3 cm.) In Issun's tale he is the result of his parents prayers to have a child; however, Issun born only 3 cm tall and falls to grow with age. The story sees him become a warrior, defeat an oni, marry a wealthy official's daughter, and change to normal size via an Uchide no Kozuchi, or "tap-conjure hammer."</Yokai_Issun.description>
+  <Yokai_Issun.tools.0.label>LeftHand</Yokai_Issun.tools.0.label>
+  <Yokai_Issun.tools.1.label>RightHand</Yokai_Issun.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Issun_Corpse.label>Issun corpse</Yokai_Issun_Corpse.label>
+  <Yokai_Issun_Corpse.description>Issun corpse</Yokai_Issun_Corpse.description>
+
+
+</LanguageData>

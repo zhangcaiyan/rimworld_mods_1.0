@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_SpinMouse.label>SpinMouse</Yokai_SpinMouse.label>
+  <Yokai_SpinMouse.description>This friendly spirit appears to be a subspecies of hedgehog. Large spikes protect an otherwise weak creature; however, its high fertility rate seems to overcome this disadvantage. With a bit of skill-and caution-you too can make this age old favorite your pet.</Yokai_SpinMouse.description>
+  <Yokai_SpinMouse.tools.0.label>FrontLeftPaw</Yokai_SpinMouse.tools.0.label>
+  <Yokai_SpinMouse.tools.1.label>FrontRightPaw</Yokai_SpinMouse.tools.1.label>
+  <Yokai_SpinMouse.tools.2.label>Teeth</Yokai_SpinMouse.tools.2.label>
+  <Yokai_SpinMouse_Leather.label>SpinMouse leather</Yokai_SpinMouse_Leather.label>
+  <Yokai_SpinMouse_Leather.description>SpinMouse leather</Yokai_SpinMouse_Leather.description>
+  <Yokai_SpinMouse_Leather.stuffProps.stuffAdjective>SpinMouse leather</Yokai_SpinMouse_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Capybara -->
+  <Yokai_SpinMouse_Corpse.label>SpinMouse corpse</Yokai_SpinMouse_Corpse.label>
+  <Yokai_SpinMouse_Corpse.description>SpinMouse corpse</Yokai_SpinMouse_Corpse.description>
+
+
+</LanguageData>

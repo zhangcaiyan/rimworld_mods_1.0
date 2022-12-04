@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ================= Misc ================= -->
+  <TerrainDef ParentName="FloorBase">
+    <defName>Yokai_Hiiro_Tile</defName>
+    <label>Scarlet Tile</label>
+    <description>A luxurious and shiny floor made of Hiirokane. This beauty must be earned, however, as it takes a long time to install such flooring.</description>
+    <texturePath>Terrain/Surfaces/GenericFloorTile</texturePath>
+    <color>(250,200,160,65)</color>
+    <statBases>
+      <Beauty>15</Beauty>
+      <WorkToBuild>1500</WorkToBuild>
+      <Cleanliness>0.3</Cleanliness>
+    </statBases>
+    <costList>
+      <Yokai_HihiiroKane>14</Yokai_HihiiroKane>
+    </costList>
+    <constructEffect>ConstructMetal</constructEffect>
+    <researchPrerequisites>
+      <li>Smithing</li>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+  </TerrainDef>
+  <!--蜘蛛糸の床 -->
+  <TerrainDef ParentName="FloorBase">
+    <defName>Yokai_SpiderNet</defName>
+    <label>Spiderweb</label>
+    <description>This defensive flooring is made of Jorogumo thread which drastically slows down anyone that walks on it. The webbing tends to get cluttered with dust and trash after a while, thus it is very unsanitary and gross to look at.</description>
+    <texturePath>Things/Item/Building/NetFloor</texturePath>
+    <pathCost>90</pathCost>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <costList>
+      <Yokai_JorouGumoThread>20</Yokai_JorouGumoThread>
+    </costList>
+    <statBases>
+      <Beauty>-10</Beauty>
+      <WorkToBuild>500</WorkToBuild>
+      <Cleanliness>-0.5</Cleanliness>
+    </statBases>
+    <layerable>false</layerable>
+    <affordances>
+      <li>Light</li>
+    </affordances>
+  </TerrainDef>
+  <!-- ================= Carpets ================= -->
+  <TerrainDef ParentName="FloorBase">
+    <defName>Yokai_Shiropet</defName>
+    <label>White Dragon Carpet</label>
+    <description>A fluffy, beautiful, antibacterial white carpet made of Shiro wool.</description>
+    <texturePath>Terrain/Surfaces/Carpet</texturePath>
+    <color>(255, 250, 250)</color>
+    <researchPrerequisites>
+      <li>CarpetMaking</li>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <costList>
+      <Yokai_ShiroWool>16</Yokai_ShiroWool>
+    </costList>
+    <designatorDropdown>Floor_Carpet</designatorDropdown>
+    <statBases>
+      <Beauty>3</Beauty>
+      <WorkToBuild>2000</WorkToBuild>
+      <Cleanliness>0.65</Cleanliness>
+    </statBases>
+  </TerrainDef>
+  <!--橋 -->
+  <TerrainDef>
+    <defName>Yokai_Bridge</defName>
+    <label>Jorogumo Bridge</label>
+    <description>A bridge made out of iron and Jorogumo thread; these materials grant the bridge superior durability, weight tolerance, and 0% flammability.</description>
+    <texturePath>Terrain/Surfaces/Bridge</texturePath>
+    <color>(255,250,250)</color>
+    <uiIconPath>Terrain/Surfaces/Bridge_MenuIcon</uiIconPath>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <designationCategory>Structure</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <acceptTerrainSourceFilth>True</acceptTerrainSourceFilth>
+    <terrainAffordanceNeeded>Bridgeable</terrainAffordanceNeeded>
+    <edgeType>Hard</edgeType>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <researchPrerequisites>
+      <li>Smithing</li>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <costList>
+      <Steel>5</Steel>
+      <Yokai_JorouGumoThread>15</Yokai_JorouGumoThread>
+    </costList>
+    <destroyBuildingsOnDestroyed>false</destroyBuildingsOnDestroyed>
+    <destroyEffect>Bridge_Collapse</destroyEffect>
+    <destroyEffectWater>Bridge_CollapseWater</destroyEffectWater>
+  </TerrainDef>
+</Defs>

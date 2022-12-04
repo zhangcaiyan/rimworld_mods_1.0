@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <!-- Misc chunks -->
+	
+	<ChunkSlagSteel.label>slagger stålklump</ChunkSlagSteel.label>
+	
+	<!-- Sandstone -->
+	
+	<Sandstone.label>sandsten</Sandstone.label>
+	<Sandstone.description>En sedimentbjergart sammensat af sandpartikler der presset sammen.</Sandstone.description>
+	
+	<ChunkSandstone.label>sandstensklump</ChunkSandstone.label>
+	
+	<BlocksSandstone.label>sandstensblok</BlocksSandstone.label>
+	<BlocksSandstone.description>Blokke af solid sandsten. Sandsten er et relativt blød sten og splintre nemt.</BlocksSandstone.description>
+	<BlocksSandstone.stuffProps.stuffAdjective>sandsten</BlocksSandstone.stuffProps.stuffAdjective>
+	
+	<!-- Granite -->
+	
+	<Granite.label>granit</Granite.label>
+	<Granite.description>En meget hårdt vulkanske bjergarter.</Granite.description>
+	
+	<ChunkGranite.label>granitklump</ChunkGranite.label>
+	
+	<BlocksGranite.label>granitblokke</BlocksGranite.label>
+	<BlocksGranite.description>Blokke af solid granit. Granit er en meget hård sten.</BlocksGranite.description>
+	<BlocksGranite.stuffProps.stuffAdjective>Granit</BlocksGranite.stuffProps.stuffAdjective>
+	
+	<!-- Limestone -->
+	
+	<Limestone.label>kalksten</Limestone.label>
+	<Limestone.description>En sedimentbjergart dannet af sammenpressede rester af gamle muslingeskaller.</Limestone.description>
+	
+	<ChunkLimestone.label>kalkstensklump</ChunkLimestone.label>
+	
+	<BlocksLimestone.label>kalkstensblokke</BlocksLimestone.label>
+	<BlocksLimestone.description>Blokke af solid kalksten.</BlocksLimestone.description>
+	<BlocksLimestone.stuffProps.stuffAdjective>kalksten</BlocksLimestone.stuffProps.stuffAdjective>
+	
+	<!-- Slate -->
+	
+	<Slate.label>slagger</Slate.label>
+	<Slate.description>En mørk-farvet metamorfe bjergarter. Dens fine lag er symbolsk for ramsaltet spaltning.</Slate.description>
+	
+	<ChunkSlate.label>slaggerklump</ChunkSlate.label>
+	
+	<BlocksSlate.label>slaggerblokke</BlocksSlate.label>
+	<BlocksSlate.description>Blokke af solid slagger. En kedelig udseende sten, der splintre nemt.</BlocksSlate.description>
+	<BlocksSlate.stuffProps.stuffAdjective>slagger</BlocksSlate.stuffProps.stuffAdjective>
+	
+	<!-- Marble -->
+	
+	<Marble.label>marmor</Marble.label>
+	<Marble.description>En blød metamorfisk bjergarter.</Marble.description>
+	
+	<ChunkMarble.label>marmorklump</ChunkMarble.label>
+	
+	<BlocksMarble.label>marmorblokke</BlocksMarble.label>
+	<BlocksMarble.description>Blokke af solid marmor. marmor er en blød, smuk sten, der er kendt for at være let at forme.</BlocksMarble.description>
+	<BlocksMarble.stuffProps.stuffAdjective>marmor</BlocksMarble.stuffProps.stuffAdjective>
+	
+</LanguageData>

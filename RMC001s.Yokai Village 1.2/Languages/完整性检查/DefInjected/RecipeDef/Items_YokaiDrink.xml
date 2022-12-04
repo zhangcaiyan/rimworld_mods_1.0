@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe!!! -->
+
+  <Make_IceDrink.label>Make Winter's Blessing</Make_IceDrink.label>
+  <Make_IceDrink.description>Making Five Winter's Blessings</Make_IceDrink.description>
+  <Make_IceDrink.jobString>colding....</Make_IceDrink.jobString>
+
+
+  <!-- HotDrink -->
+
+  <Make_HotDrink.label>Make Summer's Rebuke</Make_HotDrink.label>
+  <Make_HotDrink.description>Making Five Summer's Rebukes</Make_HotDrink.description>
+  <Make_HotDrink.jobString>hotting....</Make_HotDrink.jobString>
+
+
+</LanguageData>

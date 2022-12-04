@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>àrea permesa</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>àrea permesa</AllowedAreaWide.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>política de drogues</DrugPolicy.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>resposta hostil</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>amo</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>cures mèdiques</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>vestit actual</Outfit.label>
+  
+</LanguageData>

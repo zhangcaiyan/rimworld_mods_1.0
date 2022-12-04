@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Arată locația!</JumpToLocation>
+
+  <FirstSummerWarning>Vara a început!\n\nTrebuie să te pregătești pentru iarnă deoarece culturile nu vor crește în frigul iernii. Strânge suficiente alimente pentru a supraviețui iernii.\n\nConstruiește o cameră frigorifică pentru a prezerva mâncarea.\n\nȘi obține câteva haine, fie că le furi sau faci, altminteri coloniștii vor îngheța de frig.</FirstSummerWarning>
+  
+  <RelationsBrokenDown>Relațiile cu {0} au decăzut. Sunt acum ostili față de colonia ta.</RelationsBrokenDown>
+  <RelationsWarmed>Relațiile cu {0} s-au îmbunătățit. Nu mai sunt acum ostili față de colonia ta.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Pentru ca {0} a fost capturat, {1} sunt acum inamicii coloniei tale.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Bunăvoința coloniei</ColonyGoodwill>
+  <Neutral>Neutru</Neutral>
+
+  <ShortCircuitRain>Un {0} a fost lăsat neprotejat și s-a produs un scurtcircuit, provocând un incendiu.</ShortCircuitRain>
+  <AreaRevealed>O nouă zonă a fost descoperită.</AreaRevealed>
+
+  <RoofCollapsed>Tavanul s-a prăbușit pentru că era prea departe de un punct de sprijin.</RoofCollapsed>
+  <TheseThingsCrushed>Aceste lucruri au fost distruse:</TheseThingsCrushed>
+  <NothingCrushed>Nimic nu a fost distrus.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} a cedat psihic și se manifestă violent.</MentalBreakRampage>
+  <MentalBreakDaze>{0} se simte amețit și se plimbă năuc prin jur.</MentalBreakDaze>
+  <MentalBreakLeave>{0} a cedat și va părăsi colonia.</MentalBreakLeave>
+
+  <MentalBreakRecoveryRampage>Manifestările violente ale lui {0} au luat sfârșit.</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>{0} și-a revenit.</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>{0} s-a răzgândit și se va întoarce la colonie.</MentalBreakRecoveryLeave>
+
+  <RecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</RecruitSuccess>
+  <RecruitFail>{0} nu a reușit să îl recruteze pe {1} ({2} șansă).</RecruitFail>
+  
+  <Birthday>Este aniversarea lui {0} astăzi! {1} a împlinit {2} de ani.</Birthday>
+  <BirthdayWithInjuries>Este aniversarea lui {0} astăzi! {1} a împlinit {2} de ani.\n\nDin păcate, odată cu vârsta {0} a ajuns să sufere de câteva boli:\n{3}</BirthdayWithInjuries>
+  
+  <NewDisease>{0} s-a îmbolnăvit de la {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewDisease>
+  <NewPartDisease>Lui {0} i s-a infectat {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewPartDisease>
+  
+
+</LanguageData>

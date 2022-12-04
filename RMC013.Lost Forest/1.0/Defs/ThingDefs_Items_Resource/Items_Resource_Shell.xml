@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef Name="LF_ShellBase" ParentName="LF_ResourceBase" Abstract="True">
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <tickerType>Normal</tickerType>
+    <stackLimit>25</stackLimit>
+    <techLevel>Industrial</techLevel>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>55</MarketValue>
+      <Mass>1.25</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>MortarShells</li>
+    </thingCategories>
+    <tradeTags>
+      <li>MortarShell</li>
+      <li>LF_MortarShell</li>
+    </tradeTags>
+    <generateCommonality>0</generateCommonality>
+    <stuffProps>
+      <commonality>0</commonality>
+    </stuffProps>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+
+  <ThingDef Name="LF_MakeableShellBase" ParentName="LF_ShellBase" Abstract="True">
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <effectWorking>Cook</effectWorking>
+      <soundWorking>Recipe_Machining</soundWorking>
+      <workAmount>800</workAmount>
+      <targetCountAdjustment>5</targetCountAdjustment>
+      <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+
+  <!-- 広域制圧炸裂弾 -->
+
+  <ThingDef ParentName="LF_MakeableShellBase">
+    <defName>LF_Shell_NeedleSpreader</defName>
+    <label>needle spreader shell</label>
+    <description>Heavy warhead with ordinary mortar shell filled with myriad of plasteel needles to strengthen killing power and more explosives for scattering. The fuselage is operated above the target, designed to control enemy infantry over a wide area. On the other hand, The firepower against fixed point and vs. building are inferior to normal HE shell. 通常の迫撃砲弾に無数のプラスチール針を仕込み殺傷力を強化し、さらに飛散用の炸薬を増やした重弾頭。目標の上空で信管が作動し敵歩兵を広域にわたり牽制するよう設計されている。その反面、定点火力と対建築威力は通常砲弾に劣る。 Damage:10~25</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Shell/LF_Shell_NeedleSpreader</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>8.5</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>8.9</explosiveRadius>
+        <explosiveDamageType>LF_BombNeedleSpreader</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
+        <startWickHitPointsPercent>0.7</startWickHitPointsPercent>
+        <wickTicks>
+          <min>30</min>
+          <max>60</max>
+        </wickTicks>
+      </li>
+    </comps>
+    <projectileWhenLoaded>LF_Bullet_Shell_NeedleSpreader</projectileWhenLoaded>
+    <costList>
+      <Steel>50</Steel>
+      <Plasteel>5</Plasteel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+      <Chemfuel>50</Chemfuel>
+    </costList>
+    <recipeMaker>
+      <workAmount>3000</workAmount>
+    </recipeMaker>
+  </ThingDef>
+  
+  <ThingDef ParentName="LF_BaseBullet">
+    <defName>LF_Bullet_Shell_NeedleSpreader</defName>
+    <label>needle spreader shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/ShellHighExplosive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>LF_BombNeedleSpreader</damageDef>
+      <speed>41</speed>
+      <explosionRadius>8.9</explosionRadius>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarBomb_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+    </projectile>
+  </ThingDef>
+
+</Defs>

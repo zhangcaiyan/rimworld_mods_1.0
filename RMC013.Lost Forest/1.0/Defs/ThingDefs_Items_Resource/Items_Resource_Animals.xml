@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- =============Leather Def============== -->
+
+  <ThingDef Abstract="True" Name="LF_Leather" ParentName="ResourceBase">
+    <description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Leather</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <DeteriorationRate>2</DeteriorationRate>
+      <Mass>0.03</Mass>
+      <Flammability>1</Flammability>
+      <MarketValue>2.1</MarketValue>
+      <StuffPower_Armor_Sharp>0.81</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.24</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.5</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>16</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>16</StuffPower_Insulation_Heat>
+    </statBases>
+    <thingCategories>
+      <li>Leathers</li>
+    </thingCategories>
+    <stuffProps>
+      <categories>
+        <li>Leathery</li>
+      </categories>
+      <commonality>0</commonality>
+      <statFactors>
+        <MaxHitPoints>1.3</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+	<!-- =============Leathers============== -->
+
+  <ThingDef ParentName="LF_Leather">
+    <defName>LF_LeffyFur</defName>
+    <label>leffyfur</label>
+    <description>The white furry fur of a leffy. It has special efficacy against disease.</description>
+    <graphicData>
+      <color>(240,240,255)</color>
+    </graphicData>
+    <statBases>
+      <Beauty>1</Beauty>
+      <MarketValue>3</MarketValue>
+      <StuffPower_Armor_Sharp>0.85</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.50</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.60</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>25</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>20</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(240,240,255)</color>
+      <commonality>0.001</commonality>
+      <statFactors>
+	<DeteriorationRate>0.5</DeteriorationRate>
+	<Mass>0.5</Mass>
+        <MarketValue>1.5</MarketValue>
+      </statFactors>
+      <statOffsets>
+        <Insulation_Heat>1</Insulation_Heat>
+        <Insulation_Cold>3</Insulation_Cold>
+	<Beauty>1</Beauty>
+	<Comfort>0.1</Comfort>
+	<ImmunityGainSpeedFactor>0.2</ImmunityGainSpeedFactor>
+	<MedicalTendQualityOffset>0.02</MedicalTendQualityOffset>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+
+	<!-- =============Wool Def============== -->
+
+  <ThingDef ParentName="ResourceBase" Abstract="True" Name="LF_Wool">
+    <graphicData>
+      <texPath>Things/Item/Resource/Wool</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Mass>0.001</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>1</Beauty>
+      <MarketValue>3</MarketValue>
+    </statBases>
+    <stackLimit>500</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+
+	<!-- =============Wools============== -->
+
+  <ThingDef ParentName="LF_Wool">
+    <defName>LF_MofuMofu</defName>
+    <label>MofuMofu</label>
+    <description>It's exotic wool of what. It never burn because protected by mysterious power. You can produce light comfortable apparel from it.</description>
+    <graphicData>
+      <color>(255,245,210)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Armor_Sharp>0.7</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.2</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>30</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(255,245,210)</color>
+      <commonality>0.001</commonality>
+      <statFactors>
+	<DeteriorationRate>0</DeteriorationRate>
+	<Flammability>0</Flammability>
+	<Beauty>2</Beauty>
+	<Mass>0.25</Mass>
+        <MarketValue>2.5</MarketValue>
+      </statFactors>
+      <statOffsets>
+	<MaxHitPoints>100</MaxHitPoints>
+        <ArmorRating_Sharp>0.10</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+        <ArmorRating_Heat>0.10</ArmorRating_Heat>
+        <Insulation_Heat>10</Insulation_Heat>
+        <Insulation_Cold>10</Insulation_Cold>
+	<Beauty>1</Beauty>
+	<BedRestEffectiveness>0.1</BedRestEffectiveness>
+	<Comfort>0.5</Comfort>
+	<ImmunityGainSpeedFactor>0.3</ImmunityGainSpeedFactor>
+	<MedicalTendQualityOffset>0.03</MedicalTendQualityOffset>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+
+
+  <ThingDef ParentName="LF_Wool">
+    <defName>LF_FukaFuka</defName>
+    <label>FukaFuka</label>
+    <description>It's exotic wool of what. It never burn because protected by mysterious power. You can produce light comfortable apparel from it.</description>
+    <graphicData>
+      <color>(220,250,255)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Armor_Sharp>0.7</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.2</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>28</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>32</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(220,250,255)</color>
+      <commonality>0</commonality>
+      <statFactors>
+	<DeteriorationRate>0</DeteriorationRate>
+	<Flammability>0</Flammability>
+	<Beauty>2</Beauty>
+	<Mass>0.25</Mass>
+        <MarketValue>2.5</MarketValue>
+      </statFactors>
+      <statOffsets>
+	<MaxHitPoints>100</MaxHitPoints>
+        <ArmorRating_Sharp>0.10</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+        <ArmorRating_Heat>0.10</ArmorRating_Heat>
+        <Insulation_Heat>12</Insulation_Heat>
+        <Insulation_Cold>8</Insulation_Cold>
+	<Beauty>1</Beauty>
+	<BedRestEffectiveness>0.1</BedRestEffectiveness>
+	<Comfort>0.5</Comfort>
+	<ImmunityGainSpeedFactor>0.3</ImmunityGainSpeedFactor>
+	<MedicalTendQualityOffset>0.03</MedicalTendQualityOffset>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+
+
+  <ThingDef ParentName="LF_Wool">
+    <defName>LF_FuwaFuwa</defName>
+    <label>FuwaFuwa</label>
+    <description>It's exotic wool of what. It never burn because protected by mysterious power. You can produce light comfortable apparel from it.</description>
+    <graphicData>
+      <color>(255,220,230)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Armor_Sharp>0.7</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.2</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>32</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>28</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(255,220,230)</color>
+      <commonality>0</commonality>
+      <statFactors>
+	<DeteriorationRate>0</DeteriorationRate>
+	<Flammability>0</Flammability>
+	<Beauty>2</Beauty>
+	<Mass>0.25</Mass>
+        <MarketValue>2.5</MarketValue>
+      </statFactors>
+      <statOffsets>
+	<MaxHitPoints>100</MaxHitPoints>
+        <ArmorRating_Sharp>0.10</ArmorRating_Sharp>
+        <ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+        <ArmorRating_Heat>0.10</ArmorRating_Heat>
+        <Insulation_Heat>8</Insulation_Heat>
+        <Insulation_Cold>12</Insulation_Cold>
+	<Beauty>1</Beauty>
+	<BedRestEffectiveness>0.1</BedRestEffectiveness>
+	<Comfort>0.5</Comfort>
+	<ImmunityGainSpeedFactor>0.3</ImmunityGainSpeedFactor>
+	<MedicalTendQualityOffset>0.03</MedicalTendQualityOffset>
+      </statOffsets>
+    </stuffProps>
+  </ThingDef>
+
+  <!--=============== Azure Dragon Scales ====================-->
+
+  <ThingDef ParentName="LF_ResourceBase">
+    <defName>LF_AzureDragonScales</defName>
+    <label>azure dragon scales</label>
+    <description>The scales obtained from petite servant dragons. Its surface is blue and has a beautiful sparkle. It is too small to be used as a armor material, but it may be necessary for some artifacts related to the blue dragon.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AzureDragonScales</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Mass>0.5</Mass>
+      <Beauty>5</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <stuffProps>
+	<commonality>0</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+    <techLevel>Archotech</techLevel>
+    <tradeTags>
+      <li></li>
+    </tradeTags>
+  </ThingDef>
+
+  <!--=============== Dragonia Wisdom ====================-->
+
+  <ThingDef ParentName="LF_ResourceBase">
+    <defName>LF_DragoniaWisdom</defName>
+    <label>Dragonia's wisdom</label>
+    <thingClass>ThingWithComps</thingClass>
+    <description>The scroll written with ancient dragon hieroglyphics of the Drarr era, which was handed over from the child of the blue dragon. Unfortunately we can not decipher it directly, but can feel the strong magical surge contained in the scroll. It seems to be used for research on lost archotechnology.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DragoniaWisdom</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <Beauty>1</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <stuffProps>
+	<commonality>0</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <techLevel>Archotech</techLevel>
+    <tradeTags>
+      <li></li>
+    </tradeTags>
+<!--
+    <comps>
+      <li Class="CompProperties_Usable">
+        <compClass>CompNeurotrainer</compClass>
+        <useJob>UseNeurotrainer</useJob>
+        <useLabel>Use neurotrainer mech serum to learn {0}</useLabel>
+      </li>
+      <li Class="CompProperties_UseEffect">
+        <compClass>CompUseEffect_LearnSkill</compClass>
+      </li>
+      <li Class="CompProperties_UseEffect">
+        <compClass>CompUseEffect_DestroySelf</compClass>
+      </li>
+    </comps>
+-->
+  </ThingDef>
+
+  <!--=============== Arcane Crystal ====================-->
+
+  <ThingDef ParentName="LF_ResourceBase">
+    <defName>LF_ArcaneCrystal</defName>
+    <label>arcane crystal</label>
+    <description>It is a dark blue crystal that engraved geometric patterns that constantly blinking repeatedly on the surface. As inferred from the fact that the child of the blue dragon freely manipulates, it seems to be able to freely change the physical properties with the will of its owner. Unfortunately, no matter how much the settlers imitated and imitated, it is endlessly like a immovable rock, and only the frosty gaze of the dragon child was obtained. We may be able to make use of its characteristics by applying some sort of processing.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/ArcaneCrystal</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>5000</MaxHitPoints>
+      <Mass>0.5</Mass>
+      <Beauty>50</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <stuffProps>
+	<commonality>0</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+    <techLevel>Archotech</techLevel>
+    <tradeTags>
+      <li></li>
+    </tradeTags>
+  </ThingDef>
+
+  <!--=============== Eggs ====================-->
+
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>LF_EggFlammeliaUnfertilized</defName>
+    <label>flammelia egg (unfert.)</label>
+    <description>An unfertilized flammelia egg. It can be eaten raw, but it's much, much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/EggFlammelia</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(255,255,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <Mass>1.5</Mass>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Nutrition>2.0</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.00</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <stuffProps>
+	<commonality>0</commonality>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="EggFertBase">
+    <defName>LF_EggFlammeliaFertilized</defName>
+    <label>flammelia egg (fert.)</label>
+    <description>A fertilized flammelia egg. If all goes well, it should hatch into a flammelia chick. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/EggFlammeliaF</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(255,255,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <Mass>1.5</Mass>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <Nutrition>2.0</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.00</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <stuffProps>
+	<commonality>0</commonality>
+    </stuffProps>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>30</hatcherDaystoHatch>
+        <hatcherPawn>LF_Flammelia</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+
+</Defs>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced -->
+  <Advanced.label>Sehr Gut</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>Mittelmäßig</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>Nichts</None.label>
+  
+  <!-- EN: simple -->
+  <Simple.label>Einfach</Simple.label>
+  
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 白猫 -->
+
+  <akaNEKO_shironeko.label>シロネコ</akaNEKO_shironeko.label>
+  <akaNEKO_shironeko.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_shironeko.description>
+  <akaNEKO_shironeko.tools.0.label>左爪</akaNEKO_shironeko.tools.0.label>
+  <akaNEKO_shironeko.tools.1.label>右爪</akaNEKO_shironeko.tools.1.label>
+  <akaNEKO_shironeko.tools.3.label>頭部</akaNEKO_shironeko.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_shironeko_Corpse.label>シロネコの死骸</akaNEKO_shironeko_Corpse.label>
+  <akaNEKO_shironeko_Corpse.description>シロネコの死骸</akaNEKO_shironeko_Corpse.description>
+
+
+  <!-- 黒猫 -->
+
+  <akaNEKO_kuroneko.label>クロネコ</akaNEKO_kuroneko.label>
+  <akaNEKO_kuroneko.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_kuroneko.description>
+  <akaNEKO_kuroneko.tools.0.label>左爪</akaNEKO_kuroneko.tools.0.label>
+  <akaNEKO_kuroneko.tools.1.label>右爪</akaNEKO_kuroneko.tools.1.label>
+  <akaNEKO_kuroneko.tools.3.label>頭部</akaNEKO_kuroneko.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_kuroneko_Corpse.label>クロネコの死骸</akaNEKO_kuroneko_Corpse.label>
+  <akaNEKO_kuroneko_Corpse.description>クロネコの死骸</akaNEKO_kuroneko_Corpse.description>
+
+
+  <!-- キジトラ -->
+
+  <akaNEKO_kijitora.label>トラネコ</akaNEKO_kijitora.label>
+  <akaNEKO_kijitora.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_kijitora.description>
+  <akaNEKO_kijitora.tools.0.label>左爪</akaNEKO_kijitora.tools.0.label>
+  <akaNEKO_kijitora.tools.1.label>右爪</akaNEKO_kijitora.tools.1.label>
+  <akaNEKO_kijitora.tools.3.label>頭部</akaNEKO_kijitora.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_kijitora_Corpse.label>トラネコの死骸</akaNEKO_kijitora_Corpse.label>
+  <akaNEKO_kijitora_Corpse.description>トラネコの死骸</akaNEKO_kijitora_Corpse.description>
+
+
+  <!-- アメリカンショートヘア -->
+
+  <akaNEKO_A_Shorthair.label>アメリカンショートヘア</akaNEKO_A_Shorthair.label>
+  <akaNEKO_A_Shorthair.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_A_Shorthair.description>
+  <akaNEKO_A_Shorthair.tools.0.label>左爪</akaNEKO_A_Shorthair.tools.0.label>
+  <akaNEKO_A_Shorthair.tools.1.label>右爪</akaNEKO_A_Shorthair.tools.1.label>
+  <akaNEKO_A_Shorthair.tools.3.label>頭部</akaNEKO_A_Shorthair.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_A_Shorthair_Corpse.label>アメリカンショートヘアの死骸</akaNEKO_A_Shorthair_Corpse.label>
+  <akaNEKO_A_Shorthair_Corpse.description>アメリカンショートヘアの死骸</akaNEKO_A_Shorthair_Corpse.description>
+
+
+  <!-- ロシアンブルー -->
+
+  <akaNEKO_Russian_Blue.label>ロシアンブルー</akaNEKO_Russian_Blue.label>
+  <akaNEKO_Russian_Blue.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Russian_Blue.description>
+  <akaNEKO_Russian_Blue.tools.0.label>左爪</akaNEKO_Russian_Blue.tools.0.label>
+  <akaNEKO_Russian_Blue.tools.1.label>右爪</akaNEKO_Russian_Blue.tools.1.label>
+  <akaNEKO_Russian_Blue.tools.3.label>頭部</akaNEKO_Russian_Blue.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Russian_Blue_Corpse.label>ロシアンブルーの死骸</akaNEKO_Russian_Blue_Corpse.label>
+  <akaNEKO_Russian_Blue_Corpse.description>ロシアンブルーの死骸</akaNEKO_Russian_Blue_Corpse.description>
+
+
+  <!-- シャム猫 -->
+
+  <akaNEKO_Siamese.label>シャム</akaNEKO_Siamese.label>
+  <akaNEKO_Siamese.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_Siamese.description>
+  <akaNEKO_Siamese.tools.0.label>左爪</akaNEKO_Siamese.tools.0.label>
+  <akaNEKO_Siamese.tools.1.label>右爪</akaNEKO_Siamese.tools.1.label>
+  <akaNEKO_Siamese.tools.3.label>頭部</akaNEKO_Siamese.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Siamese_Corpse.label>シャムの死骸</akaNEKO_Siamese_Corpse.label>
+  <akaNEKO_Siamese_Corpse.description>シャムの死骸</akaNEKO_Siamese_Corpse.description>
+
+
+  <!-- ジャパニーズボブテイル -->
+
+  <akaNEKO_J_Bobtail.label>ジャパニーズボブテイル</akaNEKO_J_Bobtail.label>
+  <akaNEKO_J_Bobtail.description>ネコは害獣を狩ってくれる小さな哺乳類として,人類にとって初めてペットになったなかのひとつです.媚びない姿勢を見せるにもかかわらず,それでもネコは,おとなしくて,独立心があり,可愛らしい毛皮をまとっているので,好かれています.</akaNEKO_J_Bobtail.description>
+  <akaNEKO_J_Bobtail.tools.0.label>左爪</akaNEKO_J_Bobtail.tools.0.label>
+  <akaNEKO_J_Bobtail.tools.1.label>右爪</akaNEKO_J_Bobtail.tools.1.label>
+  <akaNEKO_J_Bobtail.tools.3.label>頭部</akaNEKO_J_Bobtail.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_J_Bobtail_Corpse.label>ジャパニーズボブテイルの死骸</akaNEKO_J_Bobtail_Corpse.label>
+  <akaNEKO_J_Bobtail_Corpse.description>ジャパニーズボブテイルの死骸</akaNEKO_J_Bobtail_Corpse.description>
+
+
+</LanguageData>

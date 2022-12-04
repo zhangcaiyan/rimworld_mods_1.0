@@ -1,0 +1,131 @@
+﻿<?xml version="10" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- humanlike -->
+
+  <RepairNineTaillabel>缺损部位再生</RepairNineTaillabel>
+  <RepairNineTaildescription>使用妖怪绷带让缺损的身体部位再生。</RepairNineTaildescription>
+  <RepairNineTailjobString>缺损部位再生治疗中</RepairNineTailjobString>
+
+  <RepairYoukaitaillabel>缺损部位再生</RepairYoukaitaillabel>
+  <RepairYoukaitaildescription>使用妖怪绷带让缺损的身体部位再生。</RepairYoukaitaildescription>
+  <RepairYoukaitailjobString>缺损部位再生治疗中</RepairYoukaitailjobString>
+
+  <RepairYoukailabel>缺损部位再生</RepairYoukailabel>
+  <RepairYoukaidescription>使用妖怪绷带让缺损的身体部位再生。</RepairYoukaidescription>
+  <RepairYoukaijobString>缺损部位再生治疗中</RepairYoukaijobString>
+
+
+  <!-- Lamia -->
+
+  <RepairLamialabel>缺损部位再生</RepairLamialabel>
+  <RepairLamiadescription>使用妖怪绷带让缺损的身体部位再生。</RepairLamiadescription>
+  <RepairLamiajobString>缺损部位再生治疗中</RepairLamiajobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairYokaiPawAnimalslabel>缺损部位再生</RepairYokaiPawAnimalslabel>
+  <RepairYokaiPawAnimalsdescription>使用妖怪绷带让缺损的身体部位再生。</RepairYokaiPawAnimalsdescription>
+  <RepairYokaiPawAnimalsjobString>缺损部位再生治疗中。</RepairYokaiPawAnimalsjobString>
+
+
+  <!-- 月の竜 -->
+
+  <RepairYokaiHoovesAnimalswithHornlabel>修复身体</RepairYokaiHoovesAnimalswithHornlabel>
+  <RepairYokaiHoovesAnimalswithHorndescription>修复身体。</RepairYokaiHoovesAnimalswithHorndescription>
+  <RepairYokaiHoovesAnimalswithHornjobString>修复身体中。</RepairYokaiHoovesAnimalswithHornjobString>
+
+
+  <!-- 牙もちドラゴン -->
+
+  <RepairYokaiHoovesAnimalswithTusklabel>修复身体</RepairYokaiHoovesAnimalswithTusklabel>
+  <RepairYokaiHoovesAnimalswithTuskdescription>修复身体。</RepairYokaiHoovesAnimalswithTuskdescription>
+  <RepairYokaiHoovesAnimalswithTuskjobString>修复身体中。</RepairYokaiHoovesAnimalswithTuskjobString>
+
+
+  <!-- 女郎蜘蛛 -->
+
+  <RepairJorouGumolabel>缺损部位再生</RepairJorouGumolabel>
+  <RepairJorouGumodescription>使用妖怪绷带让缺损的身体部位再生。</RepairJorouGumodescription>
+  <RepairJorouGumojobString>缺损部位再生治疗中</RepairJorouGumojobString>
+
+
+  <!-- vanilla animals -->
+
+  <VanillaBasedescription>缺损部位再生</VanillaBasedescription>
+  <VanillaBasejobString>使用妖怪绷带及九尾狐的毛让缺损部位再生。</VanillaBasejobString>
+
+
+  <!-- バニラの动物たち -->
+
+  <RepairHumanlabel>缺损部位再生</RepairHumanlabel>
+  <RepairHumandescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHumandescription>
+  <RepairHumanjobString>缺损部位再生治疗中</RepairHumanjobString>
+
+
+  <!-- 尻尾付き人型 -->
+
+  <RepairHumanWithTaillabel>缺损部位再生</RepairHumanWithTaillabel>
+  <RepairHumanWithTaildescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHumanWithTaildescription>
+  <RepairHumanWithTailjobString>缺损部位再生治疗中</RepairHumanWithTailjobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairPawsAnimalslabel>缺损部位再生</RepairPawsAnimalslabel>
+  <RepairPawsAnimalsdescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairPawsAnimalsdescription>
+  <RepairPawsAnimalsjobString>缺损部位再生治疗中</RepairPawsAnimalsjobString>
+
+  <RepairPawsAndTaillabel>缺损部位再生</RepairPawsAndTaillabel>
+  <RepairPawsAndTaildescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairPawsAndTaildescription>
+  <RepairPawsAndTailjobString>缺损部位再生治疗中</RepairPawsAndTailjobString>
+
+
+  <!-- Hooves Animals -->
+
+  <RepairHoovesAnimallabel>缺损部位再生</RepairHoovesAnimallabel>
+  <RepairHoovesAnimaldescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHoovesAnimaldescription>
+  <RepairHoovesAnimaljobString>缺损部位再生治疗中</RepairHoovesAnimaljobString>
+
+  <RepairHoovesAnimalswithHornlabel>缺损部位再生</RepairHoovesAnimalswithHornlabel>
+  <RepairHoovesAnimalswithHorndescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHoovesAnimalswithHorndescription>
+  <RepairHoovesAnimalswithHornjobString>缺损部位再生治疗中</RepairHoovesAnimalswithHornjobString>
+
+  <RepairHoovesAnimalswithTusklabel>缺损部位再生</RepairHoovesAnimalswithTusklabel>
+  <RepairHoovesAnimalswithTuskdescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHoovesAnimalswithTuskdescription>
+  <RepairHoovesAnimalswithTuskjobString>缺损部位再生治疗中</RepairHoovesAnimalswithTuskjobString>
+
+  <RepairHoovesAnimalswithTuskandTrunklabel>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHoovesAnimalswithTuskandTrunklabel>
+  <RepairHoovesAnimalswithTuskandTrunkdescription>缺损部位再生</RepairHoovesAnimalswithTuskandTrunkdescription>
+  <RepairHoovesAnimalswithTuskandTrunkjobString>缺损部位再生治疗中</RepairHoovesAnimalswithTuskandTrunkjobString>
+
+  <RepairHoovesAnimalswithHumplabel>缺损部位再生</RepairHoovesAnimalswithHumplabel>
+  <RepairHoovesAnimalswithHumpdescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHoovesAnimalswithHumpdescription>
+  <RepairHoovesAnimalswithHumpjobString>缺损部位再生治疗中</RepairHoovesAnimalswithHumpjobString>
+
+
+  <!-- other type -->
+
+  <RepairWithClawsTailAndJowllabel>缺损部位再生</RepairWithClawsTailAndJowllabel>
+  <RepairWithClawsTailAndJowldescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairWithClawsTailAndJowldescription>
+  <RepairWithClawsTailAndJowljobString>缺损部位再生治疗中</RepairWithClawsTailAndJowljobString>
+
+  <RepairTurtleLikelabel>缺损部位再生</RepairTurtleLikelabel>
+  <RepairTurtleLikedescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairTurtleLikedescription>
+  <RepairTurtleLikejobString>缺损部位再生治疗中</RepairTurtleLikejobString>
+
+  <RepairBirdlabel>缺损部位再生</RepairBirdlabel>
+  <RepairBirddescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairBirddescription>
+  <RepairBirdjobString>缺损部位再生治疗中</RepairBirdjobString>
+
+  <RepairSnakelabel>缺损部位再生</RepairSnakelabel>
+  <RepairSnakedescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairSnakedescription>
+  <RepairSnakejobString>缺损部位再生治疗中</RepairSnakejobString>
+
+  <RepairHumanYokailabel>缺损部位再生</RepairHumanYokailabel>
+  <RepairHumanYokaidescription>使用妖怪绷带及九尾狐的毛让缺损部位再生。</RepairHumanYokaidescription>
+  <RepairHumanYokaijobString>缺损部位再生治疗中</RepairHumanYokaijobString>
+
+
+</LanguageData>

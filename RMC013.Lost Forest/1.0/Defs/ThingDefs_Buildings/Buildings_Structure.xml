@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!--========================= アロースリット =============================-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_ArrowSlit</defName>
+    <label>arrow slit</label>
+    <description>A wall with holes for shooting. Instead of providing a good cover, it is slightly less durable than ordinary walls. Does not block the view and air.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Linked/ArrowSlit</texPath>
+      <graphicClass>Graphic_Appearances</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+        <edgeTop>Damage/Edge</edgeTop>
+        <edgeBot>Damage/Edge</edgeBot>
+        <edgeLeft>Damage/Edge</edgeLeft>
+        <edgeRight>Damage/Edge</edgeRight>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/UI_ArrowSlit</uiIconPath>
+    <statBases>
+      <MaxHitPoints>280</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.80</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <designationCategory>Structure</designationCategory>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>false</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>5</costStuffCount>
+    <building>
+      <isInert>true</isInert>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/ArrowSlit/ArrowSlit_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+    </damageMultipliers>
+    <designationHotKey>Misc3</designationHotKey>
+  </ThingDef>
+
+  <!--========================= 氷の壁 =============================-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_WallIce</defName>
+    <label>ice wall</label>
+    <description>An impassable ice wall. Capable of holding up a roof. It will melt unless below 0 degree celsius. Because of the frost, the other side cannot be seen through. \n(unrepairable)</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Linked/IceWall</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/UI_IceWall</uiIconPath>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>135</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <costList>
+	<RPC_Ice>1</RPC_Ice>
+    </costList>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Rare</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <designationCategory>Structure</designationCategory>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <building>
+      <isInert>true</isInert>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+      <repairable>false</repairable>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+    </damageMultipliers>
+    <designationHotKey>Misc3</designationHotKey>
+    <comps>
+      <li>
+	<compClass>LostForest.CompMelterPushHeat</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  <!--========================= （ドアベース） =============================-->
+
+  <ThingDef ParentName="LF_BuildingBase" Name="LF_DoorBase" Abstract="True">
+    <thingClass>Building_Door</thingClass>
+    <category>Building</category>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <fillPercent>1</fillPercent>
+    <useHitPoints>true</useHitPoints>
+<!--
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+-->
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <selectable>true</selectable>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Structure</designationCategory>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <drawerType>RealtimeOnly</drawerType>
+    <building>
+      <isInert>true</isInert>
+      <canPlaceOverWall>true</canPlaceOverWall>
+      <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
+      <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
+      <soundDoorOpenManual>Door_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>Door_CloseManual</soundDoorCloseManual>
+      <blueprintClass>Blueprint_Door</blueprintClass>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Door/Door_Blueprint</texPath>
+      </blueprintGraphicData>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+<!--
+    <placeWorkers>
+      <li>PlaceWorker_DoorLearnOpeningSpeed</li>
+    </placeWorkers>
+-->
+  </ThingDef>
+
+  <!--========================= 氷の扉 =============================-->
+
+  <ThingDef ParentName="LF_DoorBase">
+    <defName>LF_DoorIce</defName>
+    <label>ice door</label>
+    <description>A rough door made of ice. it will melt unless below 0 degrees Celsius. it is type of that roll it sideways, so very difficult to open.\n(unrepairable)</description>
+    <thingClass>LostForest.Building_DoorIce</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Door/IceDoor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.4,1.4)</drawSize>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Door/IceDoor</uiIconPath>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>350</WorkToBuild>
+      <Flammability>0</Flammability>
+      <DoorOpenSpeed>0.3</DoorOpenSpeed>
+    </statBases>
+    <costList>
+	<RPC_Ice>5</RPC_Ice>
+    </costList>
+    <building>
+      <repairable>false</repairable>
+      <soundDoorOpenManual>DoorIce_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>DoorIce_OpenManual</soundDoorCloseManual>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Door/IceDoor</texPath>
+      </blueprintGraphicData>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+  </ThingDef>
+
+  <!--========================= 監獄の扉 =============================-->
+
+  <ThingDef ParentName="LF_DoorBase">
+    <defName>LF_DoorJail</defName>
+    <label>jail door</label>
+    <description>A prison door. It is slightly less durable than regular doors, but reduces damage from prisoners to 25% and negates damage less than 4. Powerless prisoners cannot destroy it. However, no one prisoners willingly consider it. (They will get minor mood debuff acord to resistance.)</description>
+    <thingClass>LostForest.Building_DoorJail</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Door/JailDoor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Door/JailDoor</uiIconPath>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>1800</WorkToBuild>
+      <Flammability>1</Flammability>
+      <Beauty>-1</Beauty>
+      <DoorOpenSpeed>1</DoorOpenSpeed>
+    </statBases>
+    <stuffCategories>
+      <li>Woody</li>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>20</costStuffCount>
+    <fillPercent>0.2</fillPercent>
+    <blockLight>false</blockLight>
+    <building>
+      <repairable>false</repairable>
+      <soundDoorOpenManual>DoorJail_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>DoorJail_CloseManual</soundDoorCloseManual>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Door/JailDoor</texPath>
+      </blueprintGraphicData>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+      <li Class="LostForest.CompProperties_LFDamageClamperTWC">
+	<ThreshDamage>4</ThreshDamage>
+	<exceptionDefs>
+	  <li>Flame</li>
+	</exceptionDefs>
+      </li>
+    </comps>
+  </ThingDef>
+
+	<!-- 監獄の格子扉心情デバフ（囚人用） -->
+  <ThoughtDef>
+    <defName>LF_Thought_PrisonerJailDooredPrison</defName>
+    <workerClass>LostForest.ThoughtWorker_JailDoorPrison</workerClass>
+    <effectMultiplyingStat></effectMultiplyingStat>
+    <stages>
+      <li>
+        <label>feeling depressed (jail door)</label>
+        <description>The prison here is closed by a solid grate.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>feeling depressed (jail door)</label>
+        <description>The prison here is closed by a solid grate. I don't feel so good.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>feeling depressed (jail door)</label>
+        <description>The prison here is closed by a solid grate. Damn!</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

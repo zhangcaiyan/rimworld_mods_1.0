@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <rep>
+    <path>Nudist.degreeDatas[0].label</path>
+    <trans>Nudista</trans>
+  </rep>
+  <rep>
+    <path>Nudist.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] si užíva pocit slobody vyplívajúci z nahoty. Zvládne nosiť oblečenie, ale bez neho sa cíti štastnejšie.</trans>
+  </rep>
+  
+  <rep>
+    <path>Bloodlust.degreeDatas[0].label</path>
+    <trans>Krvilačný</trans>
+  </rep>
+  <rep>
+    <path>Bloodlust.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] posilňuje pohľad na krv. Pohľad na krv alebo mŕtvolu [PAWN_objective] už vôbec nevadí.</trans>
+  </rep>
+  
+  <rep>
+    <path>Psychopath.degreeDatas[0].label</path>
+    <trans>Psychopat</trans>
+  </rep>
+  <rep>
+    <path>Psychopath.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] nemá žiadnu empatiu. [PAWN_nameDef] už utrpenie druhých vôbec nevadí. Je jedno či niekto bol zabitý, nepochovaný, umučený - teda pokiaľ sa to netýka [PAWN_possessive]</trans>
+  </rep>
+	
+  <rep>
+    <path>Cannibal.degreeDatas[0].label</path>
+    <trans>Kanibal</trans>
+  </rep>
+  <rep>
+    <path>Cannibal.degreeDatas[0].description</path>
+    <trans>Jedenie ľudského mäsa je nechutné a neetické. Ale raz.. Veľmi dávno. [PAWN_nameDef] ochutnal. A chutilo mu to.</trans>
+  </rep>
+	
+  <rep>
+    <path>Abrasive.degreeDatas[0].label</path>
+    <trans>Ukecaný</trans>
+  </rep>
+  <rep>
+    <path>Abrasive.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] vždy hovorí, čo je na [PAWN_possessive] mysli. Hlavne ak ho to trápi. Veľa ľudí ho môže zle pochopiť, čo nemusí skončiť dobre.</trans>
+  </rep>
+	
+  <rep>
+    <path>TriggerHappy.degreeDatas[0].label</path>
+    <trans>Štastný strelec</trans>
+  </rep>
+  <rep>
+    <path>TriggerHappy.degreeDatas[0].description</path>
+    <trans>Pew! Pew! Pew! [PAWN_nameDef] je hrozný v streľbe. Ale [PAWN_objective] to je jedno, pretože zbrane sú úžasné!</trans>
+  </rep>
+	
+  <rep>
+    <path>CarefulShooter.degreeDatas[0].label</path>
+    <trans>Opatrný strelec</trans>
+  </rep>
+  <rep>
+    <path>CarefulShooter.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] je dobrý strelec, ale vždy potrebuje viac času aby zamieril na cieľ.</trans>
+  </rep>
+	
+  <rep>
+    <path>TooSmart.degreeDatas[0].label</path>
+    <trans>Inteligent</trans>
+  </rep>
+  <rep>
+    <path>TooSmart.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] je najmúdrejší v kolónii. [PAWN_pronoun] sa učí všetko rýchlejšie ako ostatní, ale môže byť excentrický.</trans>
+  </rep>
+	
+  <rep>
+    <path>MartialArtist.degreeDatas[0].label</path>
+    <trans>Majster bojových umení</trans>
+  </rep>
+  <rep>
+    <path>MartialArtist.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] je zanietený bojovník. [PAWN_possessive] presnosť v útoku z blízka je úžasna. Ak musí nosiť zbraň je veľmi neštastný.</trans>
+  </rep>
+	
+  <rep>
+    <path>Masochist.degreeDatas[0].label</path>
+    <trans>Masochista</trans>
+  </rep>
+  <rep>
+    <path>Masochist.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] vidí niečo vzrušujúce na bolesti. [PAWN_pronoun] nevie prečo, je len inak naladený.</trans>
+  </rep>
+	
+  <rep>
+    <path>Prosthophile.degreeDatas[0].label</path>
+    <trans>Nadšenec moderných technológii</trans>
+  </rep>
+  <rep>
+    <path>Prosthophile.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] sa cíti limitovaný [PAWN_possessive] telom. [PAWN_pronoun] často sníva o vylepšených bionických častiach jeho [PAWN_possessive].</trans>
+  </rep>
+	
+  <rep>
+    <path>Prosthophobe.degreeDatas[0].label</path>
+    <trans>Strach z moderných technológii</trans>
+  </rep>
+  <rep>
+    <path>Prosthophobe.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] verí, že telo je obmedzené z nejakého dôvodu. Bionické časti tela sú podľa [PAWN_possessive] neetické </trans>
+  </rep>
+	
+  <rep>
+    <path>GreenThumb.degreeDatas[0].label</path>
+    <trans>Záhradkár</trans>
+  </rep>
+  <rep>
+    <path>GreenThumb.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] miluje rastlinky. [PAWN_pronoun] má vždy lepšie náladu, keď niečo zasadí.</trans>
+  </rep>
+	
+  <!--
+  <rep>
+    <path>AbsentMinded.degreeDatas[0].label</path>
+    <trans>Geistesabwesend</trans>
+  </rep>
+  <rep>
+    <path>AbsentMinded.degreeDatas[0].description</path>
+    <trans>[PAWN_nameDef] hat Probleme damit sich auf eine Sache zu konzentrieren. Wann immer [PAWN_pronoun] eine Aufgabe erledigt hat, besteht die kleine Möglichkeit, dass [PAWN_pronoun] vergisst, was [PAWN_pronoun] als nächstes tun wollte und stattdessen gedankenverloren herumläuft.</trans>
+  </rep>
+  -->
+	
+	
+</LanguageData>

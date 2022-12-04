@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ScenarioDef>
+    <defName>YokaiVillage_newPerson</defName>
+    <label>Curiosity of the Yokai</label>
+    <description>Life in a Yokai village is simple, safe, and predictable. Tradition mandates a way to do everything; it liberates many from choice, and shackles those who want for choice. The Nurarihyon and Kyuubi protect villagers from any outside threat; their superior senses allow them to watch for threats throughout day and night. From this safety, two people have fled, filled with curiosity about the outside world.
+    \nCan they live without the protection of the Yokai? Shall they follow tradition and begin another village? Or shall they break that chain and embrace the "outsider's" knowledge.
+    \nAlthough they are Yokai villagers-or were, perhaps-they only know the most fundamental parts of their culture. They are also accompanied by a Shiro and Lamia.</description>
+    <scenario>
+      <summary>You start with two villagers with two pets, a mysterious bow, and limited knowledge of Yokai tradition.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>Yokai_Village_Player</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <text>You and your friends were unsatisfied with the calm, boring days of Yokai village life. Here is where you'll start anew. Now is when you'll thrive. This, this is what you wanted, right?
+製作者からのヒント
+最初の二人のうち片方は射撃に熱意を持たせ、宿り木を装備させて積極的に狩りを行わせてください。
+宿り木とその枝をしっかり育てることができれば、戦闘は格段に楽になります。
+どうぞ素敵な植民地ライフを。</text>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>2</pawnCount>
+          <pawnChoiceCount>5</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+        </li>
+        <!-- アイテム　-->
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_JorouGumoThread</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>WoodLog</thingDef>
+          <count>340</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Steel</thingDef>
+          <count>120</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_Herbs</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_cheeeese</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_FlameStone</thingDef>
+          <count>5</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_AnimaConverter</thingDef>
+          <count>1</count>
+        </li>
+        <!--持ち込み武器 -->
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_K_Yadoirigi</thingDef>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Yokai_B_Yadorigi</thingDef>
+        </li>
+        <!-- ペット -->
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <animalKind>Yokai_Lamia</animalKind>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <animalKind>Yokai_Dragon_Shiro</animalKind>
+          <count>1</count>
+        </li>
+        <!--  入植者の年齢と性格-->
+        <li Class="ScenPart_PawnFilter_Age">
+          <def>PawnFilter_Age</def>
+          <allowedAgeRange>15~31</allowedAgeRange>
+        </li>
+        <li Class="ScenPart_ForcedTrait">
+          <def>ForcedTrait</def>
+          <chance>1</chance>
+          <context>PlayerStarter</context>
+          <trait>YokaiSodathi</trait>
+        </li>
+        <li Class="ScenPart_ForcedTrait">
+          <def>ForcedTrait</def>
+          <chance>0.01</chance>
+          <context>PlayerStarter</context>
+          <trait>HanYou</trait>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

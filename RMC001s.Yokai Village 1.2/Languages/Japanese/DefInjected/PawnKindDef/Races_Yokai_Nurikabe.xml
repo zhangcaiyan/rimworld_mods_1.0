@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurikabe.label>ぬりかべ</Yokai_Nurikabe.label>
+  <Yokai_Nurikabe.labelPlural>ぬりかべたち</Yokai_Nurikabe.labelPlural>
+  <Yokai_Nurikabe.lifeStages.0.label>小ぬりかべ</Yokai_Nurikabe.lifeStages.0.label>
+  <Yokai_Nurikabe.lifeStages.0.labelPlural>小ぬりかべたち</Yokai_Nurikabe.lifeStages.0.labelPlural>
+  <Yokai_Nurikabe.lifeStages.1.label>中ぬりかべ</Yokai_Nurikabe.lifeStages.1.label>
+  <Yokai_Nurikabe.lifeStages.1.labelPlural>中ぬりかべたち</Yokai_Nurikabe.lifeStages.1.labelPlural>
+  <Yokai_Nurikabe.lifeStages.2.label>大ぬりかべ</Yokai_Nurikabe.lifeStages.2.label>
+  <Yokai_Nurikabe.lifeStages.2.labelPlural>大ぬりかべたち</Yokai_Nurikabe.lifeStages.2.labelPlural>
+</LanguageData>

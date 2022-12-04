@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Heart.label>Kalp</Heart.label>
+	<LeftLung.label>Sol Akciğer</LeftLung.label>
+	<RightLung.label>Sağ Akciğer</RightLung.label>
+	<LeftKidney.label>Sol Böbrek</LeftKidney.label>
+	<RightKidney.label>Sağ Böbrek</RightKidney.label>
+	<Liver.label>Karaciğer</Liver.label>
+	<Stomach.label>Mide</Stomach.label>
+	
+</LanguageData>

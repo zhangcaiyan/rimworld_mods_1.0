@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>cougar</Cougar.label>
+  <Cougar.labelPlural>cougars</Cougar.labelPlural>
+  <Cougar.lifeStages.0.label>bébé cougar</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.0.labelPlural>bébés cougars</Cougar.lifeStages.0.labelPlural>
+  <Cougar.lifeStages.1.label>jeune cougar</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.1.labelPlural>jeunes cougars</Cougar.lifeStages.1.labelPlural>
+  <Cougar.lifeStages.2.label>cougar</Cougar.lifeStages.2.label>
+  <Cougar.lifeStages.2.labelPlural>cougar</Cougar.lifeStages.2.labelPlural>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>lynx</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>lynx</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>bébé lynx</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>bébés lynx</Lynx.lifeStages.lynx_kitten.labelPlural>
+  <Lynx.lifeStages.1.label>jeune lynx</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.1.labelPlural>jeunes lynx</Lynx.lifeStages.1.labelPlural>
+  <Lynx.lifeStages.2.label>lynx</Lynx.lifeStages.2.label>
+  <Lynx.lifeStages.2.labelPlural>lynx</Lynx.lifeStages.2.labelPlural>
+  
+  <!-- EN: panther -->
+  <Panther.label>panthère</Panther.label>
+  <Panther.labelPlural>panthères</Panther.labelPlural>
+  <Panther.lifeStages.0.label>bébé panthère</Panther.lifeStages.0.label>
+  <Panther.lifeStages.0.labelPlural>bébés panthères</Panther.lifeStages.0.labelPlural>
+  <Panther.lifeStages.1.label>jeune panthère</Panther.lifeStages.1.label>
+  <Panther.lifeStages.1.labelPlural>jeunes panthères</Panther.lifeStages.1.labelPlural>
+  <Panther.lifeStages.2.label>panthère</Panther.lifeStages.2.label>
+  <Panther.lifeStages.2.labelPlural>panthères</Panther.lifeStages.2.labelPlural>
+  
+</LanguageData>

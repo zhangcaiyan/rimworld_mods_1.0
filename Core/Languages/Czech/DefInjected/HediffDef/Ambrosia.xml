@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia addiction -->
+  <AmbrosiaAddiction.label>závislost na ambrozii</AmbrosiaAddiction.label>
+  <!-- EN: withdrawal -->
+  <AmbrosiaAddiction.stages.withdrawal.label>abstinence</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>hřejivý pocit ambrozie</AmbrosiaHigh.label>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>snášenlivost ambrozie</AmbrosiaTolerance.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-0.label>malá</AmbrosiaTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-1.label>malá</AmbrosiaTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>velká</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>masivní</AmbrosiaTolerance.stages.massive.label>
+  
+</LanguageData>

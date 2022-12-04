@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- humanlike -->
+
+  <RepairNineTail.label>repair body</RepairNineTail.label>
+  <RepairNineTail.description>repair body.</RepairNineTail.description>
+  <RepairNineTail.jobString>repairing body.</RepairNineTail.jobString>
+
+  <RepairYoukaitail.label>repair body</RepairYoukaitail.label>
+  <RepairYoukaitail.description>repair body.</RepairYoukaitail.description>
+  <RepairYoukaitail.jobString>repairing body.</RepairYoukaitail.jobString>
+
+  <RepairYoukai.label>repair body</RepairYoukai.label>
+  <RepairYoukai.description>repair body.</RepairYoukai.description>
+  <RepairYoukai.jobString>repairing body.</RepairYoukai.jobString>
+
+
+  <!-- Lamia -->
+
+  <RepairLamia.label>repair body</RepairLamia.label>
+  <RepairLamia.description>repair body.</RepairLamia.description>
+  <RepairLamia.jobString>repairing body.</RepairLamia.jobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairYokaiPawAnimals.label>repair body</RepairYokaiPawAnimals.label>
+  <RepairYokaiPawAnimals.description>repair body.</RepairYokaiPawAnimals.description>
+  <RepairYokaiPawAnimals.jobString>repairing body.</RepairYokaiPawAnimals.jobString>
+
+
+  <!-- 月の竜 -->
+
+  <RepairYokaiHoovesAnimalswithHorn.label>repair body</RepairYokaiHoovesAnimalswithHorn.label>
+  <RepairYokaiHoovesAnimalswithHorn.description>repair body.</RepairYokaiHoovesAnimalswithHorn.description>
+  <RepairYokaiHoovesAnimalswithHorn.jobString>repairing body.</RepairYokaiHoovesAnimalswithHorn.jobString>
+
+
+  <!-- 牙もちドラゴン -->
+
+  <RepairYokaiHoovesAnimalswithTusk.label>repair body</RepairYokaiHoovesAnimalswithTusk.label>
+  <RepairYokaiHoovesAnimalswithTusk.description>repair body.</RepairYokaiHoovesAnimalswithTusk.description>
+  <RepairYokaiHoovesAnimalswithTusk.jobString>repairing body.</RepairYokaiHoovesAnimalswithTusk.jobString>
+
+
+  <!-- 女郎蜘蛛 -->
+
+  <RepairJorouGumo.label>repair body</RepairJorouGumo.label>
+  <RepairJorouGumo.description>repair body.</RepairJorouGumo.description>
+  <RepairJorouGumo.jobString>repairing body.</RepairJorouGumo.jobString>
+
+
+  <!-- vanilla animals -->
+
+  <VanillaBase.description>repair body.</VanillaBase.description>
+  <VanillaBase.jobString>repairing body.</VanillaBase.jobString>
+
+
+  <!-- バニラの動物たち -->
+
+  <RepairHuman.label>repair body</RepairHuman.label>
+  <RepairHuman.description>repair body.</RepairHuman.description>
+  <RepairHuman.jobString>repairing body.</RepairHuman.jobString>
+
+
+  <!-- 尻尾付き人型 -->
+
+  <RepairHumanWithTail.label>repair body</RepairHumanWithTail.label>
+  <RepairHumanWithTail.description>repair body.</RepairHumanWithTail.description>
+  <RepairHumanWithTail.jobString>repairing body.</RepairHumanWithTail.jobString>
+
+
+  <!-- 4leg animals -->
+
+  <RepairPawsAnimals.label>repair body</RepairPawsAnimals.label>
+  <RepairPawsAnimals.description>repair body.</RepairPawsAnimals.description>
+  <RepairPawsAnimals.jobString>repairing body.</RepairPawsAnimals.jobString>
+
+  <RepairPawsAndTail.label>repair body</RepairPawsAndTail.label>
+  <RepairPawsAndTail.description>repair body.</RepairPawsAndTail.description>
+  <RepairPawsAndTail.jobString>repairing body.</RepairPawsAndTail.jobString>
+
+
+  <!-- Hooves Animals -->
+
+  <RepairHoovesAnimal.label>repair body</RepairHoovesAnimal.label>
+  <RepairHoovesAnimal.description>repair body.</RepairHoovesAnimal.description>
+  <RepairHoovesAnimal.jobString>repairing body.</RepairHoovesAnimal.jobString>
+
+  <RepairHoovesAnimalswithHorn.label>repair body</RepairHoovesAnimalswithHorn.label>
+  <RepairHoovesAnimalswithHorn.description>repair body.</RepairHoovesAnimalswithHorn.description>
+  <RepairHoovesAnimalswithHorn.jobString>repairing body.</RepairHoovesAnimalswithHorn.jobString>
+
+  <RepairHoovesAnimalswithTusk.label>repair body</RepairHoovesAnimalswithTusk.label>
+  <RepairHoovesAnimalswithTusk.description>repair body.</RepairHoovesAnimalswithTusk.description>
+  <RepairHoovesAnimalswithTusk.jobString>repairing body.</RepairHoovesAnimalswithTusk.jobString>
+
+  <RepairHoovesAnimalswithTuskandTrunk.label>repair body</RepairHoovesAnimalswithTuskandTrunk.label>
+  <RepairHoovesAnimalswithTuskandTrunk.description>repair body.</RepairHoovesAnimalswithTuskandTrunk.description>
+  <RepairHoovesAnimalswithTuskandTrunk.jobString>repairing body.</RepairHoovesAnimalswithTuskandTrunk.jobString>
+
+  <RepairHoovesAnimalswithHump.label>repair body</RepairHoovesAnimalswithHump.label>
+  <RepairHoovesAnimalswithHump.description>repair body.</RepairHoovesAnimalswithHump.description>
+  <RepairHoovesAnimalswithHump.jobString>repairing body.</RepairHoovesAnimalswithHump.jobString>
+
+
+  <!-- other type -->
+
+  <RepairWithClawsTailAndJowl.label>repair body</RepairWithClawsTailAndJowl.label>
+  <RepairWithClawsTailAndJowl.description>repair body.</RepairWithClawsTailAndJowl.description>
+  <RepairWithClawsTailAndJowl.jobString>repairing body.</RepairWithClawsTailAndJowl.jobString>
+
+  <RepairTurtleLike.label>repair body</RepairTurtleLike.label>
+  <RepairTurtleLike.description>repair body.</RepairTurtleLike.description>
+  <RepairTurtleLike.jobString>repairing body.</RepairTurtleLike.jobString>
+
+  <RepairBird.label>repair body</RepairBird.label>
+  <RepairBird.description>repair body.</RepairBird.description>
+  <RepairBird.jobString>repairing body.</RepairBird.jobString>
+
+  <RepairSnake.label>repair body</RepairSnake.label>
+  <RepairSnake.description>repair body.</RepairSnake.description>
+  <RepairSnake.jobString>repairing body.</RepairSnake.jobString>
+
+  <RepairHumanYokai.label>repair body</RepairHumanYokai.label>
+  <RepairHumanYokai.description>repair body.</RepairHumanYokai.description>
+  <RepairHumanYokai.jobString>repairing body.</RepairHumanYokai.jobString>
+
+
+</LanguageData>

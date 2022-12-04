@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lamia tail -->
+
+  <Yokai_LamiaSPT.label>Simple lamia tail</Yokai_LamiaSPT.label>
+  <Yokai_LamiaSPT.description>Improved simple prosthetic tail for lamia.</Yokai_LamiaSPT.description>
+
+  <Yokai_LamiaBT.label>bionic lamia tail</Yokai_LamiaBT.label>
+  <Yokai_LamiaBT.description>Improved bionic tail for lamia.</Yokai_LamiaBT.description>
+
+
+  <!-- 女郎蜘蛛の脚 -->
+
+  <Yokai_JorouGumoSPL.label>Simple JorouGumo leg</Yokai_JorouGumoSPL.label>
+  <Yokai_JorouGumoSPL.description>Improved simple prosthetic leg for JorouGumo.</Yokai_JorouGumoSPL.description>
+
+  <Yokai_JorouGumoBL.label>bionic JorouGumo leg</Yokai_JorouGumoBL.label>
+  <Yokai_JorouGumoBL.description>Improved bionic leg for JorouGumo.</Yokai_JorouGumoBL.description>
+
+
+</LanguageData>

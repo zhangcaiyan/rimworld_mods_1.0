@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Ses</Audiovisuals>
+  <GameVolume>Oyun Sesi</GameVolume>
+  <MusicVolume>Müzik Sesi</MusicVolume>
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Ekran Kenarı Fare Hareket</EdgeScreenScroll>
+  <PauseOnLoad>Duraklatılmış olarak başlat</PauseOnLoad>
+  <PauseOnUrgentLetter>Acil mektup sırasında duraklat</PauseOnUrgentLetter>
+  <CustomCursor>Özel Mouse İkonu</CustomCursor>
+  <UIScale>UI scale</UIScale>
+  <KeyboardConfig>Klavye Ayarları</KeyboardConfig>
+  <ChooseLanguage>Dili Seç</ChooseLanguage>
+  <ResetAdaptiveTutor>Etkileşimli Eğitimi Sıfırla</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Etkileşimli Eğitim Sıfırlandı. Sana tekrar eğitim verilecek.</AdaptiveTutorIsReset>
+  <RunInBackground>Arka Planda Çalıştır</RunInBackground>
+  <DevelopmentMode>Geliştirme Modu</DevelopmentMode>
+  <ResetModsConfigOnCrash>Kaza anında mod'ların ayarlarını otomatik sıfırla</ResetModsConfigOnCrash>
+  <LogVerbose>Ayrıntı Günlüğü</LogVerbose>
+  <OpenSaveGameDataFolder>Kayıt Klasörünü Aç</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Oyun içerisindeki hikayelerde görmek istediğin isimler:</NamesYouWantToSee>
+  <AddName>İsim Ekle</AddName>
+  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Anlatıcı seç</ChangeStoryteller>
+  <AutosaveInterval>Otomatik Kayıt aralığı</AutosaveInterval>
+  <TemperatureMode>Sıcaklık modu</TemperatureMode>
+  <ShowRealtimeClock>Gerçek Saati Göster</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maksimum koloni sayısı: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Permadeath modunda otomatik kayıt aralığı {0} gündür.</MaxPermadeathAutosaveIntervalInfo>
+
+  <!-- Resolution -->
+  <Resolution>Çözünürlük</Resolution>
+  <Fullscreen>Tam Ekran</Fullscreen>
+  
+  <!-- Privacy-->
+  <Privacy>Gizlilik</Privacy>
+  <UserName>Kullanıcı Adı</UserName>
+  <ChooseHistoryUploadPref>Oyun içi istatistikleri paylaş.</ChooseHistoryUploadPref>
+   <AboutHistoryUpload>Kullanıcı oyun istatistikleri geliştiricilerin oyunu dengeli yapması içindir. Eğer kabul ediyorsanız bilgileriniz her {0} günde bir gönderilecektir. (Bazende oyun kapatıldığı anda olabilir) RimWorld sunucularına gönderilir ve analiz edilir. Yüklnene oyun verileri istatistik ve tarihle ilgilidir. Kesinlikle kişisel bilgiler gönderilmez. Sadece kullanıcı adınız alınır. Gizliliğiniz korunur.</AboutHistoryUpload>
+  
+</LanguageData>
+
+<ModSettings>Mod Settings</ModSettings>
+<SelectMod>Select mod...</SelectMod>
+<HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
+<NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>

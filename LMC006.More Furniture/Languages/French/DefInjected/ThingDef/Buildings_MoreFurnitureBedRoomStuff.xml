@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Bedroom stuff -->
+
+	<Anon2Dresser.label>La commode</Anon2Dresser.label>
+	<Anon2Dresser.description>Un endroit pour les colons pour ranger leurs effets personnels. Lorsqu'il est placé avec un lit, il augmente le confort.</Anon2Dresser.description>
+
+	<Anon2EndTable.label>Fin de table</Anon2EndTable.label>
+	<Anon2EndTable.description>Cette petite table va bien avec un lit. Lorsqu'il est placé avec un lit, il augmente le confort.</Anon2EndTable.description>
+
+	<Anon2RoyalEndTable.label>table d'extrémité royale</Anon2RoyalEndTable.label>
+	<Anon2RoyalEndTable.description>Cette petite table va bien avec un lit royal. Lorsqu'il est placé avec un lit, il améliore le confort.</Anon2RoyalEndTable.description>
+
+</LanguageData>

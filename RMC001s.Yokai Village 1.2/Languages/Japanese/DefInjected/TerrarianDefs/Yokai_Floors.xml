@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Hiiro_Tile.label>緋色の床</Yokai_Hiiro_Tile.label>
+  <Yokai_Hiiro_Tile.description>ヒヒイロカネで作られた贅沢でピカピカな床です。とても美しいですが作るのに時間がかかります。</Yokai_Hiiro_Tile.description>
+  <Yokai_SpiderNet.label>蜘蛛の巣</Yokai_SpiderNet.label>
+  <Yokai_SpiderNet.description>女郎蜘蛛の糸を敷き詰めたべとべとして歩きづらい防衛用の床です。見た目が悪く不衛生です。</Yokai_SpiderNet.description>
+  <Yokai_Shiropet.label>白毛の絨毯</Yokai_Shiropet.label>
+  <Yokai_Shiropet.description>シロの毛を大量に使ったとてもふかふかで美しく、抜群の抗菌作用をもった特別な絨毯です。</Yokai_Shiropet.description>
+  <Yokai_Bridge.label>女郎蜘蛛の橋</Yokai_Bridge.label>
+  <Yokai_Bridge.description>非常に頑強で燃えることのない女郎蜘蛛の糸とスチールで作られた橋です。最大の特徴はその頑強さによる加重耐性です。</Yokai_Bridge.description>
+</LanguageData>

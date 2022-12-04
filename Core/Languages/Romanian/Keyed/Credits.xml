@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_MusicAndSound>Muzică și sunet</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Programare suplimentară</Credit_AdditionalProgramming>
+  <Credit_GameArt>Arta jocului</Credit_GameArt>
+  <Credit_MenuArt>Arta meniului</Credit_MenuArt>
+
+  <Credits_TitleTesting>Echipa de testare</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
+
+  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <Credit_Writer>Autor</Credit_Writer>
+  <Credit_Translator>Traducător</Credit_Translator>
+  <Credit_OpenSourceLibraries>Biblioteci OpenSource</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Generare zgomot</Credit_NoiseGeneration>
+
+    
+</LanguageData>

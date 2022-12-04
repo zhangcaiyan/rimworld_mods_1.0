@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Plant Pots -->
+
+	<Anon2SquarePlantPot.label>Quadratischer Blumentopf</Anon2SquarePlantPot.label>
+	<Anon2SquarePlantPot.description>Pflanzen Sie dekorative Blumen hier, um die Stimmung der Menschen in der Nähe zu verbessern.</Anon2SquarePlantPot.description>
+
+	<Anon2PlantSpot.label>Pflanzkasten</Anon2PlantSpot.label>
+	<Anon2PlantSpot.description>Eine große flache Basis für dekorative Blumen. Einfacher zu bauen, aber nicht ganz so hübsch wie ein Blumentopf.</Anon2PlantSpot.description>
+
+	<Anon2OrnatePlantPot.label>Verzierten Blumentopf</Anon2OrnatePlantPot.label>
+	<Anon2OrnatePlantPot.description>Pflanzen Sie dekorative Blumen hier, um die Stimmung der Menschen in der Nähe zu verbessern. Dieser Pflanzentopf hat ein Kunstwerk.</Anon2OrnatePlantPot.description>
+
+	<Anon2OrnateSquarePlantPot.label>Verzierten Quadratischen Blumentopf</Anon2OrnateSquarePlantPot.label>
+	<Anon2OrnateSquarePlantPot.description>Pflanzen Sie dekorative Blumen hier, um die Stimmung der Menschen in der Nähe zu verbessern. Dieser Pflanzentopf hat ein Kunstwerk.</Anon2OrnateSquarePlantPot.description>
+
+</LanguageData>

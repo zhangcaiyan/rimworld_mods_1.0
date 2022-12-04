@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!-- ============= Joy - Rest in hot spring ============= -->
+  <JobDef>
+    <defName>LFJob_RestInHotSpring</defName>
+    <driverClass>LostForest.JobDriver_LFRestInHotSpring</driverClass>
+    <reportString>resting at TargetA.</reportString>
+    <joyDuration>4000</joyDuration>
+    <joyKind>LFJoyKind_HotSpringRelaxation</joyKind>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+  
+  <!-- ============= Joy - Cool off at spring ============= -->
+  <JobDef>
+    <defName>LFJob_RefleshInSpring</defName>
+    <driverClass>LostForest.JobDriver_LFRefleshInSpring</driverClass>
+    <reportString>refleshing at TargetA.</reportString>
+    <joyDuration>4000</joyDuration>
+    <joyKind>LFJoyKind_SpringRelaxation</joyKind>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+  
+  <!-- ============= Waterway Drawing ============= -->
+  <JobDef>
+    <defName>LFJob_WaterwayDrawing</defName>
+    <driverClass>LostForest.JobDriver_LFWaterwayDrawing</driverClass>
+    <reportString>working at TargetA.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+  
+  <!-- ============= WaterVein Drilling ============= -->
+  <JobDef>
+    <defName>LFJob_KAZUSASystem</defName>
+    <driverClass>LostForest.JobDriver_LF_KAZUSASystem</driverClass>
+    <reportString>drilling at TargetA.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+  <JobDef>
+    <defName>LFJob_WaterVeinDrill</defName>
+    <driverClass>LostForest.JobDriver_LFWaterVeinDrill</driverClass>
+    <reportString>drilling at TargetA.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+  <!-- ============= Haul : Refuel of lantern ============= -->
+  <JobDef>
+    <defName>LFJob_RefuelLantern</defName>
+    <driverClass>LostForest.JobDriver_LFRefuelLantern</driverClass>
+    <reportString>refueling TargetA.</reportString>
+    <suspendable>false</suspendable>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+
+  <!-- ============= Animal Retreat Job ============= -->
+  <JobDef>
+    <defName>LFJob_AnimalRetreat</defName>
+    <driverClass>LostForest.JobDriver_LFAnimalRetreat</driverClass>
+    <reportString>retreating.</reportString>
+    <checkOverrideOnDamage>OnlyIfInstigatorNotJobTarget</checkOverrideOnDamage>
+    <isIdle>true</isIdle>
+  </JobDef>
+
+  <!-- ============= First Aid Job ============= -->
+  <JobDef>
+    <defName>LFJob_FirstAid</defName>
+    <driverClass>LostForest.JobDriver_LFFirstAid</driverClass>
+    <reportString>giving first aid to TargetA.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+  <!-- ============= Interact With Job ============= -->
+  <JobDef>
+    <defName>LFJob_InteractWith</defName>
+    <driverClass>LostForest.JobDriver_LFInteractWith</driverClass>
+    <reportString>interacting with TargetA.</reportString>
+    <checkOverrideOnDamage>OnlyIfInstigatorNotJobTarget</checkOverrideOnDamage>
+    <isIdle>true</isIdle>
+  </JobDef>
+
+  <!-- ============= Foxian Own Job (CureOldWounds) ============= -->
+  <JobDef>
+    <defName>LFJob_FoxianHealing</defName>
+    <driverClass>LostForest.JobDriver_LFFoxianHealing</driverClass>
+    <reportString>curing old wounds of TargetA.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+  <!-- ============= Dragonia Own (DrarrLanguage) ============= -->
+  <JobDef>
+    <defName>LFJob_CastDrarrLanguage</defName>
+    <driverClass>LostForest.JobDriver_LFCastDrarrLanguage</driverClass>
+    <reportString>casting Drarr language.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+
+
+</Defs>

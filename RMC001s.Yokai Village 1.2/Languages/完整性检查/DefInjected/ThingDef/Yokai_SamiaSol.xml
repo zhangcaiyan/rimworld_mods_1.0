@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Samia.label>Samia</Yokai_Samia.label>
+  <Yokai_Samia.description>Beware these Lamia, for the blessings of a Nine Tails has ascended their very being. From skin to mind, these creatures rival the humans their sisters serve. Weapons can oft be seen in their hands, and the blessing has made their skin highly resilient.</Yokai_Samia.description>
+  <Yokai_Samia.tools.0.label>LeftHand</Yokai_Samia.tools.0.label>
+  <Yokai_Samia.tools.1.label>RightHand</Yokai_Samia.tools.1.label>
+  <Yokai_Samia.tools.2.label>LamiaTail</Yokai_Samia.tools.2.label>
+  <Yokai_Samia_Leather.label>Samia leather</Yokai_Samia_Leather.label>
+  <Yokai_Samia_Leather.description>Samia leather</Yokai_Samia_Leather.description>
+  <Yokai_Samia_Leather.stuffProps.stuffAdjective>Samia leather</Yokai_Samia_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Yokai_Samia_Corpse.label>Samia corpse</Yokai_Samia_Corpse.label>
+  <Yokai_Samia_Corpse.description>Samia corpse</Yokai_Samia_Corpse.description>
+
+
+</LanguageData>

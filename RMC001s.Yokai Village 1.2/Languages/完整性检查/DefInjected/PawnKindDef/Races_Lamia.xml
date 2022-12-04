@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Lamia.label>Blue Lamia</Yokai_Lamia.label>
+  <Yokai_Lamia.labelPlural>Blue Lamias</Yokai_Lamia.labelPlural>
+  <Yokai_Lamia.lifeStages.0.label>Blue Lamia</Yokai_Lamia.lifeStages.0.label>
+  <Yokai_Lamia.lifeStages.0.labelPlural>Blue Lamia</Yokai_Lamia.lifeStages.0.labelPlural>
+  <Yokai_Lamia.lifeStages.1.label>Blue Lamia</Yokai_Lamia.lifeStages.1.label>
+  <Yokai_Lamia.lifeStages.1.labelPlural>Blue Lamia</Yokai_Lamia.lifeStages.1.labelPlural>
+  <Yokai_Lamia.lifeStages.2.label>Blue Lamia</Yokai_Lamia.lifeStages.2.label>
+  <Yokai_Lamia.lifeStages.2.labelPlural>Blue Lamia</Yokai_Lamia.lifeStages.2.labelPlural>
+
+  <Yokai_RedLamia.label>Red Lamia</Yokai_RedLamia.label>
+  <Yokai_RedLamia.labelPlural>Red Lamias</Yokai_RedLamia.labelPlural>
+  <Yokai_RedLamia.lifeStages.0.label>Red Lamia</Yokai_RedLamia.lifeStages.0.label>
+  <Yokai_RedLamia.lifeStages.0.labelPlural>Red Lamia</Yokai_RedLamia.lifeStages.0.labelPlural>
+  <Yokai_RedLamia.lifeStages.1.label>Red Lamia</Yokai_RedLamia.lifeStages.1.label>
+  <Yokai_RedLamia.lifeStages.1.labelPlural>Red Lamia</Yokai_RedLamia.lifeStages.1.labelPlural>
+  <Yokai_RedLamia.lifeStages.2.label>Red Lamia</Yokai_RedLamia.lifeStages.2.label>
+  <Yokai_RedLamia.lifeStages.2.labelPlural>Red Lamia</Yokai_RedLamia.lifeStages.2.labelPlural>
+
+
+</LanguageData>

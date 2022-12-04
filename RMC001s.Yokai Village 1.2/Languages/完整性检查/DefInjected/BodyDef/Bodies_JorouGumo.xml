@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JorouGumoBody.label>JorouGumoBody</JorouGumoBody.label>
+  <JorouGumoBody.corePart.parts.6.customLabel>left lung</JorouGumoBody.corePart.parts.6.customLabel>
+  <JorouGumoBody.corePart.parts.7.customLabel>right lung</JorouGumoBody.corePart.parts.7.customLabel>
+  <JorouGumoBody.corePart.parts.8.customLabel>left kidney</JorouGumoBody.corePart.parts.8.customLabel>
+  <JorouGumoBody.corePart.parts.9.customLabel>right kidney</JorouGumoBody.corePart.parts.9.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.1.customLabel>left eye</JorouGumoBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.2.customLabel>right eye</JorouGumoBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.3.customLabel>left ear</JorouGumoBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.11.parts.0.parts.4.customLabel>right ear</JorouGumoBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.12.customLabel>left shoulder</JorouGumoBody.corePart.parts.12.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.0.customLabel>left clavicle</JorouGumoBody.corePart.parts.12.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.customLabel>left arm</JorouGumoBody.corePart.parts.12.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</JorouGumoBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.1.customLabel>left radius</JorouGumoBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.customLabel>left hand</JorouGumoBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</JorouGumoBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.13.customLabel>right shoulder</JorouGumoBody.corePart.parts.13.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.0.customLabel>right clavicle</JorouGumoBody.corePart.parts.13.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.customLabel>right arm</JorouGumoBody.corePart.parts.13.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</JorouGumoBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.1.customLabel>right radius</JorouGumoBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.customLabel>right hand</JorouGumoBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</JorouGumoBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <JorouGumoBody.corePart.parts.15.customLabel>SpiderRightFirstFoot</JorouGumoBody.corePart.parts.15.customLabel>
+  <JorouGumoBody.corePart.parts.15.parts.0.customLabel>SpiderRightFirstToe</JorouGumoBody.corePart.parts.15.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.16.customLabel>SpiderRightSecondFoot</JorouGumoBody.corePart.parts.16.customLabel>
+  <JorouGumoBody.corePart.parts.16.parts.0.customLabel>SpiderRightSecondToe</JorouGumoBody.corePart.parts.16.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.17.customLabel>SpiderRightThirdFoot</JorouGumoBody.corePart.parts.17.customLabel>
+  <JorouGumoBody.corePart.parts.17.parts.0.customLabel>SpiderRightThirdToe</JorouGumoBody.corePart.parts.17.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.18.customLabel>SpiderLeftFirstFoot</JorouGumoBody.corePart.parts.18.customLabel>
+  <JorouGumoBody.corePart.parts.18.parts.0.customLabel>SpiderLeftFirstToe</JorouGumoBody.corePart.parts.18.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.19.customLabel>SpiderLeftSecondFoot</JorouGumoBody.corePart.parts.19.customLabel>
+  <JorouGumoBody.corePart.parts.19.parts.0.customLabel>SpiderLeftSecondToe</JorouGumoBody.corePart.parts.19.parts.0.customLabel>
+  <JorouGumoBody.corePart.parts.20.customLabel>SpiderLeftThirdFoot</JorouGumoBody.corePart.parts.20.customLabel>
+  <JorouGumoBody.corePart.parts.20.parts.0.customLabel>SpiderLeftThirdToe</JorouGumoBody.corePart.parts.20.parts.0.customLabel>
+
+
+</LanguageData>

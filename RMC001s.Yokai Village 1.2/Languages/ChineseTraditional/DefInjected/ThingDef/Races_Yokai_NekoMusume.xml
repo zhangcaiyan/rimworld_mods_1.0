@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_NekoMusume.label>猫娘</Yokai_NekoMusume.label>
+  <Yokai_NekoMusume.description>可愛的猫娘。極易受人馴養，經過適當訓練後想必能助你一貓掌之力。不擅長參與戰鬥。
+    \n因為貓的詛咒，無法將其剝皮。能取得少許肉塊但殖民者不會喜歡這種食物的。5天內能取得一次軟呼呼的毛。這能用來製作特殊的妖怪道具。
+    \n雄性也被稱為貓娘。真是不可思議的妖怪!
+    \n苔原、沙漠、森林等多樣環境中皆能發現貓娘的小群體。</Yokai_NekoMusume.description>
+  <Yokai_NekoMusume.tools.0.label>左手</Yokai_NekoMusume.tools.0.label>
+  <Yokai_NekoMusume.tools.1.label>右手</Yokai_NekoMusume.tools.1.label>
+  <Yokai_NekoMusume_Corpse.label>猫娘的屍體</Yokai_NekoMusume_Corpse.label>
+  <Yokai_NekoMusume_Corpse.description>已經無法再向您撒嬌，動也不動的貓娘屍體。</Yokai_NekoMusume_Corpse.description>
+</LanguageData>

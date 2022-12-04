@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <JoyGiverDef>
+    <defName>LFJoy_RestInHotSpring</defName>
+    <giverClass>LostForest.JoyGiver_LFRestInHotSpring</giverClass>
+    <baseChance>2</baseChance>
+    <jobDef>LFJob_RestInHotSpring</jobDef>
+    <joyKind>LFJoyKind_HotSpringRelaxation</joyKind>
+    <requiredCapacities>
+
+    </requiredCapacities>
+  </JoyGiverDef>
+
+  <JoyGiverDef>
+    <defName>LFJoy_RefleshInSpring</defName>
+    <giverClass>LostForest.JoyGiver_LFRefleshInSpring</giverClass>
+    <baseChance>2</baseChance>
+    <jobDef>LFJob_RefleshInSpring</jobDef>
+    <joyKind>LFJoyKind_SpringRelaxation</joyKind>
+    <requiredCapacities>
+
+    </requiredCapacities>
+  </JoyGiverDef>
+
+</Defs>

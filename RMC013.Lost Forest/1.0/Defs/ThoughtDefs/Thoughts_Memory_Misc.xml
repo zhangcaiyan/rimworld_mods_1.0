@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- パーティ中断デバフ -->
+  <ThoughtDef>
+    <defName>LF_Thought_PartyBroken</defName>
+    <durationDays>0.125</durationDays>
+    <stackLimit>3</stackLimit>
+    <stages>
+      <li>
+        <label>our party has canceled</label>
+        <description>Our party was forcibly stopped.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>My party has canceled</label>
+        <description>My party was forcibly stopped. I was looking forward to it...</description>
+        <baseMoodEffect>-6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+</Defs>

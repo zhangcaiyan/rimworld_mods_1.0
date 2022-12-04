@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_DragonTusk.label>MoonDragon's Tusk</Yokai_DragonTusk.label>
+  <Yokai_DragonTusk.description>It is a dragon's fang that gives off a dull light.
+   \n Although it can sell at a very high price, it shows its true value by learning and processing technology.</Yokai_DragonTusk.description>
+
+  <Yokai_DragonHeart.label>Dragon's Heart</Yokai_DragonHeart.label>
+  <Yokai_DragonHeart.description>Voice, memory, emotion, these things invade the mind when this still beating heart is held in one's hand. Despite whatever effort was made to quell the life of this dragon, the beast has used some unknownable wisdom to retreat its essence into this heart. It beats and thumps and waits: whether held or not. Though, perhaps its most pernicious of tricks is when an afflicted begs for affirmation, and others swear that the heart lays still.
+    \nYet, if one can surmount the madness of this thing, then its essence might be used to infuse the body with unnatural power, create weapons that surpass Space Age tech, or buildings that can manipulate temperature or obliterate enemies. 
+    \nThese hearts fetch a high price from merchants; however, for what reason do spacers seek these hearts? Tales of lab experiments dot the web, and theories speculate that such companies seek to recreate or repurpose the dragons’ power: while ignoring Yokai tradition. This contention has led many Yokai villages to refuse spacer business when it comes to Dragon Hearts or Moon Dragon Tusks.
+    \nConflict. It has always surrounded the Dragon Hearts. Dragons themselves have been both friend and foe of Yokai villages; sometimes their protectors, sometimes their tormenters, coexistence with such powerful and aged creatures is not an easy deed. Yet each period of peace and conflict has shaped Yokai tradition, pushing their magics, and unveiling new and varied ways to use every part of the dragon, from its fangs to its heart.
+    </Yokai_DragonHeart.description>
+
+
+  <!-- ヌリカベの核 -->
+
+  <Yokai_NurikabeCore.label>Yokai Round Stone</Yokai_NurikabeCore.label>
+  <Yokai_NurikabeCore.description>A mysterious stone produced by Nurikabe once a year. Most treasure it as a beautiful piece of art, while others-more keen to Yokai tradition-know its true value. With sufficient knowledge and skill, one may use the stone as a nucleus for an egg. 
+\nThe creatures born from such eggs transcend their predecessors, and bring great wealth and power to their masters.</Yokai_NurikabeCore.description>
+
+
+  <!-- ヒヒイロカベの核 -->
+
+  <Yokai_HHKCore.label>Scarlet Stone Egg</Yokai_HHKCore.label>
+  <Yokai_HHKCore.description>Through magic, ore, and sacred rite, this egg has been cobbled together. A living stone, it shifts and sighs, as the life inside it grows towards its invariable fate. Once hatched, colonists will be blessed with the presence of a Hihiirokabe.\nThis stone egg has no nutritional value, and it tastes awful: as one might expect from a rock.</Yokai_HHKCore.description>
+
+
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪文化 -->
+
+  <YokaiTraditionBasic.label>Yokai Traditions</YokaiTraditionBasic.label>
+  <YokaiTraditionBasic.description>Search out rumors and records; pace through memory and question those around you; seek out the most meagre truth of Yokai culture: that it exists. Even with such scant knowledge our colonists will be able to put together some basic tailoring recipes.</YokaiTraditionBasic.description>
+
+
+  <!-- 衣類 -->
+
+  <YokaiTraditionCloth.label>Yokai Clothing</YokaiTraditionCloth.label>
+  <YokaiTraditionCloth.description>Unsatisfied with petty clothing? Good. Seek now the knowledge that sets the Yokai apart-that allows such an archaic group to persist into the space age: enchantment. This indepth study shall reveal the passive magics often found in Yokai clothing. These basic outfits focus on endearing the wearer to the animals around them, which includes Yokai.</YokaiTraditionCloth.description>
+
+  <YokaiTraditionArmor.label>Yokai Armor</YokaiTraditionArmor.label>
+  <YokaiTraditionArmor.description>Evoke the knowledge of the Nurarihyon and learn to create armor and masks. The Nurarihyon are a frightful thing; their appearance is far closer to human than other Yokai, but-have no doubt-they are Yokai and not human.</YokaiTraditionArmor.description>
+
+
+  <!-- 武器 -->
+
+  <YokaiTraditionWeapon.label>Yokai Weapons</YokaiTraditionWeapon.label>
+  <YokaiTraditionWeapon.description>By examing the bows, axes, and swords used by Yokai villages, their method of development can be divined.</YokaiTraditionWeapon.description>
+
+  <YokaiTraditionWeaponSecond.label>Yokai Warfare</YokaiTraditionWeaponSecond.label>
+  <YokaiTraditionWeaponSecond.description>Unlocks more powerful traps, swords, and bows that will aid in the protection of your village.</YokaiTraditionWeaponSecond.description>
+
+
+  <!-- 生活補助 -->
+
+  <YokaiTraditionFood.label>Yokai Food</YokaiTraditionFood.label>
+  <YokaiTraditionFood.description>Study of the eating and cullinary habits of Yokai villages. Despite the large variety of Yokai, the Lamia appears to be key in food production...</YokaiTraditionFood.description>
+
+  <YokaiTraditionLife.label>Seasonal Wisdom</YokaiTraditionLife.label>
+  <YokaiTraditionLife.description>Through intensive study of Yokai physiology and practical wards, unlock the ability to create efficient, non-eletrical heating and cooling.</YokaiTraditionLife.description>
+
+
+  <!-- 癒し -->
+
+  <YokaiTraditionCure.label>Healing Techniques</YokaiTraditionCure.label>
+  <YokaiTraditionCure.description>Learn how to regenerate body parts by harnessing the inert magics found in Yokai byproducts. Moreover, this will also unlock the advanced medicine "Yokai Houtai."</YokaiTraditionCure.description>
+
+  <YokaiTraditionCureAnimal.label>Expanded Healing</YokaiTraditionCureAnimal.label>
+  <YokaiTraditionCureAnimal.description>By using Yokai Houtai in combination with Kyuubi wool, colonists will be able to apply regenerative medicine to more creatures.</YokaiTraditionCureAnimal.description>
+
+  <YokaiTraditionAddDragon.label>Draconic Infusion</YokaiTraditionAddDragon.label>
+  <YokaiTraditionAddDragon.description>Learn how to raise the physical abilities of a colonist by transplanting the power of a dragon into them.</YokaiTraditionAddDragon.description>
+
+
+  <!-- 妖怪錬成 -->
+
+  <YokaiAlchemyBasic.label>Yokai Alchemy-Basics</YokaiAlchemyBasic.label>
+  <YokaiAlchemyBasic.description>The introductory study of Yokai alchemy. (Currently, however, this research is unimplemented and unlocks no new content.)</YokaiAlchemyBasic.description>
+
+  <YokaiAlchemyMiddle.label>Yokai Alchemy-Intermediate</YokaiAlchemyMiddle.label>
+  <YokaiAlchemyMiddle.description>The intermediate study of Yokai alchemy. (Currently, however, this research is unimplemented and unlocks no new content.)</YokaiAlchemyMiddle.description>
+
+  <YokaiAlchemyHigh.label>Yokai Alchemy-Advanced</YokaiAlchemyHigh.label>
+  <YokaiAlchemyHigh.description>The advanced study of Yokai alchemy. Our plan for this level is to have complex recipes that will result in the ability to summon Yokai. (Currently, however, this research is unimplemented and unlocks no new content.)</YokaiAlchemyHigh.description>
+
+  <YokaiAlchemyAnimated.label>Yokai Alchemy-Mastery</YokaiAlchemyAnimated.label>
+  <YokaiAlchemyAnimated.description>The most advanced study of Yokai alchemy. Our plan for this level expand the player's gameplay options. (Currently, however, this research is unimplemented and unlocks no new content.)</YokaiAlchemyAnimated.description>
+
+
+  <!-- 伝承と神話 -->
+
+  <YokaiTraditionSecret.label>Secret of the Yokai</YokaiTraditionSecret.label>
+  <YokaiTraditionSecret.description>Learn how to create weapons using dragon tusks, hearts, and Kyuubi wool.</YokaiTraditionSecret.description>
+
+  <Yokai_Magatama.label>Yokai Magatama</Yokai_Magatama.label>
+  <Yokai_Magatama.description>Study the ancient chants passed down through generations; learn their effects of productivity and protection; and master the creation of Magatama, jewels that radiate such blessings without constant recitation.</Yokai_Magatama.description>
+
+  <Yokai_DragonDrop.label>Moon Drop</Yokai_DragonDrop.label>
+  <Yokai_DragonDrop.description>As the sun glistens within a rain drop, so too might the moon linger within a sword. Through binding a dragon's tusk such a blade could be made.</Yokai_DragonDrop.description>
+
+  <YokaiMythology.label>Yokai Myth</YokaiMythology.label>
+  <YokaiMythology.description>Pass into Yokai legend by breaking the Koto no Ha's seal.</YokaiMythology.description>
+
+
+</LanguageData>

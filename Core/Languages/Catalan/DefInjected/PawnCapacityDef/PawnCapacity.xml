@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>filtratge de la sang</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>reciclat de fluids</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>bombeig sanguini</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>generació d’energia</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>respiració</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>Consciència</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Bus de dades</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>menjar</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>oïda</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>manipulació</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>metabolisme</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>moviment</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>vista</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>parla</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Comunicació</Talking.labelMechanoids>
+  
+</LanguageData>

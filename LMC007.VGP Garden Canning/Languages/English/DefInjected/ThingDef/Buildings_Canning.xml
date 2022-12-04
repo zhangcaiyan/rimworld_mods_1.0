@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>canning table</CanningFactory.label>
+  <CanningFactory.description>The canning table needs to be loaded with steel. Then you make canned meat, vegetables, and meals.</CanningFactory.description>
+  <CanningFactory_Blueprint.label>canning table (blueprint)</CanningFactory_Blueprint.label>
+  <CanningFactory_Blueprint_Install.label>canning table (blueprint)</CanningFactory_Blueprint_Install.label>
+  <CanningFactory_Frame.label>canning table (building)</CanningFactory_Frame.label>
+  <CanningFactory_Frame.description>The canning table needs to be loaded with steel. Then you make canned meat, vegetables, and meals.</CanningFactory_Frame.description>
+
+  <VG_CanningFactory.label>Canning Factory</VG_CanningFactory.label>
+  <VG_CanningFactory.description>Canning Factory can be set to make meals or to can diffenert types of food to preserve them.</VG_CanningFactory.description>
+  <VG_CanningFactory_Blueprint.label>Canning Factory (blueprint)</VG_CanningFactory_Blueprint.label>
+  <VG_CanningFactory_Blueprint_Install.label>Canning Factory (blueprint)</VG_CanningFactory_Blueprint_Install.label>
+  <VG_CanningFactory_Frame.label>Canning Factory (building)</VG_CanningFactory_Frame.label>
+  <VG_CanningFactory_Frame.description>Canning Factory can be set to make meals or to can diffenert types of food to preserve them.</VG_CanningFactory_Frame.description>
+
+
+</LanguageData>

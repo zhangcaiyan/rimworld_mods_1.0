@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Shiro.label>シロ</Yokai_Dragon_Shiro.label>
+  <Yokai_Dragon_Shiro.description>シロは寒い地域に生息する草食性の白い竜です。草や木の実、果実などを好み、性質は大人しく人によく慣れますが、力は強く怒り狂えば人の肌はたやすく切り裂かれるでしょう。
+    \n賢いシロは荷運びや人命救助をこなせる他に、キャラバン時の駄載獣としても活躍してくれます。彼らの暖かいふわふわの毛は半年に一度どっさりと生え変わり、素晴らしい衣類の素材になります。
+    \n野生では小さな群れを作ってツンドラや針葉樹林、氷の海など比較的多くの環境で暮らしています。
+    \n戦いにも向いています。敵の集団に向かって複数のシロたちから放たれる眩しいのデシは非常に強力です！</Yokai_Dragon_Shiro.description>
+  <Yokai_Dragon_Shiro.tools.0.label>左前脚</Yokai_Dragon_Shiro.tools.0.label>
+  <Yokai_Dragon_Shiro.tools.1.label>右前脚</Yokai_Dragon_Shiro.tools.1.label>
+  <Yokai_Dragon_Shiro.tools.2.label>牙</Yokai_Dragon_Shiro.tools.2.label>
+  <Yokai_Dragon_Shiro_Corpse.label>シロの死骸</Yokai_Dragon_Shiro_Corpse.label>
+  <Yokai_Dragon_Shiro_Corpse.description>冷たく硬くなってしまったシロの死骸です。</Yokai_Dragon_Shiro_Corpse.description>
+</LanguageData>

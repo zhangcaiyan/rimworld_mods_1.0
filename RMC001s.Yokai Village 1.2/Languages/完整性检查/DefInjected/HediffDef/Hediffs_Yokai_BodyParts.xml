@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lamia's Tail -->
+
+  <Hediff_Yokai_LamiaSPT.label>simple prosthetic lamia tail</Hediff_Yokai_LamiaSPT.label>
+  <Hediff_Yokai_LamiaBT.label>bionic tail</Hediff_Yokai_LamiaBT.label>
+
+
+  <!-- JorouGumo's Legs -->
+
+  <Hediff_Yokai_JorouGumoSPL.label>simple prosthetic JorouGumo leg</Hediff_Yokai_JorouGumoSPL.label>
+  <Hediff_Yokai_JorouGumoBL.label>bionic JorouGumo leg</Hediff_Yokai_JorouGumoBL.label>
+
+
+</LanguageData>

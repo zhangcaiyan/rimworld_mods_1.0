@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projector.label>固定式探照灯</Projector.label>
+  <Projector.description>一个能照亮正前方区域的电力探照灯，十分适合用来照亮道路。</Projector.description>
+  <Projector_Blueprint.label>固定式探照灯 (蓝图)</Projector_Blueprint.label>
+  <Projector_Blueprint_Install.label>固定式探照灯 (蓝图)</Projector_Blueprint_Install.label>
+  <Projector_Frame.label>固定式探照灯 (建造中)</Projector_Frame.label>
+  <Projector_Frame.description>一个能照亮正前方区域的电力探照灯，十分适合用来照亮道路。</Projector_Frame.description>
+
+
+</LanguageData>

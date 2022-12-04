@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>mechanoid Housenka</Mech_Centipede.label>
+  <Mech_Centipede.labelPlural>mechanoidí Housenky</Mech_Centipede.labelPlural>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>mechanoid Kopiník</Mech_Lancer.label>
+  <Mech_Lancer.labelPlural>mechanoidí Kopiníci</Mech_Lancer.labelPlural>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>mechanoid Smrťák</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>mechanoidí Smrťáci</Mech_Scyther.labelPlural>
+  
+</LanguageData>

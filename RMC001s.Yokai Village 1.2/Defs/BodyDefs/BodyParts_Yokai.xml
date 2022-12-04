@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ほだま -->
+  <BodyPartDef>
+    <defName>HodamaCore</defName>
+    <label>Hinotama</label>
+    <hitPoints>100</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <frostbiteVulnerability>1</frostbiteVulnerability>
+    <bleedRate>0.5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>ManipulationLimbCore</li>
+      <li>MovingLimbCore</li>
+      <li>EatingSource</li>
+    </tags>
+  </BodyPartDef>
+  <!-- 牙の精霊 -->
+  <BodyPartDef>
+    <defName>Core</defName>
+    <label>Core</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.1</permanentInjuryChanceFactor>
+    <frostbiteVulnerability>1</frostbiteVulnerability>
+    <bleedRate>0.5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>HearingSource</li>
+      <li>MovingLimbCore</li>
+    </tags>
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>TuskSpiritMouth</defName>
+    <label>Mouth</label>
+    <hitPoints>20</hitPoints>
+    <permanentInjuryChanceFactor>0.1</permanentInjuryChanceFactor>
+    <frostbiteVulnerability>1</frostbiteVulnerability>
+    <bleedRate>0.5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>EatingSource</li>
+      <li>TalkingSource</li>
+      <li>ManipulationLimbCore</li>
+    </tags>
+  </BodyPartDef>
+</Defs>

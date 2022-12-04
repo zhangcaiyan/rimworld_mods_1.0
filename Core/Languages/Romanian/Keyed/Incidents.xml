@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>O {0} a înnebunit. Va ataca pe oricine vede.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Un fel de val psihic a trecut peste regiune. Coloniștii nu au pățit nimic, însă...\n\nSe pare că {0} din zonă au înnebunit.</AnimalInsanityMultiple>
+
+  <CropBlight>O boală misterioasă a distrus toate recoltele.</CropBlight>
+
+  <EclipseIncident>Un satelit al planetei a ajuns în fața soarelui. A început o eclipsă solară.</EclipseIncident>
+
+  <MiracleHeal>{0} s-a însănătoșit ca prin miracol!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Un grup de {0} din {1} au sosit în apropiere.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Un grup de {0} din {1} au sosit în capsule de evacuare în apropiere.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Un grup de {0} din {1} vor ateriza chiar deasupra ta!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Se vor pregăti un timp, după care vor ataca.\n\nPregătește o defensivă sau atacă-i tu înainte.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Vor ataca imediat.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Pare că vor să asedieze colonia.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Un grup prietenos de {0} din {1} au sosit în apropiere.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Un grup prietenos de {0} din {1} au sosit în capsule de evacuare în apropiere.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Un grup prietenos de {0} din {1} vor ateriza chiar deasupra ta!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Se vor pregăti un timp înainte de a vă ajuta</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Vă vor ajuta imediat.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Se pare că vor să vă ajute folosind tactici de asediu.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>O capsulă de salvare s-a prăbușit în apropiere.\n\nDacă cineva a supraviețuit impactului, ar putea fi foarte rănit.</RefugeePodCrash>
+
+  <CargoPodCrash>Un grup de capsule cu mărfuri s-a prăbușit în apropiere.\n\nS-ar putea sa fie câte ceva folositor.</CargoPodCrash>
+
+  <AnElectricalConduit>un cablu electric</AnElectricalConduit>
+  <AWallsPowerConduit>un cablu împământat în perete</AWallsPowerConduit>
+  <ShortCircuit>O defecțiune în {0} a cauzat un scurt-circuit.\n\nToți {1} Wd de energie stocați în bateriile aferente au fost descărcați într-o explozie.</ShortCircuit>
+  <ShortCircuitWasLarge>Cantitatea mare de energie a creat o explozie puternică.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Într-adevăr asta a fost o explozie uriașă.</ShortCircuitWasHuge>
+
+  <LetterSolarFlare>A început o eruție solară.\n\nRadiația intensă va opri orice dispozitiv electric.\n\nAr trebui să înceteze în mai putin de 2 zile.</LetterSolarFlare>
+
+  <LetterHeatWave>A venit un val de caniculă neobișnuit. Atenție la insolații!</LetterHeatWave>
+  <HeatWaveOver>Valul de caniculă a luat sfârșit.</HeatWaveOver>
+  <LetterColdSnap>Un ger neobișnuit de rece amenință regiunea. Atenție la recoltă și hipotermie.</LetterColdSnap>
+  <ColdSnapOver>The cold snap is over.</ColdSnapOver>
+  
+  <TraderArrival>O navă comercială trece prin apropiere.\n\nSunt cunoscuți ca {0}. Ei sunt p {1}.</TraderArrival>
+
+  <SingleTravelerPassing>Un {0} din {1} trece prin apropiere. [PAWN_pronoun] este numit {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Un grup de călători din {0} trec prin apropiere.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>Un {0} din {1} vizitează colonia.\n\n[PAWN_pronoun] este numit {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>Un grup din {0} vizitează colonia.</GroupVisitorsArrive>
+  <VisitorsLeaving>Vizitatorii din {0} pleacă.</VisitorsLeaving>
+
+  <WandererJoin>Un {0} numit [PAWN_nameDef] a sosit și se va alătura coloniei. [PAWN_pronoun] este un {1}.</WandererJoin>
+  
+  
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>O parte mare dintr-o navă extraterestră s-a prăbușit în apropiere.\n\nColoniștii o pot resimți în adâncurile minților lor, vorbindu-le de fapte inimaginabile. Trebuie sa existe un AI la bord cu abilități psihice. Cu siguranță nu este prietenos.\n\nDistruge-l cât mai repede.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Structura antică a emis un câmp psihic ce a făcut animalele să înnebunească.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Nava prăbușită a emis un fascicol psihic focusat ce i-a luat mințile lui {0}.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Treaz de acum {0} zile</AwokeDaysAgo>
+  <PsychicDroneLevel>Nivelul câmpului psihic: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Mic</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Mediu</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Mare</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extrem</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Fragmentul de navă prăbușit emite acum un câmp psihic și mai puternic. Orice umanoid din regiune se simte înfricoșat, paranoic, terifiat.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} a fost descoperit ca fiind agentul inamicului tău {1}.\n\nAcum vor încerca să scape.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Fiecare colonist {0} geme de durere!\n\nÎn distanță răsună cauza acesteia. Proiectează o frecvență psihică puternică peste întreaga regiune, care afectează doar coloniștii {0}. Pentru câteva zile, starea de spirit a coloniștilor afectați va fi vizibil mai proastă.</LetterIncidentPsychicDrone>
+  
+  <!-- Beavers -->
+  <BeaversArrived>Un grup de alpha-castori înfometați a sosit.\n\nElimină-i înainte de a distruge toți copacii din regiune.</BeaversArrived>
+
+
+
+
+
+
+</LanguageData>

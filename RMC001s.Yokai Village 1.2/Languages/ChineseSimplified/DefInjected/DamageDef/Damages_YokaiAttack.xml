@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FoxFlame.label>狐火</FoxFlame.label>
+  <FoxFlame.deathMessage>{0} 被狐火烧死了</FoxFlame.deathMessage>
+  <Yokai_Frostbite.label>妖冷气</Yokai_Frostbite.label>
+  <Yokai_Frostbite.deathMessage>{0} 被妖冷气冻死了</Yokai_Frostbite.deathMessage>
+  <YokaiPower.label>妖气</YokaiPower.label>
+  <YokaiPower.deathMessage>{0} 被妖气撕裂身体而断气了</YokaiPower.deathMessage>
+</LanguageData>

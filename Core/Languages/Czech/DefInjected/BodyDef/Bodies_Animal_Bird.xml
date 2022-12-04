@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bird -->
+  <Bird.label>pták</Bird.label>
+  <!-- EN: left lung -->
+  <Bird.corePart.parts.left_lung.customLabel>levá plíce</Bird.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bird.corePart.parts.right_lung.customLabel>pravá plíce</Bird.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bird.corePart.parts.left_kidney.customLabel>levá ledvina</Bird.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bird.corePart.parts.right_kidney.customLabel>pravá ledvina</Bird.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>levé oko</Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>pravé oko</Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Bird.corePart.parts.left_leg.customLabel>levá noha</Bird.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Bird.corePart.parts.left_leg.parts.left_foot.customLabel>levé chodidlo</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Bird.corePart.parts.right_leg.customLabel>pravá noha</Bird.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>pravé chodidlo</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

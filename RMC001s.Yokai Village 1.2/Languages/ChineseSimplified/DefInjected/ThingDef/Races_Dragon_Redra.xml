@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Redra.label>红龙</Yokai_Dragon_Redra.label>
+  <Yokai_Dragon_Redra.description>红龙是种生性勇敢丶高贵而骄傲的赤色巨龙。能被人驯服，但那可不是简单的事。
+\n肉食性丶远比熊与狼还强韧的赤龙会主动狩猎多种生物，以中也包括了人。假如出现在殖民地旁，又正好没有其他动物时请多加注意。
+\n其栖息地带十分广泛 : 从草原丶沙漠等高热地带，一直到苔原都能见到它的踪迹。但是具有害怕寒冷气候的弱点。
+\n根据流传妖怪村的记载，龙的心脏中潜藏着特殊的力量。</Yokai_Dragon_Redra.description>
+  <Yokai_Dragon_Redra.tools.0.label>左爪</Yokai_Dragon_Redra.tools.0.label>
+  <Yokai_Dragon_Redra.tools.1.label>右爪</Yokai_Dragon_Redra.tools.1.label>
+  <Yokai_Dragon_Redra.tools.2.label>牙</Yokai_Dragon_Redra.tools.2.label>
+  <Yokai_Dragon_Redra_Corpse.label>红龙的尸体</Yokai_Dragon_Redra_Corpse.label>
+  <Yokai_Dragon_Redra_Corpse.description>红龙的尸体，能感受到不可思议的力量。分解後能得到许多龙肉及龙皮。</Yokai_Dragon_Redra_Corpse.description>
+</LanguageData>

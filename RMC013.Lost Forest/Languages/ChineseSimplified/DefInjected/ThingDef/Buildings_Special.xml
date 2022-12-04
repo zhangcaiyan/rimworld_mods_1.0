@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_AlchemyCore.label>錬成核心</LF_AlchemyCore.label>
+	<LF_AlchemyCore.description>从虚无中产生电力的神秘造物。可能正发生着事件视界崩坏的内部经过黑箱加密过，而那远超人智的作用机制仍旧未明。根据文献记载，在上古龙帝时代就已存在着利用卓械技术(Archotech)制造的等价性恒久发电机关。作为发电机使用时，能调控接续到的电器回路，并使其安定化。</LF_AlchemyCore.description>
+
+	<LF_AlchemicBattery.label>錬成蓄电器</LF_AlchemicBattery.label>
+	<LF_AlchemicBattery.description>借由上古龙帝时代的大容量蓄电装置所剩余的零件，拼凑而成的模仿品。推测原是用于进行高能量链成的研究中。以何种形式储藏能量仍是个谜，可以知道的是其惊人的变换效率及蓄电量，且能负荷大量电流的出入。储入能量后不会产生自己放电或漏电等电力耗损事件，当接续的电路上发生因漏电而引发的过电流时，会将损失的电力尽数吸收。</LF_AlchemicBattery.description>
+
+	<LF_HolyWoodSapling.label>神圣树的幼苗</LF_HolyWoodSapling.label>
+	<LF_HolyWoodSapling.description>古代神圣大树的幼苗，相传是孕育了诸多生命的源头。能将周遭污秽净化成清净的空气，并能赋予万物生灵特别的力量。与远古森林的中枢形似同源，遗憾的是需数百年的光阴方可成长茁壮，对我们来说，要亲眼见证它长成离离蔚蔚的巨树只怕是难以实现。罹患着蛔虫、肌肉纤维化等长期疾病的殖民者，会受到苗木的祝福而得到定期治疗，也能让失控的微型机械病毒沉静化。此外，对于潜伏在岩盘中的大型虫群亦有强力的忌避效果。\n\n*但无法防止深部矿脉钻头所引发的虫群入侵。</LF_HolyWoodSapling.description>
+
+	<LF_EntropyReductionCooler.label>熵遡行冷却器</LF_EntropyReductionCooler.label>
+	<LF_EntropyReductionCooler.description>将周围的热吸收后转换成电力的谜样结构物，产生的电力大多数用于维持自身运作，是个永动机关。可能正发生着事件视界崩坏的内部经过黑箱加密过，而那远超人智的作用机制仍旧未明。不受外界电磁场的影响，太阳风暴时仍能维持机能。根据其中一种假说，原是作为巨大战略兵器的能量调控装置的部分零件。</LF_EntropyReductionCooler.description>
+
+	<LF_EltguelmHeater.label>埃尔特葛勒姆发热器</LF_EltguelmHeater.label>
+	<LF_EltguelmHeater.description>无需燃料补给即能半永久性的发出热源的谜样结构物。可能正发生着事件视界崩坏的内部经过黑箱加密过，而那远超人智的作用机制仍旧未明。不受外界电磁场的影响，太阳风暴时仍能维持机能。根据其中一种假说，原是作为巨大战略兵器的能量增幅装置的部分零件。</LF_EltguelmHeater.description>
+
+	<LF_DaliusSunLamp.label>达利乌斯的煌辉灯</LF_DaliusSunLamp.label>
+	<LF_DaliusSunLamp.description>辉煌亮丽的曦照着强烈晖光的神秘灯火。比通常的太阳灯所需的电力还少，能不分昼夜的照亮周边，对于屋内的农作物的生长能帮上不少忙。
+    那炫目的晖光，也能防止潜伏在岩盘中的大型虫群。\n\n*但无法防止深部矿脉钻头所引发的虫群入侵。</LF_DaliusSunLamp.description>
+
+	<LF_AtzldoirStella.label>阿迪尔的星烂灯</LF_AtzldoirStella.label>
+	<LF_AtzldoirStella.description>温暖且蕴发神秘辉彩的谜样灯火，无须任何电力，柔熙的光彩能恒久照亮周遭，对作物的生长带来帮助。那沉静安详的柔辉，也能防止潜伏在岩盘中的大型虫群。\n\n*但无法防止深部矿脉钻头所引发的虫群入侵。</LF_AtzldoirStella.description>
+
+
+</LanguageData>

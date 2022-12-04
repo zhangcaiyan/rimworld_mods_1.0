@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Hediff_Yokai_hokahoka</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Snowflake's Blessing</label>
+    <defaultLabelColor>(0,0.5,1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>Feeling warm</label>
+        <statOffsets>
+          <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.20</minSeverity>
+        <label>Feeling very warm</label>
+        <statOffsets>
+          <ComfyTemperatureMin>-75</ComfyTemperatureMin>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.51</minSeverity>
+        <label>Feeling insanely warm</label>
+        <statOffsets>
+          <ComfyTemperatureMin>-100</ComfyTemperatureMin>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Hediff_Yokai_hiebie</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Snowflake's Blessing</label>
+    <defaultLabelColor>(1,0.5,0)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>Feeling cold</label>
+        <statOffsets>
+          <ComfyTemperatureMax>+50</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.20</minSeverity>
+        <label>Feeling very cold</label>
+        <statOffsets>
+          <ComfyTemperatureMax>+75</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.51</minSeverity>
+        <label>Feeling insanely cold</label>
+        <statOffsets>
+          <ComfyTemperatureMax>+100</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

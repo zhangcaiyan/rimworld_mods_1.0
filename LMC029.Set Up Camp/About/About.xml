@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>LMC029.随时随地设立营地</name>
+    <author>Syrchalis</author>
+    <url>https://ludeon.com/forums/index.php?topic=43449.0</url>
+    <targetVersion>1.0.2059</targetVersion>
+    <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+Set up camp, once again! For all your caravan managing needs, you can now set up camp anywhere. You can customize the possible size of the map, the duration you are allowed to stay, the time the tile is blocked after abandoning a camp and turn events on the camp map on/off.
+
+设立营地再一次上线了！为了满足您的远征队需求，您现在可以在任何地方安营扎寨。您可以自定义地图的可能大小、允许您停留的时间、放弃营地后营地消失的时间以及打开/关闭营地地图上的事件。
+
+It is recommended to use settings close to the default and not turn the map timer or the tile blocking off, as this makes the mod severely game-breaking in terms of balance. However, what you do is your choice - the option to turn these settings off is there for a reason.
+
+建议使用接近默认值的设置，不要关闭地图倒计时，因为这会使mod在平衡方面严重失衡。但是，您可以选择关闭这些设置，这是您的自由。但是默认值是这样是有原因的。
+
+汉化：jxb12306
+	
+	Originally by Nandonalt
+	Re-coded and improved by Syrchalis
+	Assistance provided by spd, potatoclip
+    
+    </description>
+
+</ModMetaData>

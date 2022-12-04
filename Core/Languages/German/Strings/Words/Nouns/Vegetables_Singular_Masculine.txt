@@ -1,0 +1,9 @@
+﻿//Example: "Der ..."
+Flaschenkürbis
+Kürbis
+Blumenkohl
+Paprika
+Pfeffer
+Pilz
+Weißkohl
+Maiskolben

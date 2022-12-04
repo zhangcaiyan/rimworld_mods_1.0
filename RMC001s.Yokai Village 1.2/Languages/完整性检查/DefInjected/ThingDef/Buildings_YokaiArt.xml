@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪絨毯 -->
+
+  <Yokai_RugSmall.label>Small Yokai Rug</Yokai_RugSmall.label>
+  <Yokai_RugSmall.description>A small rug whose intricate patterns bespeak the history and culture of Yokai.</Yokai_RugSmall.description>
+  <Yokai_RugSmall_Blueprint_Install.label>Small Yokai Rug (blueprint)</Yokai_RugSmall_Blueprint_Install.label>
+
+  <Yokai_RugLarge.label>Large Yokai Rug</Yokai_RugLarge.label>
+  <Yokai_RugLarge.description>Though such rugs depict Yokai history and culture, anyone can attempt to create it. "Inspiration" may guide their hands, or else confuse their them and soil the work.</Yokai_RugLarge.description>
+  <Yokai_RugLarge_Blueprint_Install.label>Large Yokai Rug (blueprint)</Yokai_RugLarge_Blueprint_Install.label>
+
+  <Yokai_RugGrand.label>Grand Yokai Rug</Yokai_RugGrand.label>
+  <Yokai_RugGrand.description>The largest of Yokai rugs, and thus that which can depict the most of their history and culture; yet, only those blessed by the Yokai can truly understand such symbols.</Yokai_RugGrand.description>
+  <Yokai_RugGrand_Blueprint_Install.label>Grand Yokai Rug (blueprint)</Yokai_RugGrand_Blueprint_Install.label>
+
+
+</LanguageData>

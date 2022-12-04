@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_StoneReconstructer_Sandstone.label>砂岩（TF）</LF_StoneReconstructer_Sandstone.label>
+	<LF_StoneReconstructer_Sandstone.description>入植者によって再構築された岩壁。一定期間が経過すると、元の素材と同じ種類の天然岩石へと変化します。</LF_StoneReconstructer_Sandstone.description>
+
+	<LF_StoneReconstructer_Granite.label>花崗岩（TF）</LF_StoneReconstructer_Granite.label>
+	<LF_StoneReconstructer_Granite.description>入植者によって再構築された岩壁。一定期間が経過すると、元の素材と同じ種類の天然岩石へと変化します。</LF_StoneReconstructer_Granite.description>
+
+	<LF_StoneReconstructer_Limestone.label>石灰岩（TF）</LF_StoneReconstructer_Limestone.label>
+	<LF_StoneReconstructer_Limestone.description>入植者によって再構築された岩壁。一定期間が経過すると、元の素材と同じ種類の天然岩石へと変化します。</LF_StoneReconstructer_Limestone.description>
+
+	<LF_StoneReconstructer_Slate.label>粘板岩（TF）</LF_StoneReconstructer_Slate.label>
+	<LF_StoneReconstructer_Slate.description>入植者によって再構築された岩壁。一定期間が経過すると、元の素材と同じ種類の天然岩石へと変化します。</LF_StoneReconstructer_Slate.description>
+
+	<LF_StoneReconstructer_Marble.label>大理石（TF）</LF_StoneReconstructer_Marble.label>
+	<LF_StoneReconstructer_Marble.description>入植者によって再構築された岩壁。一定期間が経過すると、元の素材と同じ種類の天然岩石へと変化します。</LF_StoneReconstructer_Marble.description>
+
+
+</LanguageData>

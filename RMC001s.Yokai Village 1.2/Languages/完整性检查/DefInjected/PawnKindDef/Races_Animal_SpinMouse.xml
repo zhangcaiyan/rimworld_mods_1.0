@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_SpinMouse.label>SpinMouse</Yokai_SpinMouse.label>
+  <Yokai_SpinMouse.labelPlural>SpinMouses</Yokai_SpinMouse.labelPlural>
+  <Yokai_SpinMouse.lifeStages.0.label>SpinMouse</Yokai_SpinMouse.lifeStages.0.label>
+  <Yokai_SpinMouse.lifeStages.0.labelPlural>SpinMouse</Yokai_SpinMouse.lifeStages.0.labelPlural>
+  <Yokai_SpinMouse.lifeStages.0.labelMale>male SpinMouse</Yokai_SpinMouse.lifeStages.0.labelMale>
+  <Yokai_SpinMouse.lifeStages.0.labelMalePlural>male SpinMouses</Yokai_SpinMouse.lifeStages.0.labelMalePlural>
+  <Yokai_SpinMouse.lifeStages.0.labelFemale>female SpinMouse</Yokai_SpinMouse.lifeStages.0.labelFemale>
+  <Yokai_SpinMouse.lifeStages.0.labelFemalePlural>female SpinMouses</Yokai_SpinMouse.lifeStages.0.labelFemalePlural>
+  <Yokai_SpinMouse.lifeStages.1.label>SpinMouse</Yokai_SpinMouse.lifeStages.1.label>
+  <Yokai_SpinMouse.lifeStages.1.labelPlural>SpinMouse</Yokai_SpinMouse.lifeStages.1.labelPlural>
+  <Yokai_SpinMouse.lifeStages.1.labelMale>male SpinMouse</Yokai_SpinMouse.lifeStages.1.labelMale>
+  <Yokai_SpinMouse.lifeStages.1.labelMalePlural>male SpinMouses</Yokai_SpinMouse.lifeStages.1.labelMalePlural>
+  <Yokai_SpinMouse.lifeStages.1.labelFemale>female SpinMouse</Yokai_SpinMouse.lifeStages.1.labelFemale>
+  <Yokai_SpinMouse.lifeStages.1.labelFemalePlural>female SpinMouses</Yokai_SpinMouse.lifeStages.1.labelFemalePlural>
+  <Yokai_SpinMouse.labelMale>male SpinMouse</Yokai_SpinMouse.labelMale>
+  <Yokai_SpinMouse.labelMalePlural>male SpinMouses</Yokai_SpinMouse.labelMalePlural>
+  <Yokai_SpinMouse.labelFemale>female SpinMouse</Yokai_SpinMouse.labelFemale>
+  <Yokai_SpinMouse.labelFemalePlural>female SpinMouses</Yokai_SpinMouse.labelFemalePlural>
+
+
+</LanguageData>

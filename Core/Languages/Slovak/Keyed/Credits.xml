@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_MusicAndSound>Hudba a zvuky</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Dodatočné programovanie</Credit_AdditionalProgramming>
+  <Credit_GameArt>Game art</Credit_GameArt>
+  <Credit_MenuArt>Menu art</Credit_MenuArt>
+
+  <Credits_TitleTesting>Tým testerov</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
+
+  <Credits_TitleLanguage>{0} jazyk</Credits_TitleLanguage>
+  <Credit_Writer>Autor</Credit_Writer>
+  <Credit_Translator>Prekladateľ</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Generácia zvukov</Credit_NoiseGeneration>
+
+    
+</LanguageData>

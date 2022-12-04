@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Redra.label>紅龍</Yokai_Dragon_Redra.label>
+  <Yokai_Dragon_Redra.description>紅龍是種生性勇敢、高貴而驕傲的赤色巨龍。能被人馴服，但那可不是簡單的事。
+\n肉食性、遠比熊與狼還強韌的赤龍會主動狩獵多種生物，以中也包括了人。假如出現在殖民地旁，又正好沒有其他動物時請多加注意。
+\n其棲息地帶十分廣泛 : 從草原、沙漠等高熱地帶，一直到苔原都能見到牠的蹤跡。但是具有害怕寒冷氣候的弱點。
+\n根據流傳妖怪村的記載，龍的心臟中潛藏著特殊的力量。</Yokai_Dragon_Redra.description>
+  <Yokai_Dragon_Redra.tools.0.label>左爪</Yokai_Dragon_Redra.tools.0.label>
+  <Yokai_Dragon_Redra.tools.1.label>右爪</Yokai_Dragon_Redra.tools.1.label>
+  <Yokai_Dragon_Redra.tools.2.label>牙</Yokai_Dragon_Redra.tools.2.label>
+  <Yokai_Dragon_Redra_Corpse.label>紅龍的屍體</Yokai_Dragon_Redra_Corpse.label>
+  <Yokai_Dragon_Redra_Corpse.description>紅龍的屍體，能感受到不可思議的力量。分解後能得到許多龍肉及龍皮。</Yokai_Dragon_Redra_Corpse.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Author: jxb12306 -->
+
+	<Wall_M_VitalsMonitor.label>壁挂式生命体征监测仪</Wall_M_VitalsMonitor.label>
+	<Wall_M_VitalsMonitor.description>提高医疗护理质量与手术成功率，当直接放置在医疗床附近时提高免疫力获取速度。\n仅对医疗床生效，普通床无效。每张床只能享受一台监测仪提供的加成效果，即使周围部署有多台监测仪。</Wall_M_VitalsMonitor.description>
+
+
+</LanguageData>

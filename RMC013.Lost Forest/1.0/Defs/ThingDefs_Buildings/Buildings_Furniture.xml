@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--============================== Base Defs ==============================-->
+	<ThingDef Name="LF_BuildingBase" Abstract="True">
+		<category>Building</category>
+		<thingClass>Building</thingClass>
+		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+		<selectable>true</selectable>
+		<drawerType>MapMeshAndRealTime</drawerType>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<repairEffect>Repair</repairEffect>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<filthLeaving>Filth_RubbleBuilding</filthLeaving>
+		<statBases>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+		<stuffProps>
+		   <commonality>0.00</commonality>
+		</stuffProps>
+		<tradeability>Sellable</tradeability>
+	</ThingDef>
+	<ThingDef Name="LF_FurnitureBase" ParentName="LF_BuildingBase" Abstract="True">
+		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
+		</comps>
+		<designationCategory>Furniture</designationCategory>
+		<minifiedDef>MinifiedThing</minifiedDef>
+    		<thingCategories>
+      			<li>BuildingsFurniture</li>
+    		</thingCategories>
+		<tradeTags>
+			<li>Furniture</li>
+		</tradeTags>
+	</ThingDef>
+	<ThingDef Name="LF_ArtableFurnitureBase" ParentName="LF_FurnitureBase" Abstract="True">
+		<comps>
+			<li Class="CompProperties_Art">
+				<nameMaker>NamerArtFurniture</nameMaker>
+				<descriptionMaker>ArtDescription_Furniture</descriptionMaker>
+				<minQualityForArtistic>Excellent</minQualityForArtistic>
+			</li>
+		</comps>
+		<inspectorTabs>
+			<li>ITab_Art</li>
+		</inspectorTabs>
+	</ThingDef>
+
+  <!-- Table base -->
+  <ThingDef Abstract="True" ParentName="LF_FurnitureBase" Name="LF_TableBase">
+    <thingClass>Building</thingClass>
+    <altitudeLayer>Building</altitudeLayer>
+    <description>People eat off tables when chairs are placed facing them.</description>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <pathCost>60</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <canOverlapZones>false</canOverlapZones>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <surfaceType>Eat</surfaceType>
+    <comps>
+			<li Class="CompProperties_RoomIdentifier">
+				<roomStat>Impressiveness</roomStat>
+			</li>
+    </comps>
+  </ThingDef>
+
+
+	<!--============================== Beds ==============================-->
+	<ThingDef ParentName="LF_FurnitureBase">
+		<defName>LF_Bedroll</defName>
+		<label>adventurer bedroll</label>
+		<description>A simple and fine sleeping bag designed for adventurers. It's suitable for carrying.</description>
+		<thingClass>Building_Bed</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Furniture/LF_Bedroll</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,2)</drawSize>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Beauty>1</Beauty>
+			<WorkToBuild>1200</WorkToBuild>
+			<Mass>2</Mass>
+			<BedRestEffectiveness>1</BedRestEffectiveness>
+			<Comfort>0.75</Comfort>
+			<ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>1.05</SurgerySuccessChanceFactor>
+			<MedicalTendQualityOffset>0.05</MedicalTendQualityOffset>
+		</statBases>
+		<size>(1,2)</size>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>80</costStuffCount>
+		<costList>
+			<Silver>10</Silver>
+			<MedicineIndustrial>1</MedicineIndustrial>
+		</costList>
+		<building>
+			<bed_showSleeperBody>False</bed_showSleeperBody>
+			<bed_healPerDay>8</bed_healPerDay>
+			<bed_caravansCanUse>true</bed_caravansCanUse>
+		</building>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+					<li>VitalsMonitor</li>
+					<li>Dresser</li>
+          				<li>EndTable</li>
+				</linkableFacilities>
+			</li>
+			<li Class="CompProperties_RoomIdentifier">
+				<roomStat>Impressiveness</roomStat>
+			</li>
+		</comps>
+		<fillPercent>0.15</fillPercent>
+		<pathCost>5</pathCost>
+		<drawGUIOverlay>True</drawGUIOverlay>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<designationHotKey>Misc2</designationHotKey>
+		<passability>Standable</passability>
+	</ThingDef>
+	<!--============================== Chair ==============================-->
+	<ThingDef ParentName="LF_FurnitureBase">
+		<defName>LF_Cushion</defName>
+		<label>cushion</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/LF_Cushion</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(0.3, 0.6, 0.3)</volume>
+			</shadowData>
+			<damageData>
+				<rectN>(0,0,1,0.703125)</rectN>
+				<rectS>(0.09375,0,0.84375,1)</rectS>
+				<rectE>(0,0,0.84375,0.625)</rectE>
+				<rectW>(0.15625,0,0.84375,0.625)</rectW>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>1</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>1</Beauty>
+			<Comfort>0.5</Comfort>
+		</statBases>
+		<description>A simple soft seat. It offers a little relaxation.</description>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<pathCost>5</pathCost>
+		<fillPercent>0.15</fillPercent>
+		<designationHotKey>Misc8</designationHotKey>
+		<building>
+			<isSittable>true</isSittable>
+		</building>
+	</ThingDef>
+	<!--============================== Table ==============================-->
+	<ThingDef ParentName="LF_TableBase">
+		<defName>LF_Tinytable1st</defName>
+		<label>tiny chabu table</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/LF_Tinytable1</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,3)</drawSize>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>3</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>3</Beauty>
+		</statBases>
+		<size>(1,1)</size>
+		<costStuffCount>15</costStuffCount>
+		<rotatable>false</rotatable>
+		<comps>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+		</comps>
+	</ThingDef>
+	<ThingDef ParentName="LF_TableBase">
+		<defName>LF_Tinytable2nd</defName>
+		<label>tiny caffe table</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/LF_Tinytable2</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,3)</drawSize>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>3</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>3</Beauty>
+		</statBases>
+		<size>(1,1)</size>
+		<costStuffCount>15</costStuffCount>
+		<rotatable>false</rotatable>
+		<comps>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+		</comps>
+	</ThingDef>
+
+  <!-- ======================== Lighting Base======================= -->
+
+  <ThingDef Abstract="True" Name="LF_LampBase" ParentName="LF_BuildingBase">
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.20</fillPercent>
+    <pathCost>8</pathCost>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <designationCategory>Furniture</designationCategory>
+    <rotatable>false</rotatable>
+    <uiIconOffset>(0, 0.03)</uiIconOffset>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <researchPrerequisites>
+      <li>Electricity</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+
+	<!--============================== Jack-o'-Lantern ==============================-->
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_JackOLantern</defName>
+    <label>jack o' lantern</label>
+    <description>A hollowed pumpkin lantern for lighting an area. In a certain world, this is often decorated with festivals celebrating the fall harvest. Produces a small amount of heat. Fuel consumption will not be accelerated even in the rain, and can be automatically refueled. Also can be used instead of a chair though it's not comfortable.</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Misc/LF_Jack_o_Lantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1</drawSize>
+      <drawRotated>false</drawRotated>
+      <damageData>
+        <rect>(0.35,0.35,0.5,0.5)</rect>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Misc/LF_Jack_o_Lantern</uiIconPath>
+    <uiIconScale>1</uiIconScale>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <rotatable>false</rotatable>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
+    <building>
+      <isInert>true</isInert>
+      <isEdifice>false</isEdifice>
+      <isSittable>true</isSittable>
+    </building>
+    <passability>Standable</passability>
+    <pathCost>8</pathCost>
+    <constructEffect>ConstructWood</constructEffect>
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <WorkToBuild>100</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>1</Beauty>
+      <Comfort>0.1</Comfort>
+      <Mass>3</Mass>
+    </statBases>
+    <selectable>true</selectable>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>2.0</fuelConsumptionRate>
+        <fuelCapacity>20.0</fuelCapacity>
+        <fuelConsumptionPerTickInRain>0.0000</fuelConsumptionPerTickInRain>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>10</glowRadius>
+        <glowColor>(240,180,100,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>2.5</heatPerSecond>
+        <heatPushMaxTemperature>20</heatPushMaxTemperature>
+      </li>
+      <li Class="LostForest.CompProperties_JackOLight">
+        <fireSize>0.4</fireSize>
+        <offset>(0,0,0.0)</offset>
+      </li>
+    </comps>
+    <designationCategory>Furniture</designationCategory>
+    <designationHotKey>Misc10</designationHotKey>
+    <thingCategories>
+      	<li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+
+</Defs>

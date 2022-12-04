@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 猫娘 -->
+  <Yokai_NekoMusumeWool.label>猫娘的毛</Yokai_NekoMusumeWool.label>
+  <Yokai_NekoMusumeWool.description>柔軟的貓娘毛，雖不適合縫製成衣服，但漂亮的色紋使其適用於製成華美的家具。
+\n種植特殊的妖怪茸，或是製作繃帶時易能派上用場。</Yokai_NekoMusumeWool.description>
+  <Yokai_NekoMusumeWool.stuffProps.stuffAdjective>猫娘的毛</Yokai_NekoMusumeWool.stuffProps.stuffAdjective>
+  <!-- 女郎蜘蛛の絲 -->
+  <Yokai_JorouGumoThread.label>女郎蜘蛛的絲</Yokai_JorouGumoThread.label>
+  <Yokai_JorouGumoThread.description>結實的女郎蜘蛛絲。耐寒耐暑機能不佳。但適合製作妖怪達們使用的陷阱。</Yokai_JorouGumoThread.description>
+  <Yokai_JorouGumoThread.stuffProps.stuffAdjective>女郎蜘蛛的絲</Yokai_JorouGumoThread.stuffProps.stuffAdjective>
+  <!-- シロ -->
+  <Yokai_ShiroWool.label>希洛的毛</Yokai_ShiroWool.label>
+  <Yokai_ShiroWool.description>軟呼呼的希洛毛。能製成溫暖又耐穿的衣服。</Yokai_ShiroWool.description>
+  <Yokai_ShiroWool.stuffProps.stuffAdjective>希洛的毛</Yokai_ShiroWool.stuffProps.stuffAdjective>
+  <!--九尾の毛 -->
+  <Yokai_NineTailWool.label>九尾的毛</Yokai_NineTailWool.label>
+  <Yokai_NineTailWool.description>熠熠生辉、金黃色的九尾毛。能製成十分出色的藝術品，也能縫製出比龍皮更為優秀的服飾。</Yokai_NineTailWool.description>
+  <Yokai_NineTailWool.stuffProps.stuffAdjective>九尾的毛</Yokai_NineTailWool.stuffProps.stuffAdjective>
+  <!-- 竜の皮-->
+  <Yokai_Leather_Dragon.label>龍皮</Yokai_Leather_Dragon.label>
+  <Yokai_Leather_Dragon.description>強韌的龍皮。能縫製出高品質的優秀服飾。</Yokai_Leather_Dragon.description>
+  <Yokai_Leather_Dragon.stuffProps.stuffAdjective>龍皮</Yokai_Leather_Dragon.stuffProps.stuffAdjective>
+</LanguageData>

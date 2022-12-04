@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Foods -->
+  <ThingCategoryDef>
+    <defName>Yokai_Foods</defName>
+    <label>Yokai Food</label>
+    <parent>Foods</parent>
+    <iconPath>Things/Item/Food/Cake</iconPath>
+  </ThingCategoryDef>
+  <!--==================== Non-resource readout categories =====================-->
+  <!-- Items -->
+  <ThingCategoryDef>
+    <defName>Yokai_Resource</defName>
+    <label>Yokai Resource</label>
+    <parent>ResourcesRaw</parent>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <iconPath>Things/Item/Resource/AnimaCore/AnimaCorea</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Yokai_Stone</defName>
+    <label>Yokai Stone</label>
+    <parent>Yokai_Resource</parent>
+    <iconPath>Things/Item/Resource/SigilStone/SigilStonea</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Yokai_Wool</defName>
+    <label>Yokai Wool</label>
+    <parent>Textiles</parent>
+    <iconPath>UI/Icons/ThingCategories/Textiles</iconPath>
+  </ThingCategoryDef>
+  <!--服 -->
+  <ThingCategoryDef>
+    <defName>Yokai_Kimono</defName>
+    <label>Yokai Kimono</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Yokai_Omen</defName>
+    <label>Yokai Omen</label>
+    <parent>Yokai_Kimono</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Yokai_Omamori</defName>
+    <label>Yokai Omamori</label>
+    <parent>Yokai_Kimono</parent>
+  </ThingCategoryDef>
+  <!--武器 -->
+  <ThingCategoryDef>
+    <defName>Yokai_Buki</defName>
+    <label>Yokai Weapon</label>
+    <parent>WeaponsMelee</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Yokai_Yumi</defName>
+    <label>Yokai Bow</label>
+    <parent>WeaponsRanged</parent>
+  </ThingCategoryDef>
+</Defs>

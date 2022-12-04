@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖怪マット -->
+  <Yokai_RugSmall.label>小さな妖怪敷物</Yokai_RugSmall.label>
+  <Yokai_RugSmall.description>妖怪文化の紋様が編まれた小さな敷物です</Yokai_RugSmall.description>
+  <Yokai_RugSmall_Blueprint_Install.label>小さな妖怪敷物(設置予定地）</Yokai_RugSmall_Blueprint_Install.label>
+  <Yokai_RugLarge.label>妖怪敷物</Yokai_RugLarge.label>
+  <Yokai_RugLarge.description>妖怪の伝承が編みこまれた敷物です</Yokai_RugLarge.description>
+  <Yokai_RugLarge_Blueprint_Install.label>妖怪敷物(設置予定地）</Yokai_RugLarge_Blueprint_Install.label>
+  <Yokai_RugGrand.label>大きな妖怪敷物</Yokai_RugGrand.label>
+  <Yokai_RugGrand.description>妖怪の歴史が編み込まれた大きな敷物です。</Yokai_RugGrand.description>
+  <Yokai_RugGrand_Blueprint_Install.label>大きな妖怪敷物(設置予定地）</Yokai_RugGrand_Blueprint_Install.label>
+</LanguageData>

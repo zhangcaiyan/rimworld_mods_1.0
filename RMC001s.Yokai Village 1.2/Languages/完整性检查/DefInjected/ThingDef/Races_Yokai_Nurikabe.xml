@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Nurikabe.label>Nurikabe</Yokai_Nurikabe.label>
+  <Yokai_Nurikabe.description>A rare yokai that does not inhabit the wild. Rigid and durable, this living rock wall does not require food to sustain itself.
+\n However, due to its rocky existence, neither meat or leather can be extracted from it.</Yokai_Nurikabe.description>
+  <Yokai_Nurikabe.tools.0.label>left hand</Yokai_Nurikabe.tools.0.label>
+  <Yokai_Nurikabe.tools.1.label>right hand</Yokai_Nurikabe.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Nurikabe_Corpse.label>Nurikabe corpse</Yokai_Nurikabe_Corpse.label>
+  <Yokai_Nurikabe_Corpse.description>Nurikabe corpse</Yokai_Nurikabe_Corpse.description>
+
+
+</LanguageData>

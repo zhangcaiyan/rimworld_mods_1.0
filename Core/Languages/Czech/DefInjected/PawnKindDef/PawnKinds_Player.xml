@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>člen kolonie</Colonist.label>
+  <Colonist.labelFemale>členka kolonie</Colonist.labelFemale>
+  <Colonist.labelMale>člen kolonie</Colonist.labelMale>
+  <Colonist.labelPlural>členové kolonie</Colonist.labelPlural>
+  
+  <!-- EN: member -->
+  <Tribesperson.label>příslušník kmene</Tribesperson.label>
+  <Tribesperson.labelFemale>příslušnice kmene</Tribesperson.labelFemale>
+  <Tribesperson.labelMale>příslušník kmene</Tribesperson.labelMale>
+  <Tribesperson.labelPlural>příslušníci kmene</Tribesperson.labelPlural>
+  
+</LanguageData>

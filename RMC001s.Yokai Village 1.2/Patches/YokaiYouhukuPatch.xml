@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Apparel_TribalA" or defName = "Apparel_WarVeil" or defName = "Apparel_Pants" or defName = "Apparel_Duster" or defName = "Apparel_CowboyHat" or defName = "Apparel_BowlerHat" or defName = "Apparel_TribalHeaddress"]/recipeMaker</xpath>
+    <value>
+      <defaultIngredientFilter>
+        <disallowedThingDefs>
+          <li>Yokai_NineTailWool</li>
+          <li>Yokai_NekoMusumeWool</li>
+        </disallowedThingDefs>
+      </defaultIngredientFilter>
+    </value>
+  </Operation>
+</Patch>

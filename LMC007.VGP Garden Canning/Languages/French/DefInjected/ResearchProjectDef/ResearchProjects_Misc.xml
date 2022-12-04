@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main Categories -->
+
+  <VG_CanningFactory.label>Usine de mise en conserve</VG_CanningFactory.label>
+  <VG_CanningFactory.description>Effectue des recherches sur les méthodes de fabrication d'une machine automatisée pour mettre en conserve les aliments afin de les conserver dans du métal. \n\nDéverrouille l'usine de mise en conserve et l'ablité pour faire des conserves et des repas.</VG_CanningFactory.description>
+
+  <VG_CanningTable.label>Table de mise en conserve</VG_CanningTable.label>
+  <VG_CanningTable.description>Recherche des méthodes pour conserver les aliments en conserve dans le métal. \n\nDéverrouille la machine de mise en conserve et la capacité de faire des aliments et des repas en conserve.</VG_CanningTable.description>
+
+
+</LanguageData>

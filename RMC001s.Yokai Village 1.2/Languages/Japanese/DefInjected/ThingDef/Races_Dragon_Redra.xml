@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_Redra.label>レドラ</Yokai_Dragon_Redra.label>
+  <Yokai_Dragon_Redra.description>レドラは勇敢で誇り高い赤い竜の一種です。人にも懐きますが容易ではありません。
+\n肉食で熊や狼と比べて遥かに強靭で人を含めた多くの生き物を狩猟の対象としているため、植民地のそばに動物が少ない時は注意深く過ごす事が大切です。
+\nサバンナや砂漠などの熱い地方からツンドラまで、非常に広い地域に棲んでいますが寒さに弱いという弱点があります。
+\n「竜の心には特別な力が宿っている」という妖怪村の伝承があります。</Yokai_Dragon_Redra.description>
+  <Yokai_Dragon_Redra.tools.0.label>左の爪</Yokai_Dragon_Redra.tools.0.label>
+  <Yokai_Dragon_Redra.tools.1.label>右の爪</Yokai_Dragon_Redra.tools.1.label>
+  <Yokai_Dragon_Redra.tools.2.label>牙</Yokai_Dragon_Redra.tools.2.label>
+  <Yokai_Dragon_Redra_Corpse.label>レドラの死骸</Yokai_Dragon_Redra_Corpse.label>
+  <Yokai_Dragon_Redra_Corpse.description>不思議な力を感じる死んだレドラの躯です。分解すればお肉と皮が沢山手に入ります。</Yokai_Dragon_Redra_Corpse.description>
+</LanguageData>

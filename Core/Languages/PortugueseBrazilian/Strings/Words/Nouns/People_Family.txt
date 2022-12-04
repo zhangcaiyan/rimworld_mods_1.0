@@ -1,0 +1,7 @@
+﻿mãe
+filho
+pai
+irmão
+tio
+sobrinho
+tia

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe!!! -->
+  <Make_IceDrink.label>ひんやりドリンクを混ぜる</Make_IceDrink.label>
+  <Make_IceDrink.description>ひんやりドリンクを５つ作ります。</Make_IceDrink.description>
+  <Make_IceDrink.jobString>ひんやりドリンクを作っています。</Make_IceDrink.jobString>
+  <!-- HotDrink -->
+  <Make_HotDrink.label>ほっとドリンクを混ぜる</Make_HotDrink.label>
+  <Make_HotDrink.description>ほっとドリンクを５つ作ります。</Make_HotDrink.description>
+  <Make_HotDrink.jobString>ほっとドリンクを作っています。</Make_HotDrink.jobString>
+</LanguageData>

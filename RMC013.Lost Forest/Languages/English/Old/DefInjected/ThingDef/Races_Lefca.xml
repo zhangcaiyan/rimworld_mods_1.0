@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Lefca.label>Lefca</LF_Lefca.label>
+  <LF_Lefca.description>An energetic and exotic beastgirl. Her kind-like the Wolvern-is tasked with finding a maiden of the forest, or Foxia as they are known, and protecting her with their every breath. A Lefca can easily be recognized by its large squirrel-like tail and birdwing shaped ears. They have a troubling habit of collecting "amazing" things, unusual herbs, and odd nuts even while they're working! Moreover, it doesn't seem to matter where they are, they still find enough to make an ecletic pile of "treasure." Wolverns are typically hard on such behavior, though Lefca are always ready to defend their Foxia when needed. Lefca sometimes stray into colonies when attempting to scavenge for their collections. They appear in all biomes with a very, very low probability. (She has a slight tendency to prefer areas with plants rather than extreme biomes.)</LF_Lefca.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Lefca_Meat.label>Lefca meat</LF_Lefca_Meat.label>
+  <LF_Lefca_Meat.description>Playful and naive, the Lefca seemed to embody that youthful innocence so many wish thier children never lose; yet, this life was ended, and its corpse torn apart for meat. Her wanderings had brought her close more than once, but the smiles she received from giving out her wreaths was worth the risk. Now she rests, no more risks, no more pain.</LF_Lefca_Meat.description>
+-->
+  <LF_Lefca_Corpse.label>Lefca corpse</LF_Lefca_Corpse.label>
+  <LF_Lefca_Corpse.description>By howl and curse a raging Wolvern can be heard stomping about in the distance, demanding what went wrong, pledging revenge, and berating herself, as she remembers all the times she disparaged her friend, the Lefca, for wandering so far away. Tears well as her hand darts to a pocket, grasping the wreath that now withers away.</LF_Lefca_Corpse.description>
+
+</LanguageData>

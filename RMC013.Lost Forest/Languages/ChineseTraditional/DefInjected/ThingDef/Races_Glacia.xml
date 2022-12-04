@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Glacia.label>格蕾希亞</LF_Glacia.label>
+  <LF_Glacia.description>源於大型貓科動物的獸人族、也是居住在遠古森林的一分子。身體覆蓋著如冰塊般堅硬的水晶，對於外來的創傷具有極高的忍耐力。當同伴面臨危機時會以其迅敏的腳力前來救援，並以自身作為盾牌來保護同伴。在緊要關頭時是個足以依賴的好孩子。個體多半有著溫馴沉穩的性格。作為森林守衛之成員，平淡地巡邏著遠古森林的周圍。他們習慣依照自己的步調生活，閒暇時經常待在安靜的地方悠悠閒閒地午睡。若是打擾到她的休閒時光，可會讓她鬧別扭上好一陣子。「可惡的紅色惡魔......」。他不會出現於野外，在被毀滅的遠古森林中英勇奮戰後，而成為俘虜的倖存者們，似乎仍稀少地在附近被目擊到。</LF_Glacia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Glacia_Corpse.label>格蕾希亞的屍體</LF_Glacia_Corpse.label>
+  <LF_Glacia_Corpse.description>逐漸失去溫度的格蕾希亞屍體。再也沒有人能給她帶來更多痛苦。</LF_Glacia_Corpse.description>
+
+</LanguageData>
+

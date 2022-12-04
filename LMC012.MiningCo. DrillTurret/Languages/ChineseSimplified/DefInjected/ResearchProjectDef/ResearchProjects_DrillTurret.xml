@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchDrillTurret.label>自动采矿炮塔</ResearchDrillTurret.label>
+  <ResearchDrillTurret.description>专为采矿设计的炮塔。这些炮塔可以部署在矿藏或天然岩石附近进行自动采矿，但是在没有得到升级前会有一小部分资源的损失(25%)。</ResearchDrillTurret.description>
+
+  <ResearchDrillTurretEfficientDrilling.label>自动采矿炮塔：效率升级</ResearchDrillTurretEfficientDrilling.label>
+  <ResearchDrillTurretEfficientDrilling.description>升级炮塔的采矿效率(+25%)，这也意味着在采矿过程中不会有任何的资源损失。</ResearchDrillTurretEfficientDrilling.description>
+
+
+</LanguageData>

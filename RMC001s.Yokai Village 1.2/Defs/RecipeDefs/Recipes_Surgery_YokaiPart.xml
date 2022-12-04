@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Abstract="True" Name="SurgeryFleshAnimal">
+    <effectWorking>Surgery</effectWorking>
+    <soundWorking>Recipe_Surgery</soundWorking>
+    <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+    <workSkill>Medicine</workSkill>
+    <workSkillLearnFactor>16</workSkillLearnFactor>
+  </RecipeDef>
+  <!-- =============== Lamia シンプル Tail =============== -->
+  <RecipeDef ParentName="SurgeryFleshAnimal">
+    <defName>Yokai_Install_LamiaSPT</defName>
+    <label>install simple Lamia tail</label>
+    <description>Installs Lamia's  Simple Prosthetic tail. Requires a min skill in medicine of 4.</description>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing Simple Prosthetic Lamia tail.</jobString>
+    <workAmount>2000</workAmount>
+    <skillRequirements>
+      <Medicine>4</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_LamiaSPT</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>Yokai_LamiaSPT</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>LamiaTail</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Hediff_Yokai_LamiaSPT</addsHediff>
+    <recipeUsers>
+      <li>Yokai_Lamia</li>
+      <li>Yokai_Samia</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef ParentName="SurgeryFleshAnimal">
+    <defName>Yokai_Install_LamiaBT</defName>
+    <label>install bionic lamia tail</label>
+    <description>Installs Lamia's  bionic tail. Requires a min skill in medicine of 4.</description>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing Lamia bionic tail.</jobString>
+    <workAmount>2000</workAmount>
+    <skillRequirements>
+      <Medicine>4</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_LamiaBT</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>Yokai_LamiaBT</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>LamiaTail</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Hediff_Yokai_LamiaBT</addsHediff>
+    <recipeUsers>
+      <li>Yokai_Lamia</li>
+      <li>Yokai_Samia</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =============== Lamia Bionic Tail =============== -->
+  <RecipeDef ParentName="SurgeryFleshAnimal">
+    <defName>Yokai_Install_JorouGumoSPL</defName>
+    <label>install simple JorouGumo leg</label>
+    <description>Installs JorouGumo's  Simple Prosthetic leg. Requires a min skill in medicine of 4.</description>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing Simple Prosthetic JorouGumo leg.</jobString>
+    <workAmount>2000</workAmount>
+    <skillRequirements>
+      <Medicine>4</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_JorouGumoSPL</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>Yokai_JorouGumoSPL</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>SpiderFoot</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Hediff_Yokai_JorouGumoSPL</addsHediff>
+    <recipeUsers>
+      <li>Yokai_JorouGumo</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef ParentName="SurgeryFleshAnimal">
+    <defName>Yokai_Install_JorouGumoBL</defName>
+    <label>install bionic JorouGumo leg</label>
+    <description>Installs JogouGumo's  bionic leg. Requires a min skill in medicine of 4.</description>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing JogouGumo bionic leg.</jobString>
+    <workAmount>2000</workAmount>
+    <skillRequirements>
+      <Medicine>4</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_JorouGumoBL</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>Yokai_JorouGumoBL</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>SpiderFoot</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Hediff_Yokai_JorouGumoBL</addsHediff>
+    <recipeUsers>
+      <li>Yokai_JorouGumo</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LMC041os.拉阖门</name>
+  <author>jxb12306,ikasaba</author>
+  <url>http://bbs.3dmgame.com/thread-5842015-1-1.html</url>
+  <supportedVersions><li>1.0</li></supportedVersions>
+  <description>
+前言：这玩意只有B17版本，因为执念我十分艰难的将其升级到了1.0版本（因为我真不太熟XML语言啊，要是弄个FPGA我还可以装一装B），由一开始的500+行输出错误到0错误，真的是不容易啊！
+Refactor the code for 1.0.I hope the original author doesn't mind.
+
+add japanese-style door. 
+添加了和风门。
+
+Fusuma is the door of a Japanese room. 
+Very light, but very fragile. 
+拉阖门被当做日式房间的门。
+非常轻薄但是易碎。
+
+汉化制作：jxb12306———>没错还是我
+强烈建议搭配Ofuton and Tatami 1.0-和风物件使用，地址：https://mod.3dmgame.com/mod/65857或者http://bbs.3dmgame.com/thread-5842015-1-1.html。
+顺带也推荐搭配LinkableDoors-可合并的门（没错就是这玩意给我的执念）使用，地址：https://mod.3dmgame.com/mod/66767或者http://bbs.3dmgame.com/thread-5842015-1-1.html。
+ </description>
+</ModMetaData>

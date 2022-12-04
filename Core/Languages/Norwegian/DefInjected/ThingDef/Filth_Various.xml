@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FilthDirt.label>skitt</FilthDirt.label>
+    
+    <FilthAnimalFilth.label>dyremøkk</FilthAnimalFilth.label>
+    
+    <FilthSand.label>sand</FilthSand.label>
+    
+    <RockRubble.label>steinklumper</RockRubble.label>
+    
+    <BuildingRubble.label>bygningsstøv</BuildingRubble.label>
+    
+    <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
+    
+    <FilthBlood.label>blod</FilthBlood.label>
+    
+    <FilthBloodInsect.label>insektblod</FilthBloodInsect.label>
+    
+    <FilthAmnioticFluid.label>fostervann</FilthAmnioticFluid.label>
+    
+    <FilthSlime.label>slim</FilthSlime.label>
+    
+    <FilthVomit.label>oppkast</FilthVomit.label>
+    
+    <FilthFireFoam.label>brannskum</FilthFireFoam.label>
+    
+</LanguageData>

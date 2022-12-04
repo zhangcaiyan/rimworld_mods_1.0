@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LFJob_RestInHotSpring.reportString>在温泉中休息。</LFJob_RestInHotSpring.reportString>
+
+  <LFJob_RefleshInSpring.reportString>在泉水中避暑。</LFJob_RefleshInSpring.reportString>
+
+  <LFJob_WaterwayDrawing.reportString>在TargetA进行作业。</LFJob_WaterwayDrawing.reportString>
+
+  <LFJob_KAZUSASystem.reportString>在TargetA向着蓄水层开凿。</LFJob_KAZUSASystem.reportString>
+
+  <LFJob_WaterVeinDrill.reportString>在TargetA挖掘中。</LFJob_WaterVeinDrill.reportString>
+
+  <LFJob_FoxianHealing.reportString>治疗TargetA的旧伤。</LFJob_FoxianHealing.reportString>
+
+  <LFJob_AnimalRetreat.reportString>撤退中</LFJob_AnimalRetreat.reportString>
+
+  <LFJob_FirstAid.reportString>紧急处理TargetA的伤势</LFJob_FirstAid.reportString>
+
+  <LFJob_InteractWith.reportString>与TargetA对话</LFJob_InteractWith.reportString>
+
+
+</LanguageData>

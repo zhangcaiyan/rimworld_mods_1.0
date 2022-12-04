@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Caravan_Yokai</defName>
+    <label>Yokai merchant</label>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>5000</min>
+          <max>8000</max>
+        </countRange>
+      </li>
+      <!--食べ物 -->
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_SnowMilk</thingDef>
+        <countRange>
+          <min>20</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_cheeeese</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_CheeeeseCake</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>15</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_HotDrink</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>5</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_IceDrink</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>5</max>
+        </countRange>
+      </li>
+      <!--家具 -->
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_karyuu_tomosibi</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_Himuro</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <!--錬成素材　要調整 -->
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_FlameStone</thingDef>
+        <countRange>
+          <min>2</min>
+          <max>6</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_Fragment</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>20</max>
+        </countRange>
+      </li>
+      <!-- 素材-->
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_NekoMusumeWool</thingDef>
+        <countRange>
+          <min>50</min>
+          <max>100</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_JorouGumoThread</thingDef>
+        <countRange>
+          <min>60</min>
+          <max>120</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_ShiroWool</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>300</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_Leather_Dragon</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>140</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Jade</thingDef>
+        <countRange>
+          <min>20</min>
+          <max>40</max>
+        </countRange>
+      </li>
+      <!--お薬 -->
+      <li Class="StockGenerator_Tag">
+        <tradeTag>Yokai_Medicine</tradeTag>
+        <countRange>
+          <min>10</min>
+          <max>20</max>
+        </countRange>
+        <thingDefCountRange>
+          <min>2</min>
+          <max>4</max>
+        </thingDefCountRange>
+      </li>
+      <!--動物 -->
+      <li Class="StockGenerator_Animals">
+        <tradeTagsSell>
+          <li>Yokai_Nomal</li>
+        </tradeTagsSell>
+        <kindCountRange>
+          <min>2</min>
+          <max>4</max>
+        </kindCountRange>
+        <totalPriceRange>
+          <min>1000</min>
+          <max>6000</max>
+        </totalPriceRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <tradeTagsSell>
+          <li>Yokai_Farm</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>Yokai_Dragon</li>
+          <li>AnimalFarm</li>
+          <li>AnimalPet</li>
+          <li>AnimalUncommon</li>
+          <li>AnimalFighter</li>
+          <li>AnimalExotic</li>
+        </tradeTagsBuy>
+        <kindCountRange>
+          <min>2</min>
+          <max>4</max>
+        </kindCountRange>
+        <countRange>
+          <min>2</min>
+          <max>3</max>
+        </countRange>
+      </li>
+      <!--武具 -->
+      <li Class="StockGenerator_Category">
+        <categoryDef>Yokai_Buki</categoryDef>
+        <thingDefCountRange>
+          <min>1</min>
+          <max>3</max>
+        </thingDefCountRange>
+        <totalPriceRange>
+          <min>1000</min>
+          <max>4500</max>
+        </totalPriceRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>Yokai_Kimono</categoryDef>
+        <countRange>
+          <min>2</min>
+          <max>4</max>
+        </countRange>
+        <totalPriceRange>
+          <min>600</min>
+          <max>4000</max>
+        </totalPriceRange>
+      </li>
+      <!--そのほか -->
+      <li Class="StockGenerator_Tag">
+        <tradeTag>TechHediff</tradeTag>
+        <thingDefCountRange>
+          <min>1</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>1</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>ExoticMisc</tradeTag>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>1</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <!-- 絨毯-->
+      <li Class="StockGenerator_Tag">
+        <tradeTag>Yokai_Art</tradeTag>
+        <countRange>
+          <min>1</min>
+          <max>2</max>
+        </countRange>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>2</max>
+        </thingDefCountRange>
+      </li>
+      <!--買い取り設定 -->
+      <li Class="StockGenerator_BuyArt" />
+      <li Class="StockGenerator_BuyExpensiveSimple" />
+      <li Class="StockGenerator_BuyWeirdOrganic" />
+      <li Class="StockGenerator_Category">
+        <categoryDef>WeaponsMelee</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>0</max>
+        </thingDefCountRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>Textiles</categoryDef>
+        <countRange>
+          <min>0</min>
+          <max>0</max>
+        </countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Akaname.label>Akaname</Yokai_Akaname.label>
+  <Yokai_Akaname.description>A noble little Yokai, these creatures once cleaned the dirt found in communal baths. Yet, here on the frontier, such baths are a great rarity. Their spirit, however, remains pure. Slow tongues work upon colony floors, cleaning dirt, rubble, and blood: devoting themselves to serving those who may never know the peace of a proper bath. Akaname are otherwise weak, limited creatures, though-oddly enough-some strange power protects them from carnivorous beasts.
+    \nThe name Akaname, like many Yokai names, is a description of the creature itself, thus "Aka" means "Filth" and "Name" means "Licker." Yokai lore states that these creatures manifest from the dusty air of bathhouses and ramshackled estates. Since most Yokai were considered scary, some people would keep their bathing facilities clean from the fear that an Akaname might visit them otherwise.</Yokai_Akaname.description>
+  <Yokai_Akaname.tools.0.label>left hand</Yokai_Akaname.tools.0.label>
+  <Yokai_Akaname.tools.1.label>right hand</Yokai_Akaname.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Akaname_Corpse.label>Akaname corpse</Yokai_Akaname_Corpse.label>
+  <Yokai_Akaname_Corpse.description>Akaname corpse</Yokai_Akaname_Corpse.description>
+
+
+</LanguageData>

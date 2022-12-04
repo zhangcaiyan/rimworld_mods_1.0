@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>avaruussotilas</AncientSoldier.label>
+  <AncientSoldier.labelPlural>space soldiers</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>avaruuspakolainen</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+  
+</LanguageData>

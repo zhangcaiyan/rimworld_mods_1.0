@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProjectorTurret.label>探照灯炮塔</ProjectorTurret.label>
+  <ProjectorTurret.description>安装在炮塔底座上的探照灯，可以自动锁定附近的目标。可以建在屋顶之下。</ProjectorTurret.description>
+  <ProjectorTurret_Blueprint.label>>探照灯炮塔 (蓝图)</ProjectorTurret_Blueprint.label>
+  <ProjectorTurret_Blueprint_Install.label>>探照灯炮塔 (蓝图)</ProjectorTurret_Blueprint_Install.label>
+  <ProjectorTurret_Frame.label>>探照灯炮塔 (建造中)</ProjectorTurret_Frame.label>
+  <ProjectorTurret_Frame.description>安装在炮塔底座上的探照灯，可以自动锁定附近的目标。可以建在屋顶之下。</ProjectorTurret_Frame.description>
+
+
+</LanguageData>

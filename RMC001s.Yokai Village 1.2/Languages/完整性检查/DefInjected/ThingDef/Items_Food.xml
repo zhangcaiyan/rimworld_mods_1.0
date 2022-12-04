@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ちーず -->
+
+  <Yokai_cheeeese.label>LamiaCheese</Yokai_cheeeese.label>
+  <Yokai_cheeeese.description>In Yokai villages there are several traditions surrounding food production. One such allows the production of cheese using Lamia milk. As a cheese, it has a fine taste, high nutrition, and long shelf life.</Yokai_cheeeese.description>
+
+
+  <!-- ちーずけーき -->
+
+  <Yokai_CheeeeseCake.label>YokaiCheeseCake</Yokai_CheeeeseCake.label>
+  <Yokai_CheeeeseCake.description>A mundane recipe transformed by the inclusion of Lamia Cheese. Your colonists will find it hard to hold back a smile after taking a bite.</Yokai_CheeeeseCake.description>
+
+
+  <!-- どみーと -->
+
+  <Yokai_domeat.label>Domeat</Yokai_domeat.label>
+  <Yokai_domeat.description>A highly nutritious steak made using dragon meat.</Yokai_domeat.description>
+
+
+  <!-- 焼肉 -->
+
+  <Yokai_Yaki.label>Grilled Yokai Rations</Yokai_Yaki.label>
+  <Yokai_Yaki.description>A very simple, seasonless, dish that will have colonists wishing to eat anything else. It can easily be mass produced, and-due to its simplicity-has a low chance of food poisoning.</Yokai_Yaki.description>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+<!--尻尾-->
+  <BodyPartGroupDef>
+    <defName>LF_TailAttackTool</defName>
+    <label>tail</label>
+  </BodyPartGroupDef>
+
+<!--左脚-->
+  <BodyPartGroupDef>
+    <defName>LF_LeftLegAttackTool</defName>
+    <label>left leg</label>
+  </BodyPartGroupDef>
+<!--右脚-->
+  <BodyPartGroupDef>
+    <defName>LF_RightLegAttackTool</defName>
+    <label>right leg</label>
+  </BodyPartGroupDef>
+
+<!--左翼。翼竜は肋骨の一部がこれに置き換わる。-->
+  <BodyPartGroupDef>
+    <defName>LF_LeftWingAttackTool</defName>
+    <label>left wing</label>
+  </BodyPartGroupDef>
+
+<!--右翼-->
+  <BodyPartGroupDef>
+    <defName>LF_RightWingAttackTool</defName>
+    <label>right wing</label>
+  </BodyPartGroupDef>
+
+</Defs>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Lighting stuff -->
+
+	<Anon2EndTableLight.label>Тумбочка с лампой</Anon2EndTableLight.label>
+	<Anon2EndTableLight.description>Эта маленькая тумбочка хорошо сочетается с кроватью. При размещении у изголовья кровати повышает комфорт. Лампа в комплекте.</Anon2EndTableLight.description>
+
+	<Anon2RoyalEndTableLight.label>Королевская тумбочка с лампой</Anon2RoyalEndTableLight.label>
+	<Anon2RoyalEndTableLight.description>Эта маленькая тумбочка хорошо сочетается с королевской кроватью. При размещении у изголовья кровати повышает комфорт. Лампа в комплекте.</Anon2RoyalEndTableLight.description>
+
+	<StandingLamp_Magenta.label>Пурпурная лампа</StandingLamp_Magenta.label>
+	<StandingLamp_Magenta.description>Освещает ближайшую область пурпурным светом.</StandingLamp_Magenta.description>
+
+	<StandingLamp_Yellow.label>Желтая лампа</StandingLamp_Yellow.label>
+	<StandingLamp_Yellow.description>Освещает ближайшую область жёлтым светом</StandingLamp_Yellow.description>
+
+	<StandingLamp_Orange.label>Оранжевая лампа</StandingLamp_Orange.label>
+	<StandingLamp_Orange.description>Освещает ближайшую область оранжевым светом</StandingLamp_Orange.description>
+
+	<StandingLamp_Purple.label>Фиолетовая лампа</StandingLamp_Purple.label>
+	<StandingLamp_Purple.description>Освещает ближайшую область фиолетовым светом</StandingLamp_Purple.description>
+
+	<StandingLamp_Aqua.label>Голубая лампа</StandingLamp_Aqua.label>
+	<StandingLamp_Aqua.description>Освещает ближайшую область голубым светом.</StandingLamp_Aqua.description>
+	
+	<StandingLamp_Lime.label>Светло-зеленая лампа</StandingLamp_Lime.label>
+	<StandingLamp_Lime.description>Освещает ближайшую область светло-зеленым светом.</StandingLamp_Lime.description>
+
+
+</LanguageData>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_Glacia_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>2</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Glacia_call</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>70</min>
+          <max>90</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.999</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>50.40025</max>
+        </distRange>
+	<repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Glacia_Angry</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>1</maxVoices>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Glacia_angry</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>30</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.999</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+	<sustainIntervalRange>
+          <min>5</min>
+          <max>7</max>
+	</sustainIntervalRange>
+	<repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>false</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Glacia_Wounded</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>2</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Glacia_wounded</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45</min>
+          <max>85</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.0</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+	<repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Glacia_Death</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>1</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Glacia_death</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>90</min>
+          <max>90</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9311764</min>
+          <max>1.068824</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>70</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

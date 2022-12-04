@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--=============== Pure stuffs: Basics ====================-->
+	<Silver.label>Striebro</Silver.label>
+	<Silver.description>Jeho hlavný význam je obchod. Dá sa použiť aj na výrobu pekných dekorácii.</Silver.description>
+	
+	<Gold.label>Zlato</Gold.label>
+	<Gold.description>Najlákavejší kov zo všetkých. Milíony ľudí umreli aby uhasili ľudský smäd za zlatom. Tento mäkký kov je veľmi pekný a ešte viac vzácnejší.</Gold.description>
+
+	<Metal.label>Železo</Metal.label>
+	<Metal.description>Potrebné na stavbu budov, zbraní a nástrojov.</Metal.description>
+	
+	<Plasteel.label>Plasteel</Plasteel.label>
+	<Plasteel.description>Pokročilý vesmírny stavebný maretiál. Plasteel je extrémne pevný, a to kvôli jeho molekulálnej štruktúre.</Plasteel.description>
+
+	<StoneBlocks.label>Kamenné bloky</StoneBlocks.label>
+	<StoneBlocks.description>Potrebné na stavbu budov/štruktúr.</StoneBlocks.description>
+
+	<WoodLog.label>Drevená guľatina</WoodLog.label>
+	<WoodLog.description>Potrebná na stavbu budov/štruktúr. Je možné ju rozrezať na dosky.</WoodLog.description>
+	
+	<WoodPlank.label>Drevená doska</WoodPlank.label>
+	<WoodPlank.description>Potrebné na stavbu budov/štruktúr.</WoodPlank.description>
+	
+	<Uranium.label>Urán</Uranium.label>
+    <Uranium.description>Palivo do reaktorov.</Uranium.description>
+	
+		<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+		<Cloth.label>Látka</Cloth.label>
+	<Cloth.description>Tkanina utkána z organických vlákien.</Cloth.description>
+	
+	<Synthread.label>Syngarn</Synthread.label>
+	<Synthread.description>Space-tech tkanina určená a bežné oblečenie. Je mäkká, pevná a ľahká.</Synthread.description>
+	
+	<Hyperweave.label>Nanovlákno</Hyperweave.label>
+	<Hyperweave.description>High-Tech nano-vlákno tkáne do listov. Dosť ťažné, ale skoro nepreniknuteľné.</Hyperweave.description>
+	
+	<DevilstrandCloth.label>Diablovo vlákno</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Extrémne silné vlákno, vyťažené priamo z diabolskej huby.</DevilstrandCloth.description>
+	
+		<!--=============== Raw foods ====================-->
+		
+	<RawPotatoes.label>Zemiaky</RawPotatoes.label>
+	<RawPotatoes.description>Surové zemiaky.</RawPotatoes.description>
+	
+	<RawBerries.label>Ostružiny</RawBerries.label>
+	<RawBerries.description>Rozličné ostružiny. Sú chutné aj surové.</RawBerries.description>
+	
+	<RawAgave.label>Agáve</RawAgave.label>	
+	<RawAgave.description>Surové plody agáve.</RawAgave.description>
+	
+	
+	
+ 
+	
+
+	 <!--=============== Manufactured ====================-->
+	<Medicine.label>Lieky</Medicine.label>
+    <Medicine.description>Lieky používajú doktori na liečenie.</Medicine.description>
+	
+	<Shells.label>Strely</Shells.label>
+    <Shells.description>Používané v delách.</Shells.description>
+	
+	 <!--=============== UNUSED ====================-->
+	
+	<Missiles.label>Rakety</Missiles.label>
+    <Missiles.description>Používané v raketometoch.</Missiles.description>
+
+</LanguageData>

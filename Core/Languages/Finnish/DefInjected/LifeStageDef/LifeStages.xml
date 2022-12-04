@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>aikuinen</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>vauva</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>pentu</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>aikuinen</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>epäkypsä</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>toukka</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>aikuinen</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>vauva</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>lapsi</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>teini-ikäinen</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>teini-ikäinen</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>taapero</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>täysikasvuinen</MechanoidFullyFormed.label>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="LostForestSelfTamePatch.Defs.LFSTP_DefNames">
+    <defName>LFSTP_DefNames1</defName>
+    <defNames>
+      <li>Yokai_Tukumo</li>
+      <li>Yokai_Issun</li>
+      <li>Yokai_NineTail</li>
+      <li>Yokai_NineTailWhite</li>
+      <li>Yokai_Samia_sol</li>
+      <li>Yokai_Dragon_MoonDragon</li>
+      <li>Yokai_Raid_Redra</li>
+      <li>Yokai_Raid_Mdra</li>
+      <li>Yokai_Raid_Pekodra</li>
+      <li>Yokai_Nurikabe</li>
+      <li>Yokai_HihiiroKabe</li>
+      <li>Yokai_TuskSprit</li>
+      <li>Yokai_Hodama</li>
+      <li>LF_Foxia</li>
+      <li>LF_Lefca</li>
+      <li>LF_Wolvern</li>
+      <li>LF_Dragonia</li>
+      <li>LF_PetiteServantDragon</li>
+      <li>LF_Glacia</li>
+      <li>LF_Flammelia</li>
+    </defNames>
+  </Def>
+</Defs>

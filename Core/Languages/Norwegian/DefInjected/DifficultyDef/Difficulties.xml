@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FreePlay.label>Fritt spill</FreePlay.label>
+    <FreePlay.description>En modus for en lekekassekoloni. Farer finnes, men de er veldig underlegne.</FreePlay.description>
+    
+    <Basebuilder.label>Oppbygging</Basebuilder.label>
+    <Basebuilder.description>Dene modusen fokuserer på å bygge en base. Farene errelativt enkle å hanskes med.</Basebuilder.description>
+    
+    <Rough.label>Tøft</Rough.label>
+    <Rough.description>Det er en tøff planet. Det er ingen bonuser til kolonisthumør eller jordbruk. Trå varsomt, og hold hodet kaldt.</Rough.description>
+    
+    <Challenge.label>Utfordring</Challenge.label>
+    <Challenge.description>For dem som ønsker en utfordring. Denne modusen krever strategi, selvsikkerhet og flaks. Den autentiske RimWorld-opplevelsen.</Challenge.description>
+    
+    <Extreme.label>Ekstremt</Extreme.label>
+    <Extreme.description>Her er det ingen kjære mor. Fiender er sterke, priser er urettferdige, mat er sjeldnere, og kolonistene er sure. For dem som nyter å slite.</Extreme.description>
+    
+</LanguageData>

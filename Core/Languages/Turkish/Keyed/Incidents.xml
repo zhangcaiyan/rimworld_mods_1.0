@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>Deliye dönmüş hayvan</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Yerel bir {0} deliye döndü. Gördüğü her koloniste saldıracak.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Deliye dönmüş hayvanlar!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Bir çeşit ruhsal dalga bölgenin üzerinden geçti. Kolonistlerin durumu iyi, fakat..\n\nbölgedeki {0}ların in birçoğu çılgınca hareket ediyorlardı.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>Mantar</LetterLabelCropBlight>
+  <CropBlight>Esrarengiz bir mantar ekinlerini mahvetti.</CropBlight>
+
+  <LetterLabelMiracleHeal>Mucize</LetterLabelMiracleHeal>
+  <MiracleHeal>{0}, mucizevi bir şekilde iyileşti!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>{1} konumundan gelen bir {0} grubu yakına vardı.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>{1} konumundan gelen bir {0} grubu düşmüş kapsül içinde yakına vardı.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>{1} konumundan gelen bir {0} grubu dosdoğru üstüne düştüler!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>{1} konumundan gelen {0} grubundan biri, grup lideri.</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>{1} konumundan gelen bir dost {0} grubu yakına vardı.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>{1} konumundan gelen bir dost {0} grubu yörüngeden düşüşe geçti.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>{1} konumundan gelen bir dost {0} grubu yörüngeden dosdoğru üstünüze düştü.</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>{1} konumundan gelen {0} grubundan biri, grup lideri.</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>Kaçış kapsülü</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Yakınlarda parçalanmış bir kaçış kapsülü tespit ettin.\n\nÇarpışmadan kurtulan olduysa, ağır yaralı olacak.</RefugeePodCrash>
+
+  <LetterLabelCargoPodCrash>Kargo kapsülü</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Yakınlarda bir grup parçalanmış kargo kapsülü tespit ettin. \n\nEnkazda işine yarayacak bir şeyler bulabilirsin.</CargoPodCrash>
+
+  <AnElectricalConduit>bir elektrik borusu</AnElectricalConduit>
+  <ShortCircuit>{0}.\n\nBağlı akülerdeki bütün {1} Watt-gün enerji elektriksel bir patlamada deşarj oldu.</ShortCircuit>
+  <ShortCircuitWasLarge>Bu büyüklükte bir güç hayli fazla büyüklükte bir patlamaya yol açtı.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Bu gerçekten büyük bir patlama. Wow.</ShortCircuitWasHuge>
+
+  <TraderArrival>Yakınlardan bir takas gemisi geçiyor. \n\n{0} olarak biliniyorlar. Onlar bir {1}.</TraderArrival>
+
+  <SingleTravelerPassing>{1} konumundan gelen bir {0} yakınlardan geçiyor. [PAWN_pronoun] {2} olarak adlandırıldı.</SingleTravelerPassing>
+  <GroupTravelersPassing>{0} konumundan gelen bir grup gezgin yakınlardan geçiyor.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Ziyaretçi</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{1} konumundan gelen bir {0} kolonini ziyaret ediyor. \n\n[PAWN_pronoun] {2}.{3}{4} olarak adlandırıldı.</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] takaslık bir kaç eşyası var gibi görünüyor.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] grup lideri.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Ziyaretçiler</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>{0} konumundan gelen bir grup kolonini ziyaret ediyor.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nTakaslık bir kaç eşyası var gibi görünüyorlar.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\n{0} konumundan gelen ziyaretçilerden biri grup lideri.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>{0} konumundan gelen ziyaretçiler kolonini terk ediyor.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Gezgin katılıyor</LetterLabelWandererJoin>
+  <WandererJoin>[PAWN_nameDef] isimli bir {0} geldi ve kolonine katılıyor. [PAWN_pronoun] bir {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>İnsan avcısı paketi</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>bir insan avcılığı paketi, {0}lar alana girdi. İnsan eti avcılığı yaparak bölgeyi dolaşacaklar.\n\nKapılardan geçemezler, bu yüzden duvarların arkasında kalırsan, güvende olursun. İnaktif taretlere saldırmazlar, bu yüzden onları kurtarmak isterseniz taretlerini kapatın.\n\nAlanı birkaç gün içinde terk edecekler.</ManhunterPackArrived>
+
+  <!-- Crashed ship part-->
+  <MessageAnimalInsanityPulse>Kadim yapı çevredeki hayvanları çıldırtan psişik bir dalga yaydı.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Düşen gemi parçası odaklı bir psişik dalga yayarak {0}'ı delirtti.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>{0} gün önce uyandı</AwokeDaysAgo>
+  <PsychicDroneLevel>Ruhsal uğultu seviye: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Düşük</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Orta</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Yüksek</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Aşırı</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Uğultu yoğunlaşıyor</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Düşen gemi parçası artık daha güçlü bir çeşit ruhsal uğultu yayıyor. Çevredeki her insan artık daha rahatsız, korkmuş ve paranoyak hissediyor.</LetterPsychicDroneLevelIncreased>
+
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>Casus</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} düşman casusu olduğu ortaya çıktı {1}.\n\nŞimdi kaçmaya çalışıyorlar.</LetterAgentRevealed>
+
+  <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>Ruhsal vızıltı</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>{0} cinsiyetli her kolonist acıyla irkildi!\n\nBiraz uzaktaki cihaz nefret uyandırıyor. Sadece {0} cinsiyetini etkileyen bir frekansta tüm bölgeye güçlü bir ruhsal vızıltı yöneltiyor. Bir kaç günlüğüne bazı insanların ruh hali biraz daha kötü olacak. </LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Ruhsal rahatlatma</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>{0} cinsiyetli her kolonist memnuniyetle gülümser!\n\nBiraz uzaktaki cihaz mutluluk uyandırıyor. Sadece {0} cinsiyetini etkileyen bir frekansta tüm bölgeye güçlü bir ruhsal vızıltı yöneltiyor. Bir kaç günlüğüne bazı insanların ruh hali biraz daha iyi olacak.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Kunduzlar!</LetterLabelBeaversArrived>
+  <BeaversArrived>Az önce bir grup alfa kunduz vardı.\n\nBölgedeki her son ağacı yok etmeden önce onları yok etmeye çalış.</BeaversArrived>
+
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>Bir {1} ismi {0} olan seni yakından arıyor. [PAWN_pronoun] {2} tarafından {3} konumunda kovuldu!\n\n[PAWN_pronoun], güvenlik için yalvarıyor ve kolonisine katılmayı teklif ediyor. Biyolojik olarak, [PAWN_pronoun] {4} yaşında.\n\nUyarı - kabul ederseniz, [PAWN_possessive] peşindeki {2} ile savaşmanız gerekecek.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Güvenlik öner</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Mesajı yoksay</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>Sen iletişimi kesmeden önce {0} hoparlörden panik içinde bağırıyordu.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{0} kendi evcilleşti</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} evcilleşti.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} evcilleşti. {1} olarak adlandırıldı.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} evcilleşti. Kolonistler ona {1} ismini verdi.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>{0} grubu katıldı</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Bir grup {0}, terk edilmiş veya kaybolmuş, burada gezindiler.\n\nİnsan temasına alışkın görünüyorlar ve koloniye katılıyorlar.</LetterFarmAnimalsWanderIn>
+
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>Nadir başboynuz</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Küçük bir başboynuz sürüsü, bölgeyi dolaştı.\n\nDoğası gereği barışçıl, bu nadir canlılar karşı karşıya kaldıklarında son derece tehlikelidir. Bazı tüccarlar değerli deri ve boynuzları için çok para ödemeye hazırdır.\n\nBaşboynuz birkaç gün içinde bölgeyi terk edecektir.</LetterThrumboPasses>
+
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>{1} konumundan {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0} konumundan bir karavan yaklaşıyor. Onlar bir {1}.\n\nAyrılmadan önce koloni etrafında birkaç gün takılacaklar. Onlara saldırabilirsiniz ancak bu onların klanlarını öfkelendirir!</LetterTraderCaravanArrival>
+
+  <!-- Building breaks down -->
+  <LetterLabelBuildingBrokenDown>Arıza: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>Makinelerinizden biri ({0}) çöktü. Tamir işi türüne sahip bir kolonist gidip düzeltinceye kadar işe yaramaz.</LetterBuildingBrokenDown>
+
+  <!-- Ransom demand -->
+  <RansomDemand>{1} sizi radyoda arar. Kolonist {0}, fidye için tutuyorlar.\n\n{2} gümüş karşılığında size [PAWN_objective] geri iade edilmek isteniyor.</RansomDemand>
+  <RansomDemand_Accept>Kabul et</RansomDemand_Accept>
+  <RansomDemand_Reject>Reddet</RansomDemand_Reject>
+
+  <!-- Journey -->
+  <JourneyOffer>Geçmişinizden Charton Whitestone adlı bir Yapay Zeka size bir mesaj gönderdi!\n\nO, bu gezegende gizli bir yıldız gemisi olduğunu ve size dünya koordinatlarını gönderdiğini ortaya koyuyor.\n\nGemiye giderseniz, Charlon sizi bu dünyadan yıldızlara götürecektir.</JourneyOffer>
+
+  <!-- Caravan meeting -->
+  <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Ticaret</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Saldır</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Yola devam</CaravanMeeting_MoveOn>
+
+</LanguageData>
+
+<LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+<ItemStashQuest_Accept>Accept</ItemStashQuest_Accept>
+<CaravanDemand_Give>Give and pass</CaravanDemand_Give>
+<ItemStashQuestFeeDemand>{0} is willing to tell us the location of the stash in exchange for {1} silver.</ItemStashQuestFeeDemand>
+<CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
+<ItemStashQuest_Reject>Reject</ItemStashQuest_Reject>
+<RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
+<LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
+<ItemStashSitePart_Manhunters>{0} says that there is a group of manhunting animals wandering nearby.</ItemStashSitePart_Manhunters>
+<ItemStashSitePart_Unknown>Unfortunately, {0} has no idea who or what - if anything - might be guarding the stash.</ItemStashSitePart_Unknown>
+<CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
+<ItemStashQuestTitle>Item stash opportunity</ItemStashQuestTitle>
+<CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
+<ItemStashSitePart_Nothing>{0} says that the stash is unguarded.</ItemStashSitePart_Nothing>
+<ItemStashSitePart_Outpost>{0} says that there is an enemy outpost nearby.</ItemStashSitePart_Outpost>
+<RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
+<CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
+<ItemStashSitePart_Turrets>{0} says that the stash is surrounded by enemy turrets.</ItemStashSitePart_Turrets>
+<CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>

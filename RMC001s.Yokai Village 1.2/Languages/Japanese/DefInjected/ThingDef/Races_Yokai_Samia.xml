@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Samia.label>サミア</Yokai_Samia.label>
+  <Yokai_Samia.description>ラミアの中でも特に秀でた者たちは武器を持って戦うことを覚えました。サミアと呼ばれる彼女たちは九尾の加護で高い耐性を会得しています。
+    \n野生に暮らしている種族ではないので自然環境で会うことはありませんし、人間相手に心を許す事はないでしょう。妖怪村に危機が訪れると姿を現します。
+    \nまたサミアの肉や皮はラミアの物と同じなので入植者はこれを好みません。</Yokai_Samia.description>
+  <Yokai_Samia.tools.0.label>左手</Yokai_Samia.tools.0.label>
+  <Yokai_Samia.tools.1.label>右手</Yokai_Samia.tools.1.label>
+  <Yokai_Samia.tools.1.label>尾</Yokai_Samia.tools.1.label>
+  <Yokai_Samia_Corpse.label>サミアの死骸</Yokai_Samia_Corpse.label>
+  <Yokai_Samia_Corpse.description>もはや加護は失われ、冷たく硬くなってしまったサミアの死骸です。彼女たちの皮や肉はラミアのものと同じです。</Yokai_Samia_Corpse.description>
+</LanguageData>

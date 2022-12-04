@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Cobra.label>kobra</Cobra.label>
+    <Cobra.description>En stor slange. Kobraer kan bli svært aggressive om de blir provosert - Det er best å ligge unna disse skapningene.</Cobra.description>
+    <Cobra_Leather.label>kobralær</Cobra_Leather.label>
+    <Cobra_Leather.description>Garvet lær lagd av huden fra en kobra.</Cobra_Leather.description>
+    <Cobra_Leather.stuffProps.stuffAdjective>kobralær</Cobra_Leather.stuffProps.stuffAdjective>
+    <Cobra_Meat.label>kobrakjøtt</Cobra_Meat.label>
+    <Cobra_Meat.description>Rått kjøtt fra en kobra.</Cobra_Meat.description>
+    <Cobra_Corpse.label>kobrakropp</Cobra_Corpse.label>
+    <Cobra_Corpse.description>Den døde kroppen av en kobra.</Cobra_Corpse.description>
+    
+    <Monkey.label>ape</Monkey.label>
+    <Monkey.description>Denne apen kan bruke sin buktende hale til å gripe tak i greinene, så hendene blir frigjort til å gjøre andre ting.</Monkey.description>
+    <Monkey_Leather.label>apelær</Monkey_Leather.label>
+    <Monkey_Leather.description>Garvet lær lagd av skinnet fra en ape.</Monkey_Leather.description>
+    <Monkey_Leather.stuffProps.stuffAdjective>apelær</Monkey_Leather.stuffProps.stuffAdjective>
+    <Monkey_Meat.label>apekjøtt</Monkey_Meat.label>
+    <Monkey_Meat.description>Rått kjøtt fra en ape.</Monkey_Meat.description>
+    <Monkey_Corpse.label>apekropp</Monkey_Corpse.label>
+    <Monkey_Corpse.description>Den døde kroppen av en ape.</Monkey_Corpse.description>
+    
+    <Boomalope.label>pangtilope</Boomalope.label>
+    <Boomalope.description>pangtilopen er blitt genetisk manipulert for kjemikalieproduksjon – det vokser en stor sekk med flyktige kjemikalier på ryggen dens. Selv om den er liten og svak for størrelsen sin, har andre dyr lært seg å unngå den på grunn av den store eksplosjonen den frembringer når den dør.</Boomalope.description>
+    <Boomalope_Leather.label>pangtilopelær</Boomalope_Leather.label>
+    <Boomalope_Leather.description>Garvet lær lagd av huden fra en pangtilope.</Boomalope_Leather.description>
+    <Boomalope_Leather.stuffProps.stuffAdjective>pantilopelær</Boomalope_Leather.stuffProps.stuffAdjective>
+    <Boomalope_Meat.label>pangtilopekjøtt</Boomalope_Meat.label>
+    <Boomalope_Meat.description>Rått kjøtt fra en pangtilope.</Boomalope_Meat.description>
+    <Boomalope_Corpse.label>pangtilopekropp</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>Den døde kroppen av en pangtilope.</Boomalope_Corpse.description>
+     
+</LanguageData>

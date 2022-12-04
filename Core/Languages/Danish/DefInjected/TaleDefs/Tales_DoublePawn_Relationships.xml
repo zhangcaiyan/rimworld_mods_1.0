@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <BondedWithAnimal.label>bånd skabt</BondedWithAnimal.label>
+	<BondedWithAnimal.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[human_nameShortDef] skaber et bånd med [animal_nameShortDef]</li>
+		<li>image-&gt;[human_nameFull] skaber et bånd med [animal_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[human_nameFull] skaber et dybt bånd med [animal_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[human_nameFull] indser [human_possessive] i sandhed elsker [animal_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;imens andre dyr kigger på</li>
+		<li>circumstance_phrase-&gt;og kigger ind i [animal_nameShortDef]'s øjne</li>
+		<li>circumstance_phrase-&gt;men en fornelse af tilfredshed</li>
+		<li>desc_sentence-&gt;[animal_nameShortDef] putter sig ind til [human_nameShortDef].</li>
+		<li>desc_sentence-&gt;[animal_nameShortDef] ser søvning ud og fuld af kærlighed.</li>
+		<li>desc_sentence-&gt;[animal_nameShortDef] står højt og ædlet.</li>
+		<li>desc_sentence-&gt;[animal_nameShortDef] reagerer positivt.</li>
+	</BondedWithAnimal.rulePack.rulesStrings>
+
+    <BecameLover.label>blev kærester</BecameLover.label>
+	<BecameLover.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[firstPawn_nameShortDef] og [secondPawn_nameShortDef] blev kærester</li>
+		<li>image-&gt;[firstPawn_nameFull] hvisker søde ord i [secondPawn_nameFull]'s øre [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] leder [secondPawn_nameFull] ved hånden til sengen [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] gambolling sig i sengen med [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] kysser [secondPawn_nameFull] dybt [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;i en urealistisk stor seng</li>
+		<li>circumstance_phrase-&gt;mellem sengelagnende</li>
+		<li>circumstance_phrase-&gt;med meget lidt tøj i sigte</li>
+		<li>circumstance_phrase-&gt;imens begge er gennemblødt af sved</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] putter sig ind til [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] låser sit blik med [secondPawn_nameShortDef]'s.</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] puster på [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] er stilistisk forbundet med [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] er et nær identisk billede af [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] røre ved [secondPawn_nameShortDef] aggresivt.</li>
+	</BecameLover.rulePack.rulesStrings>
+
+    <Breakup.label>slåer op</Breakup.label>
+	<Breakup.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[firstPawn_nameShortDef] og [secondPawn_nameShortDef] slog op</li>
+		<li>image-&gt;[firstPawn_nameFull] sidder [secondPawn_nameFull] ned for at have en ubehaglig snak [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] står i det fjerne fra [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] skubber [secondPawn_nameFull] ud af sengen [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] afvise et kram fra [secondPawn_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;i et øjeblik af stor sørgmodighed</li>
+		<li>circumstance_phrase-&gt;imens andre kigger akavet væk</li>
+		<li>circumstance_phrase-&gt;imens andre kigger på</li>
+		<li>desc_sentence-&gt;[secondPawn_nameShortDef] græder ukontroleret.</li>
+		<li>desc_sentence-&gt;[secondPawn_nameShortDef] snerer og græder på samme tid.</li>
+		<li>desc_sentence-&gt;[secondPawn_nameShortDef] er ansigtslammet af shock.</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] er stilistisk adskilt fra [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[secondPawn_nameShortDef] er kollapset på gulvet i en skælvende bunke.</li>
+		<li>desc_sentence-&gt;[secondPawn_nameShortDef] gestikulerende vredt af [firstPawn_nameShortDef].</li>
+	</Breakup.rulePack.rulesStrings>
+
+    <Marriage.label>gift</Marriage.label>
+	<Marriage.rulePack.rulesStrings>
+		<li>tale_noun-&gt;vielsen af [firstPawn_nameShortDef] og [secondPawn_nameShortDef]</li>
+		<li>image-&gt;[firstPawn_nameFull] vier [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] siger sine [firstPawn_possessive] ægteskabsløfter til [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] går ned af kirkegulvet med [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image-&gt;[firstPawn_nameFull] holder [secondPawn_nameFull]s hænder under vielsen [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;i en værdig ceremoni</li>
+		<li>circumstance_phrase-&gt;imens begger leer muntert</li>
+		<li>circumstance_phrase-&gt;imens andre højtideligt kigger på</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] putter sig op mod [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] låser sine øjne med [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] puster på [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] er stilistisk bundet med [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] er et nær identisk billede af [secondPawn_nameShortDef].</li>
+		<li>desc_sentence-&gt;[firstPawn_nameShortDef] røre ved[secondPawn_nameShortDef] aggressively.</li>
+	</Marriage.rulePack.rulesStrings>
+
+</LanguageData>

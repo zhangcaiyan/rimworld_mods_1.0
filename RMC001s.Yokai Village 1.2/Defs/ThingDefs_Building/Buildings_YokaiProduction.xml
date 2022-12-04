@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--妖怪作業台ベース -->
+  <ThingDef ParentName="BenchBase" Name="Yokai_Bench" Abstract="True">
+    <graphicData>
+      <drawSize>(2,1)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+      <graphicClass>Graphic_Multi</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <passability>PassThroughOnly</passability>
+    <pathCost>75</pathCost>
+    <size>(2,1)</size>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <unpoweredWorkTableWorkSpeedFactor>0.75</unpoweredWorkTableWorkSpeedFactor>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+    <designationCategory>Production</designationCategory>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>0.05</fuelConsumptionRate>
+        <fuelCapacity>1.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_FlameStone</li>
+          </thingDefs>
+        </fuelFilter>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>4</heatPerSecond>
+      </li>
+    </comps>
+  </ThingDef>
+  <!-- 妖怪料理台　妖怪の料理とドリンク、食肉の解体が出来る -->
+  <ThingDef ParentName="Yokai_Bench">
+    <defName>Yokai_Nabe</defName>
+    <label>Yokai cooking pot</label>
+    <description>Special fuel is required to ignite the fire in this Yokai cooking table. A ward keeps the fire from igniting any other way, as all Yokai recipes require a peculiar flame to cook properly.</description>
+    <thingClass>Building_WorkTable_HeatPush</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiNabe/YokaiNabe</texPath>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <WoodLog>40</WoodLog>
+      <Steel>30</Steel>
+    </costList>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <Cleanliness>5</Cleanliness>
+    </statBases>
+    <researchPrerequisites>
+      <li>YokaiTraditionFood</li>
+    </researchPrerequisites>
+    <building>
+      <isMealSource>true</isMealSource>
+    </building>
+    <recipes>
+      <li>Make_Kibble</li>
+    </recipes>
+  </ThingDef>
+  <!-- 妖怪ミシン　電力を使わないけど、起動に特別な石が必要。一度の補充で１年以上持つ。妖怪装備４種が作れる。 -->
+  <ThingDef ParentName="Yokai_Bench">
+    <defName>Yokai_Hariko</defName>
+    <label>Yokai tailoring bench</label>
+    <description>This special sewing machine does not require electricity to use; instead, one must make or attain a certain kind of fuel from Yokai traders. Besides clothes, this bench is used to create Yokai medicine.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiHariko/YokaiHariko</texPath>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <WoodLog>30</WoodLog>
+      <Steel>45</Steel>
+    </costList>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+    </statBases>
+    <researchPrerequisites>
+      <li>YokaiTraditionCloth</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <!--妖怪武器製造台　妖怪の色々な武器と義体を作れる。電力は必要ないけど、特別な石が必要。 -->
+  <ThingDef ParentName="Yokai_Bench">
+    <defName>Yokai_Kanatoko</defName>
+    <label>Forge of the Yokai</label>
+    <description>A tender but fierce magic guides the flame within this forge, thus it can create anything from army annihilating weapons to intricately crafted prosthetics.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/Kaji/Kaji</texPath>
+    </graphicData>
+    <costList>
+      <Steel>60</Steel>
+    </costList>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <Cleanliness>-3</Cleanliness>
+    </statBases>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>YokaiTraditionWeapon</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <!-- 妖怪錬成台　ダミー 
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_ArcaneCraftTableD</defName>
+    <label>Arcane crafting table</label>
+    <description>TEST BUILDING. IF STILL FOUND IN PUBLIC RELEASE, THEN PLEASE REPORT. THANK YOU.</description>
+    <thingClass>YokaiVillage.Building_ArcaneCraftTablesReplacer</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiArcaneCraft/Yokai_ArcaneCraftTableD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3.5,1.5)</drawSize>
+    </graphicData>
+    <size>(3,1)</size>
+    <rotatable>false</rotatable>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <Cleanliness>5</Cleanliness>
+    </statBases>
+    <designationCategory>Production</designationCategory>
+  </ThingDef>
+  <ThingDef Name="Yokai_ArcaneCraftTableLR" Abstract="True" ParentName="BuildingBase">
+    <defName>Yokai_ArcaneCraftTableLR</defName>
+    <label>Arcane table LR</label>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>8</Mass>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <size>(1,1)</size>
+    <building>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <staticSunShadowHeight>0.5</staticSunShadowHeight>
+    <surfaceType>Item</surfaceType>
+    <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+  <ThingDef ParentName="Yokai_ArcaneCraftTableLR">
+    <defName>Yokai_ArcaneCraftTableL</defName>
+    <label>Arcane material table</label>
+    <thingClass>YokaiVillage.Building_ArcaneCraftTableL</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiArcaneCraft/Yokai_ArcaneCraftTableL</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="Yokai_ArcaneCraftTableLR">
+    <defName>Yokai_ArcaneCraftTableR</defName>
+    <label>Arcane material table</label>
+    <thingClass>YokaiVillage.Building_ArcaneCraftTableR</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiArcaneCraft/Yokai_ArcaneCraftTableR</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_ArcaneCraftTableC</defName>
+    <label>Training table</label>
+    <description>Monastery of the Yokai.</description>
+    <thingClass>YokaiVillage.Building_ArcaneCraftTableC</thingClass>
+    <canOverlapZones>false</canOverlapZones>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <statBases>
+      <Mass>20</Mass>
+      <WorkToBuild>2000</WorkToBuild>
+      <Cleanliness>5</Cleanliness>
+    </statBases>
+    <building>
+      <workSpeedPenaltyOutdoors>true</workSpeedPenaltyOutdoors>
+      <workSpeedPenaltyTemperature>true</workSpeedPenaltyTemperature>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <interactionCellIcon>DiningChair</interactionCellIcon>
+    <comps>
+      <li>
+        <compClass>CompReportWorkSpeed</compClass>
+      </li>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ReportWorkSpeedPenalties</li>
+    </placeWorkers>
+    <graphicData>
+      <texPath>Things/Item/Building/YokaiArcaneCraft/Yokai_ArcaneCraftTableC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
+  </ThingDef>-->
+</Defs>

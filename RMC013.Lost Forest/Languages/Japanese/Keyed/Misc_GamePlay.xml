@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- LF Cooler & Heater -->
+	<Running>稼働中</Running>
+	<Stopped>停止中</Stopped>
+
+    <!-- Incident : ShortCircuit-->
+	<ShortCircuitWasPrevented>しかしそれは杞憂だったようです。発生した過電流は{0}の内部機構によりすべて吸収されました。目立った被害は何もありません。</ShortCircuitWasPrevented>
+	<ShortCircuitRainWasPrevented>しかし{0}の高度な制御機構により過電流が遮断されたため、被害を免れました。</ShortCircuitRainWasPrevented>
+	<SCPEffectReductionBatteryPowerLossOnLeakage>[{0} 効果]\n漏電時のバッテリー損失{1}%軽減</SCPEffectReductionBatteryPowerLossOnLeakage>
+	<SCPEffectAbsorptionAllLeakedEnergy>[{0} 効果]\n放出されたエネルギー{1}Wdをすべて吸収</SCPEffectAbsorptionAllLeakedEnergy>
+
+    <!-- Incident : FindOutSurvivor-->
+	<Survivor>遭難者</Survivor>
+
+
+    <!-- Building : AtzldoirStella -->
+	<txt_LFSeasonalEffect>季節固有描画</txt_LFSeasonalEffect>
+	<txt_LFSeasonalEffectToggle>季節固有描画の切替</txt_LFSeasonalEffectToggle>
+
+    <!-- Land Improvement -->
+	<WaterVeinDrillingProgress>進行度</WaterVeinDrillingProgress>
+	<WaterVeinDrillingSucceeded>{0}は{1}を掘り当てた！</WaterVeinDrillingSucceeded>
+    <!-- PlaceWorkerReport : Waterway Construction -->
+	<MustPlaceWithWaterSourceAndFreeSpace>水源と作業スペースが必要です。</MustPlaceWithWaterSourceAndFreeSpace>
+    <!-- TerrainSourceError : Waterway Construction -->
+	<DrawWaterwayFailedNonWaterSource>{0}は水源以外のものを水路に引き込もうとした。しかし愚かな試みは失敗に終わった。</DrawWaterwayFailedNonWaterSource>
+	<SoilWasSaltDamagedByDeepwater>周囲の土壌は引き込んだ海水によって塩害を受けた。</SoilWasSaltDamagedByDeepwater>
+	<NeedHeavyAnd1OverFertility>肥沃度が100%以上で重量物を支えられる地面が必要です。</NeedHeavyAnd1OverFertility>
+
+    <!-- Self Sanity Recovery -->
+	<MSG_RecoverdSanityOnOnesOwn>{0}は自力で正気を取り戻した。</MSG_RecoverdSanityOnOnesOwn>
+
+    <!-- RestInHotSpring : GetReport -->
+	<RelaxingInHotSpring>温泉でくつろいでいる</RelaxingInHotSpring>
+	<WatchingEclipseAtHotSpring>温泉に浸りながら日食を眺めている</WatchingEclipseAtHotSpring>
+	<WatchingAuroraAtHotSpring>温泉に浸りながらオーロラを眺めている</WatchingAuroraAtHotSpring>
+	<StargazingAtHotSpring>温泉に浸りながら夜空の星を眺めている</StargazingAtHotSpring>
+	<CloudWatchingAtHotSpring>温泉に浸りながら流れる雲を眺めている</CloudWatchingAtHotSpring>
+	<WatchingSunriseAtHotSpring>温泉に浸りながら日の出を眺めている</WatchingSunriseAtHotSpring>
+	<WatchingSunsetAtHotSpring>温泉に浸りながら日が沈むのを眺めている</WatchingSunsetAtHotSpring>
+
+    <!-- RefleshInColdSpring : GetReport -->
+	<RefleshingInSpring>泉で涼をとっている</RefleshingInSpring>
+	<WatchingEclipseAtSpring>泉で涼みながら日食を眺めている</WatchingEclipseAtSpring>
+	<WatchingAuroraAtSpring>泉で涼みながらオーロラを眺めている</WatchingAuroraAtSpring>
+	<StargazingAtSpring>泉で涼みながら夜空の星を眺めている</StargazingAtSpring>
+	<CloudWatchingAtSpring>泉で涼みながら流れる雲を眺めている</CloudWatchingAtSpring>
+	<WatchingSunriseAtSpring>泉で涼みながら日の出を眺めている</WatchingSunriseAtSpring>
+	<WatchingSunsetAtSpring>泉で涼みながら日が沈むのを眺めている</WatchingSunsetAtSpring>
+
+    <!-- Skill : Common -->
+	<txt_SkillNeedCoolDown>クールダウン：{0}sec.</txt_SkillNeedCoolDown>
+
+    <!-- Skill : First Aid -->
+	<txt_Skill_FirstAid_Label>応急処置</txt_Skill_FirstAid_Label>
+	<txt_Skill_FirstAid_Desc>【応急処置】\n治療が必要な対象に対して止血などの応急処置を行う。医薬品を消耗しない代わりに再使用までクールタイムがある。\n\n治療品質：{0}\n再使用：{1}秒</txt_Skill_FirstAid_Desc>
+
+    <!-- Skill : Adrenaline Burst -->
+	<txt_Skill_AdrenalineBurst_InactiveLabel>アドレナリンバースト</txt_Skill_AdrenalineBurst_InactiveLabel>
+	<txt_Skill_AdrenalineBurst_ActiveLabel>発動中</txt_Skill_AdrenalineBurst_ActiveLabel>
+	<txt_Skill_AdrenalineBurst_Desc>【アドレナリン・バースト】\n約80秒間、自身の代謝を飛躍的に向上させて身体能力を強化する。発動後は任意のタイミングで解除可能。効果が80%を超えるとオーバーヒートが発生し、100%に達するとスキルが強制解除される。\n発動中はスタンに対する耐性を得る。\n\n再使用：{0}秒</txt_Skill_AdrenalineBurst_Desc>
+	<txt_Skill_AdrenalineBurst_Overheated>オーバーヒート状態</txt_Skill_AdrenalineBurst_Overheated>
+
+    <!-- Foxia Own Job -->
+	<MSG_FoxianHealingSucceeded>{0}の古傷に{1}がそっと手をかざした。{0}の古傷が塞がった。</MSG_FoxianHealingSucceeded>
+	<MSG_FoxianHealingFailedBecauseOfTrait>{1}は{0}の古傷を治そうとした。しかし{0}の満足気な顔を見て治療するのをためらった。</MSG_FoxianHealingFailedBecauseOfTrait>
+
+    <!-- Interaction -->
+	<MSG_PetiteServantDragonWantToTellYouSomething>{0}はあなたに何かを伝えたがっているようだ。</MSG_PetiteServantDragonWantToTellYouSomething>
+	<InteractingPawnWith>{0}に話しかける</InteractingPawnWith>
+
+    <!-- Mote - Animal retreat job -->
+	<txt_Retreat>退却命令</txt_Retreat>
+	<txt_GetOutOfBattleImmerdiately>即座に戦闘状態から離脱させる。</txt_GetOutOfBattleImmerdiately>
+	<txtMote_NoRetreatPath>退路がない！</txtMote_NoRetreatPath>
+	<txtMote_NoThreatEnoughToEscape>退くべき脅威は存在しない</txtMote_NoThreatEnoughToEscape>
+	<txtMote_NoEnemyNearby>近くに敵がいない</txtMote_NoEnemyNearby>
+
+    <!-- Mote - AuraEffect of HolyWoodSapring : Treatment of infections -->
+	<txtMote_MechanitesInfectionWasCuredCompletely>{0}が完治した</txtMote_MechanitesInfectionWasCuredCompletely>
+
+    <!-- Gizmo : 光源装備 -->
+	<txt_ToggleLitON>点灯中</txt_ToggleLitON>
+	<txt_ToggleLitOFF>消灯</txt_ToggleLitOFF>
+	<txt_LightSourceApparelDesc>【 {0} 】</txt_LightSourceApparelDesc>
+	<txt_PermanentLightSource>永久光源</txt_PermanentLightSource>
+	<txt_fuel>燃料</txt_fuel>
+	<txt_remain>残り</txt_remain>
+	<txt_days>日</txt_days>
+	<txt_hours>時間</txt_hours>
+	<txt_TimeLeft>{0} {1} {2}</txt_TimeLeft>
+	<txt_ITabLSALabel>燃料</txt_ITabLSALabel>
+	<txt_fuelEfficiency>燃料価 : </txt_fuelEfficiency>
+	<txt_fuelSettings>燃料の設定</txt_fuelSettings>
+	<txt_CannotRefuelThisEq>この光源には燃料補給できない.</txt_CannotRefuelThisEq>
+    <!-- Job : 光源装備の燃料補給-->
+	<JobFailReason_NoFuel>燃料がない</JobFailReason_NoFuel>
+
+    <!-- Gizmo : パーティ強制中断 -->
+	<txt_StopPartyImmediately>パーティ中止</txt_StopPartyImmediately>
+	<txt_StopPartyImmediately_Desc>【今すぐパーティを中止する】\n「君たちは他に何かやるべき大事なことを忘れていないかい？」\n\n緊急の仕事さえ投げ出してパーティに熱中する入植者たち。そんな彼らに嫌気が差してしまったのなら、このボタンをどうぞ。（参加者への一時的な心情デバフと引き換えに即座にパーティを終わらせます。）</txt_StopPartyImmediately_Desc>
+
+    <!-- Gizmo : ドアテクスチャ反転 -->
+	<txt_flipDoor>グラフィック反転</txt_flipDoor>
+	<txt_flipDoorDesc>ドアのグラフィックを反転します。</txt_flipDoorDesc>
+
+    <!-- Dialog -->
+	<txt_DoNotShowUntilNextUpdate>[次のアップデートまで表示しない]</txt_DoNotShowUntilNextUpdate>
+
+
+
+
+<!-- ======================== MOD Settings ====================== -->
+
+	<LFSetting_JoinLimitGlobal>===== 種族加入上限の設定（グローバル） =====</LFSetting_JoinLimitGlobal>
+	<LFSetting_JoinLimitGlobalDesc>初回ロード時にのみ適用されます（後からデータ毎に設定し直す事もできます）。</LFSetting_JoinLimitGlobalDesc>
+	<LFSetting_AchievementAlert_JoinLimitGlobal>※この設定でロードしたセーブデータは加入上限実績が永久に無効になる！</LFSetting_AchievementAlert_JoinLimitGlobal>
+	<LFSetting_JoinLimitLocal>===== 種族加入上限の設定（ローカル） =====</LFSetting_JoinLimitLocal>
+	<LFSetting_JoinLimitLocalDesc>セーブデータごとの加入上限設定（グローバル設定よりも優先されます）。</LFSetting_JoinLimitLocalDesc>
+	<LFSetting_AchievementAlert_JoinLimitLocal>※このデータの加入上限実績は永久に無効だ</LFSetting_AchievementAlert_JoinLimitLocal>
+
+
+	<LFSetting_GamePlay>===== ゲームプレイ関連 =====</LFSetting_GamePlay>
+	<LFSetting_DisallowPostBondRelation>動物の後天的な絆発生イベントを防ぐ</LFSetting_DisallowPostBondRelation>
+	<LFSetting_LuminousEquipmentUpdateIntervalInd>光源装備の更新間隔</LFSetting_LuminousEquipmentUpdateIntervalInd>
+	<LFSetting_LumiEq0>（とても短い (約0.1秒毎), とても重い）</LFSetting_LumiEq0>
+	<LFSetting_LumiEq1>（短め (約0.3秒毎), 重め）</LFSetting_LumiEq1>
+	<LFSetting_LumiEq2>（ふつう (約0.5秒毎)）</LFSetting_LumiEq2>
+	<LFSetting_LumiEq3>（長め (約1秒毎), 軽め）</LFSetting_LumiEq3>
+	<LFSetting_LumiEq4>（とても長い (約2秒毎), とても軽い）</LFSetting_LumiEq4>
+	<LFSetting_LuminousEqRefuelThresh>燃料補給を始める閾値</LFSetting_LuminousEqRefuelThresh>
+
+	<LFSetting_HotSprings>♨===== 温泉関係 =====♨</LFSetting_HotSprings>
+	<LFSetting_UpdateSpringWaterRegularly>・泉、温泉地形の水を定期的に更新する（パフォーマンスへの影響：低）</LFSetting_UpdateSpringWaterRegularly>
+	<LFSetting_RenderBodyInHotSpringJoy>・温泉娯楽中、キャラクタの体を表示する（パフォーマンスへの影響：極小）</LFSetting_RenderBodyInHotSpringJoy>
+	<LFSetting_RenderSpringWaterSurface>・温泉の水面を描画する（パフォーマンスへの影響：低）</LFSetting_RenderSpringWaterSurface>
+	<LFSetting_RenderSpringWaterEdge>・(不完全)水面境界を滑らかに描画する（パフォーマンスへの影響：低-中）</LFSetting_RenderSpringWaterEdge>
+	<LFSetting_RenderHotSpringVapor>・温泉の湯けむりを描画する（パフォーマンスへの影響：低）</LFSetting_RenderHotSpringVapor>
+	<LFSetting_UseColdSpringForChilling>・納涼目的での冷泉娯楽を許可する（パフォーマンスへの影響：極小）</LFSetting_UseColdSpringForChilling>
+	<LFSetting_UpdateNotice>===== アップデート通知 ===== </LFSetting_UpdateNotice>
+	<LFSetting_EnableUpdateNotice>・ゲーム開始時、MODのアップデート情報を表示する</LFSetting_EnableUpdateNotice>
+
+
+
+</LanguageData>

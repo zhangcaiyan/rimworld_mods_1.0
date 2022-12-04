@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LFJob_RestInHotSpring.reportString>温泉でくつろいでいる</LFJob_RestInHotSpring.reportString>
+
+  <LFJob_RefleshInSpring.reportString>泉で涼んでいる</LFJob_RefleshInSpring.reportString>
+
+  <LFJob_WaterwayDrawing.reportString>TargetAで作業中</LFJob_WaterwayDrawing.reportString>
+
+  <LFJob_KAZUSASystem.reportString>TargetAで帯水層にむけて掘削中</LFJob_KAZUSASystem.reportString>
+
+  <LFJob_WaterVeinDrill.reportString>TargetAで掘削中</LFJob_WaterVeinDrill.reportString>
+
+  <LFJob_FoxianHealing.reportString>TargetAの古傷を治療している</LFJob_FoxianHealing.reportString>
+
+  <LFJob_AnimalRetreat.reportString>撤退中</LFJob_AnimalRetreat.reportString>
+
+  <LFJob_FirstAid.reportString>TargetAの応急処置をしている</LFJob_FirstAid.reportString>
+
+  <LFJob_InteractWith.reportString>TargetAと会話する</LFJob_InteractWith.reportString>
+
+  <LFJob_RefuelLantern.reportString>TargetAに燃料補給中</LFJob_RefuelLantern.reportString>
+
+
+</LanguageData>

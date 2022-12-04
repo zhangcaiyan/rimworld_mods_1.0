@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Lamia tail -->
+  <Yokai_LamiaSPT.label>拉米亞的人工尾巴</Yokai_LamiaSPT.label>
+  <Yokai_LamiaSPT.description>拉米亞専用的人工尾巴。尾巴斷掉時派上用場。</Yokai_LamiaSPT.description>
+  <Yokai_LamiaBT.label>拉米亞的精良人工尾巴</Yokai_LamiaBT.label>
+  <Yokai_LamiaBT.description>拉米亞専用的精良人工尾巴。會提升移動速度。</Yokai_LamiaBT.description>
+  <!--女郎蜘蛛 -->
+  <Yokai_JorouGumoSPL.label>女郎蜘蛛的人工義足</Yokai_JorouGumoSPL.label>
+  <Yokai_JorouGumoSPL.description>女郎蜘蛛專用的人工義足。</Yokai_JorouGumoSPL.description>
+  <Yokai_JorouGumoBL.label>女郎蜘蛛的精良人工義足</Yokai_JorouGumoBL.label>
+  <Yokai_JorouGumoBL.description>女郎蜘蛛專用的精良人工義足。會提升移動速度。</Yokai_JorouGumoBL.description>
+</LanguageData>

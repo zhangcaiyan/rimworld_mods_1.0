@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canmeal.label>boîte de conserve</Canmeal.label>
+  <Canmeal.description>Conservez les aliments dans une boîte de conserve pour éviter qu'ils ne se détériorent.</Canmeal.description>
+  <Canmeal.jobString>Mise en conserve des aliments.</Canmeal.jobString>
+
+  <CanVegetable.label>conserve de légumes</CanVegetable.label>
+  <CanVegetable.description>Conservez les légumes dans une boîte de conserve pour éviter qu'ils ne se détériorent.</CanVegetable.description>
+  <CanVegetable.jobString>Mise en conserve des aliments.</CanVegetable.jobString>
+
+  <CanMeat.label>conserve de viande</CanMeat.label>
+  <CanMeat.description>Conservez la viande dans une boîte de conserve pour éviter qu'elle ne se détériore.</CanMeat.description>
+  <CanMeat.jobString>Mise en conserve des aliments.</CanMeat.jobString>
+
+
+</LanguageData>

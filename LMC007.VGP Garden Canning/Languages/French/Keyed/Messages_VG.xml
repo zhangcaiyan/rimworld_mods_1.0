@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Universal Fermenter -->
+  <Canning_ContainsIngredient>Contient {0} / {1} {2}.</Canning_ContainsIngredient>
+  <Canning_ContainsProduct>Contient {0} / {1} {2}.</Canning_ContainsProduct>
+  <Canning_NoIngredient>besoin d'ingrédients</Canning_NoIngredient>
+  <Canning_IdealSafeFermentingTemperature>Température de mise en conserve idéale (sûre).</Canning_IdealSafeFermentingTemperature>
+  <Canning_Finished>Fini</Canning_Finished>
+  <Canning_Ideal>idéal</Canning_Ideal>
+  <Canning_Safe>Sûre</Canning_Safe>
+  <Canning_OutOfIdealTemperature>Température non idéale. Vitesse de mise en conserve : {0}</Canning_OutOfIdealTemperature>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave -->
+  <Slave.label>rabszolga</Slave.label>
+  <Slave.labelPlural>rabszolgák</Slave.labelPlural>
+  
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>fekete ruhás</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>fekete ruhás nő</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>fekete ruhás férfi</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>fekete ruhások</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man -->
+  <WildMan.label>vadember</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>vadember nő</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>vadember nők</WildMan.labelFemalePlural>
+  <WildMan.labelMale>vadember férfi</WildMan.labelMale>
+  <WildMan.labelMalePlural>vadember férfiak</WildMan.labelMalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>vademberek</WildMan.labelPlural>
+  
+</LanguageData>

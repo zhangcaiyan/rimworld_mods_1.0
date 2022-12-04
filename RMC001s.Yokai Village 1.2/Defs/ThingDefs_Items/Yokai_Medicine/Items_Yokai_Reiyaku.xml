@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="DrugPillBase">
+    <defName>Yokai_Reiyaku</defName>
+    <label>Reiyaku</label>
+    <description>This "miracle drug" comes in pill form, and is the result of mixing several Yokai products together. Tsuzurao magic is said to enable this pill's fantastical effects; however, even Yokai villagers ponder whether the blessing is placed on the pill, or is simply knowledge to make it in the first place.
+    \nAs to its effects, this medicine heals any wound or defect over a very long time: this does not include limb growth, however. The regenerative effect can take anywhere from half a year to a year to occur; moreover, a dose must be taken every 5 days to maintain this process. The predominant side effect of this elixir is a mild penalty to conciousness.
+    \nIn village and colony alike, children are known to complain about the terrible taste of this elixir.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/Reiyaku</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tradeTags>
+      <li>Yokai_Medicine</li>
+    </tradeTags>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <techLevel>Spacer</techLevel>
+    <statBases>
+      <Mass>0.01</Mass>
+      <WorkToMake>400</WorkToMake>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+      <drugCategory>Medical</drugCategory>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>Hediff_Yokai_Iyasi</hediffDef>
+          <severity>15</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <addictiveness>0</addictiveness>
+        <listOrder>1000</listOrder>
+        <overdoseSeverityOffset>
+          <min>0.08</min>
+          <max>0.14</max>
+        </overdoseSeverityOffset>
+      </li>
+    </comps>
+    <recipeMaker>
+      <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+      <workSkill>Intellectual</workSkill>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiTraditionCureAnimal</researchPrerequisite>
+      <skillRequirements>
+        <Medicine>8</Medicine>
+        <Intellectual>10</Intellectual>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Yokai_SnowMilk>5</Yokai_SnowMilk>
+      <Yokai_Bandage>1</Yokai_Bandage>
+    </costList>
+  </ThingDef>
+  <HediffDef>
+    <defName>Hediff_Yokai_Iyasi</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Slow regeneration</label>
+    <defaultLabelColor>(0.3,1,1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <maxSeverity>15</maxSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>1</severityPerDay>
+        <!-- -1.0で5日持たなかったから、整数にしてみる　-->
+      </li>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+      <!--　上が本来のルシフェリウム。下の自作クラスはうまくきどうしてくれない
+      <li Class="HediffCompProperties_YokaiHealingWounds" />-->
+    </comps>
+    <stages>
+      <li>
+        <minSeverity>0</minSeverity>
+        <label>Foggy mind</label>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <offset>-0.05</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+	<NamerScenario.rulePack.rulesStrings>
+		<li>name-&gt;[story] [trans] the [weapon]</li>
+		<li>name-&gt;[story] [trans] the [animal]</li>
+		<li>name-&gt;[story] [trans] the [terrainfeature]</li>
+		<li>name-&gt;[story] [trans] [outlander]s</li>
+		<li>name-&gt;[story] [trans] [concept]</li>
+		<li>name-&gt;[concept] [story]</li>
+		<li>name-&gt;[story] [trans] EN [community]</li>
+		<li>name-&gt;a [adjective] [story]</li>
+		<li>name-&gt;[story] [trans] [game]et</li>
+		<li>name-&gt;[story] i [color] og [color]</li>
+		<li>name-&gt;[color] [story]</li>
+		<li>name-&gt;[story] [romannumeral]</li>
+	</NamerScenario.rulePack.rulesStrings>
+
+</LanguageData>

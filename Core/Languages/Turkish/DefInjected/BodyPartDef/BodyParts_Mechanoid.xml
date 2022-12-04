@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MechanicalThorax.label>Mekanik Göğüs</MechanicalThorax.label>
+	<LeftBlade.label>Sol Bıçak</LeftBlade.label>
+	<RightBlade.label>Sağ Bıçak</RightBlade.label>
+	<MechanicalNeck.label>Mekanik Boyun</MechanicalNeck.label>
+	<MechanicalHead.label>Mekanik Kafa</MechanicalHead.label>
+	<LeftSightSensor.label>Sol Görüş Sensörü</LeftSightSensor.label>
+	<RightSightSensor.label>Sağ Görüş Sensörü</RightSightSensor.label>
+	<LeftHearingSensor.label>Sol Duyma Sensörü</LeftHearingSensor.label>
+	<RightHearingSensor.label>Sağ Duyma Sensörü</RightHearingSensor.label>
+	<SmellSensor.label>Koku Sensörü</SmellSensor.label>
+	<LeftMechanicalShoulder.label>Mekanik Sol Omuz</LeftMechanicalShoulder.label>
+	<LeftMechanicalArm.label>Mekanik Sol Kol</LeftMechanicalArm.label>
+	<LeftMechanicalHand.label>Mekanik Sol El</LeftMechanicalHand.label>
+	<LeftHandMechanicalPinky.label>Mekanik Sol Serçe Parmak</LeftHandMechanicalPinky.label>
+	<LeftHandMechanicalMiddleFinger.label>Mekanik Sol Orta Parmak</LeftHandMechanicalMiddleFinger.label>
+	<LeftHandMechanicalIndexFinger.label>Mekanik Sol İşaret Parmağı</LeftHandMechanicalIndexFinger.label>
+	<LeftHandMechanicalThumb.label>Mekanik Sol Başparmak</LeftHandMechanicalThumb.label>
+	<RightMechanicalShoulder.label>Mekanik Sağ Omuz</RightMechanicalShoulder.label>
+	<RightMechanicalArm.label>Mekanik Sağ Kol</RightMechanicalArm.label>
+	<RightMechanicalHand.label>Mekanik Sağ El</RightMechanicalHand.label>
+	<RightHandMechanicalPinky.label>Mekanik Sağ Serçe Parmak</RightHandMechanicalPinky.label>
+	<RightHandMechanicalMiddleFinger.label>Mekanik Sağ Orta Parmak</RightHandMechanicalMiddleFinger.label>
+	<RightHandMechanicalIndexFinger.label>Mekanik Sağ İşaret Parmağı</RightHandMechanicalIndexFinger.label>
+	<RightHandMechanicalThumb.label>Mekanik Sağ Başparmak</RightHandMechanicalThumb.label>
+	<LeftMechanicalLeg.label>Mekanik Sol Bacak</LeftMechanicalLeg.label>
+	<LeftMechanicalFoot.label>Mekanik Sol Ayak</LeftMechanicalFoot.label>
+	<RightMechanicalLeg.label>Mekanik Sağ Bacak</RightMechanicalLeg.label>
+	<RightMechanicalFoot.label>Mekanik Sağ Ayak</RightMechanicalFoot.label>
+	<MechanicalCentipedeBodyFirstRing.label>Birinci Gövde Halkası</MechanicalCentipedeBodyFirstRing.label>
+	<MechanicalCentipedeBodySecondRing.label>İkinci Gövde Halkası</MechanicalCentipedeBodySecondRing.label>
+	<MechanicalCentipedeBodyThirdRing.label>Üçüncü Gövde Halkası</MechanicalCentipedeBodyThirdRing.label>
+	<MechanicalCentipedeBodyFourthRing.label>Dördüncü Gövde Halkası</MechanicalCentipedeBodyFourthRing.label>
+	<MechanicalCentipedeBodyFifthRing.label>Beşinci Gövde Halkası</MechanicalCentipedeBodyFifthRing.label>
+	<MechanicalCentipedeBodySixthRing.label>Altıncı Gövde Halkası</MechanicalCentipedeBodySixthRing.label>
+	<ArtificialBrain.label>Yapay Beyin</ArtificialBrain.label>
+	
+</LanguageData>

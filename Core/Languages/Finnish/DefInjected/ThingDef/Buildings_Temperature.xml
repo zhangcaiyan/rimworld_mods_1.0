@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>nuotio</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Tällä voi paistaa ruokaa ja lämmitellä. Palaa muutaman päivän ajan. Se täytyy asettaa muiden lämmönlähteiden tavoin sisätiloihin jotta sillä olisi suljettu alue mitä lämmittää.</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>jäähdytin</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen.</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>lämmitin</Heater.label>
+  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>passive cooler</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>ilmastointikanava</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Yksinkertainen kanava kahden huoneen lämpötilan tasaamiseen ilman että niiden välillä kävellään.</Vent.description>
+  
+</LanguageData>

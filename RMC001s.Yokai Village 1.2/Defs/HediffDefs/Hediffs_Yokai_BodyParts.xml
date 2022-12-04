@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef Name="addedPartAnimal" Abstract="True">
+    <hediffClass>Hediff_AddedPart</hediffClass>
+    <defaultLabelColor>(0.5, 0.5, 0.9)</defaultLabelColor>
+    <isBad>false</isBad>
+  </HediffDef>
+  <!-- =============== Lamia's Tail =============== -->
+  <HediffDef ParentName="addedPartAnimal">
+    <defName>Hediff_Yokai_LamiaSPT</defName>
+    <label>simple prosthetic lamia tail</label>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Moving</capacity>
+            <offset>0.8</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+    <spawnThingOnRemoved>Yokai_LamiaSPT</spawnThingOnRemoved>
+    <defaultLabelColor>(233,129,69)</defaultLabelColor>
+    <addedPartProps>
+      <partEfficiency>0.8</partEfficiency>
+      <solid>true</solid>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="addedPartAnimal">
+    <defName>Hediff_Yokai_LamiaBT</defName>
+    <label>bionic tail</label>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Moving</capacity>
+            <offset>1.5</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+    <spawnThingOnRemoved>Yokai_LamiaBT</spawnThingOnRemoved>
+    <addedPartProps>
+      <partEfficiency>1.5</partEfficiency>
+      <solid>true</solid>
+    </addedPartProps>
+  </HediffDef>
+  <!-- =============== JorouGumo's Legs =============== -->
+  <HediffDef ParentName="addedPartAnimal">
+    <defName>Hediff_Yokai_JorouGumoSPL</defName>
+    <label>simple prosthetic JorouGumo leg</label>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Moving</capacity>
+            <offset>0.8</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+    <spawnThingOnRemoved>Yokai_JorouGumoSPL</spawnThingOnRemoved>
+    <defaultLabelColor>(233,129,69)</defaultLabelColor>
+    <addedPartProps>
+      <partEfficiency>0.8</partEfficiency>
+      <solid>true</solid>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="addedPartAnimal">
+    <defName>Hediff_Yokai_JorouGumoBL</defName>
+    <label>bionic JorouGumo leg</label>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Moving</capacity>
+            <offset>1.2</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+    <spawnThingOnRemoved>Yokai_JorouGumoBL</spawnThingOnRemoved>
+    <addedPartProps>
+      <partEfficiency>1.2</partEfficiency>
+      <solid>true</solid>
+    </addedPartProps>
+  </HediffDef>
+</Defs>

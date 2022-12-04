@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖怪松明 -->
+  <Yokai_taimatu.label>灯茸</Yokai_taimatu.label>
+  <Yokai_taimatu.description>能发出亮光的妖怪茸。(尚未实装：填入妖气的碎片後能持续发光。)</Yokai_taimatu.description>
+  <Yokai_taimatu_Blueprint.label>灯茸 (blueprint)</Yokai_taimatu_Blueprint.label>
+  <Yokai_taimatu_Frame.label>灯茸 (building)</Yokai_taimatu_Frame.label>
+  <Yokai_taimatu_Frame.description>能发出亮光的妖怪茸。</Yokai_taimatu_Frame.description>
+  <!-- 暖房器具 -->
+  <Yokai_karyuu_tomosibi.label>火龙的灯火</Yokai_karyuu_tomosibi.label>
+  <Yokai_karyuu_tomosibi.description>以翡翠和龙心所制成的咒术道具。能使周遭温度大幅度地提升，并能发出足以匹敌太阳的亮光。
+    \n据说是居住在寒冷地带的妖怪们为了耕种作物而使用的物品。</Yokai_karyuu_tomosibi.description>
+  <Yokai_karyuu_tomosibi_Blueprint.label>火龙的灯火 (blueprint)</Yokai_karyuu_tomosibi_Blueprint.label>
+  <Yokai_karyuu_tomosibi_Blueprint_Install.label>火龙的灯火 (blueprint)</Yokai_karyuu_tomosibi_Blueprint_Install.label>
+  <Yokai_karyuu_tomosibi_Frame.label>火龙的灯火 (building)</Yokai_karyuu_tomosibi_Frame.label>
+  <Yokai_karyuu_tomosibi_Frame.description>以翡翠和龙心所制成的咒术道具。能使周遭温度大幅度地提升，并能发出足以匹敌太阳的亮光。
+    \n据说是居住在寒冷地带的妖怪们为了耕种作物而使用的物品。</Yokai_karyuu_tomosibi_Frame.description>
+  <!-- 冷房器具 -->
+  <Yokai_Himuro.label>冰室玉壶</Yokai_Himuro.label>
+  <Yokai_Himuro.description>将雪之雫加工制成的妖壶。能用以建造让周围温度下降至-30度的冷冻室。
+    \n须定期补给雪之雫。</Yokai_Himuro.description>
+  <Yokai_Himuro_Blueprint.label>冰室玉壶 (blueprint)</Yokai_Himuro_Blueprint.label>
+  <Yokai_Himuro_Blueprint_Install.label>冰室玉壶 (blueprint)</Yokai_Himuro_Blueprint_Install.label>
+  <Yokai_Himuro_Frame.label>冰室玉壶 (building)</Yokai_Himuro_Frame.label>
+  <Yokai_Himuro_Frame.description>将雪之雫加工制成的妖壶。能用以建造让周围温度下降至-30度的冷冻室。
+    \n须定期补给雪之雫。</Yokai_Himuro_Frame.description>
+  <!-- 地热利用 -->
+  <Yokai_TaiyouKinoko.label>太阳茸</Yokai_TaiyouKinoko.label>
+  <Yokai_TaiyouKinoko.description>只能生长在间歇泉上的群生型妖怪茸。透过特别的术式与间歇泉喷发的热气，能提供半永久性的光源，并使空间内的温度维持在一定的范围。
+    \n需要铺设大量的毛，因此须耗费许多时间来建造。(尚未实装/需定期的补充妖气的碎片。)</Yokai_TaiyouKinoko.description>
+  <Yokai_TaiyouKinoko_Blueprint.label>太阳茸 (blueprint)</Yokai_TaiyouKinoko_Blueprint.label>
+  <Yokai_TaiyouKinoko_Frame.label>太阳茸 (building)</Yokai_TaiyouKinoko_Frame.label>
+  <Yokai_TaiyouKinoko_Frame.description>只能生长在间歇泉上的群生型妖怪茸。透过特别的术式与间歇泉喷发的热气，能提供半永久性的光源，并使空间内的温度维持在一定的范围。
+    \n需要铺设大量的毛，因此须耗费许多时间来建造。(尚未实装/需定期的补充妖气的碎片。)</Yokai_TaiyouKinoko_Frame.description>
+  <!--乾燥茸 -->
+  <Yokai_Kinoko.label>吸水茸</Yokai_Kinoko.label>
+  <Yokai_Kinoko.description>生长在猫娘的毛上的妖怪茸，虽然作用范围比排水泵狭小，但能急速的吸乾土壌内的水分。</Yokai_Kinoko.description>
+  <Yokai_Kinoko_Blueprint.label>吸水茸 (blueprint)</Yokai_Kinoko_Blueprint.label>
+  <Yokai_Kinoko_Frame.label>吸水茸 (building)</Yokai_Kinoko_Frame.label>
+  <Yokai_Kinoko_Frame.description>生长在猫娘的毛上的妖怪茸，虽然作用范围比排水泵狭小，但能急速的吸乾土壌内的水分。</Yokai_Kinoko_Frame.description>
+  <!--光墙 -->
+  <Yokai_Wall.label>光墙</Yokai_Wall.label>
+  <Yokai_Wall.description>透过特殊的制程而建造方法的日绯色金墙。结实而耐火，能放出些许亮光。</Yokai_Wall.description>
+  <Yokai_Wall_Blueprint.label>光墙 (blueprint)</Yokai_Wall_Blueprint.label>
+  <Yokai_Wall_Frame.label>光墙 (building)</Yokai_Wall_Frame.label>
+  <Yokai_Wall_Frame.description>透过特殊的制程而建造方法的日绯色金墙。结实而耐火，能放出些许亮光。</Yokai_Wall_Frame.description>
+  <!--医疗用寝袋 -->
+  <Yokai_MRoll.label>妖怪医疗睡袋</Yokai_MRoll.label>
+  <Yokai_MRoll.description>以特制的药草和女郎蜘蛛的丝作成的特殊睡袋。能促使伤势痊愈。</Yokai_MRoll.description>
+  <Yokai_MRoll_Blueprint.label>妖怪医疗睡袋(blueprint)</Yokai_MRoll_Blueprint.label>
+  <Yokai_MRoll_Frame.label>妖怪医疗睡袋(building)</Yokai_MRoll_Frame.label>
+  <Yokai_MRoll_Frame.description>以特制的药草和女郎蜘蛛的丝作成的特殊睡袋。能促使伤势痊愈。</Yokai_MRoll_Frame.description>
+  <!--医疗用寝袋双人用 -->
+  <Yokai_MDRoll.label>妖怪医疗睡袋(双人用)</Yokai_MDRoll.label>
+  <Yokai_MDRoll.description>以特制的药草和女郎蜘蛛的丝作成的特殊睡袋。能促使伤势痊愈。双人用。</Yokai_MDRoll.description>
+  <Yokai_MDRoll_Blueprint.label>妖怪医疗睡袋(双人用)(blueprint)</Yokai_MDRoll_Blueprint.label>
+  <Yokai_MDRoll_Frame.label>妖怪医疗睡袋(双人用)(building)</Yokai_MDRoll_Frame.label>
+  <Yokai_MDRoll_Frame.description>以特制的药草和女郎蜘蛛的丝作成的特殊睡袋。能促使伤势痊愈。双人用。</Yokai_MDRoll_Frame.description>
+  <!-- 制作台。锅 -->
+  <Yokai_Nabe.label>妖怪大釜</Yokai_Nabe.label>
+  <Yokai_Nabe.description>传承於妖怪村中的魔法大釜。要制作各种妖怪料理只能透过此大釜制作。需要特别的燃料。</Yokai_Nabe.description>
+  <Yokai_Nabe_Blueprint.label>妖怪大釜(blueprint)</Yokai_Nabe_Blueprint.label>
+  <Yokai_Nabe_Frame.label>妖怪大釜(building)</Yokai_Nabe_Frame.label>
+  <Yokai_Nabe_Frame.description>传承於妖怪村中的魔法大釜。要制作各种妖怪料理只能透过此大釜制作。需要特别的燃料。</Yokai_Nabe_Frame.description>
+  <!--针子-->
+  <Yokai_Hariko.label>妖怪的裁缝台</Yokai_Hariko.label>
+  <Yokai_Hariko.description>不可思议的妖怪用裁缝台。能制作传承於妖怪村中的衣服丶假面丶勾玉，以及药草。需要特别的燃料。</Yokai_Hariko.description>
+  <Yokai_Hariko_Blueprint.label>妖怪の裁缝台(blueprint)</Yokai_Hariko_Blueprint.label>
+  <Yokai_Hariko_Frame.label>妖怪の裁缝台(building)</Yokai_Hariko_Frame.label>
+  <Yokai_Hariko_Frame.description>不可思议的妖怪用裁缝台。能制作传承於妖怪村中的衣服丶假面丶勾玉，以及药草。需要特别的燃料。</Yokai_Hariko_Frame.description>
+  <!--かなとこ -->
+  <Yokai_Kanatoko.label>妖怪的锻冶场</Yokai_Kanatoko.label>
+  <Yokai_Kanatoko.description>妖怪的锻冶场。能制作传承於妖怪村中的刀丶斧丶义肢，以及弓。需要特别的燃料。</Yokai_Kanatoko.description>
+  <Yokai_Kanatoko_Blueprint.label>妖怪的锻冶场(blueprint)</Yokai_Kanatoko_Blueprint.label>
+  <Yokai_Kanatoko_Frame.label>妖怪的锻冶场(building)</Yokai_Kanatoko_Frame.label>
+  <Yokai_Kanatoko_Frame.description>妖怪的锻冶场です。能制作传承於妖怪村中的刀丶斧丶义肢，以及弓。需要特别的燃料。</Yokai_Kanatoko_Frame.description>
+</LanguageData>

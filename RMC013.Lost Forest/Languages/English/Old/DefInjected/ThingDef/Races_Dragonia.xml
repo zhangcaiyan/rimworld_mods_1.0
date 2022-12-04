@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Dragonia.label>Dragonia</LF_Dragonia.label>
+  <LF_Dragonia.description>By looks, blood, or mere presence, one can sense-feel-that this girl hails from draconic lineage. Her father was called "Blue Prudence" by the vermillion dragons, and "Azure Wisdom" by the elder forest dwellers. To those that destroyed the blue dragons, as well as those who were under draconic control-the elder forest dwellers-her existence is unknown. The nature of this secrecy is a mystery, as some presence seems to have spirited her way at birth, preventing her from ever seeing her parents. It shelters her from the world, letting none gaze in, nor she gaze out; she knows nothing of the world, and has struggled with loneliness since the moment her mind awoke. However, she seems highly educated in regards to arcane magic and other ancient draconic studies. This knowledge allows her to use very esoteric manipulation rituals and draconic languages without any difficulty. If you can persuade her, your colony will have a big breakthrough in lost technology. She will appear in all biomes with astronomically low probability. (Even if she appears, if you fail to recruit her, then she will leave within day.)</LF_Dragonia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Dragonia_Meat.label>Meat of the Blue Dragon's Child</LF_Dragonia_Meat.label>
+  <LF_Dragonia_Meat.description>A once noble, solitary creature, crushed and diced to bits by crude hands. Dragons were a proud thing; creatures of knowledge and wisdom that was only equalled by their power. Fear, was that the emotion that hunted them down? Or was it jealousy? The true history, perhaps, is more complicated than any single motivation; yet, it seems, that the invariable end of all dragons is a hump of flesh and pile of bones.</LF_Dragonia_Meat.description>
+-->
+  <LF_Dragonia_Corpse.label>Corpse of the Blue Dragon's Child</LF_Dragonia_Corpse.label>
+  <LF_Dragonia_Corpse.description>The dim eyes that pear from this lifeless corpse attest to the elegance that has been drained from the world. She was the last, it seemed, and now she rests; here, now-at least-no one else may harm her. Her isolation is over.</LF_Dragonia_Corpse.description>
+
+
+</LanguageData>

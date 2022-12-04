@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ==== DO NOT translate this. About each language, use key-translation against "txt_LFUpdateDesc". ==== -->
+
+<Defs>
+  <Def Class="LostForest.Data.LFUpdateInfo">
+    <defName>LF_UpdateData</defName>
+    <MODver>0.3.3</MODver>
+    <Desc>
+Preparing update for Lost Forest playable race.
+
+[Current Required MOD]
+・ ResourcePackCore
+AlienRace 2.0 (unused at present)
+
+[Changes from v0.3.2]
+
+-[Change] Reduced maximum enrollment limit of Glacia and Flamelia to 1
+-[Change] Minor ability adjustment of beast human race
+-[New] Added caravan bonus to beasthumans
+(max load capacity of 70 in Glacia and Flameria, and all of them will do forage)
+
+-[New] 2type of equipable lanterns (crafting spot)
+-[New] Arrow slit and spike wall added
+-[New] Magicite ore(Pre-implement, no use at the moment. If you put a certain my mod, you can use it there.)
+-[New] Party immediate stop command
+
+    </Desc>
+  </Def>
+</Defs>

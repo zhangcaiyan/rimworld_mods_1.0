@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Yokai_DragonEye</defName>
+    <label>Draconic Eye</label>
+    <labelNoun>a dragon eye</labelNoun>
+    <addedPartProps>
+      <partEfficiency>1.8</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Yokai_DragonArm</defName>
+    <label>Draconic Arm</label>
+    <labelNoun>a dragon arm</labelNoun>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>Fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>14</power>
+            <cooldownTime>1.65</cooldownTime>
+          </li>
+        </tools>
+      </li>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+    </comps>
+    <addedPartProps>
+      <partEfficiency>1.8</partEfficiency>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Yokai_DragonLeg</defName>
+    <label>Draconic Leg</label>
+    <labelNoun>a doragon leg</labelNoun>
+    <addedPartProps>
+      <partEfficiency>1.8</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Yokai_DragonBrain</defName>
+    <label>Draconic Mind</label>
+    <labelNoun>a dragon Brain</labelNoun>
+    <addedPartProps>
+      <partEfficiency>1.4</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Yokai_DragonHeart</defName>
+    <label>Draconic Power</label>
+    <labelNoun>a dragon Heart</labelNoun>
+    <addedPartProps>
+      <partEfficiency>1.5</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="HediffCompProperties_HealPermanentWounds" />
+    </comps>
+  </HediffDef>
+</Defs>

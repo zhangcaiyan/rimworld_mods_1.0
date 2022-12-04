@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 光源と光は一対ごとに作成（使い回さない）。fuelCap = 0 で永久光源化, fuels未定義で使い捨て化 -->
+<!-- 実装覚書 装備側:光源装備LightSourceApparelと光源装備用Comp 光側:ランタン発光用Comp そしてこの設定 -->
+<!-- FuelList -->
+<!--key = (ThingDef)fuel-->
+<!--Value = (float)fuel efficiency-->
+
+<Defs>
+  <Def Class="LostForest.Data.LanternSetting">
+    <defName>LF_LanternSetting</defName>
+    <data>
+      <li>
+	<LantDef>LF_Apparel_HalloweenLantern</LantDef>
+	<GlowDef>LFGlow_HalloweenLantern</GlowDef>
+	<fuelCap>5</fuelCap>
+	<fuelPerDay>5</fuelPerDay>
+	<fuels>
+	  <li>
+	    <key>WoodLog</key>
+	    <value>1</value>
+	  </li>
+	  <li>
+	    <key>Chemfuel</key>
+	    <value>1</value>
+	  </li>
+
+	</fuels>
+      </li>
+
+      <li>
+	<LantDef>LF_Apparel_Lantern</LantDef>
+	<GlowDef>LFGlow_Lantern</GlowDef>
+	<fuelCap>5</fuelCap>
+	<fuelPerDay>2</fuelPerDay>
+	<fuels>
+	  <li>
+	    <key>Chemfuel</key>
+	    <value>1</value>
+	  </li>
+
+	</fuels>
+      </li>
+
+    </data>
+  </Def>
+</Defs>

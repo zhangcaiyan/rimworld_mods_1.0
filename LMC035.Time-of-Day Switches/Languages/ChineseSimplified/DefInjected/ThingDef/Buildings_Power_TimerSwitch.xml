@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TimerSwitch.label>定时开关</TimerSwitch.label>
+  <TimerSwitch.description>基于一天中的时间打开/关闭电源。</TimerSwitch.description>
+  <TimerSwitch_Blueprint.label>定时开关 (蓝图)</TimerSwitch_Blueprint.label>
+  <TimerSwitch_Frame.label>定时开关 (建造中)</TimerSwitch_Frame.label>
+  <TimerSwitch_Frame.description>基于一天中的时间打开/关闭电源。</TimerSwitch_Frame.description>
+
+
+</LanguageData>

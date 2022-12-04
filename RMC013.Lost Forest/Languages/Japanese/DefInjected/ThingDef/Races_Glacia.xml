@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Glacia.label>グレイシア</LF_Glacia.label>
+  <LF_Glacia.description>ピューマノイドのような大型生物にルーツを持つ獣人族で、古き森の住人です。体を覆う毛の一部が氷塊のような硬い水晶質になっているのが特徴で、外部からの創傷などに対して高い耐性を持ちます。仲間のピンチにはその脚力でいち早く駆けつけ、自らが盾になる。いざというときに頼れる子です。個体としては従順で大人しいものが多く、普段は守人として、古き森周辺の警備など与えられた仕事を淡々とこなします。彼らは非常にマイペースで、何もないときは静かな場所でゴロゴロとのんびりお昼寝するのが好きです。のどかな時間を邪魔されるとふてくされます。「赤い悪魔め・・・」\n彼らが野生に出現することはありません。滅ぼされた古き森で最後まで果敢に戦い捕虜となった生き残りが、稀に近辺で目撃されているようです。</LF_Glacia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Glacia_Corpse.label>グレイシアの死骸</LF_Glacia_Corpse.label>
+  <LF_Glacia_Corpse.description>冷たくなったグレイシアの死骸です。もはや何者も、彼を苦しめることはできません。</LF_Glacia_Corpse.description>
+
+</LanguageData>

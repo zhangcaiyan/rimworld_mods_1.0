@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 全ての源になる素材。妖気の欠片。錬金で様々な妖怪素材に変化させられる。燃料や武具の素材でもある。
+　ほとんどの妖怪が転換炉で生成してくれるのがこれ。 -->
+
+  <Yokai_Fragment.label>Yokai Fragment</Yokai_Fragment.label>
+  <Yokai_Fragment.description>These small fragments are a rather common sight in Yokai villages; there they are used as one of the most basic components in crafting, or, more specifically, smelting. 
+    \nWith a handful of such fragments, any colony can strive to rebuild the weapons of Yokai lore.</Yokai_Fragment.description>
+
+
+  <!-- 錬金の中位素材の中で最も基本的なもの。これをベースに他の中位素材を作成できる。妖刻の石 -->
+
+  <Yokai_SigilStone.label>Sigil Stone</Yokai_SigilStone.label>
+  <Yokai_SigilStone.description>At a glance-and perhaps a distance too-this stone appears to be a leaf; however, upon close inspection, one can hear the humming sigil that has been carved into the stone. An otherwise dull green, the sigil brings a shine to the rock, as its lines seemingly crease the stone, giving it a leaf-life appearance.
+    \nSigil Stones-such as this one-are used in the creation of intermediate goods; moreover, with a more advanced and duitiful understanding of Yokai lore, one may be able to get more out of each stone.</Yokai_SigilStone.description>
+
+
+  <!-- 火の力が宿った中位素材の中で恐らくもっとも使用頻度の高いもの。これをベースに他の中位素材を作成できる。
+  妖怪系の作成器具の燃料となる。またいくつかのトラップの素材や燃料にもなる予定。 -->
+
+  <Yokai_FlameStone.label>Inari's Ember</Yokai_FlameStone.label>
+  <Yokai_FlameStone.description>Despite its name, the stone does not originate from a Kyuubi; that said, this magical stone is hot to the touch, and some swear that its shape is meant to resemble the bolts that Kyuubi throw at their enemies.
+    \nLike Yokai Fragments, these stones are readily available in any Yokai village, which is a blessing, as they are used to power their various work benches.</Yokai_FlameStone.description>
+
+
+  <!-- 精刻の石と呼ばれる中位素材で強いエネルギーに満ちているこれらの石を使うことで様々な妖怪道具が作ることができます。
+  希少な妖怪素材を錬成するのに使います。 -->
+
+  <Yokai_EnergyStone.label>Psycho Stone</Yokai_EnergyStone.label>
+  <Yokai_EnergyStone.description>This stone-neigh-this crystal seems to fluctuate with the energy held inside it; lore states that such energy is captured whilst battles are fought, and blood, pain, and anger combine in equal portions to fill this otherwise placid vessel. "Psycho" is a colloquial name that comes from the pronunciation of the stone's original name, "Sei koku no ishi;" nevermind that "sei" is pronounced like "say," the name caught on and has stuck ever since.</Yokai_EnergyStone.description>
+
+
+  <!-- 水刻の石は河童水車の燃料であり、冷気を司る妖怪道具を作るのに使う。
+    また雪雫や河童の招来にも使われる。 -->
+
+  <Yokai_HydroStone.label>Hydro Stone</Yokai_HydroStone.label>
+  <Yokai_HydroStone.description>This stone is said to foster a secret power, such that lore likens it to the great river that fosters life. Whether it is purely like, or is actually a product of, only some Yokai villagers know. In villages these stones are used as a source of great energy.
+    \nHowever, a word more about the origin of such stones, lore states that perhaps the stone has a secondary source, and unlikely one at that: the Kappa. By some unexplained process a Kappa may supposedly produce, convert, or otherwise create these stones.</Yokai_HydroStone.description>
+
+
+  <!-- 妖秘の石は最も珍しい中位素材です。これを混ぜることで初めて上位の素材を得ることができます。 -->
+
+  <Yokai_ArcaneStone.label>Arcane Nucleus</Yokai_ArcaneStone.label>
+  <Yokai_ArcaneStone.description>Light spins within the stone, as energy ebbs from an unseeable center, fanning out like a corona. This stone is the most valuable of the intermediate materials.
+    \nColonists may use this stone as a base-nucleus-for higher grade materials, or they may use it to create various tools.</Yokai_ArcaneStone.description>
+
+
+  <!-- 上位素材である竜の魂核はいくつか非常に強力な道具の素材になる他、竜を招来するのにも使われます。 -->
+
+  <Yokai_DragonStone.label>Draconic Soul Shard</Yokai_DragonStone.label>
+  <Yokai_DragonStone.description>A vortex of energy undulates upon the surface of this stone; the energy flows over whatever hand grabs the stone, and the vortex's center moves to meet their gaze. A dragon's essence is not easily contained.
+    \nIn plain terms, this "stone" is a high grade crafting material, and may be used to create extremely powerful weapons and tools. Lore also states that such stones may be created through sacrificing a dragon: or at least its heart.</Yokai_DragonStone.description>
+
+
+  <!-- 最も希少な素材である妖怪の心核は妖怪を招来するのに必須のものです。
+ またこの素材がなければ伝説の武器を作ることは難しいでしょう。 -->
+
+  <Yokai_AnimaCore.label>Heart of the Yokai</Yokai_AnimaCore.label>
+  <Yokai_AnimaCore.description>Also known as the "Anima Core," this precious gem is the most difficult to obtain of all Yokai materials; however, it is also used to create the best weapons and tools their culture can offer.
+    \nThrough mastery of Yokai knowledge, one may be able to use this gem to summon forth Yokai.</Yokai_AnimaCore.description>
+
+
+</LanguageData>

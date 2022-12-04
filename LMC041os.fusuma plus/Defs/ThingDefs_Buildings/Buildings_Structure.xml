@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- 代码已经重构至1.0版本，作者：jxb12306，原作者：ikasaba -->
+<Defs>
+<ThingDef Name="fusuma_DoorBase" ParentName="BuildingBase" Abstract="True">
+    <thingClass>Building_Door</thingClass>
+    <category>Building</category>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <fillPercent>1</fillPercent>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>10</Beauty>
+      <DoorOpenSpeed>2</DoorOpenSpeed>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+	<selectable>true</selectable>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Structure</designationCategory>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+	<drawerType>RealtimeOnly</drawerType>
+    <building>
+	<isInert>true</isInert>
+	<canPlaceOverWall>true</canPlaceOverWall>
+      <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
+      <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
+      <soundDoorOpenManual>Door_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>Door_CloseManual</soundDoorCloseManual>
+	  <blueprintClass>Blueprint_Door</blueprintClass>
+	   <blueprintGraphicData><texPath>Things/Building/Door/fusuma_blueprint</texPath></blueprintGraphicData>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+	<placeWorkers>
+			<li>PlaceWorker_DoorLearnOpeningSpeed</li>
+	</placeWorkers>
+  </ThingDef>
+
+
+
+  
+   <ThingDef ParentName="fusuma_DoorBase">
+    <defName>Fusumaa</defName>
+    <label>Fusuma Matsu</label>
+    <description>It is used in the door of a Japanese style room.
+It is made by stretching paper and cloth on the tree framework.
+If you replace old paper, it is economical as it is new.
+Pine is drawn, pine tree has been popular since long ago.</description>
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>	
+      <WorkToBuild>250</WorkToBuild>  
+    </statBases>	
+    <graphicData>
+      <texPath>Things/Building/Door/f-1_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>	  
+    </graphicData>
+	<uiIconPath>Things/Building/Door/f-1_Mover</uiIconPath>	
+    <designationCategory>JPstyle</designationCategory>
+    <holdsRoof>false</holdsRoof>	
+    <costList>
+	  <WoodLog>10</WoodLog>
+    </costList>		
+  </ThingDef>
+  
+    <ThingDef ParentName="fusuma_DoorBase">
+    <defName>Fusumab</defName>
+    <label>Fusuma green</label>
+    <description>It is used in the door of a Japanese style room.
+It is made by stretching paper and cloth on the tree framework.
+If you replace old paper, it is economical as it is new.</description>
+	
+    <graphicData>
+      <texPath>Things/Building/Door/f-2_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>	  
+    </graphicData>
+    <designationCategory>JPstyle</designationCategory>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <uiIconPath>Things/Building/Door/f-2_Mover</uiIconPath>	
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>	
+      <WorkToBuild>250</WorkToBuild>  
+    </statBases>	
+    <costList>
+	  <WoodLog>10</WoodLog>
+    </costList>		
+  </ThingDef>
+  <ThingDef ParentName="fusuma_DoorBase">
+    <defName>Fusumac</defName>
+    <label>Fusuma Ume</label>
+    <description>It is used in the door of a Japanese style room.
+It is made by stretching paper and cloth on the tree framework.
+If you replace old paper, it is economical as it is new.
+Plums are drawn, plum is a theme of Waka and Noh.</description>
+    <graphicData>
+      <texPath>Things/Building/Door/f-3_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>	  
+    </graphicData>
+    <designationCategory>JPstyle</designationCategory>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <uiIconPath>Things/Building/Door/f-3_Mover</uiIconPath>	
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>	
+      <WorkToBuild>250</WorkToBuild>  
+    </statBases>	
+    <costList>
+	  <WoodLog>10</WoodLog>
+    </costList>		
+  </ThingDef>
+  <ThingDef ParentName="fusuma_DoorBase">
+    <defName>Fusumad</defName>
+    <label>Fusuma pink</label>
+    <description>It is used in the door of a Japanese style room.
+It is made by stretching paper and cloth on the tree framework.
+If you replace old paper, it is economical as it is new.</description>
+	
+    <graphicData>
+      <texPath>Things/Building/Door/f-4_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>	  
+    </graphicData>
+    <designationCategory>JPstyle</designationCategory>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <uiIconPath>Things/Building/Door/f-4_Mover</uiIconPath>	
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>	
+      <WorkToBuild>250</WorkToBuild>  
+    </statBases>	
+    <costList>
+	  <WoodLog>10</WoodLog>
+    </costList>		
+  </ThingDef>
+  
+  
+ </Defs>
+ 

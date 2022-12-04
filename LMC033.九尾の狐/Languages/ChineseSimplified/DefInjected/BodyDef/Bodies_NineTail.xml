@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NineTailBody.label>九尾狐的身体</NineTailBody.label>
+  <NineTailBody.corePart.parts.6.customLabel>左肺</NineTailBody.corePart.parts.6.customLabel>
+  <NineTailBody.corePart.parts.7.customLabel>右肺</NineTailBody.corePart.parts.7.customLabel>
+  <NineTailBody.corePart.parts.8.customLabel>左肾</NineTailBody.corePart.parts.8.customLabel>
+  <NineTailBody.corePart.parts.9.customLabel>右肾</NineTailBody.corePart.parts.9.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.1.customLabel>左眼</NineTailBody.corePart.parts.12.parts.0.parts.1.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.2.customLabel>右眼</NineTailBody.corePart.parts.12.parts.0.parts.2.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.3.customLabel>左耳</NineTailBody.corePart.parts.12.parts.0.parts.3.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.4.customLabel>右耳</NineTailBody.corePart.parts.12.parts.0.parts.4.customLabel>
+  <NineTailBody.corePart.parts.13.customLabel>左肩</NineTailBody.corePart.parts.13.customLabel>
+  <NineTailBody.corePart.parts.13.parts.0.customLabel>左锁骨</NineTailBody.corePart.parts.13.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.customLabel>左臂</NineTailBody.corePart.parts.13.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.0.customLabel>左肱骨</NineTailBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.1.customLabel>左桡骨</NineTailBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.customLabel>左手</NineTailBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>左小指</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>左无名指</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>左中指</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>左食指</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>左拇指</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.14.customLabel>右肩</NineTailBody.corePart.parts.14.customLabel>
+  <NineTailBody.corePart.parts.14.parts.0.customLabel>右锁骨</NineTailBody.corePart.parts.14.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.customLabel>右臂</NineTailBody.corePart.parts.14.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.0.customLabel>右肱骨</NineTailBody.corePart.parts.14.parts.1.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.1.customLabel>右桡骨</NineTailBody.corePart.parts.14.parts.1.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.customLabel>右手</NineTailBody.corePart.parts.14.parts.1.parts.2.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>右小指</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>右无名指</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>右中指</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>右食指</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>右拇指</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.16.customLabel>左腿</NineTailBody.corePart.parts.16.customLabel>
+  <NineTailBody.corePart.parts.16.parts.0.customLabel>左股骨</NineTailBody.corePart.parts.16.parts.0.customLabel>
+  <NineTailBody.corePart.parts.16.parts.1.customLabel>左胫骨</NineTailBody.corePart.parts.16.parts.1.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.customLabel>左脚</NineTailBody.corePart.parts.16.parts.2.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.0.customLabel>左小脚趾</NineTailBody.corePart.parts.16.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.1.customLabel>左第四脚趾</NineTailBody.corePart.parts.16.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.2.customLabel>左中间脚趾</NineTailBody.corePart.parts.16.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.3.customLabel>左第二脚趾</NineTailBody.corePart.parts.16.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.4.customLabel>左大脚趾</NineTailBody.corePart.parts.16.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.17.customLabel>右腿</NineTailBody.corePart.parts.17.customLabel>
+  <NineTailBody.corePart.parts.17.parts.0.customLabel>右股骨</NineTailBody.corePart.parts.17.parts.0.customLabel>
+  <NineTailBody.corePart.parts.17.parts.1.customLabel>右胫骨</NineTailBody.corePart.parts.17.parts.1.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.customLabel>右脚</NineTailBody.corePart.parts.17.parts.2.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.0.customLabel>右小脚趾</NineTailBody.corePart.parts.17.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.1.customLabel>右第四脚趾</NineTailBody.corePart.parts.17.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.2.customLabel>右中间脚趾</NineTailBody.corePart.parts.17.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.3.customLabel>右第二脚趾</NineTailBody.corePart.parts.17.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.4.customLabel>右大脚趾</NineTailBody.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

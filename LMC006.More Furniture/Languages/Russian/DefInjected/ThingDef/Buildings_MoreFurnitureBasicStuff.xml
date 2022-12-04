@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Plant Pots -->
+
+	<Anon2SquarePlantPot.label>Квадратный цветочный горшок</Anon2SquarePlantPot.label>
+	<Anon2SquarePlantPot.description>Посадите в него цветы, чтобы поднять настроение окружающим людям.</Anon2SquarePlantPot.description>
+
+	<Anon2PlantSpot.label>Клумба</Anon2PlantSpot.label>
+	<Anon2PlantSpot.description>Большая плоская клумба для цветов. Легче в постройке, но не так красива, как цветочный горшок.</Anon2PlantSpot.description>
+
+	<Anon2OrnatePlantPot.label>Резной цветочный горшок</Anon2OrnatePlantPot.label>
+	<Anon2OrnatePlantPot.description>Посадите в него цветы, чтобы поднять настроение окружающим людям. На этом горшке вырезано произведение искусства.</Anon2OrnatePlantPot.description>
+
+	<Anon2OrnateSquarePlantPot.label>Квадратный резной цветочный горшок</Anon2OrnateSquarePlantPot.label>
+	<Anon2OrnateSquarePlantPot.description>Посадите в него цветы, чтобы поднять настроение окружающим людям. На этом горшке вырезано произведение искусства.</Anon2OrnateSquarePlantPot.description>
+
+</LanguageData>

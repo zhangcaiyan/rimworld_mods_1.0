@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <!-- history upload pref -->
+  <Unspecified>Nešpecifikované</Unspecified>
+  <Always>VŽdy</Always>
+  <Never>Nikdy</Never>
+  
+  <!-- food quality -->
+  <NoneQuality>Žiadna</NoneQuality>
+  <PlantQuality>Rastlina</PlantQuality>
+  <RawQuality>Surové</RawQuality>
+  <MealAwfulQuality>Nechutné</MealAwfulQuality>
+  <MealSimpleQuality>Jednoduché</MealSimpleQuality>
+  <MealFineQuality>Chutné</MealFineQuality>
+  <MealLavishLavish>Delikatesa</MealLavishLavish>
+  
+
+  
+    <!-- diet type -->
+  <NeverEats>Nikdy neje</NeverEats>
+  <Omnivorous>Všežravec</Omnivorous>
+  <Herbivorous>Bylinožravec</Herbivorous>
+  <Carnivorous>Mäsožravec</Carnivorous>
+  
+   <!-- Price types -->
+  <PriceTypeVeryCheap>Veľmi lacné</PriceTypeVeryCheap>
+  <PriceTypeCheap>Lacné</PriceTypeCheap>
+  <PriceTypeNormal>Normálne</PriceTypeNormal>
+  <PriceTypeExpensive>Drahé</PriceTypeExpensive>
+  <PriceTypeExorbitant>Exorbitálne</PriceTypeExorbitant>
+  
+    <!-- stat category -->
+  <StatCategory_General>Všeobecné</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Všeobecnéˇ</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Brnenie</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primárne</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Práca</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Súboj</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sociálne</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Rôzne</StatCategory_PawnMisc>
+  <StatCategory_Building>Stavanie</StatCategory_Building>
+  
+  <EquippedStatOffsets>Obmedzenia pri používaní</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Zmeny keď je vybavenie z tohoto materiálu</StuffOfEquipmentStatModifiers>
+
+</LanguageData>

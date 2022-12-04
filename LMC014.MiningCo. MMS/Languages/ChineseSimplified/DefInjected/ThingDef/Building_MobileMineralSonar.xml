@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MobileMineralSonar.label>可移动式矿物扫描声呐</MobileMineralSonar.label>
+  <MobileMineralSonar.description>缓慢扫描附近区域以识别矿物区域，通电可以极大的提高扫描速度。</MobileMineralSonar.description>
+  <MobileMineralSonar_Blueprint.label>可移动式矿物扫描声呐 (蓝图)</MobileMineralSonar_Blueprint.label>
+  <MobileMineralSonar_Blueprint_Install.label>可移动式矿物扫描声呐 (蓝图)</MobileMineralSonar_Blueprint_Install.label>
+  <MobileMineralSonar_Frame.label>可移动式矿物扫描声呐 (建造中)</MobileMineralSonar_Frame.label>
+  <MobileMineralSonar_Frame.description>缓慢扫描附近区域以识别矿物区域，通电可以极大的提高扫描速度。</MobileMineralSonar_Frame.description>
+
+
+</LanguageData>

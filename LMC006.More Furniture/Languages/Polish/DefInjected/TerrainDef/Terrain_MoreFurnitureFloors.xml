@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Carpets -->
+
+	<CarpetBedGreen.label>Zielony dywan pod łóżko</CarpetBedGreen.label>
+	<CarpetBedGreen.description>Zielonkawy dywan dopasownay do koloru łóżka.</CarpetBedGreen.description>
+
+	<CarpetBedOrange.label>Pomarańczowy dywan pod łóżko</CarpetBedOrange.label>
+	<CarpetBedOrange.description>Ciemny pomarańczowy dywand dopasowany do koloru łóżka więiennego.</CarpetBedOrange.description>
+
+	<CarpetBedBlue.label>Niebieski dywan pod łóżko</CarpetBedBlue.label>
+	<CarpetBedBlue.description>Jasno niebieski dywan dopasownay do koloru łóżka szpitalnego.</CarpetBedBlue.description>
+
+	<CarpetBedMaroon.label>Brązowy dywan pod łóżko</CarpetBedMaroon.label>
+	<CarpetBedMaroon.description>Brązowy dywan dopasowany do szpitalnego łóżka więziennego.</CarpetBedMaroon.description>
+
+</LanguageData>

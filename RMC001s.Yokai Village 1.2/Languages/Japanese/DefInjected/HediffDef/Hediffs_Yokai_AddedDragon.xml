@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Added body parts -->
+  <Yokai_DragonEye.label>竜眼</Yokai_DragonEye.label>
+  <Yokai_DragonEye.labelNoun>竜の瞳</Yokai_DragonEye.labelNoun>
+  <Yokai_DragonArm.label>竜腕</Yokai_DragonArm.label>
+  <Yokai_DragonArm.comps.0.tools.0.label>竜の拳</Yokai_DragonArm.comps.0.tools.0.label>
+  <Yokai_DragonArm.labelNoun>竜の腕</Yokai_DragonArm.labelNoun>
+  <Yokai_DragonLeg.label>竜脚</Yokai_DragonLeg.label>
+  <Yokai_DragonLeg.labelNoun>竜の脚</Yokai_DragonLeg.labelNoun>
+  <Yokai_DragonBrain.label>竜の知恵</Yokai_DragonBrain.label>
+  <Yokai_DragonBrain.labelNoun>竜の知恵</Yokai_DragonBrain.labelNoun>
+  <Yokai_DragonHeart.label>竜心</Yokai_DragonHeart.label>
+  <Yokai_DragonHeart.labelNoun>竜の心</Yokai_DragonHeart.labelNoun>
+</LanguageData>

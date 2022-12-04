@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- =============== Lamia tail =============== -->
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>Yokai_LamiaSPT</defName>
+    <label>Simple lamia tail</label>
+    <description>Improved simple prosthetic tail for lamia.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/Yokai_slp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <statBases>
+      <WorkToMake>14000</WorkToMake>
+      <MarketValue>400</MarketValue>
+      <Mass>8</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+      <Yokai_EnergyStone>1</Yokai_EnergyStone>
+    </costList>
+    <recipeMaker>
+      <recipeUsers>
+        <li>Yokai_Kanatoko</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="BodyPartBionicBase">
+    <defName>Yokai_LamiaBT</defName>
+    <label>bionic lamia tail</label>
+    <description>Improved bionic tail for lamia.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/Yokai_blp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <statBases>
+      <WorkToMake>26000</WorkToMake>
+      <MarketValue>750</MarketValue>
+      <Mass>8</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>50</Yokai_Fragment>
+      <Yokai_EnergyStone>5</Yokai_EnergyStone>
+    </costList>
+    <recipeMaker>
+      <recipeUsers>
+        <li>Yokai_Kanatoko</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+  <!--女郎蜘蛛の脚 -->
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>Yokai_JorouGumoSPL</defName>
+    <label>Simple JorouGumo leg</label>
+    <description>Improved simple prosthetic leg for JorouGumo.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/Yokai_slp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <statBases>
+      <WorkToMake>12000</WorkToMake>
+      <MarketValue>200</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+      <Yokai_EnergyStone>1</Yokai_EnergyStone>
+    </costList>
+    <recipeMaker>
+      <recipeUsers>
+        <li>Yokai_Kanatoko</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="BodyPartBionicBase">
+    <defName>Yokai_JorouGumoBL</defName>
+    <label>bionic JorouGumo leg</label>
+    <description>Improved bionic leg for JorouGumo.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/Yokai_blp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <statBases>
+      <WorkToMake>22000</WorkToMake>
+      <MarketValue>600</MarketValue>
+      <Mass>3</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>50</Yokai_Fragment>
+      <Yokai_EnergyStone>5</Yokai_EnergyStone>
+    </costList>
+    <recipeMaker>
+      <recipeUsers>
+        <li>Yokai_Kanatoko</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_MoonDragon.label>月の竜</Yokai_Dragon_MoonDragon.label>
+  <Yokai_Dragon_MoonDragon.description>極寒の土地で稀に会うことのできる伝説の青い竜です。肉食性で人も襲う上に鱗は非常に硬く鋭い爪と牙は入植者の体をたやすく引き裂くでしょう。足がとても速いため見かけたら注意が必要です。
+\n恐ろしい戦闘能力を持っていますが、竜の皮は丈夫な衣類の素材になり、牙には素晴らしい値が付くことで知られています。
+\n近年になって極寒の土地以外でも極々稀にですが姿をみせるようになりました。大移動の群れからはぐれた個体と推測されています。</Yokai_Dragon_MoonDragon.description>
+  <Yokai_Dragon_MoonDragon.tools.0.label>右前脚</Yokai_Dragon_MoonDragon.tools.0.label>
+  <Yokai_Dragon_MoonDragon.tools.1.label>左前脚</Yokai_Dragon_MoonDragon.tools.1.label>
+  <Yokai_Dragon_MoonDragon.tools.2.label>牙</Yokai_Dragon_MoonDragon.tools.2.label>
+  <Yokai_Dragon_MoonDragon_Meat.label>竜の肉</Yokai_Dragon_MoonDragon_Meat.label>
+  <Yokai_Dragon_MoonDragon_Meat.description>硬い竜の肉です。特別な調理法で特別なご飯にできます。</Yokai_Dragon_MoonDragon_Meat.description>
+  <Yokai_Dragon_MoonDragon_Corpse.label>月の竜の死骸</Yokai_Dragon_MoonDragon_Corpse.label>
+  <Yokai_Dragon_MoonDragon_Corpse.description>動くことのない月の竜の死骸です。解体することで牙と心臓、肉と皮が手に入ります。</Yokai_Dragon_MoonDragon_Corpse.description>
+</LanguageData>

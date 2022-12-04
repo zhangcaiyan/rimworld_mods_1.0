@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>Yokai_Village_Player</defName>
+    <label>Pioneer</label>
+    <description>A small Yokai Villase.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>Yokai_Person</basicMemberKind>
+    <pawnSingular>pioneer</pawnSingular>
+    <pawnsPlural>pioneers</pawnsPlural>
+    <techLevel>Industrial</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <expandingIconTexture>Things/YokaiIconP</expandingIconTexture>
+    <homeIconPath>Things/YokaiBase</homeIconPath>
+    <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <forageabilityFactor>2.5</forageabilityFactor>
+    <startingResearchTags>
+      <li>TribalStart</li>
+      <li>YokaiStart</li>
+    </startingResearchTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Tribal</li>
+      <li>Rural</li>
+    </hairTags>
+    <apparelStuffFilter>
+      <thingDefs>
+        <li>Yokai_ShiroWool</li>
+      </thingDefs>
+    </apparelStuffFilter>
+  </FactionDef>
+</Defs>

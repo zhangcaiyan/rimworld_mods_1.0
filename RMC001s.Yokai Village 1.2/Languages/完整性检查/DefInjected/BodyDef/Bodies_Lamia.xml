@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LamiaBody.label>LamiaBody</LamiaBody.label>
+  <LamiaBody.corePart.parts.6.customLabel>left lung</LamiaBody.corePart.parts.6.customLabel>
+  <LamiaBody.corePart.parts.7.customLabel>right lung</LamiaBody.corePart.parts.7.customLabel>
+  <LamiaBody.corePart.parts.8.customLabel>left kidney</LamiaBody.corePart.parts.8.customLabel>
+  <LamiaBody.corePart.parts.9.customLabel>right kidney</LamiaBody.corePart.parts.9.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.1.customLabel>left eye</LamiaBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.2.customLabel>right eye</LamiaBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.3.customLabel>left ear</LamiaBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <LamiaBody.corePart.parts.11.parts.0.parts.4.customLabel>right ear</LamiaBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <LamiaBody.corePart.parts.12.customLabel>left shoulder</LamiaBody.corePart.parts.12.customLabel>
+  <LamiaBody.corePart.parts.12.parts.0.customLabel>left clavicle</LamiaBody.corePart.parts.12.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.customLabel>left arm</LamiaBody.corePart.parts.12.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</LamiaBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.1.customLabel>left radius</LamiaBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.customLabel>left hand</LamiaBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <LamiaBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</LamiaBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <LamiaBody.corePart.parts.13.customLabel>right shoulder</LamiaBody.corePart.parts.13.customLabel>
+  <LamiaBody.corePart.parts.13.parts.0.customLabel>right clavicle</LamiaBody.corePart.parts.13.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.customLabel>right arm</LamiaBody.corePart.parts.13.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</LamiaBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.1.customLabel>right radius</LamiaBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.customLabel>right hand</LamiaBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <LamiaBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</LamiaBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchTabDef>
+    <defName>Mineraltree</defName>
+    <label>矿物树</label>
+	</ResearchTabDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage1_MT</defName>
+		<label>钢铁树</label>
+		<description>一种神奇的树，可以收获到钢铁。</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>TreeSowing</li></prerequisites>
+		<tab>Mineraltree</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>Stage2_MT</defName>
+		<label>白银树</label>
+		<description>一种神奇的树，可以收获到白银。</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>Stage1_MT</li></prerequisites>
+		<tab>Mineraltree</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>Stage3_MT</defName>
+		<label>黄金树</label>
+		<description>一种神奇的树，可以收获到黄金。</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>Stage2_MT</li></prerequisites>
+		<tab>Mineraltree</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>Stage4_MT</defName>
+		<label>翡翠树</label>
+		<description>一种翡翠的树，可以收获到翡翠。</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>Stage3_MT</li></prerequisites>
+		<tab>Mineraltree</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	
+</Defs>

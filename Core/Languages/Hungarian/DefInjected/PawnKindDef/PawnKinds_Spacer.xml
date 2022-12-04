@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>űrkatona</AncientSoldier.label>
+  <AncientSoldier.labelPlural>űrkatonák</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>űrmenekült</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>űrmenekültek</SpaceRefugee.labelPlural>
+  
+</LanguageData>

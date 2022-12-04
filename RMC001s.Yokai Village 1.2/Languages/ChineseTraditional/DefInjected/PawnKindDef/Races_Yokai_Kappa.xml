@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Kappa.label>河童</Yokai_Kappa.label>
+  <Yokai_Kappa.labelPlural>河童</Yokai_Kappa.labelPlural>
+  <Yokai_Kappa.lifeStages.0.label>河童寶寶</Yokai_Kappa.lifeStages.0.label>
+  <Yokai_Kappa.lifeStages.0.labelPlural>河童寶寶</Yokai_Kappa.lifeStages.0.labelPlural>
+  <Yokai_Kappa.lifeStages.0.labelMale>河童少年</Yokai_Kappa.lifeStages.0.labelMale>
+  <Yokai_Kappa.lifeStages.0.labelMalePlural>河童少年</Yokai_Kappa.lifeStages.0.labelMalePlural>
+  <Yokai_Kappa.lifeStages.0.labelFemale>河童少女</Yokai_Kappa.lifeStages.0.labelFemale>
+  <Yokai_Kappa.lifeStages.0.labelFemalePlural>河童少女</Yokai_Kappa.lifeStages.0.labelFemalePlural>
+  <Yokai_Kappa.lifeStages.1.label>河童</Yokai_Kappa.lifeStages.1.label>
+  <Yokai_Kappa.lifeStages.1.labelPlural>河童</Yokai_Kappa.lifeStages.1.labelPlural>
+  <Yokai_Kappa.lifeStages.1.labelMale>河童大將</Yokai_Kappa.lifeStages.1.labelMale>
+  <Yokai_Kappa.lifeStages.1.labelMalePlural>河童大將</Yokai_Kappa.lifeStages.1.labelMalePlural>
+  <Yokai_Kappa.lifeStages.1.labelFemale>河童女將</Yokai_Kappa.lifeStages.1.labelFemale>
+  <Yokai_Kappa.lifeStages.1.labelFemalePlural>河童女將</Yokai_Kappa.lifeStages.1.labelFemalePlural>
+  <Yokai_Kappa.labelMale>河童大將</Yokai_Kappa.labelMale>
+  <Yokai_Kappa.labelMalePlural>河童大將</Yokai_Kappa.labelMalePlural>
+  <Yokai_Kappa.labelFemale>河童女將</Yokai_Kappa.labelFemale>
+  <Yokai_Kappa.labelFemalePlural>河童女將</Yokai_Kappa.labelFemalePlural>
+  <!-- やせ河童 -->
+  <Yokai_OKappa.label>Kappa</Yokai_OKappa.label>
+  <Yokai_OKappa.labelPlural>Kappa</Yokai_OKappa.labelPlural>
+  <Yokai_OKappa.lifeStages.0.label>Kappa寶寶</Yokai_OKappa.lifeStages.0.label>
+  <Yokai_OKappa.lifeStages.0.labelPlural>Kappa寶寶</Yokai_OKappa.lifeStages.0.labelPlural>
+  <Yokai_OKappa.lifeStages.0.labelMale>Kappa少年</Yokai_OKappa.lifeStages.0.labelMale>
+  <Yokai_OKappa.lifeStages.0.labelMalePlural>Kappa少年</Yokai_OKappa.lifeStages.0.labelMalePlural>
+  <Yokai_OKappa.lifeStages.0.labelFemale>Kappa少女</Yokai_OKappa.lifeStages.0.labelFemale>
+  <Yokai_OKappa.lifeStages.0.labelFemalePlural>Kappa少女</Yokai_OKappa.lifeStages.0.labelFemalePlural>
+  <Yokai_OKappa.lifeStages.1.label>Kappa</Yokai_OKappa.lifeStages.1.label>
+  <Yokai_OKappa.lifeStages.1.labelPlural>Kappa</Yokai_OKappa.lifeStages.1.labelPlural>
+  <Yokai_OKappa.lifeStages.1.labelMale>Kappa</Yokai_OKappa.lifeStages.1.labelMale>
+  <Yokai_OKappa.lifeStages.1.labelMalePlural>Kappa</Yokai_OKappa.lifeStages.1.labelMalePlural>
+  <Yokai_OKappa.lifeStages.1.labelFemale>Kappa少女</Yokai_OKappa.lifeStages.1.labelFemale>
+  <Yokai_OKappa.lifeStages.1.labelFemalePlural>Kappa少女</Yokai_OKappa.lifeStages.1.labelFemalePlural>
+  <Yokai_OKappa.labelMale>Kappa</Yokai_OKappa.labelMale>
+  <Yokai_OKappa.labelMalePlural>Kappa</Yokai_OKappa.labelMalePlural>
+  <Yokai_OKappa.labelFemale>Kappa少女</Yokai_OKappa.labelFemale>
+  <Yokai_OKappa.labelFemalePlural>Kappa少女</Yokai_OKappa.labelFemalePlural>
+</LanguageData>

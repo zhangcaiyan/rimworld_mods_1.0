@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>dipendenza da yayo</PsychiteAddiction.label>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>astinenza</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>tolleranza allo yayo</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>TODO</PsychiteTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>leggera</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>forte</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>molto forte</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>sotto l'effetto dello yayo</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>TODO</YayoHigh.labelNoun>
+  
+</LanguageData>

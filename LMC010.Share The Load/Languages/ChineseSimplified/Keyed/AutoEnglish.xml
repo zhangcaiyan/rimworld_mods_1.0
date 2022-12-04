@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TD.SettingDeliverAny>给施工中的建筑提供原材料即使其数量不足。</TD.SettingDeliverAny>
+  <TD.SettingBlockingJobs>Make other jobs clear things for blueprints\n让其他的工人清理建造工地。</TD.SettingBlockingJobs>
+  <TD.SettingBlockingJobsDesc>Plant cutters and miners will clear away things for blueprints.\n负责切割与采矿的人将会清理建造工地的杂物。\n\n(有报告称这会有时使右键单击的内容变慢，因此禁用该功能可能会解决此问题。)</TD.SettingBlockingJobsDesc>
+  <TD.ShareTheLoad>负载均衡</TD.ShareTheLoad>
+
+</LanguageData>

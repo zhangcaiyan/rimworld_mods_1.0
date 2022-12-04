@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Torso.label>overkropp</Torso.label>
+    
+    <UpperHead.label>skalp</UpperHead.label>
+    
+    <FullHead.label>hode</FullHead.label>
+    
+    <Eyes.label>øyne</Eyes.label>
+    
+    <Teeth.label>tenner</Teeth.label>
+    
+    <Mouth.label>munn</Mouth.label>
+    
+    <Arms.label>armer</Arms.label>
+    
+    <Shoulders.label>skuldre</Shoulders.label>
+    
+    <Hands.label>hender</Hands.label>
+    
+    <LeftHand.label>venstre hånd</LeftHand.label>
+    
+    <RightHand.label>høyre hånd</RightHand.label>
+    
+    <Legs.label>ben</Legs.label>
+    
+    <Feet.label>føtter</Feet.label>
+    
+    <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>forreste høyre pote</FrontRightPaw.label>
+    
+    <HeadAttackTool.label>hode</HeadAttackTool.label>
+    
+    <FrontLeftLeg.label>forreste venstre ben</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>forreste høyre ben</FrontRightLeg.label>
+    
+    <FrontLeftClaws.label>forreste venstre klo</FrontLeftClaws.label>
+    
+    <FrontRightClaws.label>forreste høyre klo</FrontRightClaws.label>
+    
+    <LeftBlade.label>venstre blad</LeftBlade.label>
+    
+    <RightBlade.label>høyre blad</RightBlade.label>
+    
+    <CoveredByNaturalArmor.label>dekket av naturlig panser</CoveredByNaturalArmor.label>
+    
+    <TuskAttackTool.label>støttenner</TuskAttackTool.label>
+    
+    <HornAttackTool.label>horn</HornAttackTool.label>
+    
+    <HeadClaw.label>hodeklo</HeadClaw.label>
+    
+    <TurtleBeakAttackTool.label>nebb</TurtleBeakAttackTool.label>
+    
+</LanguageData>

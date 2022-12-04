@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SetUpCamp>设立营地</SetUpCamp>
+  <SetUpCampDesc>设立一个营地，允许远征队在此觅食，挖掘和狩猎，也可以用于重新编组。</SetUpCampDesc>
+  <SetUpCampFormedCamp>远征队已经成功设立了营地。</SetUpCampFormedCamp>
+  <SetUpCampSettingsCategoryLabel>随时随地设立营地</SetUpCampSettingsCategoryLabel>
+  <SetUpCampSettingMapSize>野营地图生成尺寸 (默认值: 75-125)</SetUpCampSettingMapSize>
+  <SetUpCampSettingsMapTimerDays>强制离开营地倒计时 (默认值: 5天)</SetUpCampSettingsMapTimerDays>
+  <SetUpCampSettingsMapTimerDaysTooltip>远征队可以停留的天数，倒计时结束后远征队将强制离开。</SetUpCampSettingsMapTimerDaysTooltip>
+  <SetUpCampSettingsTimeout>废弃的营地消失倒计时 (默认值: 60天)</SetUpCampSettingsTimeout>
+  <SetUpCampSettingsTimeoutTooltip>营地废弃后在世界地图上继续存在的天数，倒计时结束后将会直接消失(15-120天)</SetUpCampSettingsTimeoutTooltip>
+  <SetUpCampSettingMinCampSize>野营地图最小生成尺寸</SetUpCampSettingMinCampSize>
+  <SetUpCampSettingMaxCampSize>野营地图最大生成尺寸</SetUpCampSettingMaxCampSize>
+  <SetUpCampSettingsCustomMapGenDef>启用资源生成</SetUpCampSettingsCustomMapGenDef>
+  <SetUpCampSettingsPermanentCamps>允许保留野营地图（如果禁用此选项，将会完全删除当前地图上所有没有远征队的营地）</SetUpCampSettingsPermanentCamps>
+  <SetUpCampSettingsHomeEvents>在地图中启用通常地图中发生的事件</SetUpCampSettingsHomeEvents>
+  <SetUpCampSettingsCaravanEvents>在地图中启用野营地图中发生的事件</SetUpCampSettingsCaravanEvents>
+  <SetUpCampDestroyCamp>废弃营地</SetUpCampDestroyCamp>
+  <SetUpCampDestroyCampDesc>永久废弃此营地。</SetUpCampDestroyCampDesc>
+  <SetUpCampAbandonDialogue>你确定要永久地、不可逆转地废弃这个营地吗？</SetUpCampAbandonDialogue>
+  <SetUpCampAbandoned>营地已被废弃。</SetUpCampAbandoned>
+  <SetUpCampStillInUse>营地里还有殖民者。在废弃营地之前，你必须将他们组成一个远征队。</SetUpCampStillInUse>
+  <SetUpCampOccupied>必须要等待几天，才能在同一地点设立营地。</SetUpCampOccupied>
+
+
+
+</LanguageData>

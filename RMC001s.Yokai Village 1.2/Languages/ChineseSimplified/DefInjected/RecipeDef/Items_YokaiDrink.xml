@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe!!! -->
+  <Make_IceDrink.label>调制冰凉饮料</Make_IceDrink.label>
+  <Make_IceDrink.description>制作5个冰凉饮料。</Make_IceDrink.description>
+  <Make_IceDrink.jobString>调制冰凉饮料中。</Make_IceDrink.jobString>
+  <!-- HotDrink -->
+  <Make_HotDrink.label>调制热饮</Make_HotDrink.label>
+  <Make_HotDrink.description>制作5个热饮。</Make_HotDrink.description>
+  <Make_HotDrink.jobString>调制热饮中。</Make_HotDrink.jobString>
+</LanguageData>

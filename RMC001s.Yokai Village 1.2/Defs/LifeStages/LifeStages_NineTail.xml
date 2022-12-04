@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LifeStageDef>
+    <defName>NineTailKogitune</defName>
+    <label>Kogitsune/"Cute Fox"</label>
+    <voxPitch>1.6</voxPitch>
+    <bodySizeFactor>0.6</bodySizeFactor>
+    <healthScaleFactor>0.25</healthScaleFactor>
+    <hungerRateFactor>1</hungerRateFactor>
+    <marketValueFactor>0.2</marketValueFactor>
+    <meleeDamageFactor>0.05</meleeDamageFactor>
+    <statFactors>
+      <PainShockThreshold>1.5</PainShockThreshold>
+      <MoveSpeed>0.5</MoveSpeed>
+      <ImmunityGainSpeed>1.6</ImmunityGainSpeed>
+      <Mass>0.5</Mass>
+      <MeleeHitChance>0.5</MeleeHitChance>
+      <MeleeArmorPenetration>0.3</MeleeArmorPenetration>
+      <MeleeDodgeChance>0.5</MeleeDodgeChance>
+      <AimingDelayFactor>8.5</AimingDelayFactor>
+    </statFactors>
+    <shearable>true</shearable>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>NineTailWakagitune</defName>
+    <label>Wakaigitsune/"Young Fox"</label>
+    <voxPitch>1.4</voxPitch>
+    <bodySizeFactor>0.8</bodySizeFactor>
+    <healthScaleFactor>0.5</healthScaleFactor>
+    <hungerRateFactor>0.8</hungerRateFactor>
+    <meleeDamageFactor>0.2</meleeDamageFactor>
+    <statFactors>
+      <MoveSpeed>0.8</MoveSpeed>
+      <ImmunityGainSpeed>2.0</ImmunityGainSpeed>
+      <Mass>0.7</Mass>
+      <AimingDelayFactor>5.5</AimingDelayFactor>
+    </statFactors>
+    <shearable>true</shearable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>NineTailAdult</defName>
+    <label>Seijinkitsune/"Adult Fox"</label>
+    <voxPitch>1.0</voxPitch>
+    <healthScaleFactor>4</healthScaleFactor>
+    <marketValueFactor>3</marketValueFactor>
+    <statFactors>
+      <MoveSpeed>1</MoveSpeed>
+      <ImmunityGainSpeed>5.0</ImmunityGainSpeed>
+      <MeleeHitChance>2</MeleeHitChance>
+      <MeleeArmorPenetration>5</MeleeArmorPenetration>
+      <MeleeDodgeChance>2</MeleeDodgeChance>
+    </statFactors>
+    <shearable>true</shearable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>NineTailShiro</defName>
+    <label>White Tailed</label>
+    <voxPitch>0.8</voxPitch>
+    <bodySizeFactor>0.8</bodySizeFactor>
+    <healthScaleFactor>10</healthScaleFactor>
+    <hungerRateFactor>0.1</hungerRateFactor>
+    <marketValueFactor>50.0</marketValueFactor>
+    <meleeDamageFactor>5</meleeDamageFactor>
+    <foodMaxFactor>3</foodMaxFactor>
+    <statFactors>
+      <MoveSpeed>2</MoveSpeed>
+      <ImmunityGainSpeed>10.0</ImmunityGainSpeed>
+      <MeleeHitChance>30</MeleeHitChance>
+      <MeleeArmorPenetration>30</MeleeArmorPenetration>
+      <MeleeDodgeChance>30</MeleeDodgeChance>
+      <Mass>0.8</Mass>
+      <AimingDelayFactor>0.1</AimingDelayFactor>
+      <ShootingAccuracyPawn>20</ShootingAccuracyPawn>
+    </statFactors>
+    <shearable>true</shearable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+</Defs>

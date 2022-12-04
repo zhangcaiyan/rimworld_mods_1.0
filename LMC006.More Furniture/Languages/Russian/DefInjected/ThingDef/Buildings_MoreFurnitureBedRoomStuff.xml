@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Bedroom stuff -->
+
+	<Anon2Dresser.label>Комод</Anon2Dresser.label>
+	<Anon2Dresser.description>Место, где колонисты могут хранить свои вещи. При размещении у изголовья кровати повышает комфорт.</Anon2Dresser.description>
+
+	<Anon2EndTable.label>Тумбочка</Anon2EndTable.label>
+	<Anon2EndTable.description>Эта маленькая тумбочка хорошо сочетается с кроватью. При размещении у изголовья кровати повышает комфорт.</Anon2EndTable.description>
+
+	<Anon2RoyalEndTable.label>Королевская тумбочка</Anon2RoyalEndTable.label>
+	<Anon2RoyalEndTable.description>Эта маленькая тумбочка хорошо сочетается с королевской кроватью. При размещении у изголовья кровати повышает комфорт.</Anon2RoyalEndTable.description>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LMC040h.避免友军误伤</name>
+  <author>Falconne</author>
+  <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+  
+Adds an new shooting mode for ranged colonists that tells them not to shoot if there are friendlies in harms way.
+添加了避免友军远程火力误伤的功能，当友军或者驯服的动物处于射击线上（考虑武器的射击偏差）的时候，远程部队不会开火以避免误伤。
+  
+同时如果前线的殖民者装备护盾且能量在10%以上，远程部队可以忽视可能的误伤继续开火（MOD设定中配置），如果能量在10%以下远程部队将会停火。
+  
+可以选择保护宠物（已指定主人）或所有已经驯服的动物（低端机器慎用，可能会发生性能问题）。
+
+需要HugsLib！
+  
+汉化：jxb12306
+合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+  
+  </description>
+  <targetVersion>1.0.2059</targetVersion>
+</ModMetaData>

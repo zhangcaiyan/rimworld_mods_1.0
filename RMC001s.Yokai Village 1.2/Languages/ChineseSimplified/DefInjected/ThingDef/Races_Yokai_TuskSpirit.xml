@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_TuskSprit.label>尖牙精霊</Yokai_TuskSprit.label>
+  <Yokai_TuskSprit.description>外型像无机物的利牙精灵，为了成长仍要补充营养及充足的睡眠。虽然十分脆弱，但能从存活了4年以上的尖牙精灵尸体中取得龙牙。
+  \n不存在於野外，能从商人购买来当宠物。无法参与战斗，甚至连狐狸都能经易猎捕他们，培育尖牙精灵时需要细心留意。</Yokai_TuskSprit.description>
+  <Yokai_TuskSprit.tools.0.label>身体撞击</Yokai_TuskSprit.tools.0.label>
+  <Yokai_TuskSprit_Corpse.label>尖牙精灵的尸体</Yokai_TuskSprit_Corpse.label>
+  <Yokai_TuskSprit_Corpse.description>寿终正寝的尖牙精灵，能从活了4年以上的个体得到龙牙。</Yokai_TuskSprit_Corpse.description>
+</LanguageData>

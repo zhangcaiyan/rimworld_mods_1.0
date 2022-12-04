@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 文件柜 -->
+
+  <Anon2FileCabinet.label>文件柜</Anon2FileCabinet.label>
+  <Anon2FileCabinet.description>一个用来保存文件的柜子，可以提高研究速度。</Anon2FileCabinet.description>
+  <Anon2FileCabinet_Blueprint.label>文件柜 (蓝图)</Anon2FileCabinet_Blueprint.label>
+  <Anon2FileCabinet_Blueprint_Install.label>文件柜 (蓝图)</Anon2FileCabinet_Blueprint_Install.label>
+  <Anon2FileCabinet_Frame.label>文件柜 (建造中)</Anon2FileCabinet_Frame.label>
+  <Anon2FileCabinet_Frame.description>一个用来保存文件的柜子，可以提高研究速度。</Anon2FileCabinet_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Creare lume</CreateWorld>
+  <NewColony>Colonie nouă</NewColony>
+  <BackToGame>Continuare joc</BackToGame>
+  <Save>Salvare colonie</Save>
+  <Load>Încărcare colonie precedentă</Load>
+  <Options>Setări</Options>
+  <Mods>Îmbunătățiri</Mods>
+  <Credits>Credite</Credits>
+  <QuitToMainMenu>Întoarcere la meniul jocului</QuitToMainMenu>
+  <QuitToOS>Închide joc</QuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Blog-ul Ludeon</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Wiki oficial</OfficialWiki>
+  <TynansTwitter>Pagina de twitter a lui Tynan</TynansTwitter>
+  <TynansDesignBook>Cartea de design a lui Tynan</TynansDesignBook>
+  <HelpTranslate>Participă la traducerea jocului!</HelpTranslate>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Vizualizare lume</ReviewWorld>
+  <WorldGenerate>Generează lume</WorldGenerate>
+  <WorldSaveAndFinish>Salvează si finalizează</WorldSaveAndFinish>
+  <Reset>Resetare</Reset>
+  <WorldSize>Mărime lume</WorldSize>
+  <WorldSeed>Cod de generare</WorldSeed>
+  <RandomizeSeed>Generare cod aleator</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Selectare lume</SelectWorld>
+  <WorldChooseButton>Selectează</WorldChooseButton>
+  <NoWorldsFilesFound>Nu există nici o lume creată. Creează o lume nouă mai întâi.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Versiunea {0} este finalizată. Accesează www.ludeon.com pentru mai multe informații.</BuildNowAvailable>
+	<BuildUpToDate>Aceasta este cea mai nouă versiune.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Eroare în determinarea versiunii jocului: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Informații versiune prezentă</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Generează lume</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Adaugă îmbunătățiri</GetMods>
+  <OpenModsDataFolder>Deschide fișierul cu îmbunătățiri</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi nucleul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de nucleului.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
+  <Author>Autor</Author>
+
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Alege un AI povestitor</ChooseAIStoryteller>
+  <HowStorytellersWork>AI-ul povestitor generează evenimente ca atacuri ale piraților, ale animalelor sau aterizări de resurse. Aceste alegeri vor afecta povestea coloniei tale.</HowStorytellersWork>
+  <MustChooseChallengeScale>Alege un nivel de dificultate.</MustChooseChallengeScale>
+  <ChallengeScale>Scară de dificultate</ChallengeScale>
+  <ChallengeScaleTip>Când povestitorul generează un eveniment ostil către colonia ta, acesta va fi {0} din nivelul Dificil.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Neostil</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Cazual</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Dur</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Dificil</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Foarte Dificil</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Provocare Extremă</ChallengeScale_ExtremeChallenge>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Alegere regiune de aterizare</SelectLandingSite>
+  <SelectSite>Alege regiunea</SelectSite>
+  <MustSelectLandingSite>Trebuie să alegi o regiune de aterizare.</MustSelectLandingSite>
+  <CannotLandBiome>Nu poți ateriza în acest mediu: {0}</CannotLandBiome>
+  <WorldRenderMode>Mod</WorldRenderMode>
+  <WorldRenderModeFull>Total</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatură</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Altitudine</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Fertilitate</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Precipitații</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Medii geografice</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Mediul geografic nu este implementat</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} au deja o colonie acolo.</BaseAlreadyThere>
+  <Biome>Mediu</Biome>
+  <Terrain>Relief</Terrain>
+  <Elevation>Altitudine</Elevation>
+  <Fertility>Fertilitate</Fertility>
+  <AvgTemp>Temperatură medie</AvgTemp>
+  <AvgJanTemp>Temperatură medie (Ian): {0}</AvgJanTemp>
+  <AvgJulTemp>Temperatură medie (Iul): {0}</AvgJulTemp>
+  <Rainfall>Precipitații</Rainfall>
+  <HasCoast0>Coasta Nordică</HasCoast0>
+  <HasCoast1>Coasta Estică</HasCoast1>
+  <HasCoast2>Coasta Sudică</HasCoast2>
+  <HasCoast3>Coasta Vestică</HasCoast3>
+  <FactionBase>Capitala unei facțiuni</FactionBase>
+  <StoneTypesHere>Tipuri de roci</StoneTypesHere>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Creează personaje</CreateCharacters>
+  <FirstNameDesc>Prenumele personajului.\n\nAcesta este afișat doar în anumite meniuri.</FirstNameDesc>
+  <ShortIdentifierDesc>Porecla personajului.\n\nAceasta este afișată mereu. Poate fi numele, prenumele sau cu totul altceva.</ShortIdentifierDesc>
+  <LastNameDesc>Numele personajului.\n\nAcesta este afișat doar în anumite meniuri.</LastNameDesc>
+  <Randomize>Alege aleator</Randomize>
+  <AgeIndicator>vârstă {0}</AgeIndicator>
+  <Backstory>Poveste</Backstory>
+  <IncapableOf>Incapabil de</IncapableOf>
+  <Traits>Trăsături</Traits>
+  <TraitsDoNothing>Trăsăturile sunt in prezent doar de amuzament; mare parte din ele nu au nici un efect. Aceasta se va schimba în versiunile ulterioare.</TraitsDoNothing>
+  <PermanentMoodEffect>Efect permament asupra dispoziției</PermanentMoodEffect>
+  <Skills>Abilități</Skills>
+  <NoneLower>Nimic</NoneLower>
+  <Adulthood>Viață de adult</Adulthood>
+  <Childhood>Copilărie</Childhood>
+  <Male>Mascul</Male>
+  <Female>Femelă</Female>
+  <Pain>Durere</Pain>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>Start</Start>
+  <Advanced>Avansat</Advanced>
+  <Next>Înainte</Next>
+  <Back>Înapoi</Back>
+  
+  <Gameplay>Mecanici de joc</Gameplay>
+
+  <ConfirmQuit>Sigur vrei să închizi? Conținutul nesalvat va fi pierdut.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Fiecare persoană are nevoie de un nume valid.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Generează lume...</GeneratingWorld>
+  <GeneratingMap>Generează hartă...</GeneratingMap>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealCannedFood.label>canned meal</MealCannedFood.label>
+  <MealCannedFood.description>A meal preserved in cans to prevent it going bad.</MealCannedFood.description>
+
+  <CannedVeg.label>canned vegetables</CannedVeg.label>
+  <CannedVeg.description>Vegetables that have been cooked and preserved in a can to prevent spoilage.</CannedVeg.description>
+
+  <CannedMeat.label>canned meat</CannedMeat.label>
+  <CannedMeat.description>Meat that have been cooked and preserved in a can to prevent spoilage.</CannedMeat.description>
+
+
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--=============== 妖怪のお薬たち ====================-->
+  <ThingDef Name="YokaiMedicineBase" ParentName="MedicineBase" Abstract="True">
+    <stackLimit>40</stackLimit>
+    <recipeMaker>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiTraditionCure</researchPrerequisite>
+    </recipeMaker>
+    <tradeTags>
+      <li>Yokai_Medicine</li>
+    </tradeTags>
+  </ThingDef>
+  <!--妖怪の薬草束 -->
+  <ThingDef ParentName="YokaiMedicineBase">
+    <defName>Yokai_Herbs</defName>
+    <label>Yokai Kusuri</label>
+    <description>Even Yokai have their "humble" beginnings, and this is one such instance; Kusuri is the lowest tier of Yokai medicine, and is often used as a component for better medicines rather than by itself. Some within the Yokai villages still hold Kusuri in very high regard, as it was a blessing granted to their fledgling forebears by the Tsuzurao. Evidence for this theory lies in its sole ingredient: healroot. Healroot is the de facto medicine of any-well, most-new colonies and villages on the Rim. The Tsuzurao attempted to uplift the Yokai people by showing them that-with a little magic-healroot could become more potent.
+    \nScholars debate the veracity of such claims due to accounts that describe the Tsuzurao as near-immortal creatures. In fact, first hand accounts also attest to the fact that Tsuzurao seem to "naturally" recover from wounds at an infinitely faster rate than humans. Be this due to their magic or physiology, which honestly could also be conflated as the same thing, is hard to tell. The question, however, is this: if the Tsuzurao can recover so well without the aid of medicine, then why would they have knowledge of such? Detractors point to the fact that the Tsuzurao taught humans how to use magic to enhance healroot; that it was not a recipe or herb that they showed humans: but rather magic. The Yokai community has yet to reach a consensus on the matter, and few expect it will any time soon.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Medical/YokaiHerbs</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.85</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>16</MarketValue>
+      <Mass>0.4</Mass>
+      <Flammability>1.2</Flammability>
+      <MedicalPotency>0.80</MedicalPotency>
+      <MedicalQualityMax>0.85</MedicalQualityMax>
+      <DeteriorationRate>4</DeteriorationRate>
+      <WorkToMake>400</WorkToMake>
+    </statBases>
+    <recipeMaker>
+      <skillRequirements>
+        <Medicine>2</Medicine>
+        <Intellectual>2</Intellectual>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <MedicineHerbal>2</MedicineHerbal>
+    </costList>
+  </ThingDef>
+  <!--妖怪包帯 -->
+  <ThingDef ParentName="YokaiMedicineBase">
+    <defName>Yokai_Bandage</defName>
+    <label>Yokai Hōtai</label>
+    <description>With a medical potency comparable to nanomachines, these bandages allow for highly efficient treatment of any wound. Its effectiveness is due to the inclusion of Yokai hair, which requires dextrous hands to distill into an active agent.
+    \nOf course, medical knowledge is also required to understand how to combine the distilled agent with Kusuri.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Medical/YokaiBandage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.85</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>42</MarketValue>
+      <Mass>0.4</Mass>
+      <Flammability>0.4</Flammability>
+      <MedicalPotency>1.70</MedicalPotency>
+      <MedicalQualityMax>1.3</MedicalQualityMax>
+      <DeteriorationRate>2</DeteriorationRate>
+      <WorkToMake>600</WorkToMake>
+    </statBases>
+    <recipeMaker>
+      <skillRequirements>
+        <Medicine>6</Medicine>
+        <Intellectual>6</Intellectual>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Yokai_Herbs>2</Yokai_Herbs>
+      <Yokai_NekoMusumeWool>6</Yokai_NekoMusumeWool>
+    </costList>
+  </ThingDef>
+</Defs>

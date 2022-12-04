@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <YokaiVillage_newPerson.label>妖怪村の出奔者</YokaiVillage_newPerson.label>
+  <YokaiVillage_newPerson.description>人間の文化に興味を持った二人組が村を飛び出し新しい生き方を模索しようとしています。
+    \nぬらりひょんと九尾の加護を離れ、新たな地で生きのびる事ができるのでしょうか？
+    \n彼らは人間ですが、妖怪村の文化の基礎的な部分を学んでおり、移動のためにシロとラミアを連れています。
+    </YokaiVillage_newPerson.description>
+  <YokaiVillage_newPerson.scenario.name>妖怪村の出奔者</YokaiVillage_newPerson.scenario.name>
+  <YokaiVillage_newPerson.scenario.summary>妖怪村の簡単な技術と、2匹のペット、不思議な弓を持って二人の村人でスタートします</YokaiVillage_newPerson.scenario.summary>
+  <YokaiVillage_newPerson.scenario.description>人間の文化に興味を持った二人組が村を飛び出し新しい生き方を模索しようとしています。
+ぬらりひょんと九尾の加護を離れ、新たな地で生きのびる事ができるのでしょうか？
+彼らは人間ですが、妖怪村の文化の基礎的な部分を学んでおり、移動のためにシロとラミアを連れています。
+
+製作者からのヒント
+宿り木をしっかり育てれば戦闘は格段に楽になります。序盤から狩りを意識して行ってみてください。
+シロやラミアを上手く守ることで安定して資源を供給してくれます。</YokaiVillage_newPerson.scenario.description>
+  <YokaiVillage_newPerson.scenario.parts.0.text>二人の若者は妖怪村の穏やかだけれど退屈な日々に満足することが出来ませんでした。
+ぬらりひょんから授けられた成長する武器「宿り木」と「宿り木の枝」を携え、ラミアとシロをお供に新たな土地での刺激的な日々が始まります。
+</YokaiVillage_newPerson.scenario.parts.0.text>
+</LanguageData>

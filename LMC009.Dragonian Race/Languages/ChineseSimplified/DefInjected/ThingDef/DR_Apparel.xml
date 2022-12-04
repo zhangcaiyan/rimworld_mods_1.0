@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 의상 -->
+
+  <DR_BasicWear.label>龙女基础穿着</DR_BasicWear.label>
+  <DR_BasicWear.description>这是龙女的基础穿着，我们仍然不知道她们是怎么制造和穿上衣物的。</DR_BasicWear.description>
+
+  <DR_BasicDress.label>龙女基础裙子</DR_BasicDress.label>
+  <DR_BasicDress.description>用丝带和花装饰的裙子，胸部明显裸露了出来。</DR_BasicDress.description>
+
+  <DR_GreekDress.label>龙女衣物A</DR_GreekDress.label>
+  <DR_GreekDress.description>这是一条用绳子系着的衣物。</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>龙女衣物B</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>这是一条只挂在一边肩膀的衣物。</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>龙女衣物C</DR_GreekPriest.label>
+  <DR_GreekPriest.description>这是一条覆盖着身体前后的衣物。</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>龙女衣物D</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>这是一条有分叉的衣物。</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>龙女衣物E</DR_GreekString.label>
+  <DR_GreekString.description>这是一条带有丝带的衣物。</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>龙女衣物F</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>这是一条覆盖全身的衣物，被称为和服。</DR_JapaneseDress.description>
+
+
+  <!-- 추가 -->
+
+  <DR_Onepiece.label>龙女衣物G</DR_Onepiece.label>
+  <DR_Onepiece.description>这是一件连衣裙。</DR_Onepiece.description>
+
+
+  <!-- 0826 이브닝 드레스 -->
+
+  <DR_EveningDress.label>龙女衣物H</DR_EveningDress.label>
+  <DR_EveningDress.description>这是一条有侧边开口的凉爽晚礼服。</DR_EveningDress.description>
+
+
+  <!-- 모자 -->
+
+  <DR_Hat.label>花饰</DR_Hat.label>
+  <DR_Hat.description>花形的发饰。</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>日式发卡</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>佩戴于头上的日式发卡。</DR_JapanHairAcc.description>
+
+
+  <!-- 추가 -->
+
+  <DR_Necklace.label>项圈</DR_Necklace.label>
+  <DR_Necklace.description>一个附有铃铛的项圈。</DR_Necklace.description>
+
+  <DR_BellNecklace.label>项链铃铛</DR_BellNecklace.label>
+  <DR_BellNecklace.description>一条项链铃铛。</DR_BellNecklace.description>
+
+  <DR_SunHat.label>太阳帽</DR_SunHat.label>
+  <DR_SunHat.description>这是一顶用于遮挡阳光的宽边帽。</DR_SunHat.description>
+
+
+  <!-- 0826 리본 추가 -->
+
+  <DR_FlowerRibon.label>花束丝带</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>这是一个有丝带和花的装饰品。</DR_FlowerRibon.description>
+
+  <DR_MaleDress.label>龙女基础穿着</DR_MaleDress.label>
+  <DR_MaleDress.description>这是龙女的基础穿着，我们仍然不知道她们是怎么制造和穿上衣物的。</DR_MaleDress.description>
+
+
+</LanguageData>

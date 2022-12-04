@@ -1,0 +1,12 @@
+﻿äiti
+poika
+isä
+veli
+eno
+setä
+veljenpoika
+veljentytär
+siskonpoika
+siskontytär
+täti
+

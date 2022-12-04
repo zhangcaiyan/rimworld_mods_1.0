@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<JobDef>
+		<defName>Canning_FillUniversalFermenter</defName>
+		<driverClass>Canning.JobDriver_FillUniversalFermenter</driverClass>
+		<reportString>filling TargetA.</reportString>
+	</JobDef>
+	
+	<JobDef>
+		<defName>Canning_TakeProductOutOfUniversalFermenter</defName>
+		<driverClass>Canning.JobDriver_TakeProductOutOfUniversalFermenter</driverClass>
+		<reportString>taking product out of TargetA.</reportString>
+	</JobDef>
+
+</Defs>

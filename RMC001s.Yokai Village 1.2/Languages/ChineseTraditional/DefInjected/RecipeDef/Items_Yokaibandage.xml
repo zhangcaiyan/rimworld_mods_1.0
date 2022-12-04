@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe -->
+  <MakeYokaiMedicine.label>製作妖怪繃帶</MakeYokaiMedicine.label>
+  <MakeYokaiMedicine.description>製作妖怪繃帶。能以妖怪的毛髮及醫療包製成，需要有相當的醫療知識及工藝技巧。</MakeYokaiMedicine.description>
+  <MakeYokaiMedicine.jobString>製作妖怪繃帶中。</MakeYokaiMedicine.jobString>
+  <MakeYokaiMedicine10.label>製作10個妖怪繃帶</MakeYokaiMedicine10.label>
+  <MakeYokaiMedicine10.description>製作10個妖怪繃帶。能以妖怪的毛髮及醫療包製成，需要有相當的醫療知識及工藝技巧。</MakeYokaiMedicine10.description>
+  <MakeYokaiMedicine10.jobString>製作妖怪繃帶中</MakeYokaiMedicine10.jobString>
+</LanguageData>

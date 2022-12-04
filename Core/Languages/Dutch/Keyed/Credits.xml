@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>Een verhalengenerator van Tynan Sylvester</MainPageCredit>
+
+  <!-- EN: Developers -->
+  <Credits_Developers>Ontwikkelaars</Credits_Developers>
+  <!-- EN: Direction, design, code, art -->
+  <Credit_DirectionVarious>Regie, ontwerp, code, grafisch</Credit_DirectionVarious>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>Muziek en geluid</Credit_MusicAndSound>
+  <!-- EN: Code -->
+  <Credit_Code>Code</Credit_Code>
+  <!-- EN: Art -->
+  <Credit_GameArt>Grafisch</Credit_GameArt>
+  <!-- EN: Menu art -->
+  <Credit_MenuArt>Menu illustraties</Credit_MenuArt>
+  <!-- EN: Additional code -->
+  <Credit_AdditionalCode>Aanvullende code</Credit_AdditionalCode>
+  
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>Aanvullende ontwikkeling</Credits_AdditionalDevelopment>
+
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Speciale dank</Credit_SpecialThanks>
+
+  <!-- EN: Community volunteers -->
+  <Credits_TitleCommunity>Vrijwilligers uit de community</Credits_TitleCommunity>
+  <!-- EN: Tester -->
+  <Credit_Tester>Tester</Credit_Tester>
+  <!-- EN: Mod donor -->
+  <Credit_ModDonation>Mod donateur</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Verstrekker van diverse teksten</Credit_WritingDonation>
+  <!-- EN: Moderator -->
+  <Credit_Moderator>Surveillant</Credit_Moderator>
+  <!-- EN: Wiki master -->
+  <Credit_WikiMaster>Wiki koning</Credit_WikiMaster>
+
+  <!-- EN: {0} language -->
+  <Credits_TitleLanguage>Taal: {0}</Credits_TitleLanguage>
+  <!-- EN: Writer -->
+  <Credit_Writer>Schrijver</Credit_Writer>
+  <!-- EN: Translator -->
+  <Credit_Translator>Vertaler</Credit_Translator>
+  <!-- EN: Open source libraries -->
+  <Credit_OpenSourceLibraries>Open-Source biblioteken</Credit_OpenSourceLibraries>
+  <!-- EN: Noise generation -->
+  <Credit_NoiseGeneration>Geluidsgeneratie</Credit_NoiseGeneration>
+
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Bedankt voor het spelen!</ThanksForPlaying>
+
+</LanguageData>

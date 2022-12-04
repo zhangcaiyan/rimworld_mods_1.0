@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FortuneCookie_Fox.label>幸運籤餅</FortuneCookie_Fox.label>
+  <FortuneCookie_Fox.description>巫女狐給予的特別食品，每隔三天就能收到一份。取代原本餅乾中應有的籤語，放入的是一個特別的御守。每日一籤餅，疾病遠離你。\n(御守中似乎藏著一根毛茸茸的毛)</FortuneCookie_Fox.description>
+
+  <MysteriousWreath.label>蕾芙卡的花冠</MysteriousWreath.label>
+  <MysteriousWreath.description>這個神秘的花冠，是由喜歡採集花草的蕾芙卡所編織而成。從未見過的香草上綻放著美麗的花朵。可惜編織的不太結實，因此不能穿戴於身上。帶有些許香莢蘭的芬芳。\n(作為禮物，每隔三天能從蕾芙卡收到一份。)</MysteriousWreath.description>
+
+  <NutChocolate.label>義理巧克力</NutChocolate.label>
+  <NutChocolate.description>「不小心作太多了才送你的，才不是特別為了你作的呢!」小不點狼邊說著這樣的話，一邊遞上的心型榛果巧克力。以義理巧克力來說似乎有點太大了的這份甜點上，插著一個來源不明的橡果，並覆蓋著詭異的大理石紋樣勾花。由於這顆堅果似乎不是由小不點狼採集的，所以問她大概也是白問。但吃下去真的沒問題嗎...?\n(每隔三天會被小不點狼強迫收下一份。)</NutChocolate.description>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--狂った竜 -->
+  <Yokai_Raid_Mdra.label>狂気の竜</Yokai_Raid_Mdra.label>
+  <Yokai_Raid_Mdra.description>狂気に侵された黒い竜です。月の竜と姿は似ていますが別種で凶暴そのものです。人のいう事は決して聞きません。</Yokai_Raid_Mdra.description>
+  <Yokai_Raid_Mdra.tools.0.label>右前脚</Yokai_Raid_Mdra.tools.0.label>
+  <Yokai_Raid_Mdra.tools.1.label>左前脚</Yokai_Raid_Mdra.tools.1.label>
+  <Yokai_Raid_Mdra.tools.2.label>牙</Yokai_Raid_Mdra.tools.2.label>
+  <Yokai_Raid_Mdra_Corpse.label>狂った竜の死骸</Yokai_Raid_Mdra_Corpse.label>
+  <Yokai_Raid_Mdra_Corpse.description>狂った竜の死骸です。解体することで心臓、肉、皮が手に入ります。</Yokai_Raid_Mdra_Corpse.description>
+  <!--空腹な竜 -->
+  <Yokai_Raid_Pekodra.label>空腹な竜</Yokai_Raid_Pekodra.label>
+  <Yokai_Raid_Pekodra.description>空腹のあまり気が狂ってしまった紫の竜です。ペコドラに似た姿をしていますが、ずっと凶暴で攻撃的です。</Yokai_Raid_Pekodra.description>
+  <Yokai_Raid_Pekodra.tools.0.label>右前脚</Yokai_Raid_Pekodra.tools.0.label>
+  <Yokai_Raid_Pekodra.tools.1.label>左前脚</Yokai_Raid_Pekodra.tools.1.label>
+  <Yokai_Raid_Pekodra.tools.2.label>牙</Yokai_Raid_Pekodra.tools.2.label>
+  <Yokai_Raid_Pekodra_Corpse.label>空腹な竜の死骸</Yokai_Raid_Pekodra_Corpse.label>
+  <Yokai_Raid_Pekodra_Corpse.description>空腹な竜の死骸です。解体することで心臓、肉、皮が手に入ります。</Yokai_Raid_Pekodra_Corpse.description>
+  <!--残虐な竜 -->
+  <Yokai_Raid_Redra.label>残虐な竜</Yokai_Raid_Redra.label>
+  <Yokai_Raid_Redra.description>獲物をいたぶり殺す事だけを目的に彷徨う灰色の竜です。レドラに似ていますが知性はありません。</Yokai_Raid_Redra.description>
+  <Yokai_Raid_Redra.tools.0.label>右前脚</Yokai_Raid_Redra.tools.0.label>
+  <Yokai_Raid_Redra.tools.1.label>左前脚</Yokai_Raid_Redra.tools.1.label>
+  <Yokai_Raid_Redra.tools.2.label>牙</Yokai_Raid_Redra.tools.2.label>
+  <Yokai_Raid_Redra_Corpse.label>残虐な竜の死骸</Yokai_Raid_Redra_Corpse.label>
+  <Yokai_Raid_Redra_Corpse.description>残虐な竜の死骸です。解体することで心臓、肉、皮が手に入ります。</Yokai_Raid_Redra_Corpse.description>
+</LanguageData>

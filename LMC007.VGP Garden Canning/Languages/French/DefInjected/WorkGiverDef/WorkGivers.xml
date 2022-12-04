@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsCanningMachine.label>boîte de conserve</DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>mise en conserve</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>en mettant en conserve</DoBillsCanningMachine.gerund>
+
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>sortir le produit de la conserverie</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>prendre le produit</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>en prenant le produit de</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <Canning_WorkGiver_FillUniversalFermenter.label>usine de mise en conserves</Canning_WorkGiver_FillUniversalFermenter.label>
+  <Canning_WorkGiver_FillUniversalFermenter.verb>remplir</Canning_WorkGiver_FillUniversalFermenter.verb>
+  <Canning_WorkGiver_FillUniversalFermenter.gerund>en remplissant</Canning_WorkGiver_FillUniversalFermenter.gerund>
+
+
+</LanguageData>

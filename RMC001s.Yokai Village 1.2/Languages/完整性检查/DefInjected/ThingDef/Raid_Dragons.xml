@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- むんどらもどき -->
+
+  <Yokai_Raid_Mdra.label>Insanity Dragon</Yokai_Raid_Mdra.label>
+  <Yokai_Raid_Mdra.description>This Moon Dragon has been corrupted beyond all reason. Some Yokai villages are quick to blame spacers as the cause, citing their impact on the world-their disruption of nature's balance-as reason enough for any being to go insane. Such reasoing, however, is utterly false, as tales of these dragons predate exploration of the Rim by the core worlds. The dragon is the source of its own insanity. Dragons are near immortal beings who value isolation and honor among all else. They understand that man and Yokai alike are flawed; yet, misplaced trust can break any heart: no matter its age.</Yokai_Raid_Mdra.description>
+  <Yokai_Raid_Mdra.tools.0.label>FrontRightLeg</Yokai_Raid_Mdra.tools.0.label>
+  <Yokai_Raid_Mdra.tools.1.label>FrontLeftLeg</Yokai_Raid_Mdra.tools.1.label>
+  <Yokai_Raid_Mdra.tools.2.label>Fang</Yokai_Raid_Mdra.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Raid_Mdra_Corpse.label>Insanity Dragon corpse</Yokai_Raid_Mdra_Corpse.label>
+  <Yokai_Raid_Mdra_Corpse.description>Insanity Dragon corpse</Yokai_Raid_Mdra_Corpse.description>
+
+
+  <!-- ぺこどらもどき -->
+
+  <Yokai_Raid_Pekodra.label>Hungry Dragon</Yokai_Raid_Pekodra.label>
+  <Yokai_Raid_Pekodra.description>A curse has caused this dragon to lose all sense of taste. The Pekodra are a gluttonous breed that lack the long life and intelligence of their cousins; perhaps out of envy for these they seek, hunt, and dine, hoping that the flesh of their prey will add to their years, will make them stronger, will raise them above the tall Redra and the majectic Moon Dragon. Such foolishness oft leads a Pekodra to eat a Yokai or villager protected by the Tsuzurao. The curse causes all Yokai and protected villagers to taste utterly bitter, and for all other creatures to taste like nothing. No taste, no texture, each sensation is robbed from the Pekodra, replaced by a numbness and an ever wanting stomach, aching with the memory of yesteryear's meals.</Yokai_Raid_Pekodra.description>
+  <Yokai_Raid_Pekodra.tools.0.label>FrontLeftLeg</Yokai_Raid_Pekodra.tools.0.label>
+  <Yokai_Raid_Pekodra.tools.1.label>FrontRightLeg</Yokai_Raid_Pekodra.tools.1.label>
+  <Yokai_Raid_Pekodra.tools.2.label>Fang</Yokai_Raid_Pekodra.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Raid_Pekodra_Corpse.label>Hungry Dragon corpse</Yokai_Raid_Pekodra_Corpse.label>
+  <Yokai_Raid_Pekodra_Corpse.description>Hungry Dragon corpse</Yokai_Raid_Pekodra_Corpse.description>
+
+
+  <!-- れどらもどき -->
+
+  <Yokai_Raid_Redra.label>Cruel Dragon</Yokai_Raid_Redra.label>
+  <Yokai_Raid_Redra.description>Pride has twisted this dragon's heart, and it now hunts all creatures. Be it a sole survivor or a thriving town, this corrupted Redra seeks to prove its strength. Time is a weight upon the mind; each year gives perspective to those before, and-perchance-dread of those to come, as the past seems a waste, as the future seems dim and brief, as time refuses to turn back despite the wisdom one's gained. The Redra-more than most humans-know this cycle far too well, and are challenged all the more by the existence of their cousin, the Moon Dragon, who can live for up to ten of their lifetimes. Perhaps such Redra do not seek to prove themselves supreme over all things, but rather they hope to gather the strength to challenge their cousins, to take from the Moon Dragons the years existence itself denied them.</Yokai_Raid_Redra.description>
+  <Yokai_Raid_Redra.tools.0.label>FrontLeftLeg</Yokai_Raid_Redra.tools.0.label>
+  <Yokai_Raid_Redra.tools.1.label>FrontRightLeg</Yokai_Raid_Redra.tools.1.label>
+  <Yokai_Raid_Redra.tools.2.label>Fang</Yokai_Raid_Redra.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Raid_Redra_Corpse.label>Cruel Dragon corpse</Yokai_Raid_Redra_Corpse.label>
+  <Yokai_Raid_Redra_Corpse.description>Cruel Dragon corpse</Yokai_Raid_Redra_Corpse.description>
+
+
+</LanguageData>

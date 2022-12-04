@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_SpinMouse.label>针鼠</Yokai_SpinMouse.label>
+  <Yokai_SpinMouse.description>容易与人轻近的针鼠，是刺猬的亚种。自古就被当作宠物饲育。
+\n背棘其实远比看上去要来得柔软，在野外很容易就被吃掉。所需的饲料少又对主人的命令十分顺从。
+\n他们习惯生活在树木多的地方，有时也能在沙漠及草原等地带遇见它们。基本上能适应世界上的各种环境。
+\n繁殖速度真不是普通地快，成匹饲育时请多加留意。</Yokai_SpinMouse.description>
+  <Yokai_SpinMouse.tools.0.label>左前脚</Yokai_SpinMouse.tools.0.label>
+  <Yokai_SpinMouse.tools.1.label>右前脚</Yokai_SpinMouse.tools.1.label>
+  <Yokai_SpinMouse.tools.2.label>前牙</Yokai_SpinMouse.tools.2.label>
+  <Yokai_SpinMouse_Corpse.label>针鼠的尸体</Yokai_SpinMouse_Corpse.label>
+  <Yokai_SpinMouse_Corpse.description>针鼠的尸体。再也不会用可爱的鼻子发出声音摩蹭人了...</Yokai_SpinMouse_Corpse.description>
+</LanguageData>

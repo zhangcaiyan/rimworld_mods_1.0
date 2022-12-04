@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Samia.label>莎米亞</Yokai_Samia.label>
+  <Yokai_Samia.description>拉米亞之中特別優秀的個體，學會了如何持有武器應戰。稱作莎米亞的他們受惠於九尾的加護而得到高防禦力。
+  \n並非野生種，無法在自然環境中見到她們，想必也不會信任人類。當妖怪村面臨危機時會現身。
+  \n此外，莎米亞的皮和肉與拉米亞相同，殖民者不會喜歡這種食物的。</Yokai_Samia.description>
+  <Yokai_Samia.tools.0.label>左手</Yokai_Samia.tools.0.label>
+  <Yokai_Samia.tools.1.label>右手</Yokai_Samia.tools.1.label>
+  <Yokai_Samia.tools.1.label>尾</Yokai_Samia.tools.1.label>
+  <Yokai_Samia_Corpse.label>莎米亞的屍體</Yokai_Samia_Corpse.label>
+  <Yokai_Samia_Corpse.description>已失去加護，逐漸冷卻而僵直的莎米亞屍體，她們的皮與肉和拉米亞相似。</Yokai_Samia_Corpse.description>
+</LanguageData>

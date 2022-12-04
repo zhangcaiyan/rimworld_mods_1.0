@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- つづらお様 -->
+
+  <Yokai_NineTailWool.label>Kyuubi Wool</Yokai_NineTailWool.label>
+  <Yokai_NineTailWool.description>More valuable than dragon skin, this wool is warm, cool, beautiful, and marked with the sweet smell of the golden Nine Tails.</Yokai_NineTailWool.description>
+  <Yokai_NineTailWool.stuffProps.stuffAdjective>Kyuubi Wool</Yokai_NineTailWool.stuffProps.stuffAdjective>
+
+
+  <!-- 猫娘 -->
+
+  <Yokai_NekoMusumeWool.label>Neko Musume Wool</Yokai_NekoMusumeWool.label>
+  <Yokai_NekoMusumeWool.description>The fluffy hair of a catgirl. Many find it unsuitable for clothing due to its lack of durability; however, it is commonly used to produce beautiful furniture. Neko Musume hair is also known for its ability to retain moisture. Owners of Musume find this tidbit annoying, while resourceful villagers have used the hair to grow various Yokai fungi.</Yokai_NekoMusumeWool.description>
+  <Yokai_NekoMusumeWool.stuffProps.stuffAdjective>Neko Musume Wool</Yokai_NekoMusumeWool.stuffProps.stuffAdjective>
+
+
+  <!-- 女郎蜘蛛の糸 -->
+
+  <Yokai_JorouGumoThread.label>Jorou Gumo Thread</Yokai_JorouGumoThread.label>
+  <Yokai_JorouGumoThread.description>Sturdy spider thread that was carefully extracted from a Jorou Gumo. The thick thread is often woven together to create a mesh strong enough to allow most clothing to act as armor.</Yokai_JorouGumoThread.description>
+  <Yokai_JorouGumoThread.stuffProps.stuffAdjective>Jorou Gumo Thread</Yokai_JorouGumoThread.stuffProps.stuffAdjective>
+
+
+  <!-- シロ -->
+
+  <Yokai_ShiroWool.label>Shiro Wool</Yokai_ShiroWool.label>
+  <Yokai_ShiroWool.description>Soft hair that was sheared from a Shiro. It can be used to make well insulated and durable clothing.</Yokai_ShiroWool.description>
+  <Yokai_ShiroWool.stuffProps.stuffAdjective>Shiro Wool</Yokai_ShiroWool.stuffProps.stuffAdjective>
+
+
+  <!-- 竜の皮 -->
+
+  <Yokai_Leather_Dragon.label>Dragon Leather</Yokai_Leather_Dragon.label>
+  <Yokai_Leather_Dragon.description>It is a dragon blue skin with a dull blue color. Dragons are generally aggressive and dangerous tribes, and in a small settlement it may be ruined by a single dragon. That is why this durable leather is traded at a high price as being of rare value. By using the dragon skin it is possible to make fine clothing that is excellent in durability and anti-blade property and strong against temperature difference.
+  \n Strong armor made of dragon skin and Shiloh 's hair supports the strength of warriors in Yokai village. According to the story of people in Yokai village, this skin also seems to have strong spirit power.
+  </Yokai_Leather_Dragon.description>
+  <Yokai_Leather_Dragon.stuffProps.stuffAdjective>Dragon Leather</Yokai_Leather_Dragon.stuffProps.stuffAdjective>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿nord
+nordost
+ost
+südost
+süd
+südwest
+west
+nordwest
+
+nördliche
+nordöstliche
+östliche
+südöstliche
+südliche
+südwestliche
+westliche
+nordwestliche

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Tables -->
+
+	<Anon2TableTiny.label>Table (minuscule)</Anon2TableTiny.label>
+	<Anon2TableTiny.description>Une petite table pour les colons à manger.</Anon2TableTiny.description>
+
+	<Anon2CounterA.label>compteur</Anon2CounterA.label>
+	<Anon2CounterA.description>Un compteur, a un grand haut plat.</Anon2CounterA.description>
+
+	<Anon2CounterAFull.label>Compteur plein</Anon2CounterAFull.label>
+	<Anon2CounterAFull.description>Un compteur, a un grand haut plat. Tous les compteurs sont hauts, utiles pour ces murs avant.</Anon2CounterAFull.description>
+
+</LanguageData>

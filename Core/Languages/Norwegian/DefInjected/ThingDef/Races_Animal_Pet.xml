@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    
+    <YorkshireTerrier.label>terrier</YorkshireTerrier.label>
+    <YorkshireTerrier.description>En liten, stødig hund. Den ble opprinnelig avlet fram for å jakte rotter, senere ble det en familie- og showhund.</YorkshireTerrier.description>
+    <YorkshireTerrier_Leather.label>terrierpels</YorkshireTerrier_Leather.label>
+    <YorkshireTerrier_Leather.description>Pels fra en yorkshire terrier.</YorkshireTerrier_Leather.description>
+    <YorkshireTerrier_Leather.stuffProps.stuffAdjective>terrierpels</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+    <YorkshireTerrier_Meat.label>terrierkjøtt</YorkshireTerrier_Meat.label>
+    <YorkshireTerrier_Meat.description>Det rå kjøttet fra en yorkshire terrier.</YorkshireTerrier_Meat.description>
+    <YorkshireTerrier_Corpse.label>terrierkadaver</YorkshireTerrier_Corpse.label>
+    <YorkshireTerrier_Corpse.description>Det døde kadaveret av en yorkshire terrier.</YorkshireTerrier_Corpse.description>
+    
+    <Husky.label>husky</Husky.label>
+    <Husky.description>En stor, energisk hund med tykk pels som klarer seg godt i arktiske miljøer.</Husky.description>
+    <Husky_Leather.label>huskypels</Husky_Leather.label>
+    <Husky_Leather.description>Pels fra en husky.</Husky_Leather.description>
+    <Husky_Leather.stuffProps.stuffAdjective>huskypels</Husky_Leather.stuffProps.stuffAdjective>
+    <Husky_Meat.label>huskykjøtt</Husky_Meat.label>
+    <Husky_Meat.description>Det rå kjøttet fra en husky.</Husky_Meat.description>
+    <Husky_Corpse.label>huskykadaver</Husky_Corpse.label>
+    <Husky_Corpse.description>Det døde kadaveret av en husky.</Husky_Corpse.description>
+    
+    <LabradorRetriever.label>labrador</LabradorRetriever.label>
+    <LabradorRetriever.description>En svært allsidig, mellomstor hund. Den ble opprinnelig avlet frem for å hente fugler som ble skutt under jakt. Den er en ypperlig vakthund, lekekamerat og familievenn.</LabradorRetriever.description>
+    <LabradorRetriever_Leather.label>labradorpels</LabradorRetriever_Leather.label>
+    <LabradorRetriever_Leather.description>Pels fra en labrador retriever.</LabradorRetriever_Leather.description>
+    <LabradorRetriever_Leather.stuffProps.stuffAdjective>labradorpels</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+    <LabradorRetriever_Meat.label>labradorkjøtt</LabradorRetriever_Meat.label>
+    <LabradorRetriever_Meat.description>Det rå kjøttet fra en labrador retriever.</LabradorRetriever_Meat.description>
+    <LabradorRetriever_Corpse.label>labradorkadaver</LabradorRetriever_Corpse.label>
+    <LabradorRetriever_Corpse.description>Det døde kadaveret av en labrador retriever.</LabradorRetriever_Corpse.description>
+    
+    <Cat.label>katt</Cat.label>
+    <Cat.description>Katten er en av menneskehetens første husdyr og er et lite pattedyr som liker å jakte på skadedyr som mus og rotter. De er kjent for sin overlegne holdning, men er like fullt populære kompanjonger, på grunn av sin ro, selvstendighet og fine, myke pels.</Cat.description>
+    <Cat_Leather.label>kattepels</Cat_Leather.label>
+    <Cat_Leather.description>Pels fra en katt.</Cat_Leather.description>
+    <Cat_Leather.stuffProps.stuffAdjective>kattepels</Cat_Leather.stuffProps.stuffAdjective>
+    <Cat_Meat.label>kattekjøtt</Cat_Meat.label>
+    <Cat_Meat.description>Det rå kjøttet fra en katt.</Cat_Meat.description>
+    <Cat_Corpse.label>kattekadaver</Cat_Corpse.label>
+    <Cat_Corpse.description>Det døde kadaveret av en katt.</Cat_Corpse.description>
+    
+</LanguageData>

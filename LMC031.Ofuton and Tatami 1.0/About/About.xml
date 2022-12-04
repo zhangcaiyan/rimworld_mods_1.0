@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+		<name>LMC031.和风物件</name>
+		<author>ikasaba and SeraYUKI</author>
+		<url>http://ikasaba.seesaa.net/</url>
+		<targetVersion>1.0.2059</targetVersion>
+		<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+			
+添加了十分具有和风气息的布团和榻榻米，新增了和风标签卡用于容纳这些物品。\n\n原简体中文翻译只限于Buildings_Furniture.xml文件，并且格式有点乱，已经修正并且润色，这部分的汉化来自gretino。其余部分汉化已经补全。\n\n补充汉化：jxb12306\n\n地址：http://bbs.3dmgame.com/thread-5842015-1-1.html</description>
+</ModMetaData>

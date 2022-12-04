@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ちーず -->
+
+  <Makecheeeese.label>Make LamiaCheese.</Makecheeeese.label>
+  <Makecheeeese.description>Make 5 LamiaCheeses from 15 Lamia milk.</Makecheeeese.description>
+  <Makecheeeese.jobString>Making LamiaCheeses</Makecheeeese.jobString>
+
+
+  <!-- 効果 -->
+
+  <MakeCheeeeseCake.label>Bake YokaiCheesecake</MakeCheeeeseCake.label>
+  <MakeCheeeeseCake.description>Make 10 YokaiCheesecakes from rice, berry, lamiacheese.</MakeCheeeeseCake.description>
+  <MakeCheeeeseCake.jobString>Baking YokaiCheeseCakes</MakeCheeeeseCake.jobString>
+
+
+  <!-- どみーと -->
+
+  <make_domeat.label>Bake Domeat</make_domeat.label>
+  <make_domeat.description>Burn dragon meat and make Domeat.</make_domeat.description>
+  <make_domeat.jobString>Baking Domeat.</make_domeat.jobString>
+
+
+  <!-- 焼肉 -->
+
+  <make_Yokai_Yaki.label>Make Yokai Rations</make_Yokai_Yaki.label>
+  <make_Yokai_Yaki.description>Grill some meat and call it a ration.</make_Yokai_Yaki.description>
+  <make_Yokai_Yaki.jobString>Make Yokai Rations</make_Yokai_Yaki.jobString>
+
+
+</LanguageData>

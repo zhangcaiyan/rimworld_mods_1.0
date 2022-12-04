@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Lefca.label>小蕾芙卡</LF_Lefca.label>
+  <LF_Lefca.description>帶有幻想般異國風貌的少女型生物。如松鼠般的尾巴上覆著軟綿柔毛、耳朵寬大如鳥類翅膀。雖然常忘東忘西，讓人感覺不太可靠。但身為森林保護者中的菁英近衛，她的實力確實不容小覷。平時在遠古森林的巫女擔任護衛。然而她常會不時地消失身影，並在不久後帶著來處不明的奇怪植物、樹果等難以理解的玩意兒回來。小蕾芙卡似乎有著令人頭痛的收藏嗜好。其行動範圍極其廣泛，偶爾會因為尋找有趣的新東西時不知不覺迷了路，而在殖民地的附近被人目擊到她的身姿。</LF_Lefca.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Lefca_Meat.label>小蕾芙卡的肉</LF_Lefca_Meat.label>
+  <LF_Lefca_Meat.description>小蕾芙卡的肉，她的夥伴在精神崩壞後所走上的末路。</LF_Lefca_Meat.description>
+-->
+  <LF_Lefca_Corpse.label>小蕾芙卡的屍體</LF_Lefca_Corpse.label>
+  <LF_Lefca_Corpse.description>逐漸失去溫度的小蕾芙卡屍體。再也沒人能帶給她帶來更多痛苦。</LF_Lefca_Corpse.description>
+
+</LanguageData>

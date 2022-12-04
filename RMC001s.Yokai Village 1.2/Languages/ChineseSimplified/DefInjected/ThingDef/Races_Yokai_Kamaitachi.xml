@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Kamaitachi.label>镰鼬</Yokai_Kamaitachi.label>
+  <Yokai_Kamaitachi.description>带有镰刀状尾巴的鼬鼠型妖怪。
+    \n体型娇小，平时十分温驯。但会袭击状态不佳的人类。一旦陷入狂怒中会以疾风般的速度追猎敌人，并用锋锐的镰刃斩断敌人。
+    \n不适合当作宠物饲养，但具有高度繁殖力，可以养来充当看门鼬。
+    \n能适应多样环境，栖息地涵盖了苔原丶草原等地区。但不会出现在沼泽。</Yokai_Kamaitachi.description>
+  <Yokai_Kamaitachi.tools.0.label>尾巴的镰刃</Yokai_Kamaitachi.tools.0.label>
+  <Yokai_Kamaitachi_Meat.label>妖怪的肉</Yokai_Kamaitachi_Meat.label>
+  <Yokai_Kamaitachi_Meat.description>不怎麽可口的妖怪肉。</Yokai_Kamaitachi_Meat.description>
+  <Yokai_kamaitachi_Corpse.label>镰鼬的尸体</Yokai_kamaitachi_Corpse.label>
+  <Yokai_kamaitachi_Corpse.description>逐渐冷却的镰鼬身躯。</Yokai_kamaitachi_Corpse.description>
+</LanguageData>

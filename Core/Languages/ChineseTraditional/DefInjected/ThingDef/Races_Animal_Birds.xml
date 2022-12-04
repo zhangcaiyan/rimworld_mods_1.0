@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>食火雞</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>一種擁有閃亮羽毛的大型鳥類，沒有飛行能力。的確，牠看起來很漂亮，但你可能會想離牠遠一點。當受到傷害或被失敗的馴服者刺激後，牠會立刻進行反擊。</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>鳥肉</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>喙</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>頭</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>鴯鶓</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>一種不會飛的大型鳥類，有著鈕扣般大的眼睛，外表看來十分不討喜。說到牠的個性，簡直就是自然界中的痞子，打擾到牠必定會受到報復。(譯註：音同而苗)</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>爪</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>喙</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>頭</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>鴕鳥</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>體型最大的非基改鳥類，以飛快的跑速、巨大的蛋以及威力強大的踢擊聞名，而且相當易怒。</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>爪</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>喙</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>頭</Ostrich.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>火雞</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>一種體型小而肥、無飛行能力的鳥類，最大的特色就是牠吵鬧的「咕咕」叫聲。被人類圈養的歷史已非常久遠，但仍可在野外發現牠們的蹤跡。</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>爪</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>喙</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>頭</Turkey.tools.head.label>
+  
+</LanguageData>

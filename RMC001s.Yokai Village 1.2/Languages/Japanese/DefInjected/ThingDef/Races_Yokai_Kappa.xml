@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Kappa.label>河童</Yokai_Kappa.label>
+  <Yokai_Kappa.description>相撲と胡瓜が大好きな水辺の妖怪河童です。相撲の話をすればすぐに仲良くなれるかも？
+\n寒さに強く広い地域で暮らしていますが暑さにやや弱いです。彼らのお肉は人のものを変わらないので狩りの対象には向いていません。皮の質も今一つです。</Yokai_Kappa.description>
+  <Yokai_Kappa.tools.0.label>左手</Yokai_Kappa.tools.0.label>
+  <Yokai_Kappa.tools.1.label>右手</Yokai_Kappa.tools.1.label>
+  <Yokai_Kappa.tools.2.label>頭</Yokai_Kappa.tools.2.label>
+  <Yokai_Kappa_Corpse.label>河童</Yokai_Kappa_Corpse.label>
+  <Yokai_Kappa_Corpse.description>死んだ河童の体です。常温で放置すると腐ってしまうので早めに捌いちゃいましょう。</Yokai_Kappa_Corpse.description>
+  <!-- やせ河童 -->
+  <Yokai_OKappa.label>かっぱ</Yokai_OKappa.label>
+  <Yokai_OKappa.description>このやせっぽちの妖怪もまた河童と呼ばれていますが、彼らは相撲をとらないためひょろひょろとしています。
+\nとはいえ胡瓜も相撲も大好きな事に変わりはありません。温帯林や湿地で会うことができます。彼らのお肉は人のものを変わらないので狩りの対象には向いていません。皮の質も今一つです。</Yokai_OKappa.description>
+  <Yokai_OKappa.tools.0.label>左手</Yokai_OKappa.tools.0.label>
+  <Yokai_OKappa.tools.1.label>右手</Yokai_OKappa.tools.1.label>
+  <Yokai_OKappa.tools.2.label>頭</Yokai_OKappa.tools.2.label>
+  <Yokai_OKappa_Corpse.label>かっぱ</Yokai_OKappa_Corpse.label>
+  <Yokai_OKappa_Corpse.description>死んだ河童の体です。常温で放置すると腐ってしまうので早めに捌いちゃいましょう。</Yokai_OKappa_Corpse.description>
+</LanguageData>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase" Name="YokaiRugBase" Abstract="True">
+    <thingClass>Building_Art</thingClass>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <passability>Standable</passability>
+    <pathCost>0</pathCost>
+    <castEdgeShadows>false</castEdgeShadows>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <Flammability>1.0</Flammability>
+      <SellPriceFactor>1.10</SellPriceFactor>
+    </statBases>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtSculpture</nameMaker>
+        <descriptionMaker>ArtDescription_Sculpture</descriptionMaker>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <tradeTags>
+      <li>Yokai_Art</li>
+    </tradeTags>
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Artistic</workSkill>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiTraditionBasic</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+  <!--================================ 妖怪絨毯 ======================================-->
+  <ThingDef ParentName="YokaiRugBase">
+    <defName>Yokai_RugSmall</defName>
+    <label>Small Yokai Rug</label>
+    <description>A small rug whose intricate patterns bespeak the history and culture of Yokai.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Item/Art/YRugSmall</texPath>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fillPercent>0.35</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>40</Beauty>
+      <WorkToMake>16000</WorkToMake>
+    </statBases>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+  </ThingDef>
+  <ThingDef ParentName="YokaiRugBase">
+    <defName>Yokai_RugLarge</defName>
+    <label>Large Yokai Rug</label>
+    <description>Though such rugs depict Yokai history and culture, anyone can attempt to create it. "Inspiration" may guide their hands, or else confuse their them and soil the work.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Item/Art/YRugLarge</texPath>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fillPercent>0.5</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Mass>10</Mass>
+      <Beauty>80</Beauty>
+      <WorkToMake>27000</WorkToMake>
+    </statBases>
+    <costStuffCount>110</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+  </ThingDef>
+  <ThingDef ParentName="YokaiRugBase">
+    <defName>Yokai_RugGrand</defName>
+    <label>Grand Yokai Rug</label>
+    <description>The largest of Yokai rugs, and thus that which can depict the most of their history and culture; yet, only those blessed by the Yokai can truly understand such symbols.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Item/Art/YRugGrand</texPath>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fillPercent>0.5</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(3,3)</size>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Beauty>190</Beauty>
+      <Mass>50</Mass>
+      <WorkToMake>58000</WorkToMake>
+    </statBases>
+    <costStuffCount>220</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+  </ThingDef>
+</Defs>

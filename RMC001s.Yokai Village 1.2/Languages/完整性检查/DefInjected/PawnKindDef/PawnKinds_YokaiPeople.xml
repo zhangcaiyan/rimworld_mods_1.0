@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ぬらりひょんの戦士 -->
+
+  <Yokai_Nurarihyon.label>Nurarihyon</Yokai_Nurarihyon.label>
+  <Yokai_Nurarihyon.labelPlural>Nurarihyons</Yokai_Nurarihyon.labelPlural>
+
+  <Yokai_NurarihyonR.label>ぬらりひょんの長</Yokai_NurarihyonR.label>
+  <Yokai_NurarihyonR.labelPlural>ぬらりひょんの長s</Yokai_NurarihyonR.labelPlural>
+
+
+  <!-- 人間の戦士 -->
+
+  <Yokai_Warrior.label>Yokai Warrior</Yokai_Warrior.label>
+  <Yokai_Warrior.labelPlural>Yokai Warriors</Yokai_Warrior.labelPlural>
+
+  <Yokai_Merchant.label>Yokai merchant</Yokai_Merchant.label>
+  <Yokai_Merchant.labelPlural>Yokai merchants</Yokai_Merchant.labelPlural>
+
+
+</LanguageData>

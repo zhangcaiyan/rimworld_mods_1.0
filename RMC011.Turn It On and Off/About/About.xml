@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RMC011.电器空闲时不消耗电力</name>
+  <supportedVersions><li>1.0</li></supportedVersions>
+  <author>Thom Blair III</author>
+
+<description>合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+
+HugsLib is required.
+需要HugsLib！
+
+This makes many electrical machines use minimum possible power (1 watt) when not in use. In addition, many electrical machines from other mods should behave the same way.
+这使得许多电器在不使用时消耗最小可能的功率(1瓦)。此外，对于大部分自其他mod的电器应该也会生效。
+
+Fully save compatible. Can be added or removed at any time. Please report any errors.
+存档兼容，可以随时添加和移除。
+ 
+Credits:
+Thom Blair III (Idea for the mod and programming)
+Fluffy (Programming)
+Xen (Programming)
+NubsPixel (RePower B19 mod)
+Texel (original RePower A16 mod)
+</description>
+</ModMetaData>

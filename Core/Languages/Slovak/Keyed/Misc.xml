@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GameStartDialog>Všetci traja sa zobudíte v hibernačných sarkofágoch na zvuk sirén a trhanie kovu. Ledva sa dostanete k únikovým modulom, keď sa naraz loď roztrhne na kusy.\n\nO niečo neskôr pristanete na tejto neznámej okrajovej planéte.\n\nPopri páde trosiek lode všade navôkol začínate spriadať plány na prežitie.</GameStartDialog>
+
+  <Colony>Kolónia</Colony>
+
+  <ChangeLanguageFromMainMenu>Jazyk môžete zmeniť len v Nastaveniach z hlavného menu.</ChangeLanguageFromMainMenu>
+
+  <AndLower>a</AndLower>
+  <DisabledLower>zakázaný</DisabledLower>
+
+  <CloseButton>Zavrieť</CloseButton>
+
+
+  <VersionIndicator>Verzia {0}</VersionIndicator>
+  <DevelopmentBuildLower>vývojová verzia</DevelopmentBuildLower>
+  <CompiledOn>Kompilované {0}</CompiledOn>
+
+  <MeatLabel>Mäso z: {0}</MeatLabel>
+  <MeatDesc>Surové meso z: {0}.</MeatDesc>
+
+  <CorpseLabel>Mŕtvola: {0}</CorpseLabel>
+  <CorpseDesc>Mŕtve telo: {0}</CorpseDesc>
+
+
+  <BlueprintLabelExtra>(návrh)</BlueprintLabelExtra>
+  <FrameLabelExtra>(rám)</FrameLabelExtra>
+    
+	<!-- History events -->
+  <ColonistDied>Zomrel kolonista</ColonistDied>
+  
+    <Autosaving>Autosaving</Autosaving>
+	
+	  <VariousLabel>(rôzne)</VariousLabel>
+	    <DeadLabel>{0} (mŕtvy)</DeadLabel>
+
+ <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+ 
+   <LeatherLabel>{0} koža</LeatherLabel>
+  <LeatherDesc>Koža vyrobená z  {0}.</LeatherDesc>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿població
+vila
+urbanització
+ciutat
+ciutat
+ciutat
+capital
+pedania
+aldea
+fonda
+barriada
+districte
+colònia
+comunitat
+metròpolis

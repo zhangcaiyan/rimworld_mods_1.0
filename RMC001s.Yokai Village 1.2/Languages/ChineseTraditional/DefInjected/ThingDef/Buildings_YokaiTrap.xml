@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 改良DF -->
+  <Yokai_deadfall.label>斷頭台</Yokai_deadfall.label>
+  <Yokai_deadfall.description>以女郎蜘蛛的絲設置的發條機關型陷阱。能將經過斷頭台的人切断。
+    \n可更換設置地點，製作時不需要妖怪斧。</Yokai_deadfall.description>
+  <Yokai_deadfall_Blueprint.label>斷頭台（設置予定地）</Yokai_deadfall_Blueprint.label>
+  <Yokai_deadfall_Blueprint_Install.label>斷頭台（設置予定地）</Yokai_deadfall_Blueprint_Install.label>
+  <Yokai_deadfall_Frame.label>建設斷頭台中</Yokai_deadfall_Frame.label>
+  <Yokai_deadfall_Frame.description>以女郎蜘蛛的絲設置的發條機關型陷阱。能將經過斷頭台的人切断。
+    \n可更換設置地點。</Yokai_deadfall_Frame.description>
+  <!-- 遠隔防衛 -->
+  <Yokai_TurretBow.label>和弓</Yokai_TurretBow.label>
+  <Yokai_TurretBow.description>以女郎蜘蛛的絲和龍的心臟製成的設置型弓座。不需要電力及額外補充，輕便而易攜帶。</Yokai_TurretBow.description>
+  <Yokai_TurretBow_Blueprint.label>和弓（設置予定地）</Yokai_TurretBow_Blueprint.label>
+  <Yokai_TurretBow_Blueprint_Install.label>和弓（設置予定地）</Yokai_TurretBow_Blueprint_Install.label>
+  <Yokai_TurretBow_Frame.label>和弓 (building)</Yokai_TurretBow_Frame.label>
+  <Yokai_TurretBow_Frame.description>以女郎蜘蛛的絲和龍的心臟製成的設置型弓座。不需要電力及額外補充，輕便而易攜帶。</Yokai_TurretBow_Frame.description>
+  <!-- 龍喉＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <Yokai_HinoIki_Base.label>龍喉</Yokai_HinoIki_Base.label>
+  <Yokai_HinoIki_Base.description>以龍皮和心臓製成的咒術驅動型防衛裝置。不需消耗電力且能更換設置地點。</Yokai_HinoIki_Base.description>
+  <Yokai_HinoIki_Base_Blueprint.label>龍喉（設置予定地）</Yokai_HinoIki_Base_Blueprint.label>
+  <Yokai_HinoIki_Base_Blueprint_Install.label>龍喉（設置予定地）</Yokai_HinoIki_Base_Blueprint_Install.label>
+  <Yokai_HinoIki_Base_Frame.label>龍喉 (building)</Yokai_HinoIki_Base_Frame.label>
+  <Yokai_HinoIki_Base_Frame.description>以龍皮和心臓製成的咒術驅動型防衛裝置。不需消耗電力且能更換設置地點。</Yokai_HinoIki_Base_Frame.description>
+  <!-- 龍喉、武器部分 -->
+  <Yokai_HinoIki_B.label>烈火吐息</Yokai_HinoIki_B.label>
+  <Yokai_HinoIki_G.label>燼火之心</Yokai_HinoIki_G.label>
+  <Yokai_HinoIki_G.description>鑲入巨龍之力的寶珠，能吐出熊熊烈火。</Yokai_HinoIki_G.description>
+  <!-- 女郎蜘蛛の網＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <Yokai_JorouGumoWeb.label>蜘蛛網</Yokai_JorouGumoWeb.label>
+  <Yokai_JorouGumoWeb.description>以女郎蜘蛛的絲製成的網子。設置於地面能妨礙入侵者的腳步。</Yokai_JorouGumoWeb.description>
+  <Yokai_JorouGumoWeb_Blueprint.label>蜘蛛網（設置予定地）</Yokai_JorouGumoWeb_Blueprint.label>
+  <Yokai_JorouGumoWeb_Blueprint_Install.label>蜘蛛網（設置予定地）</Yokai_JorouGumoWeb_Blueprint_Install.label>
+  <Yokai_JorouGumoWeb_Frame.label>蜘蛛網 (building)</Yokai_JorouGumoWeb_Frame.label>
+  <Yokai_JorouGumoWeb_Frame.description>以女郎蜘蛛的絲製成的網子。設置於地面能妨礙入侵者的腳步。</Yokai_JorouGumoWeb_Frame.description>
+</LanguageData>

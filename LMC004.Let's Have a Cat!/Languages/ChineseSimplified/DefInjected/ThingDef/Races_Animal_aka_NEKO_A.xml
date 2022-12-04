@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+  <akaNEKO_shironeko.label>白猫</akaNEKO_shironeko.label>
+  <akaNEKO_shironeko.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_shironeko.description>
+  <akaNEKO_shironeko.tools.0.label>左爪</akaNEKO_shironeko.tools.0.label>
+  <akaNEKO_shironeko.tools.1.label>右爪</akaNEKO_shironeko.tools.1.label>
+  <akaNEKO_shironeko.tools.3.label>头部</akaNEKO_shironeko.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_shironeko_Corpse.label>白猫的尸体</akaNEKO_shironeko_Corpse.label>
+  <akaNEKO_shironeko_Corpse.description>白猫的尸体</akaNEKO_shironeko_Corpse.description>
+
+
+
+
+  <akaNEKO_kuroneko.label>黑猫</akaNEKO_kuroneko.label>
+  <akaNEKO_kuroneko.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_kuroneko.description>
+  <akaNEKO_kuroneko.tools.0.label>左爪</akaNEKO_kuroneko.tools.0.label>
+  <akaNEKO_kuroneko.tools.1.label>右爪</akaNEKO_kuroneko.tools.1.label>
+  <akaNEKO_kuroneko.tools.3.label>头部</akaNEKO_kuroneko.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_kuroneko_Corpse.label>黑猫的尸体</akaNEKO_kuroneko_Corpse.label>
+  <akaNEKO_kuroneko_Corpse.description>黑猫的尸体</akaNEKO_kuroneko_Corpse.description>
+
+
+
+
+  <akaNEKO_kijitora.label>虎猫</akaNEKO_kijitora.label>
+  <akaNEKO_kijitora.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_kijitora.description>
+  <akaNEKO_kijitora.tools.0.label>左爪</akaNEKO_kijitora.tools.0.label>
+  <akaNEKO_kijitora.tools.1.label>右爪</akaNEKO_kijitora.tools.1.label>
+  <akaNEKO_kijitora.tools.3.label>头部</akaNEKO_kijitora.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_kijitora_Corpse.label>虎猫的尸体</akaNEKO_kijitora_Corpse.label>
+  <akaNEKO_kijitora_Corpse.description>虎猫的尸体</akaNEKO_kijitora_Corpse.description>
+
+
+
+
+  <akaNEKO_A_Shorthair.label>美国短毛猫</akaNEKO_A_Shorthair.label>
+  <akaNEKO_A_Shorthair.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_A_Shorthair.description>
+  <akaNEKO_A_Shorthair.tools.0.label>左爪</akaNEKO_A_Shorthair.tools.0.label>
+  <akaNEKO_A_Shorthair.tools.1.label>右爪</akaNEKO_A_Shorthair.tools.1.label>
+  <akaNEKO_A_Shorthair.tools.3.label>头部</akaNEKO_A_Shorthair.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_A_Shorthair_Corpse.label>美国短毛猫的尸体</akaNEKO_A_Shorthair_Corpse.label>
+  <akaNEKO_A_Shorthair_Corpse.description>美国短毛猫的尸体</akaNEKO_A_Shorthair_Corpse.description>
+
+
+
+
+  <akaNEKO_Russian_Blue.label>俄罗斯蓝猫</akaNEKO_Russian_Blue.label>
+  <akaNEKO_Russian_Blue.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Russian_Blue.description>
+  <akaNEKO_Russian_Blue.tools.0.label>左爪</akaNEKO_Russian_Blue.tools.0.label>
+  <akaNEKO_Russian_Blue.tools.1.label>右爪</akaNEKO_Russian_Blue.tools.1.label>
+  <akaNEKO_Russian_Blue.tools.3.label>头部</akaNEKO_Russian_Blue.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Russian_Blue_Corpse.label>俄罗斯蓝猫的尸体</akaNEKO_Russian_Blue_Corpse.label>
+  <akaNEKO_Russian_Blue_Corpse.description>俄罗斯蓝猫的尸体</akaNEKO_Russian_Blue_Corpse.description>
+
+
+
+
+  <akaNEKO_Siamese.label>暹罗猫</akaNEKO_Siamese.label>
+  <akaNEKO_Siamese.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Siamese.description>
+  <akaNEKO_Siamese.tools.0.label>左爪</akaNEKO_Siamese.tools.0.label>
+  <akaNEKO_Siamese.tools.1.label>右爪</akaNEKO_Siamese.tools.1.label>
+  <akaNEKO_Siamese.tools.3.label>头部</akaNEKO_Siamese.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Siamese_Corpse.label>暹罗猫的尸体</akaNEKO_Siamese_Corpse.label>
+  <akaNEKO_Siamese_Corpse.description>暹罗猫的尸体</akaNEKO_Siamese_Corpse.description>
+
+
+
+
+  <akaNEKO_J_Bobtail.label>日本截尾猫</akaNEKO_J_Bobtail.label>
+  <akaNEKO_J_Bobtail.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_J_Bobtail.description>
+  <akaNEKO_J_Bobtail.tools.0.label>左爪</akaNEKO_J_Bobtail.tools.0.label>
+  <akaNEKO_J_Bobtail.tools.1.label>右爪</akaNEKO_J_Bobtail.tools.1.label>
+  <akaNEKO_J_Bobtail.tools.3.label>头部</akaNEKO_J_Bobtail.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_J_Bobtail_Corpse.label>日本截尾猫的尸体</akaNEKO_J_Bobtail_Corpse.label>
+  <akaNEKO_J_Bobtail_Corpse.description>日本截尾猫的尸体</akaNEKO_J_Bobtail_Corpse.description>
+
+
+</LanguageData>

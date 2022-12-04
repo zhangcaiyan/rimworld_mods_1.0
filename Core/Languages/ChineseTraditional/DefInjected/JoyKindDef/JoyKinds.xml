@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>藥物</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>動腦遊戲</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>敏捷遊戲</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>口慾</Gluttonous.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>冥想</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>社交</Social.label>
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>觀星</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>看電視</Television.label>
+  
+</LanguageData>

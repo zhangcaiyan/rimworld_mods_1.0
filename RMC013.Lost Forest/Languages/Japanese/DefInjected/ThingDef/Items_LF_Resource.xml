@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <LF_FoxiaTears.label>ちび狐の涙</LF_FoxiaTears.label>
+    <LF_FoxiaTears.description>力尽きたちび狐が最後に流した涙。彼女達の涙は傷を癒す不思議な力を持ちます。失われた古代神聖大樹の記憶を呼び覚ますという言い伝えがあるそうな。</LF_FoxiaTears.description>
+
+    <LF_WoodLog.label>神聖樹の木材</LF_WoodLog.label>
+    <LF_WoodLog.description>失われた古代神聖大樹のレプリカ木材です。不思議な力で守られていて決して燃えることはありません。この木材で作られた家具は軽く頑丈で、人々に安らぎと疾病に対する特別な守りを与えてくれるでしょう。</LF_WoodLog.description>
+　　<LF_WoodLog.stuffProps.stuffAdjective>神聖樹製</LF_WoodLog.stuffProps.stuffAdjective>
+
+    <PressedIronScraps.label>圧縮成型スクラップ</PressedIronScraps.label>
+    <PressedIronScraps.description>鉄くずを圧縮したもので、鉄材と同様に建築に使用できます。溶鉱炉よりも迅速に利用可能な資源へ変換できるというメリットがある反面、調度品への利用は石材よりもはるかに大きなペナルティを負う点に留意して下さい。溶解することで同数の鉄に変換することもできます。</PressedIronScraps.description>
+　　<PressedIronScraps.stuffProps.stuffAdjective>スクラップ製</PressedIronScraps.stuffProps.stuffAdjective>
+
+    <LF_MineableMagicCrystalVein.label>魔晶鉱脈</LF_MineableMagicCrystalVein.label>
+    <LF_MineableMagicCrystalVein.description>魔晶鉱石を含んだ鉱床。</LF_MineableMagicCrystalVein.description>
+
+    <LF_MagicCrystal.label>魔晶鉱石</LF_MagicCrystal.label>
+    <LF_MagicCrystal.description>透き通った神秘的な輝きを放つ、非常に希少な原石だ。広く知られていないが純度の高いものは魔力を多く含むらしく、魔術の分野においてさまざまな利用価値があるらしい。</LF_MagicCrystal.description>
+
+</LanguageData>

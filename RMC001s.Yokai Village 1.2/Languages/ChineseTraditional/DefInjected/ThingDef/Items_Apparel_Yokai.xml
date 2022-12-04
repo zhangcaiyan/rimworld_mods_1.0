@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 日凪の勾玉 -->
+  <Yokai_Hi_No_Magatama.label>太陽勾玉</Yokai_Hi_No_Magatama.label>
+  <Yokai_Hi_No_Magatama.description>傳承於妖怪村的祕寶之一，能集束太陽光輝的勾玉。能形成覆蓋全身的結界，為裝備者防禦遠距離武器的攻擊。需要有成熟的工藝技術及珍貴的素材，再配合專業的研究後方可製作。</Yokai_Hi_No_Magatama.description>
+  <Yokai_Nagi_no_Magatama.label>定風勾玉</Yokai_Nagi_no_Magatama.label>
+  <Yokai_Nagi_no_Magatama.description>傳承於妖怪村的遠古祕寶，具有勾玉的外形。以不可思議的力量保護裝著者免受酷寒及嚴暑所侵，並帶來大幅度的能力提升。需要有成熟的工藝技術及珍貴的素材，再配合專業的研究後方可製作。</Yokai_Nagi_no_Magatama.description>
+  <!--九尾の言祝ぎ -->
+  <Yokai_Tuzurao_Kago.label>九尾的祝禱</Yokai_Tuzurao_Kago.label>
+  <Yokai_Tuzurao_Kago.description>將臨戰場之人，能獲得九尾狐所授予的強力加護。張開結界以防禦彈矢，當妖怪村的人們停止施術時會自動消滅。</Yokai_Tuzurao_Kago.description>
+  <!--下位お守り -->
+  <Yokai_Omamori_Hirameki.label>匠人的御守</Yokai_Omamori_Hirameki.label>
+  <Yokai_Omamori_Hirameki.description>以翡翠製成的妖怪村的下位御守之一。穿戴於身上能增強一切與製作相關的職人感性，並提升工作速度、降低食物中毒機率。</Yokai_Omamori_Hirameki.description>
+  <Yokai_Omamori_Tuchi.label>土神的御守</Yokai_Omamori_Tuchi.label>
+  <Yokai_Omamori_Tuchi.description>以翡翠製成的妖怪村的下位御守之一。提升對土壤的親和性，加快採掘、農作業、整地速度，並使移動速度得到些許增幅。</Yokai_Omamori_Tuchi.description>
+  <Yokai_Omamori_Wa.label>和之御守</Yokai_Omamori_Wa.label>
+  <Yokai_Omamori_Wa.description>以翡翠製成的妖怪村的下位御守之一。具有降低生物警戒心的能力，效果對象也包括人類。能在交涉及馴養動物時帶來幫助，並使移動速度得到些許增幅。</Yokai_Omamori_Wa.description>
+  <Yokai_Omamori_Ikusa.label>戰士的御守</Yokai_Omamori_Ikusa.label>
+  <Yokai_Omamori_Ikusa.description>以翡翠製成的妖怪村的下位御守之一。受到九尾的加護而提升些許近戰能力。同時也提高免疫力及移動速度。</Yokai_Omamori_Ikusa.description>
+  <Yokai_Omamori_Karibito.label>獵人的詛咒</Yokai_Omamori_Karibito.label>
+  <Yokai_Omamori_Karibito.description>以翡翠製成的這個勾玉是妖怪村的下位御守之一，也是為人忌憚的禁品。裝備後，在狩獵時不易受到野獸反擊，遠距離攻擊的精準度與射速也得到增幅。
+  \n但會被獸群厭惡，而使訓練及馴服的成功率大幅降低。</Yokai_Omamori_Karibito.description>
+  <Yokai_Omamori_Jin.label>仁術的御守</Yokai_Omamori_Jin.label>
+  <Yokai_Omamori_Jin.description>以翡翠製成的妖怪村下位御守之一。激發高度的慈悲之心與集中力，使醫療速度與正確性提升。並使裝備者的免疫力得到些微增幅。</Yokai_Omamori_Jin.description>
+  <!-- 妖怪衣 -->
+  <Yokai_Kimono_Koromo.label>妖怪之衣</Yokai_Kimono_Koromo.label>
+  <Yokai_Kimono_Koromo.description>作為內襯穿搭的防寒衣，對穿刺攻擊不具防禦力。\n穿著再身上能與動物們相處更為融洽。</Yokai_Kimono_Koromo.description>
+  <!--蜘蛛糸の肌着セット -->
+  <Yokai_Kimono_Katabira.label>蜘蛛絲的鎖子甲</Yokai_Kimono_Katabira.label>
+  <Yokai_Kimono_Katabira.description>以女郎蜘蛛的絲編織成的鎖子甲。緊密覆蓋著頸部到手腕的部位，防刃性能優秀的貼身衣物。妖怪村居民的基本穿著之一，輕巧結實、易於行動，但不具備耐寒效果。</Yokai_Kimono_Katabira.description>
+  <Yokai_Kimono_Shitabaki.label>蜘蛛絲的下着</Yokai_Kimono_Shitabaki.label>
+  <Yokai_Kimono_Shitabaki.description>搭配著妖怪衣穿著的褲裝，以女郎蜘蛛的絲編織而成。\n輕巧結實的防刃裝備，易於行動。但仍不具備防寒性能。</Yokai_Kimono_Shitabaki.description>
+ 　<!-- 装束 -->
+  <Yokai_Kimono_Kitune.label>狐狸裝束</Yokai_Kimono_Kitune.label>
+  <Yokai_Kimono_Kitune.description>主祀妖怪村的神事的人員所穿戴的神聖裝術。以女郎蜘蛛的糸織成，不利於作為戰鬥裝備使用。
+  \n妖怪村的神職人員主要負責烹調及醫療工作，這套裝束能帶來與此相關的加護。</Yokai_Kimono_Kitune.description>
+  <!-- 獣の外套 -->
+  <Yokai_Kimono_Gaitou.label>獣皮外套</Yokai_Kimono_Gaitou.label>
+  <Yokai_Kimono_Gaitou.description>以獸皮和女郎蜘蛛的絲補強的外套，耐穿而適用於長途旅行。
+\n雖然略嫌厚重，但其高防禦性足以抵擋劣質的刀刃。對寒冷亦具有耐性，在寒冷地區的妖怪村居民也經常穿著此服裝。</Yokai_Kimono_Gaitou.description>
+  <!-- 戦装束 -->
+  <Yokai_Kimono_Ikusa.label>戰爭裝束</Yokai_Kimono_Ikusa.label>
+  <Yokai_Kimono_Ikusa.description>用龍皮與希洛的毛所製的戰鬥套裝，輕便卻十分結實。對寒暖有高耐久性，是相當優秀的裝備，製作時也需花上相應的工時與白銀。
+  配上蜘蛛絲製的內衣或妖怪衣，能讓穿著者承受強烈的攻勢而不退縮。施有妖怪村的咒術，能提升移動速度並適於進行白兵戰。
+  \n妖怪村的戰士們會穿著戰爭裝束與戰爭面具，接受九尾的加護後攜上刀斧出征沙場。</Yokai_Kimono_Ikusa.description>
+  <!-- 豊穣の面 -->
+  <Yokai_Omen_Warai.label>豊穣面具</Yokai_Omen_Warai.label>
+  <Yokai_Omen_Warai.description>描繪著溫柔表情的木製面具。寄宿著小小的咒力，能與動物們相處更為融洽。</Yokai_Omen_Warai.description>
+  <!-- 狐面 -->
+  <Yokai_Omen_Kitune.label>狐狸假面</Yokai_Omen_Kitune.label>
+  <Yokai_Omen_Kitune.description>施上了戦爭化粧的狐狸面具，雖然輕微但仍帶有一定的咒力。
+  \n提升對疼痛的忍耐力，並帶來勇氣，能神色自若地接戰敵方兵刃。如泉源般湧現的力量，想必能成為強大的助力。
+  \n但畢竟只是木製的防具，在強韌的武器面前，能提供的防禦力也只聊勝於無。更別忘了它無法提供對冷熱環境的忍耐力。</Yokai_Omen_Kitune.description>
+  <!-- 戦仮面 -->
+  <Yokai_Omen_Ikusa.label>戰爭面具</Yokai_Omen_Ikusa.label>
+  <Yokai_Omen_Ikusa.description>傳承於妖怪村中，以九尾為原型所製成的假面。以龍皮與希洛之毛編織成型，再經由妖怪村的術式強化而成。
+\n具有足以承受高強度戰鬥的強韌耐性，幾乎無法想像是由皮革與絨毛所製。其上附帶著多種咒力，能在白兵戰時帶來幫助。
+\n對冷熱環境有高耐久性，是相當優秀的裝備，但要製作或購買時，需付出相應的製作時間與白銀。</Yokai_Omen_Ikusa.description>
+</LanguageData>

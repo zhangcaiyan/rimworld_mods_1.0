@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_Lamia_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Lamia1</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Lamia_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Lamia4</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Lamia_Angry</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>2</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Lamia2</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Lamia_Wounded</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Lamia3</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Lamia_Death</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Lamia1</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9</min>
+          <max>1.0</max>
+        </pitchRange>
+        <distRange>
+          <min>0</min>
+          <max>40</max>
+        </distRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

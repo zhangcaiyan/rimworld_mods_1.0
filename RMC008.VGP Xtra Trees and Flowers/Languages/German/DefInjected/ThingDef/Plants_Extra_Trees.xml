@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Trees -->
+
+  <PlantTreeJapaneseMaple.label>japanischer Ahornbaum</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>Diese schönen Bäume haben Zweige, die sich unvorhersehbar drehen und drehen, und leuchtendes orange und rotes Laub, das das Auge anzieht.</PlantTreeJapaneseMaple.description>
+
+  <PlantTreeCherryBlossom.label>Kirschblütenbaum</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>Kirschblüten sind nicht nur eine gute Quelle für Baumaterialien, sie sind auch einer der schönsten Bäume auf Ihrem Rasen.</PlantTreeCherryBlossom.description>
+
+  <PlantTreeCamellia.label>Kamelienbaum</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>Dieser kleine Zierbaum hat wunderschöne Blüten, die auch im Winter robust sind.</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>Akazie</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>Akazienbäume sind winterhart und können auch unter den härtesten Wüstenbedingungen wachsen. Sie bieten nicht viel Holz und haben scharfe Dornen.</PlantTreeAcacia.description>
+
+  <PlantTreeRedMaple.label>roter Ahornbaum</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>Ein weicher Holzbaum. Bekannt für seine roten Blätter.</PlantTreeRedMaple.description>
+
+
+</LanguageData>

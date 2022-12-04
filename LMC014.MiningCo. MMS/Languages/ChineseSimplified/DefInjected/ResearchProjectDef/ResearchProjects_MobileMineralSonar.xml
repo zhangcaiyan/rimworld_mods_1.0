@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchMobileMineralSonar.label>可移动式矿物扫描声呐</ResearchMobileMineralSonar.label>
+  <ResearchMobileMineralSonar.description>解锁采矿集团科技可移动式矿物扫描声呐，这种声呐能扫描和定位位于山体中的矿物区域。</ResearchMobileMineralSonar.description>
+
+  <ResearchMobileMineralSonarEnhancedScan.label>可移动式矿物扫描声呐： 增强型扫描</ResearchMobileMineralSonarEnhancedScan.label>
+  <ResearchMobileMineralSonarEnhancedScan.description>通过对可移动式矿物扫描声呐中降噪算法进行一些代码重构和优化，你可以提高声呐的扫描效率。\n声呐扫描半径提升 (30 -> 50)。\n声呐扫描时识别概率提高。</ResearchMobileMineralSonarEnhancedScan.description>
+
+
+</LanguageData>

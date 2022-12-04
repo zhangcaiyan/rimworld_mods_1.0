@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Kamaitachi.label>Kamaitachi</Yokai_Kamaitachi.label>
+  <Yokai_Kamaitachi.description>A weasel Yokai, the Kamaitachi has a long, sickle-like tail; once angered, the Yokai will rush its oppenents, slicing them apart in a gale of speed. Though small in frame, the Kamaitachi have been known to hunt colonists. These Yokai are not pets to be fawned over, they are guardians, viscious and simple.
+    /nThe name Kamaitachi can refer to the kamae tachi (stance sword) or the Yokai itself; when in reference to the Yokai, the name means "cut caused by whirlwind." Accounts of Kamaitachi generating literal whirlwinds do exist on the Rim; however, these accounts often originate from colonies that have fallen into disfavor with their nearby Yokai village. Those keen to the machinations of the Yokai argue that these accounts are most likely due to the meddling of a Tsuzurao; some on the Rim still doubt that such a powerful creature exists, but the truth is often not what we hope it is.</Yokai_Kamaitachi.description>
+  <Yokai_Kamaitachi.tools.0.label>Tail Slash</Yokai_Kamaitachi.tools.0.label>
+  <Yokai_Kamaitachi.tools.1.label>FrontLeftPaw</Yokai_Kamaitachi.tools.1.label>
+  <Yokai_Kamaitachi.tools.2.label>FrontRightPaw</Yokai_Kamaitachi.tools.2.label>
+  <Yokai_Kamaitachi.tools.3.label>Teeth</Yokai_Kamaitachi.tools.3.label>
+  <Yokai_Kamaitachi_Leather.label>Kamaitachi leather</Yokai_Kamaitachi_Leather.label>
+  <Yokai_Kamaitachi_Leather.description>Kamaitachi leather</Yokai_Kamaitachi_Leather.description>
+  <Yokai_Kamaitachi_Leather.stuffProps.stuffAdjective>Kamaitachi leather</Yokai_Kamaitachi_Leather.stuffProps.stuffAdjective>
+  <Yokai_Kamaitachi_Meat.label>Yokai meat</Yokai_Kamaitachi_Meat.label>
+  <Yokai_Kamaitachi_Meat.description>Yokai meat</Yokai_Kamaitachi_Meat.description>
+  <Yokai_Kamaitachi_Corpse.label>Kamaitachi corpse</Yokai_Kamaitachi_Corpse.label>
+  <Yokai_Kamaitachi_Corpse.description>Kamaitachi corpse</Yokai_Kamaitachi_Corpse.description>
+
+
+</LanguageData>

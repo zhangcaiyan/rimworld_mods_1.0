@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Wolvern.label>ちび狼</LF_Wolvern.label>
+  <LF_Wolvern.description>幻想的で異国的な風貌を持つ獣人族です。ふわふわの毛に覆われた狼のような耳と尻尾、そしてすらりと伸びた美しいおみ脚を持ちます。古き森の巫女の身辺警護を担う近衛守人のひとりで、しっかりものです。しょっちゅう忽然と姿を消しては悩みの種を運んでくる相方につい目つきや言葉を尖らせがちですが、相手を気遣うことを忘れない優しい一面もあります。守人としての実力は一流で、己の肉体を武器としたマーシャルアーツで仲間を守ります。故郷の森が破壊され、散り散りになってしまった仲間たちを探しているうちにはぐれてしまったものが、まれに人間のコロニーの近くで目撃されているようです。</LF_Wolvern.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Wolvern_Meat.label>ちび狼の肉</LF_Wolvern_Meat.label>
+  <LF_Wolvern_Meat.description>ちび狼の肉。壊れてしまった彼女の仲間たちの末路です。</LF_Wolvern_Meat.description>
+-->
+  <LF_Wolvern_Corpse.label>ちび狼の死骸</LF_Wolvern_Corpse.label>
+  <LF_Wolvern_Corpse.description>冷たくなったちび狼の死骸です。もはや何者も、彼女を苦しめることはできません。</LF_Wolvern_Corpse.description>
+
+</LanguageData>

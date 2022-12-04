@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <TradeGoodsMustBeNearBeacon.helpTexts.0>Du må bygge et handelsmerke med ting i nærheten for å sende tingene til banehandlere.</TradeGoodsMustBeNearBeacon.helpTexts.0>
+    
+    <ArrestingCreatesEnemies.helpTexts.0>Advarsel: Personen du vil arrestere vil mest sannsynlig gjøre motstand.\n\nHvis du arresterer en ikke-kolonist vil faksjonen deres erklære krig mot deg.</ArrestingCreatesEnemies.helpTexts.0>
+    
+    <SwitchFlickingDesignation.helpTexts.0>Merk: Dette markerer bare at en kolonist bør dra i spaken.\n\nIngen ting vil skje før en kolonist faktisk drar i den.</SwitchFlickingDesignation.helpTexts.0>
+    
+</LanguageData>

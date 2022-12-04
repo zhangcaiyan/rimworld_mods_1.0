@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <Door.label>dør</Door.label>
+  <Door.description>Opdeler værelser. Skal manuelt åbnes og lukkes, hvilket nedsætter folks fart.</Door.description>
+
+  <Autodoor.label>autodør</Autodoor.label>
+  <Autodoor.description>Opdeler værelser. Elektrisk drevet hvilket tillader folk at bevæge sig gennem døren uden at sænke farten.</Autodoor.description>
+
+
+  <!-- Walls -->
+
+  <Wall.label>væg</Wall.label>
+  <Wall.description>En ufremkommelig væg. I stand til at holde et tag oppe.</Wall.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>table de mise en conserve</CanningFactory.label>
+  <CanningFactory.description>La table de mise en conserve doit être alimentée avec de l'acier. Ensuite, vous faites de la viande, des légumes et des repas en conserve.</CanningFactory.description>
+  <CanningFactory_Blueprint.label>table de mise en conserve (projet)</CanningFactory_Blueprint.label>
+  <CanningFactory_Blueprint_Install.label>table de mise en conserve (projet)</CanningFactory_Blueprint_Install.label>
+  <CanningFactory_Frame.label>table de mise en conserve (objet)</CanningFactory_Frame.label>
+  <CanningFactory_Frame.description>La table de mise en conserve doit être alimentée avec de l'acier. Ensuite, vous faites de la viande, des légumes et des repas en conserve.</CanningFactory_Frame.description>
+
+  <VG_CanningFactory.label>Usine de mise en conserve</VG_CanningFactory.label>
+  <VG_CanningFactory.description>L'usine de mise en conserve peut être réglée pour préparer les repas ou pour différencier les types d'aliments afin de les conserver.</VG_CanningFactory.description>
+  <VG_CanningFactory_Blueprint.label>Usine de mise en conserve (projet)</VG_CanningFactory_Blueprint.label>
+  <VG_CanningFactory_Blueprint_Install.label>Usine de mise en conserve (projet)</VG_CanningFactory_Blueprint_Install.label>
+  <VG_CanningFactory_Frame.label>Usine de mise en conserve (bâtiment)</VG_CanningFactory_Frame.label>
+  <VG_CanningFactory_Frame.description>L'usine de mise en conserve peut être réglée pour préparer les repas ou pour différencier les types d'aliments afin de les conserver.</VG_CanningFactory_Frame.description>
+
+
+</LanguageData>

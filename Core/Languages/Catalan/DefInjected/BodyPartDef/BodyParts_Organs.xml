@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>cor</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>ronyó</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>fetge</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>pulmó</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>estómac</Stomach.label>
+  
+</LanguageData>

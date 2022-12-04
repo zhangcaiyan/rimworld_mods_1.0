@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="YokaiVillage.AnimaConverter.Defs.AC_RewardDef">
+    <defName>AC_AnyReward</defName>
+    <rewards>
+      <!-- 報酬種類別、報酬1個あたりの必要ポイント　-->
+      <li>
+        <category>NORMAL</category>
+        <item>Yokai_Fragment</item>
+        <value>8</value>
+        <!-- 例：猫娘(1pt)1匹で8時間1個=1日3個 -->
+      </li>
+      <li>
+        <category>Energy</category>
+        <item>Yokai_EnergyStone</item>
+        <value>24</value>
+        <!-- 例：かまいたち(1pt)1匹で1日1個 -->
+      </li>
+      <li>
+        <category>KAPPA</category>
+        <item>Yokai_HydroStone</item>
+        <value>24</value>
+        <!-- 例：河童(1pt)1匹で1日1個 -->
+      </li>
+      <li>
+        <category>Hono</category>
+        <item>Yokai_FlameStone</item>
+        <value>24</value>
+        <!-- 例：ひのこ(1pt)1匹で1日1個　ほだま（2pt）で1日2個 -->
+      </li>
+      <li>
+        <category>DRAGON</category>
+        <item>Yokai_DragonStone</item>
+        <value>1440</value>
+        <!-- 例：シロ(1pt)1匹で1年1個 -->
+      </li>
+      <li>
+        <category>Tuzurao</category>
+        <item>Yokai_AnimaCore</item>
+        <value>1440</value>
+        <!-- 例：九尾の狐(2pt)1匹で1年2個 -->
+      </li>
+    </rewards>
+  </Def>
+</Defs>

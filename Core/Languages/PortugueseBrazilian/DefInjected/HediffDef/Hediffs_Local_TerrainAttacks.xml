@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>terra</DirtInEyes.label>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>terra</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>cascalho</GravelInEyes.label>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>cascalho</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>lama</MudInEyes.label>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>lama</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>areia</SandInEyes.label>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>areia</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>água</WaterInEyes.label>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>água</WaterInEyes.labelNoun>
+  
+</LanguageData>

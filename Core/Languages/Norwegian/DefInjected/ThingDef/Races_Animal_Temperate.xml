@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  
+    
+    <Deer.label>hjort</Deer.label>
+    <Deer.description>En mellomstor plante-eter som lever i flokk. Generelt fredelig, om den får være i fred.</Deer.description>
+    <Deer_Leather.label>hjorteskinn</Deer_Leather.label>
+    <Deer_Leather.description>Hjorteskinn, saltet og beredt med mykgjørende og preparerende kjemikalier.</Deer_Leather.description>
+    <Deer_Leather.stuffProps.stuffAdjective>hjorteskinns</Deer_Leather.stuffProps.stuffAdjective>
+    <Deer_Meat.label>hjortekjøtt</Deer_Meat.label>
+    <Deer_Meat.description>Rått kjøtt fra en hjort.</Deer_Meat.description>
+    <Deer_Corpse.label>hjortekadaver</Deer_Corpse.label>
+    <Deer_Corpse.description>Det døde kadaveret av en hjort.</Deer_Corpse.description>
+	
+  <Ibex.label>steinbukk</Ibex.label>
+  <Ibex.description>Den tøffe forfaderen til den domestisert geita. Steinbukken lever i territorier der de fleste antiloper ikke kunne overlevd, der den spiser mark og fjellvegetasjon. De er berømte for å bevege seg ved hjelp av smidige sprang - og for kraftig stanging.</Ibex.description>
+  <Ibex_Leather.label>steinbukkpels</Ibex_Leather.label>
+  <Ibex_Leather.description>Pels  fra en steinbukk.</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>steinbukkpels</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>steinbukk-kjøtt</Ibex_Meat.label>
+  <Ibex_Meat.description>Kjøtt fra en steinbukk.</Ibex_Meat.description>
+  <Ibex_Corpse.label>steinbukkadaver</Ibex_Corpse.label>
+  <Ibex_Corpse.description>Den døde kroppen til en steinbukk.</Ibex_Corpse.description>
+	
+    <Elk.label>elg</Elk.label>
+    <Elk.description>Et av de større medlemmene i hjortefamilien, veltilpasset til livet i kaldere klima.</Elk.description>
+    <Elk_Leather.label>elglær</Elk_Leather.label>
+    <Elk_Leather.description>Elgskinn - flådd, saltet og beredt. </Elk_Leather.description>
+    <Elk_Leather.stuffProps.stuffAdjective>elgskinns</Elk_Leather.stuffProps.stuffAdjective>
+    <Elk_Meat.label>elgkjøtt</Elk_Meat.label>
+    <Elk_Meat.description>Rått kjøtt fra en elg.</Elk_Meat.description>
+    <Elk_Corpse.label>elgkadaver</Elk_Corpse.label>
+    <Elk_Corpse.description>Det døde kadaveret av en elg.</Elk_Corpse.description>
+	
+	<Caribou.label>reinsdyr</Caribou.label>
+  <Caribou.description>Et stort medlem av hjortefamilien, som har tilpasset seg vel til livet i kaldere strøk.</Caribou.description>
+  <Caribou_Leather.label>reinskinn</Caribou_Leather.label>
+  <Caribou_Leather.description>Reinskinn - flådd, saltet og beredt.</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>reinskinns</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>reinkjøtt</Caribou_Meat.label>
+  <Caribou_Meat.description>Rått kjøtt fra et reinsdyr.</Caribou_Meat.description>
+  <Caribou_Corpse.label>reinsdyrkadaver</Caribou_Corpse.label>
+  <Caribou_Corpse.description>Det døde kadaveret av et reinsdyr.</Caribou_Corpse.description>
+    
+    <WildBoar.label>villsvin</WildBoar.label>
+    <WildBoar.description>Denne hårete stamfaren til tamgrisen er, til tross for at den er regnet som uren i enkelte kulturer, svært ettertraktet for den gode viltsmaken i kjøttet.</WildBoar.description>
+    <WildBoar_Leather.label>villsvinlær</WildBoar_Leather.label>
+    <WildBoar_Leather.description>Garvet lær lagd av huden fra et villsvin.</WildBoar_Leather.description>
+    <WildBoar_Leather.stuffProps.stuffAdjective>villsvinlær</WildBoar_Leather.stuffProps.stuffAdjective>
+    <WildBoar_Meat.label>villsvinskjøtt</WildBoar_Meat.label>
+    <WildBoar_Meat.description>Rått kjøtt fra et villsvin.</WildBoar_Meat.description>
+    <WildBoar_Corpse.label>villsvinkadaver</WildBoar_Corpse.label>
+    <WildBoar_Corpse.description>Det døde kadaveret av et villsvin.</WildBoar_Corpse.description>
+    
+    
+    <Tortoise.label>skilpadde</Tortoise.label>
+    <Tortoise.description>Dette tungt armerte landbaserte reptilet er kjent for sin sakte bevegelseshastighet og sitt overraskende kraftige bitt.</Tortoise.description>
+    <Tortoise_Leather.label>skilpaddelær</Tortoise_Leather.label>
+    <Tortoise_Leather.description>Garvet lær lagd av huden fra en skilpadde.</Tortoise_Leather.description>
+    <Tortoise_Leather.stuffProps.stuffAdjective>skilpaddelær</Tortoise_Leather.stuffProps.stuffAdjective>
+    <Tortoise_Meat.label>skilpaddekjøtt</Tortoise_Meat.label>
+    <Tortoise_Meat.description>Rått kjøtt fra en skilpadde.</Tortoise_Meat.description>
+    <Tortoise_Corpse.label>skilpaddekadaver</Tortoise_Corpse.label>
+    <Tortoise_Corpse.description>Det døde kadaveret av en skilpadde.</Tortoise_Corpse.description>
+    
+ 
+    
+</LanguageData>

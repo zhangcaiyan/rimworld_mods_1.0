@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC010.负载均衡</name>
+	<author>Uuugggg</author>
+	<targetVersion>1.0.0</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+Multiple people can deliver resources to a blueprint.
+允许多个人能同时向一个建造蓝图提供原材料。
+	
+Share The Load tracks what is needed and doesn't deliver too much.
+共享搬运负载以避免单个人漫长的搬运耗时。
+
+Multiple people also clear things out of the way for construction as well.
+允许多个人同时也能清除建造工地的杂物。
+
+An option to deliver even when there's not enough to finish the building.
+允许即使建筑材料不够的情况下仍然向工地提供原材料。
+
+Check Steam page for any updated info.</description>
+	<url>https://steamcommunity.com/id/Uuugggg/myworkshopfiles/?appid=294100</url>
+</ModMetaData>

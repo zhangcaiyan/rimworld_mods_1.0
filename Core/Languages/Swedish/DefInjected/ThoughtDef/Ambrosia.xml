@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>ambrosia varm</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <!-- EN: That ambrosia makes me feel more relaxed, and gives me energy at the same time. -->
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>Den ambrosien får mig att känna mig lite avslappnad, men med mer energi också.</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  
+  <!-- EN: ambrosia withdrawal -->
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>ambrosia abstinens</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <!-- EN: I feel heavy and cold all the time. I never thought I'd want a piece of fruit so much. -->
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>Jag känner mig bara tung och kall hela tiden. Jag trodde aldrig att jag skulle vilja ha en bit frukt så mycket.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+  
+</LanguageData>

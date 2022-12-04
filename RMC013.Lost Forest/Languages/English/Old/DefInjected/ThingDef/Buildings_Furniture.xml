@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_Bedroll.label>adventurer's bedroll</LF_Bedroll.label>
+	<LF_Bedroll.description>This easy to carry sleeping bag was designed with an adventurer's comfort and convenience in mind.</LF_Bedroll.description>
+	<LF_Cushion.label>cushion</LF_Cushion.label>
+	<LF_Cushion.description>A simple yet soft seat. It offers a nice bit of relaxation. Known as a "Zabuton" in another world.</LF_Cushion.description>
+	<LF_Tinytable1st.label>short-legged table</LF_Tinytable1st.label>
+	<LF_Tinytable1st.description>A table that is rather low to the ground; colonists may want to use cushions to sit at it. Such tables are known as "Chabudai" in another world.</LF_Tinytable1st.description>
+	<LF_Tinytable2nd.label>cafe table</LF_Tinytable2nd.label>
+	<LF_Tinytable2nd.description>This small, long-legged table engenders a more intimate atmoshpere due to the proximity diners are forced to be at with each other.</LF_Tinytable2nd.description>
+
+	<LF_JackOLantern.label>jack o' lantern</LF_JackOLantern.label>
+	<LF_JackOLantern.description>A hollowed pumpkin lantern for lighting an area. In a certain world, these often decorate festivals celebrating the fall harvest. Produces a small amount of heat. Due to its inclosed state, rain does not accelerate its fuel consumption; moreover, it can be automatically refueled. Some folks have reported using these as chairs, but a hot, mushy pumpkin may not be the best thing to sit on.</LF_JackOLantern.description>
+
+
+
+</LanguageData>

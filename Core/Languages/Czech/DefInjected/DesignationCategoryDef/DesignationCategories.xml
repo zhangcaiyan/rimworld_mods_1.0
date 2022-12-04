@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors -->
+  <Floors.label>podlahy</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>nábytek</Furniture.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>relaxace</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>doplňky</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>příkazy</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>energie</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>produkce</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>zabezpečení</Security.label>
+  
+  <!-- EN: ship -->
+  <Ship.label>vesmírná loď</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>stavba</Structure.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>teplota</Temperature.label>
+  
+  <!-- EN: zone -->
+  <Zone.label>zóny</Zone.label>
+  
+</LanguageData>

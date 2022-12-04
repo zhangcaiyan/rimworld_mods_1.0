@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖弓言の叶（限定） -->
+  <Yokai_A_KotoNoHa_Huu.label>言之叶的箭</Yokai_A_KotoNoHa_Huu.label>
+  <Yokai_B_KotoNoHa_Huu.label>言之叶（封）</Yokai_B_KotoNoHa_Huu.label>
+  <Yokai_B_KotoNoHa_Huu.description>传承於妖怪村中，那传说中的弓。原本的力量现已遭到封印。但仍具有强大的杀伤力，并会赋予使用者多层加护。</Yokai_B_KotoNoHa_Huu.description>
+  <Yokai_B_KotoNoHa_Huu.tools.0.label>姫反</Yokai_B_KotoNoHa_Huu.tools.0.label>
+  <!-- 妖弓言の叶 -->
+  <Yokai_A_KotoNoHa.label>言叶之箭</Yokai_A_KotoNoHa.label>
+  <Yokai_B_KotoNoHa.label>妖弓言叶</Yokai_B_KotoNoHa.label>
+  <Yokai_B_KotoNoHa.description>解除封印後的传说之弓。\n会给予使用者多种加护，每次使用都会逐渐成长。</Yokai_B_KotoNoHa.description>
+  <Yokai_B_KotoNoHa.tools.0.label>姫反</Yokai_B_KotoNoHa.tools.0.label>
+  <!-- 月の雫 -->
+  <Yokai_K_TukiNoShizuku.label>月之雫</Yokai_K_TukiNoShizuku.label>
+  <Yokai_K_TukiNoShizuku.description>将龙牙削刻成刃，具有不可思议的色彩。非常的轻且具有强力的破坏性，会给予使用者多层加护。</Yokai_K_TukiNoShizuku.description>
+  <Yokai_K_TukiNoShizuku.tools.0.label>斩撃</Yokai_K_TukiNoShizuku.tools.0.label>
+  <Yokai_K_TukiNoShizuku.tools.1.label>突刺</Yokai_K_TukiNoShizuku.tools.1.label>
+  <!-- サミアの斧 -->
+  <Yokai_A_Samia.label>莎米亚的斧</Yokai_A_Samia.label>
+  <Yokai_A_Samia.description>斧刃锐利的真红战斧，以莎米亚的妖力制成，因此离开她的手後会逐渐雾散。</Yokai_A_Samia.description>
+  <Yokai_A_Samia.tools.0.label>刃</Yokai_A_Samia.tools.0.label>
+  <Yokai_A_Samia.tools.1.label>柄</Yokai_A_Samia.tools.1.label>
+</LanguageData>

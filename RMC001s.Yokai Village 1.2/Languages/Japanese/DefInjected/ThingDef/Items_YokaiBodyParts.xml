@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Lamia tail -->
+  <Yokai_LamiaSPT.label>ラミアの人工尻尾</Yokai_LamiaSPT.label>
+  <Yokai_LamiaSPT.description>ラミア専用の人工尻尾です。尾が壊れた際に使います。</Yokai_LamiaSPT.description>
+  <Yokai_LamiaBT.label>ラミアの高度人工尾</Yokai_LamiaBT.label>
+  <Yokai_LamiaBT.description>ラミア専門の高度な人工尻尾です。移動速度が上がります。</Yokai_LamiaBT.description>
+  <!--女郎蜘蛛 -->
+  <Yokai_JorouGumoSPL.label>女郎蜘蛛の人工脚</Yokai_JorouGumoSPL.label>
+  <Yokai_JorouGumoSPL.description>女郎蜘蛛専用の人工脚です。</Yokai_JorouGumoSPL.description>
+  <Yokai_JorouGumoBL.label>女郎蜘蛛の高度人工脚</Yokai_JorouGumoBL.label>
+  <Yokai_JorouGumoBL.description>女郎蜘蛛用のの高度な人工脚です。移動速度が上がります。</Yokai_JorouGumoBL.description>
+</LanguageData>

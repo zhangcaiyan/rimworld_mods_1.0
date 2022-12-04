@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Seating -->
+
+	<Anon2SquareDiningChair.label>Chaise à manger carrée</Anon2SquareDiningChair.label>
+	<Anon2SquareDiningChair.description>Une chaise confortable et attrayante pour s'asseoir à une table.</Anon2SquareDiningChair.description>
+
+	<Anon2CushionedChair.label>Chaise rembourrée</Anon2CushionedChair.label>
+	<Anon2CushionedChair.description>Un siège large et confortable, idéal pour se détendre et manger.</Anon2CushionedChair.description>
+
+	<Anon2CouchRight.label>Couch droit</Anon2CouchRight.label>
+	<Anon2CouchRight.description>Un morceau d'un grand canapé confortable et doux. Idéal pour se détendre.</Anon2CouchRight.description>
+
+	<Anon2CouchCenter.label>Centre de canapé</Anon2CouchCenter.label>
+	<Anon2CouchCenter.description>Un morceau d'un grand canapé confortable et doux. Idéal pour se détendre.</Anon2CouchCenter.description>
+
+	<Anon2CouchLeft.label>Canapé à gauche</Anon2CouchLeft.label>
+	<Anon2CouchLeft.description>Un morceau d'un grand canapé confortable et doux. Idéal pour se détendre.</Anon2CouchLeft.description>
+
+	<Anon2CouchCorner.label>Coin de canapé</Anon2CouchCorner.label>
+	<Anon2CouchCorner.description>Un morceau d'un grand canapé confortable et doux. Idéal pour se détendre.</Anon2CouchCorner.description>
+
+	<Anon2CouchCornerInv.label>Coin de canapé inversé</Anon2CouchCornerInv.label>
+	<Anon2CouchCornerInv.description>Un morceau d'un grand canapé confortable et doux. Idéal pour se détendre.</Anon2CouchCornerInv.description>
+
+</LanguageData>

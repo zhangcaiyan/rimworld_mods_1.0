@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealCannedFood.label>罐头食物</MealCannedFood.label>
+  <MealCannedFood.description>保存在罐头中以防变质的食物。</MealCannedFood.description>
+
+  <CannedVeg.label>蔬菜罐头</CannedVeg.label>
+  <CannedVeg.description>经过烹饪并保存在罐头中以防变质的蔬菜。</CannedVeg.description>
+
+  <CannedMeat.label>肉类罐头</CannedMeat.label>
+  <CannedMeat.description>经过烹饪并保存在罐头中以防变质的肉类。</CannedMeat.description>
+  
+  <CannedFruit.label>水果罐头</CannedFruit.label>
+  <CannedFruit.description>经过烹饪并保存在罐头中以防变质的水果。</CannedFruit.description>
+
+
+</LanguageData>

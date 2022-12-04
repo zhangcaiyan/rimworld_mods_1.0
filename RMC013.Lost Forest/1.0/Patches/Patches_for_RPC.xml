@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+  <!--=============== 採集場と作業台 ====================-->
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_GatheringSpot_Dirt" or defName="RPC_GatheringSpot_Sand" or defName="RPC_GatheringSpot_Gravel" or defName="RPC_GatheringSpot_Mud" or defName="RPC_GatheringSpot_Ice"]/designationCategory</xpath>
+    <value>
+      <designationCategory>
+      	<li>Production</li>
+      </designationCategory>
+    </value>
+  </Operation>
+
+	<!--=============== 土壌由来 ====================-->
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Dirt" or defName="RPC_Gravel" or defName="RPC_Sand" or defName="RPC_Mud" or defName="RPC_Ice"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>ResourcesRaw</li>
+      </thingCategories>
+    </value>
+  </Operation>
+
+	<!--=============== 堆肥 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Compost"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>ResourcesRaw</li>
+      </thingCategories>
+    </value>
+  </Operation>
+-->
+	<!--=============== 炭 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Charcoal"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>ResourcesRaw</li>
+      </thingCategories>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Charcoal"]/stuffProps/commonality/text()</xpath>
+    <value>1</value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Charcoal"]/tradeability/text()</xpath>
+    <value>All</value>
+  </Operation>
+-->
+	<!--=============== 楮 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Kouzo"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>Foods</li>
+      </thingCategories>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="RPC_MakePaper"]/recipeUsers</xpath>
+    <value>
+      <recipeUsers>
+			<li>ElectricTailoringBench</li>
+			<li>HandTailoringBench</li>
+      </recipeUsers>
+    </value>
+  </Operation>
+-->
+	<!--=============== 和紙 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_JapanesePaper"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>ResourcesRaw</li>
+      </thingCategories>
+    </value>
+  </Operation>
+-->
+	<!--=============== 繭 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_Cocoon"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>Foods</li>
+      </thingCategories>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="RPC_MakePureSilk"]/recipeUsers</xpath>
+    <value>
+      <recipeUsers>
+			<li>ElectricTailoringBench</li>
+			<li>HandTailoringBench</li>
+      </recipeUsers>
+    </value>
+  </Operation>
+-->
+	<!--=============== 正絹 ====================-->
+<!--
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="RPC_PureSilk"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+      	<li>ResourcesRaw</li>
+      </thingCategories>
+    </value>
+  </Operation>
+-->
+
+</Patch>
+
+<!--以下、参考情報
+・thingCategories
+		public static ThingCategoryDef Foods;
+		public static ThingCategoryDef FoodMeals;
+		public static ThingCategoryDef Manufactured;
+		public static ThingCategoryDef Root;
+		public static ThingCategoryDef Apparel;
+		public static ThingCategoryDef PlantFoodRaw;
+		public static ThingCategoryDef PlantMatter;
+		public static ThingCategoryDef ResourcesRaw;
+		public static ThingCategoryDef Items;
+		public static ThingCategoryDef BuildingsArt;
+		public static ThingCategoryDef Weapons;
+		public static ThingCategoryDef Medicine;
+		public static ThingCategoryDef Drugs;
+		public static ThingCategoryDef BodyParts;
+		public static ThingCategoryDef Chunks;
+		public static ThingCategoryDef StoneChunks;
+		public static ThingCategoryDef StoneBlocks;
+		public static ThingCategoryDef MeatRaw;
+		public static ThingCategoryDef Leathers;
+		public static ThingCategoryDef Buildings;
+		public static ThingCategoryDef Corpses;
+		public static ThingCategoryDef CorpsesHumanlike;
+		public static ThingCategoryDef CorpsesMechanoid;
+		public static ThingCategoryDef CorpsesInsect;
+		public static ThingCategoryDef CorpsesAnimal;
+	リソースパックのデフォルトは記述なし。利用する場合この項目だけは必須。
+
+（↓は商人に持ってこさせる場合）
+・Tradeability引数
+		None,
+		Sellable,
+		Buyable,
+		All
+	リソースパックのデフォルトは"Sellable"。商人に持って来させたいときはAllあたり。
+
+・tradeTagsはおそらく複数指定可能なため"Add"。独自のタグを設定したい場合などに。
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RPC_Charcoal"]/tradeTags</xpath>
+    <value>
+      	<li>My_Tag</li>
+    </value>
+  </Operation>
+
+・各トレーダーヘの単品追加方法　（以下を追記）
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Neolithic_BulkGoods"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>RPC_Charcoal</thingDef>
+        <countRange>
+          <min>80</min>
+          <max>120</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+	あるいは独自タグ群を追加する場合
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/TraderKindDef[defName="Caravan_Neolithic_BulkGoods"]/stockGenerators</xpath>
+    <value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>My_Tag</tradeTag>
+	<price>Normal</price>
+        <countRange>
+          <min>80</min>
+          <max>120</max>
+        </countRange>
+      </li>
+    </value>
+  </Operation>
+	バニラの商人DefNameはTraderKindDefsから。
+
+-->

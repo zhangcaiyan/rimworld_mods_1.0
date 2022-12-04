@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--狂った竜 -->
+  <Yokai_Raid_Mdra.label>狂気之龙</Yokai_Raid_Mdra.label>
+  <Yokai_Raid_Mdra.description>受狂气侵蚀的黑龙，虽与月龙外型相似但并非同种，性情暴戾。绝不会听从人类的命令。</Yokai_Raid_Mdra.description>
+  <Yokai_Raid_Mdra.tools.0.label>右前脚</Yokai_Raid_Mdra.tools.0.label>
+  <Yokai_Raid_Mdra.tools.1.label>左前脚</Yokai_Raid_Mdra.tools.1.label>
+  <Yokai_Raid_Mdra.tools.2.label>牙</Yokai_Raid_Mdra.tools.2.label>
+  <Yokai_Raid_Mdra_Corpse.label>狂気之龙的尸体</Yokai_Raid_Mdra_Corpse.label>
+  <Yokai_Raid_Mdra_Corpse.description>狂龙的尸体，解体後能得到心脏丶肉，以及皮。</Yokai_Raid_Mdra_Corpse.description>
+  <!--空腹な竜 -->
+  <Yokai_Raid_Pekodra.label>空腹的龙</Yokai_Raid_Pekodra.label>
+  <Yokai_Raid_Pekodra.description>饥饿到失去理智的紫龙。与饥饿的龙外型相似，总是处於凶暴的攻击模式。</Yokai_Raid_Pekodra.description>
+  <Yokai_Raid_Pekodra.tools.0.label>右前脚</Yokai_Raid_Pekodra.tools.0.label>
+  <Yokai_Raid_Pekodra.tools.1.label>左前脚</Yokai_Raid_Pekodra.tools.1.label>
+  <Yokai_Raid_Pekodra.tools.2.label>牙</Yokai_Raid_Pekodra.tools.2.label>
+  <Yokai_Raid_Pekodra_Corpse.label>空腹的龙的尸体</Yokai_Raid_Pekodra_Corpse.label>
+  <Yokai_Raid_Pekodra_Corpse.description>空腹的龙的尸体，解体後能得到心脏丶肉，以及皮。</Yokai_Raid_Pekodra_Corpse.description>
+  <!--残虐な竜 -->
+  <Yokai_Raid_Redra.label>残虐之竜</Yokai_Raid_Redra.label>
+  <Yokai_Raid_Redra.description>灰色的巨龙，以将猎物凌虐致死为目的徘徊在四处。与红龙类似但并不具有知性。</Yokai_Raid_Redra.description>
+  <Yokai_Raid_Redra.tools.0.label>右前脚</Yokai_Raid_Redra.tools.0.label>
+  <Yokai_Raid_Redra.tools.1.label>左前脚</Yokai_Raid_Redra.tools.1.label>
+  <Yokai_Raid_Redra.tools.2.label>牙</Yokai_Raid_Redra.tools.2.label>
+  <Yokai_Raid_Redra_Corpse.label>残虐之竜的尸体</Yokai_Raid_Redra_Corpse.label>
+  <Yokai_Raid_Redra_Corpse.description>残虐之竜的尸体。解体後能得到心脏丶肉，以及皮。</Yokai_Raid_Redra_Corpse.description>
+</LanguageData>

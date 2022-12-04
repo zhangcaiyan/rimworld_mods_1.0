@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <MakeHolyWood150.label>神聖樹のレプリカを作る</MakeHolyWood150.label>
+    <MakeHolyWood150.description>木材を基に、失われた古代神聖大樹の復元を試みます。一度に150本の材木を作成します。</MakeHolyWood150.description>
+    <MakeHolyWood150.jobString>神聖樹の木材を復元中</MakeHolyWood150.jobString>
+
+    <PressIronScrap.label>鉄くずを圧縮する</PressIronScrap.label>
+    <PressIronScrap.description>鉄くず１個をプレスして、建材として使える圧縮成型スクラップ20個を得ます。溶解より高速で処理でき、後から鉄への変換も可能です。</PressIronScrap.description>
+    <PressIronScrap.jobString>鉄くずをプレスしている</PressIronScrap.jobString>
+
+    <PressBulkIronScraps.label>鉄くずを圧縮する（バルク）</PressBulkIronScraps.label>
+    <PressBulkIronScraps.description>鉄くず５個をプレスして、建材として使える圧縮成型スクラップ100個を得ます。溶解より高速で処理でき、後から鉄への変換も可能です。</PressBulkIronScraps.description>
+    <PressBulkIronScraps.jobString>鉄くずをプレスしている</PressBulkIronScraps.jobString>
+
+    <SmeltPressedIronScraps.label>圧縮スクラップを溶解する</SmeltPressedIronScraps.label>
+    <SmeltPressedIronScraps.description>圧縮成型スクラップ20個を溶かして鉄20個を得ます。鉄くずからの溶解に比べるとやや高速です。</SmeltPressedIronScraps.description>
+    <SmeltPressedIronScraps.jobString>圧縮スクラップを溶解している</SmeltPressedIronScraps.jobString>
+
+    <SmeltBulkPressedIronScraps.label>圧縮スクラップを溶解する（バルク）</SmeltBulkPressedIronScraps.label>
+    <SmeltBulkPressedIronScraps.description>圧縮成型スクラップ100個を溶かして鉄100個を得ます。鉄くずからの溶解に比べるとやや高速です。</SmeltBulkPressedIronScraps.description>
+    <SmeltBulkPressedIronScraps.jobString>圧縮スクラップを溶解している</SmeltBulkPressedIronScraps.jobString>
+
+    <LF_ButcherCorpseFleshDE.label>食肉加工（装備破棄）</LF_ButcherCorpseFleshDE.label>
+    <LF_ButcherCorpseFleshDE.description>食肉加工と同時に死体の装備品処分も行います。</LF_ButcherCorpseFleshDE.description>
+    <LF_ButcherCorpseFleshDE.jobString>食肉に加工（装備破棄）中。</LF_ButcherCorpseFleshDE.jobString>
+
+</LanguageData>

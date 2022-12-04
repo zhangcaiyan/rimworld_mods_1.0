@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Flammelia.label>Flammelia</LF_Flammelia.label>
+  <LF_Flammelia.description>A beastgirl that may be the result of a terrifying bird and an elder forest resident coming together. She has brilliant feathers that gleam red like a burning flame. Her wings end in a set of claws that are unsuitable for flying, though her strong legs grant her enough speed to make up for it. Most Flammelia are energetic, optimistic, and pleasure-loving, so they love dancing, singing, and doing anything that's fun. They don't seem to "mind the details" either, as Flammelia choose to forget most bad happenings within a few moments. That said, it is wise to avoid antagonizing them, as their anger often results in a hefty punch or kick. Flammelia tend to act as defenders, harkening back to their days in the elder forest, where they acted as guards and manual labor. They will never appear in the wild; instead, they are sold by merchants, who peddle the progeny of those that courageously defended their forest till its blazing end.</LF_Flammelia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Flammelia_Corpse.label>Flammelia corpse</LF_Flammelia_Corpse.label>
+  <LF_Flammelia_Corpse.description>Playful as she may have been, it was ever her station to be a stalwart defender. As her ancestors before her, she now lays defeated; hopefully, her final moments were akin theirs, hopefully she died defending those she held dear.</LF_Flammelia_Corpse.description>
+
+</LanguageData>

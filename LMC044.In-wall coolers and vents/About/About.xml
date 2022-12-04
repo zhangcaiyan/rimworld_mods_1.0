@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC044.入墙式制冷器与通风孔</name>
+	<author>Hanabishi</author>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+
+Mod allows to place coolers and vents inside the walls.
+If you hate when raiders easily breaks your rooms (especially fridges) this mod is for you =)
+这个MOD允许制冷器与通风孔直接放置与墙体上。
+如果你曾经因为安装制冷器或者通风孔导致房间被破坏（特别是冷冻室），这个MOD就是为你定制的。
+
+[Installation] Compatible with existing saves. Just place additional walls in coolers and vents positions to stop the air get through.
+与现有存档兼容，但是记得在原有制冷器与通风孔的地方重新安装墙体，否则是漏的。。。。。。
+
+[Uninstallation] All coolers and vents placed on the walls will be disassembled into components.
+可以安全卸载，所有的制冷器与通风孔会被解体，归还建造材料。
+
+汉化：jxb12306
+合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+</description>
+</ModMetaData>

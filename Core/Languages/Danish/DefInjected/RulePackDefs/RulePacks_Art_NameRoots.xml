@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+	<ArtName_Weapon.rulePack.rulesStrings>
+		<li>art_name-&gt;[badassconcept]</li>
+		<li>art_name-&gt;den [badassanimal]</li>
+		<li>art_name-&gt;[badassadjective] [badassanimal]</li>
+		<li>art_name-&gt;[badasscolor] [badassanimal]</li>
+		<li>art_name-&gt;[badassconcept] [badasscolor]</li>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [badassconcept]</li>
+		<li>art_name-&gt;[badassconcept] af [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[badasscolor] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [badassanimal]</li>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [badassperson]</li>
+	</ArtName_Weapon.rulePack.rulesStrings>
+
+
+
+	<ArtName_Sculpture.rulePack.rulesStrings>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [artname]</li>
+		<li>art_name-&gt;[anyPawn_nameShort] [trans] [color]</li>
+		<li>art_name-&gt;[artname] [trans] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[artname] [trans] [concept]</li>
+		<li>art_name-&gt;[artname] [romannumeral]</li>
+		<li>art_name-&gt;[concept] [trans] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[concept] [trans] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[concept]</li>
+		<li>art_name-&gt;[color] [concept]</li>
+		<li>art_name-&gt;[color] [artname]</li>
+		<li>art_name-&gt;[color] [terrainfeature]</li>
+		<li>art_name-&gt;En [art_adjective] [concept]</li>
+		<li>art_name-&gt;[concept] Nr. [digit]</li>
+		<li>art_name-&gt;[artname] Nr. [digit]</li>
+		<li>art_name-&gt;[artname] Nr. [digit][digit]</li>
+		<li>art_name-&gt;[digit] [trans] [anyPawn_nameShort]</li>
+	</ArtName_Sculpture.rulePack.rulesStrings>
+
+	<ArtName_Furniture.rulePack.rulesStrings>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [positiveconcept]</li>
+		<li>art_name-&gt;[positiveconcept]</li>
+		<li>art_name-&gt;[animal]en</li>
+		<li>art_name-&gt;[badasscolor] [animal]</li>
+		<li>art_name-&gt;[anyPawn_nameShort]'s [color]</li>
+	</ArtName_Furniture.rulePack.rulesStrings>
+
+	<ArtName_SarcophagusPlate.rulePack.rulesStrings>
+		<li>art_name-&gt;[angstyadjective] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[anyPawn_nameShort]</li>
+		<li>art_name-&gt;[color] [anyPawn_nameShort]</li>
+		<li>art_name-&gt;[angstyadjective] [angstyconcept]</li>
+		<li>art_name-&gt;[angstyadjective] [badassconcept]</li>
+	</ArtName_SarcophagusPlate.rulePack.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe -->
+  <MakeYokaiMedicine.label>妖怪包帯を作る</MakeYokaiMedicine.label>
+  <MakeYokaiMedicine.description>妖怪包帯を作ります。妖怪の毛と医薬品から作る事ができます。医療知識と工芸技能が要求されます。</MakeYokaiMedicine.description>
+  <MakeYokaiMedicine.jobString>妖怪包帯を作っています。</MakeYokaiMedicine.jobString>
+  <MakeYokaiMedicine10.label>妖怪包帯を１０個作る</MakeYokaiMedicine10.label>
+  <MakeYokaiMedicine10.description>妖怪包帯を１０個作ります。妖怪の毛と医薬品から作る事ができます。より高い医療知識と工芸技能が要求されます。</MakeYokaiMedicine10.description>
+  <MakeYokaiMedicine10.jobString>妖怪包帯を作っています</MakeYokaiMedicine10.jobString>
+</LanguageData>

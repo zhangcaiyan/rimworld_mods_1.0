@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Hiyaku.label>Berserker Drug</Yokai_Hiyaku.label>
+  <Yokai_Hiyaku.description>The Tuzurao are unmatched among the Yokai: their feet are unknown to the earth, for their steps bound across the field with the grace of wind; so fair and smooth is their skin, that any bullet or blow fails to find purchase, running across their skin like water; and their claws, what devices of man might equal their strength?
+  \nThis pill, take it and inhabit their rage for a day; but, be prepared for the body to scream when such power leaves it.</Yokai_Hiyaku.description>
+  <Yokai_Hiyaku.ingestible.ingestCommandString>Take {0}</Yokai_Hiyaku.ingestible.ingestCommandString>
+  <Yokai_Hiyaku.ingestible.ingestReportString>Taking {0}.</Yokai_Hiyaku.ingestible.ingestReportString>
+
+
+</LanguageData>

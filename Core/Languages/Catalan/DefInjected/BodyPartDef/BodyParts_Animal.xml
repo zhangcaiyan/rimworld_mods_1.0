@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>mandíbula</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>antena</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>bec</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>cos</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>èlitre</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>urpa de davant</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>urpa</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>mandíbula</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>peülla</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>banya</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>gepa</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>cap</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>cor</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>pota</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>boca</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>forat del nas</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>galta</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>peu</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>plastró</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>pronot</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>urpa de darrere</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>urpa</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>closca</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>cos</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>cap</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>boca</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>cua</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>trompa</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>bec</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>closca</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>ullal</Tusk.label>
+  
+</LanguageData>

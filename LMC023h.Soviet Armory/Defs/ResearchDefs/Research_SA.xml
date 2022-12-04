@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ResearchTabDef>
+    <defName>SAResearchTab</defName>
+    <label>Soviet Armory</label>
+	</ResearchTabDef>
+
+	<ResearchProjectDef>
+		<defName>Stage0_SA</defName>
+		<label>Basic Soviet rifling</label>
+		<description>With this technology you can bulid Soviet Weapon Table and produce : AKM, AKMS, RPK and SKS.</description>
+			<baseCost>500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Machining</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>0</researchViewX>
+			<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage1_SA</defName>
+		<label>Improved Soviet rifling</label>
+		<description>With this technology you can produce : AK-74, AKS-74U, Makarov Pistol and VSS Vintorez.</description>
+			<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage0_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>1</researchViewX>
+			<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage1a_SA</defName>
+		<label>Mounted weapons I</label>
+		<description>Allows you to build 12,7mm NSV Utyos, heavy machine gun.</description>
+			<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage1_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>2</researchViewX>
+			<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage1c_SA</defName>
+		<label>Sniper rifle tech</label>
+		<description>Unlocking SVD Dragunov, auto-loading sniper rifle with scope.</description>
+			<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage1_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>2</researchViewX>
+			<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage1b_SA</defName>
+		<label>Soviet heavy weapons tech</label>
+		<description>Unlocking RPG-7V2 and RPO-Z.</description>
+			<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage1_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>2</researchViewX>
+			<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage2_SA</defName>
+		<label>Advanced Soviet rifling</label>
+		<description>With this technology you can produce : AK-74M, Saiga 12K, PP-19 and MR-444.</description>
+			<baseCost>2000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage1_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>3</researchViewX>
+			<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>Stage2a_SA</defName>
+		<label>Mounted weapons II</label>
+		<description>Allows you to build AGS-17 Plamya, automatic grenade launcher.</description>
+			<baseCost>2500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Stage1b_SA</li>
+			<li>Stage1a_SA</li>
+		</prerequisites>
+		<tab>SAResearchTab</tab>
+			<researchViewX>3</researchViewX>
+			<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	
+</Defs>

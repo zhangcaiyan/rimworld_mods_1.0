@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Trees -->
+
+  <PlantTreeJapaneseMaple.label>Erable japonais</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>Ces arbres de décoration ont des branches imprévisibles qui se torde et tourne dans tout les sens, leurs feuillages orange et rouge brillant attire l'attention.</PlantTreeJapaneseMaple.description>
+
+  <PlantTreeCherryBlossom.label>Cerisier à fleur</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>Les cerisiers ne sont pas seulement une bonne source de matériaux de construction, ils sont également l'un des plus beaux arbres. A avoir dans sa pelouse.</PlantTreeCherryBlossom.description>
+
+  <PlantTreeCamellia.label>Camélia</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>>Ce petit arbre de décoration a de belles fleurs qui dure même dans des conditions hivernales difficiles.</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>Acacia</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>Les acacias sont des arbres robustes et peuvent pousser dans les environnements désertiques les plus difficiles.</PlantTreeAcacia.description>
+
+  <PlantTreeRedMaple.label>Erable rouge</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>Un arbre au en bois mou. Connu pour ses feuilles rouges.</PlantTreeRedMaple.description>
+
+
+</LanguageData>

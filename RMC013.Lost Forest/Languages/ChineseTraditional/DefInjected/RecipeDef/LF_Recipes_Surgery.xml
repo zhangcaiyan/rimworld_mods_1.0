@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AdministerFoxiaTears.label>给予巫女狐之泪</AdministerFoxiaTears.label>
+    <AdministerFoxiaTears.description>依据远古之森的处方来使用巫女狐的眼泪，能治療严重的外伤与疾病，甚至能使残疾得到痊癒。</AdministerFoxiaTears.description>
+    <AdministerFoxiaTears.jobString>正在给予巫女狐之泪</AdministerFoxiaTears.jobString>
+
+    <AdministerOmikujiSenbei.label>喂食幸运籤饼</AdministerOmikujiSenbei.label>
+    <AdministerOmikujiSenbei.description>带有巫女狐加护的食物有助于强身健体，增强免疫力。</AdministerOmikujiSenbei.description>
+    <AdministerOmikujiSenbei.jobString>正在喂食幸运籤饼</AdministerOmikujiSenbei.jobString>
+
+    <AdministerMysteriousWreath.label>给予蕾芙卡的花冠</AdministerMysteriousWreath.label>
+    <AdministerMysteriousWreath.description>解开蕾芙卡的花冠，可得到包含在其中的奇妙药草，给予病患服用的话，能稍微增强身体机能及免疫系统。</AdministerMysteriousWreath.description>
+    <AdministerMysteriousWreath.jobString>正在给予蕾芙卡的花冠</AdministerMysteriousWreath.jobString>
+
+    <AdministerNutChocolate.label>给予义理巧克力...?</AdministerNutChocolate.label>
+    <AdministerNutChocolate.description>巧克力中嵌入了未知的果实，将其取出并让病患服用的话，能提升些许免疫能力，并具有止痛效果。</AdministerNutChocolate.description>
+    <AdministerNutChocolate.jobString>正在给予义理巧克力...？</AdministerNutChocolate.jobString>
+
+</LanguageData>

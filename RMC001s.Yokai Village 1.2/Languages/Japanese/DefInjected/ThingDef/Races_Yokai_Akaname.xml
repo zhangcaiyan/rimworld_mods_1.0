@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Akaname.label>垢嘗め</Yokai_Akaname.label>
+  <Yokai_Akaname.description>もともとはお風呂の垢を舐めて生活していた妖怪です。お風呂の乏しくなってしまったこの時代ではあらゆる汚れを舐めとってお腹を満たしています。
+    \n放っておくとどこへでも汚れを掃除しにいくため共に暮らす際は注意が必要です。お肉と皮をとることができません。
+    \n小柄で非力ですが不思議な力であまり肉食獣に襲われません。とはいえ襲撃者の攻撃であっけなく死んでしまうため守る必要があります。
+    \n針葉樹林、温帯林、熱帯雨林で稀に姿を見せることがあるほかに、湿気を好むため沼地ではより多く出会う機会があります。</Yokai_Akaname.description>
+  <Yokai_Akaname.tools.0.label>左手</Yokai_Akaname.tools.0.label>
+  <Yokai_Akaname.tools.1.label>右手</Yokai_Akaname.tools.1.label>
+  <Yokai_Akaname_Corpse.label>垢嘗めの死骸</Yokai_Akaname_Corpse.label>
+  <Yokai_Akaname_Corpse.description>垢嘗めの死骸です。こうなっては汚れを消すことはかないません・・・</Yokai_Akaname_Corpse.description>
+</LanguageData>

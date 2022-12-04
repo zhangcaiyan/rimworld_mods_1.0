@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Hodama.label>ほだま</Yokai_Hodama.label>
+  <Yokai_Hodama.description>ほだまは広くあちこちで見ることが出来る妖怪です。
+    \n死んだ人たちの魂とも、山火事の火が意思を持ったとも言われています。基本的に人になつきません。
+    \n木が大好物で放っておくと次々と食べてしまいますが、彼らの攻撃は火そのものなので討伐する際は気を付ける必要があります。
+    \nその性質上、殴打や斬撃は殆ど効果がありません。また熱や火にも強いですが寒さに弱いです。
+    \n皮や肉を取る事はできません。死ぬ際に巨大な爆発を起こします。</Yokai_Hodama.description>
+  <Yokai_Hodama.tools.0.label>炎</Yokai_Hodama.tools.0.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Hodama_Corpse.label>ほだまの死骸</Yokai_Hodama_Corpse.label>
+  <Yokai_Hodama_Corpse.description>火の消えたほだまの死骸です。肉も皮もとれません。</Yokai_Hodama_Corpse.description>
+</LanguageData>

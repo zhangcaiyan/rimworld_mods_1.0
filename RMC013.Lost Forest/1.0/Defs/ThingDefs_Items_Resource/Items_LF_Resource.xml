@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef Name="LF_ResourceBase" Abstract="True">
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<altitudeLayer>Item</altitudeLayer>
+		<stackLimit>75</stackLimit>
+		<statBases>
+			<Beauty>-7</Beauty>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<alwaysHaulable>true</alwaysHaulable>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<rotatable>false</rotatable>
+		<pathCost>15</pathCost>
+	</ThingDef>
+
+	<ThingDef Name="LF_ResourceVerbBase" ParentName="LF_ResourceBase" Abstract="True">
+		<equipmentType>Primary</equipmentType>
+		<techLevel>Neolithic</techLevel>
+		<comps>
+			<li>
+				<compClass>CompEquippable</compClass>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<!--=============== Foxia Tears ====================-->
+
+	<ThingDef ParentName="ResourceBase">
+		<defName>LF_FoxiaTears</defName>
+		<label>Foxia tears</label>
+		<description>The last tears of a foxia. Her tears have the unbelievable effect of curing any serious wounds and disease. It's also used to make the special lumber.</description>
+		<thingCategories>
+			<li>Items</li>
+		</thingCategories>
+		<stackLimit>75</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Resource/LF_FoxiaTears</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Standard_Drop</soundInteract>
+		<soundDrop>Standard_Drop</soundDrop>
+		<statBases>
+			<MaxHitPoints>60</MaxHitPoints>
+			<MarketValue>1200</MarketValue>
+			<Mass>0.01</Mass>
+			<Flammability>0</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<WorkToMake>500</WorkToMake>
+			<Beauty>1</Beauty>
+		</statBases>
+		<stuffProps>
+			<commonality>0.05</commonality>
+		</stuffProps>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<tradeTags>
+			<li>LFT_Exotic</li>
+		</tradeTags>
+		<comps>
+		      <li Class="CompProperties_Usable">
+		        <useJob>UseItem</useJob>
+		        <useLabel>Use Foxia tears</useLabel>
+		        <useDuration>600</useDuration>
+		      </li>
+		      <li Class="CompProperties_UseEffect">
+		        <compClass>CompUseEffect_FixWorstHealthCondition</compClass>
+		      </li>
+		      <li Class="CompProperties_UseEffect">
+		        <compClass>CompUseEffect_DestroySelf</compClass>
+		      </li>
+		</comps>
+	</ThingDef>
+
+	<!--=============== AncientHolyWood ====================-->
+	<ThingDef ParentName="LF_ResourceVerbBase">
+		<defName>LF_WoodLog</defName>
+		<label>AncientHolyWood</label>
+		<description>Wood from lost world tree. It's never burned for protected by mysterious power. It's also known to provide immunity against any illness well.</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/LF_HolyWoodLog</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<equippedAngleOffset>-20</equippedAngleOffset>
+		<soundInteract>Wood_Drop</soundInteract>
+		<soundDrop>Wood_Drop</soundDrop>
+		<tradeability>Sellable</tradeability>
+		<statBases>
+			<MarketValue>5.0</MarketValue>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Mass>0.2</Mass>
+			<Beauty>5</Beauty>
+			<Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+      			<StuffPower_Armor_Sharp>0.80</StuffPower_Armor_Sharp>
+      			<StuffPower_Armor_Blunt>0.60</StuffPower_Armor_Blunt>
+      			<StuffPower_Armor_Heat>0.95</StuffPower_Armor_Heat>
+      			<StuffPower_Insulation_Cold>10</StuffPower_Insulation_Cold>
+      			<StuffPower_Insulation_Heat>5</StuffPower_Insulation_Heat>
+			<SharpDamageMultiplier>0.9</SharpDamageMultiplier>
+			<BluntDamageMultiplier>1.0</BluntDamageMultiplier>
+		</statBases>
+		<stuffProps>
+			<stuffAdjective>AncientWooden</stuffAdjective>
+			<categories>
+				<li>Woody</li>
+			</categories>
+			<commonality>0.00</commonality>
+			<color>(220,190,140)</color>
+			<constructEffect>ConstructWood</constructEffect>
+			<appearance>Planks</appearance>
+			<soundImpactStuff>BulletImpact_Wood</soundImpactStuff>
+			<soundMeleeHitSharp>MeleeHit_Wood</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Wood</soundMeleeHitBlunt>
+			<statFactors>
+				<MaxHitPoints>1.0</MaxHitPoints>
+				<Mass>0.5</Mass>
+				<Beauty>5</Beauty>
+				<Flammability>0</Flammability>
+				<WorkToMake>1.5</WorkToMake>
+				<WorkToBuild>1.5</WorkToBuild>
+				<DoorOpenSpeed>1.5</DoorOpenSpeed>
+				<MeleeWeapon_CooldownMultiplier>0.7</MeleeWeapon_CooldownMultiplier>
+			</statFactors>
+			<statOffsets>
+				<MaxHitPoints>100</MaxHitPoints>
+        			<ArmorRating_Sharp>0.10</ArmorRating_Sharp>
+        			<ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+        			<ArmorRating_Heat>0.10</ArmorRating_Heat>
+				<Insulation_Heat>3</Insulation_Heat>
+        			<Insulation_Cold>3</Insulation_Cold>
+				<Beauty>10</Beauty>
+				<BedRestEffectiveness>0.2</BedRestEffectiveness>
+				<Comfort>0.5</Comfort>
+				<ImmunityGainSpeedFactor>0.70</ImmunityGainSpeedFactor>
+				<MedicalTendQualityOffset>0.10</MedicalTendQualityOffset>
+				<SurgerySuccessChanceFactor>0.08</SurgerySuccessChanceFactor>
+			</statOffsets>
+		</stuffProps>
+		<isTechHediff>true</isTechHediff>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+		<techHediffsTags>
+			<li>Poor</li>
+		</techHediffsTags>
+		<tools>
+			<li>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>12</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+
+	<!--=============== Pressed Iron Scraps ====================-->
+    <ThingDef ParentName="LF_ResourceBase">
+    <defName>PressedIronScraps</defName>
+    <label>Compressed Iron Scraps</label>
+    <description>Compressed iron scraps can used for building structures as steels, and more speedful exchange into available resource than smelting. But note that you'll get more penalty on used for furnitures than stones.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/PressedIronScraps</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.2</drawSize>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>ChunkSlag_Drop</soundDrop>
+    <stackLimit>200</stackLimit>
+    <statBases>
+      <Beauty>-10</Beauty>
+      <MarketValue>0.95</MarketValue>
+      <Mass>0.5</Mass>
+      <StuffPower_Armor_Sharp>0.9</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.45</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.72</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>3</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>0</StuffPower_Insulation_Heat>
+      <SharpDamageMultiplier>0.7</SharpDamageMultiplier>
+      <BluntDamageMultiplier>1</BluntDamageMultiplier>
+    </statBases>
+    <useHitPoints>false</useHitPoints>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <deepCommonality>0</deepCommonality>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <stuffProps>
+      <stuffAdjective>Scrap</stuffAdjective>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <commonality>0.00</commonality>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(120,110,110)</color>
+      <soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>1</MaxHitPoints>
+        <Beauty>0.5</Beauty>
+        <Flammability>0</Flammability>
+	<BedRestEffectiveness>0.75</BedRestEffectiveness>
+	<Comfort>0.5</Comfort>
+	<WorkToMake>2</WorkToMake>
+	<WorkToBuild>2</WorkToBuild>
+	<MarketValue>0.40</MarketValue>
+        <MeleeWeapon_CooldownMultiplier>1</MeleeWeapon_CooldownMultiplier>
+      </statFactors>
+      <smeltable>true</smeltable>
+    </stuffProps>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+
+	<!--=============== 魔晶鉱石 ====================-->
+  <ThingDef ParentName="RockBase">
+    <defName>LF_MineableMagicCrystalVein</defName>
+    <label>magicite ore</label>
+    <description>Deposits containing magicite ore.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(110,104,114)</color>
+      <colorTwo>(68,65,70)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5000</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>LF_MagicCrystal</mineableThing>
+      <mineableYield>5</mineableYield>
+      <mineableScatterCommonality>0.08</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>2</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>1</glowRadius>
+        <glowColor>(160,150,240,0)</glowColor>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="LF_ResourceBase">
+    <defName>LF_MagicCrystal</defName>
+    <label>magicite</label>
+    <description>A very rare gemstone with a clear and mysterious shine. Although not widely known, high-purity items seem to contain a lot of magical power, and seems that they have various utility ​​in the field of magic.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/LF_MagicCrystal</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <useHitPoints>false</useHitPoints>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MarketValue>40</MarketValue>
+      <Mass>0.5</Mass>
+      <Beauty>8</Beauty>
+
+
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <deepCommonality>0.75</deepCommonality>
+    <deepCountPerPortion>3</deepCountPerPortion>
+    <deepLumpSizeRange>
+      <min>2</min>
+      <max>4</max>
+    </deepLumpSizeRange>
+
+  </ThingDef>
+
+</Defs>

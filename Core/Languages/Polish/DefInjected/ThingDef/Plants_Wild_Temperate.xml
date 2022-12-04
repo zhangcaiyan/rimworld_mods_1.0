@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Carpets -->
+  
+  <PlantDandelion.label>dmuchawce</PlantDandelion.label>
+  <PlantDandelion.description>Pospolite małe kwiaty. Mimo, że często uważane za chwasty, są jednak przyjemne dla oczu.</PlantDandelion.description>
+  
+  <PlantAstragalus.label>traganek</PlantAstragalus.label>
+  <PlantAstragalus.description>Mały wieloletni kwiat polny, rośnie w klimacie alpejskim.</PlantAstragalus.description>
+  
+  <PlantMoss.label>mech</PlantMoss.label>
+  <PlantMoss.description>Dziki mech, rośnie w kępach na obszarach o niskim nasłonecznieniu i wysokiej wilgotności. Bardzo wytrzymały i odporny na zimno.</PlantMoss.description>
+
+
+  <!-- Bushes -->
+  
+  <PlantRaspberry.label>krzew malin</PlantRaspberry.label>
+  <PlantRaspberry.description>Krzak, na którym rosną pyszne maliny.</PlantRaspberry.description>
+
+
+  <!-- Trees -->
+
+  <PlantTreeOak.label>dąb</PlantTreeOak.label>
+  <PlantTreeOak.description>Potężne drzewo liściaste. Rośnie powoli, ale jego drewno jest bardzo twarde.</PlantTreeOak.description>
+  
+  <PlantTreePoplar.label>topola</PlantTreePoplar.label>
+  <PlantTreePoplar.description>Drzewo liściaste o miękkim drewnie. Rośnie szybko, ale niewiele jest z niego materiału.</PlantTreePoplar.description>
+  
+  <PlantTreePine.label>sosna</PlantTreePine.label>
+  <PlantTreePine.description>Duże drzewo iglaste.</PlantTreePine.description>
+  
+  <PlantTreeBirch.label>brzoza</PlantTreeBirch.label>
+  <PlantTreeBirch.description>Delikatne drzewo liściaste północnych lasów umiarkowanych, znane z białej, cienkiej jak papier kory.</PlantTreeBirch.description>
+
+  
+</LanguageData>

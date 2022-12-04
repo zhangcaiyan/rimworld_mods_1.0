@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Foxia.label>ちび巫女狐</LF_Foxia.label>
+  <LF_Foxia.description>幻想的で異国的な風貌を持つ獣人族です。彼女たちの耳と尻尾は心地よさそうな毛で覆われていて、一見華奢に見えるその体躯は強力な免疫を持ち、一切の疾病を受け付けません。精霊から神託を授かり、それらを特別な形に変えて行使する能力をもつ彼女たちは、かつて指導者だった青き竜人族を失った古き森にとって、共同体の行く末を決める重要な存在となっています。しかし、それは一部の人々にとって、彼女の血肉を標的とするのに十分な理由を与えました。元々人懐っこい生き物でしたが、その仲間のほとんどはこの惑星の人間達に捕らえられてしまいました。今では滅多に人前に姿を現しません。出会うことが出来たあなたは幸運です。</LF_Foxia.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_Foxia_Meat.label>ちび巫女狐の肉</LF_Foxia_Meat.label>
+  <LF_Foxia_Meat.description>ちび巫女狐の肉。壊れてしまった彼女の仲間たちの末路です。</LF_Foxia_Meat.description>
+-->
+  <LF_Foxia_Corpse.label>ちび巫女狐の死骸</LF_Foxia_Corpse.label>
+  <LF_Foxia_Corpse.description>冷たくなったちび巫女狐の死骸です。もはや何者も、彼女を苦しめることはできません。</LF_Foxia_Corpse.description>
+
+
+</LanguageData>

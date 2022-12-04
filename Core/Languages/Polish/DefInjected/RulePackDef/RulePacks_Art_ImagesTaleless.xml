@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+	<TalelessImages.rulePack.rulesStrings>
+		<li>image->[outlander] jest otoczony przez [outlander]</li>
+		<li>image->[outlander] gra w [game] z [quantity_adjphrase] [outlander]s</li>
+		<li>image->[outlander] [subject_desc] niesie [weapon]</li>
+		<li>image->samotniczy [outlander]</li>
+		<li>image->[adjective] [outlander] nosi [apparel]</li>
+		<li>image->[outlander] je [vegetable]</li>
+		<li>image->[quantity_adjphrase] [outlander] i [outlander] jedzą razem [vegetable]</li>
+		<li>image->pusty [apparel] [subject_desc]</li>
+		<li>image->[adjective] [terrainfeature]</li>
+		<li>image->[animal] grają w [game]</li>
+		<li>image->[animal] nosi [apparel] [subject_desc]</li>
+		<li>image->[terrainfeature]</li>
+		<li>image->niejasne przedstawienie [concept]</li>
+		<li>image->[community]</li>
+		<li>image->[weapon]</li>
+		<li>image->[quantity_adjphrase] [weapon]</li>
+		<li>image->[quantity_adjphrase] [vegetable]</li>
+		<li>image->mało znany [personname] [subject_desc]</li>
+		<li>image->[animal] w [apparel] od [outlander]</li>
+		<li>subject_desc->lata</li>
+		<li>subject_desc->unosi się w powietrzu</li>
+		<li>subject_desc->stoi na ziemi</li>
+		<li>subject_desc->przemieszcza się w lewą stronę</li>
+		<li>subject_desc->przemieszcza się w prawą stronę</li>
+		<li>subject_desc->siedzi na stole</li>
+		<li>subject_desc->patrzy w lustro</li>
+		<li>subject_desc->przedstawił sylwetkę</li>
+		<li>subject_desc->jedzie na [animal] noszącym [apparel]</li>
+		<li>subject_desc->wygląda [adjective]</li>
+	</TalelessImages.rulePack.rulesStrings>
+    
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<JobDef>
+		<defName>AkanameCleanFilth</defName>
+		<driverClass>Akaname.JobDriver_AkanameCleanFilth</driverClass>
+		<reportString>licking TargetA.</reportString>
+	</JobDef>
+</Defs>

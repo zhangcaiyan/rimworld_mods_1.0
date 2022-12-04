@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProjectorTower.label>探照灯高塔</ProjectorTower.label>
+  <ProjectorTower.description>安装在高金属塔上的探照灯，即使隔着墙体也可以自动锁定目标。无法建在屋顶之下。</ProjectorTower.description>
+  <ProjectorTower_Blueprint.label>探照灯高塔 (蓝图)</ProjectorTower_Blueprint.label>
+  <ProjectorTower_Blueprint_Install.label>探照灯高塔 (蓝图)</ProjectorTower_Blueprint_Install.label>
+  <ProjectorTower_Frame.label>探照灯高塔 (建造中)</ProjectorTower_Frame.label>
+  <ProjectorTower_Frame.description>安装在高金属塔上的探照灯，即使隔着墙体也可以自动锁定目标。无法建在屋顶之下。</ProjectorTower_Frame.description>
+
+
+</LanguageData>

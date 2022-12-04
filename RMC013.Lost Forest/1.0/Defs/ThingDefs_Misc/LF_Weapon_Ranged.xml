@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--====================広域制圧重擲弾筒=======================-->
+
+  <ThingDef ParentName="LF_BaseWeaponRangedMakeableQ">
+		<defName>LF_Gun_HeavyGrenadeLauncher</defName>
+		<label>広域制圧重擲弾筒</label>
+    <description>It is a portable light mortar made only of gun barrel and pedestal, and it can handle large warhead with longer range than rifle grenade. This weapon deals with warheads that spread metal needles over a wide area and increase explosives only to do surface control. Therefore it is suitable for constraining infantry, but can not expect vs. buildings. "Bomb the hatred tunnel guys!" 砲身と台座のみからなる携行可能な軽迫撃砲で、ライフルグレネードよりさらに長射程の大型弾頭を扱うことが出来る。この武器は目標の上空から広域にわたって金属の針を撒き散らし、面制圧を行うのに特化した弾頭を用いる。そのため歩兵の牽制には向くが対建築威力は期待できない。「トンネル野郎どもにはコイツをぶち込んでやれ！」</description>
+		<graphicData>
+			<texPath>Things/Item/Equipment/WeaponRanged/LF_HeavyGrenadeLauncher</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Industrial</techLevel>
+		<soundInteract>Interact_Rifle</soundInteract>
+		<generateCommonality>0</generateCommonality>
+		<statBases>
+			<MarketValue>360</MarketValue>
+			<WorkToMake>10000</WorkToMake>
+			<Mass>10</Mass>
+			<RangedWeapon_Cooldown>5.2</RangedWeapon_Cooldown>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>-0.80</MoveSpeed>
+		</equippedStatOffsets>
+		<costList>
+			<Steel>100</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
+			<Chemfuel>150</Chemfuel>
+		</costList>
+
+    <recipeMaker>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>LF_Bullet_HeavyGrenadeLauncher_NS</defaultProjectile>
+				<warmupTime>4.8</warmupTime>
+				<minRange>11.9</minRange>
+				<range>43.9</range>
+        			<forcedMissRadius>4.5</forcedMissRadius>
+				<burstShotCount>1</burstShotCount>
+				<soundCast>Shot_IncendiaryLauncher</soundCast>
+				<soundCastTail>GunTail_Medium</soundCastTail>
+				<muzzleFlashScale>14</muzzleFlashScale>
+				<requireLineOfSight>false</requireLineOfSight>
+				<mustCastOnOpenGround>true</mustCastOnOpenGround>
+        			<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+			</li>
+		</verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+	</ThingDef>
+  <ThingDef ParentName="LF_BaseBullet">
+    <defName>LF_Bullet_HeavyGrenadeLauncher_NS</defName>
+    <label>wide spreader shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/InfernoCannonShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <speed>41</speed>
+      <damageDef>LF_BombNeedleSpreaderS</damageDef>
+      <explosionRadius>4.9</explosionRadius>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarBomb_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="LF_BaseBullet">
+    <defName>LF_Bullet_HeavyGrenadeLauncher_LI</defName>
+    <label>large incendiary shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/InfernoCannonShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <speed>41</speed>
+      <damageDef>LF_BombNeedleSpreaderS</damageDef>
+      <explosionRadius>3.9</explosionRadius>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarBomb_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="LF_BaseBullet">
+    <defName>LF_Bullet_HeavySpreadLauncher_EMP</defName>
+    <label>EMP grenade shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/InfernoCannonShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <speed>41</speed>
+      <damageDef>EMP</damageDef>
+      <explosionRadius>6.9</explosionRadius>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarBomb_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+    </projectile>
+  </ThingDef>
+
+
+	<!--====================古びた投槍=======================-->
+
+  <ThingDef ParentName="LF_BaseWeaponRanged">
+    <defName>LF_OldPila</defName>
+    <label>old pila</label>
+    <description>Bundle of disposable old pila. Cutting the damaged part of a normal pilum made it easier to handle in melee, but power and range were reduced.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponRanged/Pilum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_BeatFire</soundInteract>
+    <costList>
+      <WoodLog>60</WoodLog>
+    </costList>
+    <statBases>
+      <WorkToMake>3200</WorkToMake>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Mass>3</Mass>
+      <AccuracyTouch>0.67</AccuracyTouch>
+      <AccuracyShort>0.63</AccuracyShort>
+      <AccuracyMedium>0.31</AccuracyMedium>
+      <AccuracyLong>0.05</AccuracyLong>
+      <RangedWeapon_Cooldown>2</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>LF_Weapon</li>
+      <li>LF_WeaponRanged</li>
+    </weaponTags>
+    <techLevel>Neolithic</techLevel>
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <recipeUsers>
+	<li>CraftingSpot</li>
+      </recipeUsers>
+      <skillRequirements>
+	<Crafting>2</Crafting>
+      </skillRequirements>
+      <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+      <effectWorking>Smelt</effectWorking>
+    </recipeMaker>
+    <verbs>
+      <li>
+	<verbClass>Verb_Shoot</verbClass>
+	<hasStandardCommand>true</hasStandardCommand>
+	<defaultProjectile>LFOldPilum_Thrown</defaultProjectile>
+	<warmupTime>2.5</warmupTime>
+	<range>14.9</range>
+	<soundCast>Interact_BeatFire</soundCast>
+	<rangedFireRulepack>Combat_RangedFire_Thrown</rangedFireRulepack>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+	<label>shaft</label>
+	<capacities>
+	  <li>Blunt</li>
+	</capacities>
+	<power>9</power>	
+	<cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+	<label>point</label>
+	<capacities>
+	  <li>Stab</li>
+	</capacities>
+	<power>13</power>
+	<cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef ParentName="LF_BaseBullet">
+    <defName>LFOldPilum_Thrown</defName>
+    <label>old pilum</label>
+    <graphicData>
+      <texPath>Things/Projectile/Pilum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>RangedStab</damageDef>
+      <damageAmountBase>23</damageAmountBase>
+      <stoppingPower>2.1</stoppingPower>
+      <armorPenetrationBase>0.20</armorPenetrationBase>
+      <speed>25</speed>
+    </projectile>
+  </ThingDef>
+
+
+
+</Defs>

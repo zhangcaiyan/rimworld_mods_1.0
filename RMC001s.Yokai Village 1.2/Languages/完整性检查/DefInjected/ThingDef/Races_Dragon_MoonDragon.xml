@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Dragon_MoonDragon.label>Moon Dragon</Yokai_Dragon_MoonDragon.label>
+  <Yokai_Dragon_MoonDragon.description>Venture to the polar regions, and you might catch a glimpse of this legendary blue dragon. Terrible might is required to overcome this Yokai's strength. Yet, if you are victorious, then its skin can be used to make durable clothing; its tooth-such a simple thing-can be sold for extraordinary value; and its ever-beating heart, the last bastion of a dragon's soul, may be plucked from its chest. Weapons that can surpass the arms of the space age may be made with such hearts.</Yokai_Dragon_MoonDragon.description>
+  <Yokai_Dragon_MoonDragon.tools.0.label>FrontRightLeg</Yokai_Dragon_MoonDragon.tools.0.label>
+  <Yokai_Dragon_MoonDragon.tools.1.label>FrontLeftLeg</Yokai_Dragon_MoonDragon.tools.1.label>
+  <Yokai_Dragon_MoonDragon.tools.2.label>Fang</Yokai_Dragon_MoonDragon.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <Yokai_Dragon_MoonDragon_Meat.label>Dragon meat</Yokai_Dragon_MoonDragon_Meat.label>
+  <Yokai_Dragon_MoonDragon_Meat.description>Dragon meat</Yokai_Dragon_MoonDragon_Meat.description>
+  <Yokai_Dragon_MoonDragon_Corpse.label>Moon Dragon corpse</Yokai_Dragon_MoonDragon_Corpse.label>
+  <Yokai_Dragon_MoonDragon_Corpse.description>Moon Dragon corpse</Yokai_Dragon_MoonDragon_Corpse.description>
+
+
+</LanguageData>

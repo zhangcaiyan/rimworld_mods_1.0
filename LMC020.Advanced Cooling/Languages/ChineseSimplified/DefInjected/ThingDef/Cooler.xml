@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedCooler.label>先进冷却器</AdvancedCooler.label>
+  <AdvancedCooler.description>一种使用电力冷却房间而不产生任何热量的装置。它可以自动打开或关闭以达到设定的目标温度。</AdvancedCooler.description>
+  <AdvancedCooler_Blueprint.label>先进冷却器 (蓝图)</AdvancedCooler_Blueprint.label>
+  <AdvancedCooler_Blueprint_Install.label>先进冷却器 (蓝图)</AdvancedCooler_Blueprint_Install.label>
+  <AdvancedCooler_Frame.label>先进冷却器 (建造中)</AdvancedCooler_Frame.label>
+  <AdvancedCooler_Frame.description>一种使用电力冷却房间而不产生任何热量的装置。它可以自动打开或关闭以达到设定的目标温度。</AdvancedCooler_Frame.description>
+
+
+</LanguageData>

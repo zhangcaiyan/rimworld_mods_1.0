@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 木刀 -->
+  <Yokai_K_Bokutou.label>木刀</Yokai_K_Bokutou.label>
+  <Yokai_K_Bokutou.description>铁匠的学徒们所制，凝聚了许多心血打造的目刀。作为武器并不能派上甚麽用场，但作为工艺品贩售。</Yokai_K_Bokutou.description>
+  <Yokai_K_Bokutou.tools.0.label>斩撃</Yokai_K_Bokutou.tools.0.label>
+  <Yokai_K_Bokutou.tools.1.label>刺突</Yokai_K_Bokutou.tools.1.label>
+  <!-- 妖怪刀 -->
+  <Yokai_Katana.label>妖怪刀</Yokai_Katana.label>
+  <Yokai_Katana.description>妖怪之刀。十分轻便，比起杀伤力更重视机能性的武器。其美丽的造型亦可作为装饰品摆放。</Yokai_Katana.description>
+  <Yokai_Katana.tools.0.label>斩撃</Yokai_Katana.tools.0.label>
+  <Yokai_Katana.tools.1.label>刺突</Yokai_Katana.tools.1.label>
+  <!-- 妖怪刀 椿 -->
+  <Yokai_K_Tubaki.label>椿</Yokai_K_Tubaki.label>
+  <Yokai_K_Tubaki.description>以特殊制程锻造的妖怪刀，椿又带有「斩首」的含意。虽然只是些许，但带有着九尾狐的妖力，能让使用者的能力大幅提升。其华美的造型亦可作为装饰品摆放。</Yokai_K_Tubaki.description>
+  <Yokai_K_Tubaki.tools.0.label>斩撃</Yokai_K_Tubaki.tools.0.label>
+  <Yokai_K_Tubaki.tools.1.label>刺突</Yokai_K_Tubaki.tools.1.label>
+  <!-- 莲华 -->
+  <Yokai_K_Renge.label>莲华</Yokai_K_Renge.label>
+  <Yokai_K_Renge.description>在众多妖怪刀中，名为莲华的这把刀是其中极为特殊的存在。要锻造这把名刀须有熟练的技术与贵重的物品。能给予使用者多层加护，越是挥舞它，刀锋就会变得越为锐利。是会逐渐成长的武器。
+    \n其华美的造型亦可作为装饰品摆放。</Yokai_K_Renge.description>
+  <Yokai_K_Renge.tools.0.label>斩撃</Yokai_K_Renge.tools.0.label>
+  <Yokai_K_Renge.tools.1.label>刺突</Yokai_K_Renge.tools.1.label>
+  <!-- 宿り木の枝 -->
+  <Yokai_K_Yadoirigi.label>宿魂木的树枝</Yokai_K_Yadoirigi.label>
+  <Yokai_K_Yadoirigi.description>传承於妖怪村的秘传武器，与宿魂木之弓相同，是以绯日色金锻造而成的。
+  \n外表看起来只是普通的树枝，但会为持有者带来加护，具有辟邪降恶的力量，是种神秘的道具。
+  \n这根树枝会随着争战次数蜕变得更加锋利，完全成长的灵枝足以与龙牙剑匹敌。
+  \n*吸取妖怪的血是不会成长的。</Yokai_K_Yadoirigi.description>
+  <Yokai_K_Yadoirigi.tools.0.label>斩撃</Yokai_K_Yadoirigi.tools.0.label>
+  <Yokai_K_Yadoirigi.tools.1.label>刺突</Yokai_K_Yadoirigi.tools.1.label>
+  <!-- 妖怪斧 -->
+  <Yokai_Axe.label>妖怪的戦斧</Yokai_Axe.label>
+  <Yokai_Axe.description>妖怪的战斧，沉重而能挥出强烈的一击。其华美的造型亦可作为装饰品摆放。</Yokai_Axe.description>
+  <Yokai_Axe.tools.0.label>斩撃</Yokai_Axe.tools.0.label>
+  <!-- 妖怪斧　竜の怒り -->
+  <Yokai_A_Ryu.label>龙怒</Yokai_A_Ryu.label>
+  <Yokai_A_Ryu.description>以女郎蜘蛛的丝编织而成的妖怪斧。威力惊人但无法轻易驾驭。虽然微薄，但带有九尾的加护。</Yokai_A_Ryu.description>
+  <Yokai_A_Ryu.tools.0.label>斩撃</Yokai_A_Ryu.tools.0.label>
+  <!-- 妖怪短弓 -->
+  <Yokai_A_Kaze.label>风矢</Yokai_A_Kaze.label>
+  <Yokai_B_Kaze.label>风</Yokai_B_Kaze.label>
+  <Yokai_B_Kaze.description>环绕着飓风之力的妖怪短弓。射程短丶威力低，但轻盈且能连射，适合打带跑战术。
+  \n即使是不善用远程武器的妖怪村猎人们，也会带上这把轻巧而易携带的弓。
+  \n若是熟悉了操作後威力将有所提升，具有不可思议的力量。全部的弓之中成长速度最快，但也更早达到上限。</Yokai_B_Kaze.description>
+  <Yokai_B_Kaze.tools.0.label>姫反</Yokai_B_Kaze.tools.0.label>
+  <!-- 妖怪弓 -->
+  <Yokai_A_Arare.label>霰矢</Yokai_A_Arare.label>
+  <Yokai_B_Arare.label>霰</Yokai_B_Arare.label>
+  <Yokai_B_Arare.description>寄宿着冷冽寒气的妖怪短弓，具有特殊的构造，一次能发射2枝箭矢。适用於中距离战，但射程不如大弓。
+  \n当对妖怪村不怀好意的人们率领手下入侵时，不擅长战痘的人也会使用这把弓来掩护同伴。
+  \n成长需要耗费许多时间，蕴藏着不可思议的力量，会渐渐地提升发射数量及精准度。</Yokai_B_Arare.description>
+  <Yokai_B_Arare.tools.0.label>姫反</Yokai_B_Arare.tools.0.label>
+  <!-- 大弓 -->
+  <Yokai_A_Ikazuti.label>雷矢</Yokai_A_Ikazuti.label>
+  <Yokai_B_Ikazuti.label>雷</Yokai_B_Ikazuti.label>
+  <Yokai_B_Ikazuti.description>冠有轰雷之名的妖怪大弓。非常沉重丶装填时间也长。与狙击枪相比，在射程距离上犹胜一筹。
+  放出的巨箭带有优秀的贯通能力。
+  \n过去的妖怪村曾面临比现今还多的敌人，村人们组织成队，采用了以此弓进行三弓齐射後再以利刃突击的战术。
+  \n若能得心应手的操作它能使命中率逐渐提升，蕴藏着不可思议的力量。此外威力也会有所变化。
+  \n能越过墙壁进行超长距离的射击，但命中率可说是差强人意。</Yokai_B_Ikazuti.description>
+  <Yokai_B_Ikazuti.tools.0.label>姫反</Yokai_B_Ikazuti.tools.0.label>
+  <!-- 焔の弓 -->
+  <Yokai_A_Okuribi.label>送魂之火</Yokai_A_Okuribi.label>
+  <Yokai_B_Okuribi.label>送魂之火</Yokai_B_Okuribi.label>
+  <Yokai_B_Okuribi.description>在妖怪村中被视为禁忌的武器，能将妖气转换成狐火发射。
+  \n需有高度的工艺技术以制作。附带的狐火具有强大的贯穿能力，对多数的生物可说是效果拔群。但也因此遭到封印。
+  \n长期使用後会提升命中率，并会因着不可思议的力量提升发射量。
+  \n请注意火势蔓延!</Yokai_B_Okuribi.description>
+  <Yokai_B_Okuribi.tools.0.label>姫反</Yokai_B_Okuribi.tools.0.label>
+  <!-- 妖弓 -->
+  <Yokai_A_Ayakasi.label>妖矢</Yokai_A_Ayakasi.label>
+  <Yokai_B_Ayakasi.label>妖</Yokai_B_Ayakasi.label>
+  <Yokai_B_Ayakasi.description>灌注了九尾妖气的弓，集聚了妖气的此弓具有强大的威力及发射速度。
+  \n以突击步枪当作对手可能会略感不利，制作时需有高度的技术。
+  \n这把弓也许花上长时间培养，会逐渐提升发射速度及威力。
+  \n将最高品质的成品锻炼至最强後，可能会成为令人闻风丧胆的杀伤兵器。</Yokai_B_Ayakasi.description>
+  <Yokai_B_Ayakasi.tools.0.label>姫反</Yokai_B_Ayakasi.tools.0.label>
+  <!-- 宿り木の弓 -->
+  <Yokai_A_Yadorigi.label>宿魂木的弓矢</Yokai_A_Yadorigi.label>
+  <Yokai_B_Yadorigi.label>宿魂木之弓</Yokai_B_Yadorigi.label>
+  <Yokai_B_Yadorigi.description>近～中距离用的特殊弓。威力和命中并不出色，但蕴藏着深厚的潜力。
+    \n伴随着成长，在命中率丶威力丶发射量上都会逐渐增加，带有令人恐惧的力量。能与成长至上限的宿魂木之弓分庭抗礼者，恐怕也只有言叶灵弓了。
+    \n得到的经验质会随着猎物的种类变化，猎杀妖怪们是不会成长的</Yokai_B_Yadorigi.description>
+  <Yokai_B_Yadorigi.tools.0.label>姫反</Yokai_B_Yadorigi.tools.0.label>
+</LanguageData>

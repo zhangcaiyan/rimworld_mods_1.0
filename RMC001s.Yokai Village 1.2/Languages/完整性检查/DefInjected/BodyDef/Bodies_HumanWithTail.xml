@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HumanWithTail.label>humanwithtail</HumanWithTail.label>
+  <HumanWithTail.corePart.parts.6.customLabel>left lung</HumanWithTail.corePart.parts.6.customLabel>
+  <HumanWithTail.corePart.parts.7.customLabel>right lung</HumanWithTail.corePart.parts.7.customLabel>
+  <HumanWithTail.corePart.parts.8.customLabel>left kidney</HumanWithTail.corePart.parts.8.customLabel>
+  <HumanWithTail.corePart.parts.9.customLabel>right kidney</HumanWithTail.corePart.parts.9.customLabel>
+  <HumanWithTail.corePart.parts.12.parts.0.parts.1.customLabel>left eye</HumanWithTail.corePart.parts.12.parts.0.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.12.parts.0.parts.2.customLabel>right eye</HumanWithTail.corePart.parts.12.parts.0.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.12.parts.0.parts.3.customLabel>left ear</HumanWithTail.corePart.parts.12.parts.0.parts.3.customLabel>
+  <HumanWithTail.corePart.parts.12.parts.0.parts.4.customLabel>right ear</HumanWithTail.corePart.parts.12.parts.0.parts.4.customLabel>
+  <HumanWithTail.corePart.parts.13.customLabel>left shoulder</HumanWithTail.corePart.parts.13.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.0.customLabel>left clavicle</HumanWithTail.corePart.parts.13.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.customLabel>left arm</HumanWithTail.corePart.parts.13.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</HumanWithTail.corePart.parts.13.parts.1.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.1.customLabel>left radius</HumanWithTail.corePart.parts.13.parts.1.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.customLabel>left hand</HumanWithTail.corePart.parts.13.parts.1.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left pinky</HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring finger</HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle finger</HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index finger</HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb</HumanWithTail.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <HumanWithTail.corePart.parts.14.customLabel>right shoulder</HumanWithTail.corePart.parts.14.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.0.customLabel>right clavicle</HumanWithTail.corePart.parts.14.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.customLabel>right arm</HumanWithTail.corePart.parts.14.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</HumanWithTail.corePart.parts.14.parts.1.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.1.customLabel>right radius</HumanWithTail.corePart.parts.14.parts.1.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.customLabel>right hand</HumanWithTail.corePart.parts.14.parts.1.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right pinky</HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring finger</HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle finger</HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index finger</HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb</HumanWithTail.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <HumanWithTail.corePart.parts.16.customLabel>left leg</HumanWithTail.corePart.parts.16.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.0.customLabel>left femur</HumanWithTail.corePart.parts.16.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.1.customLabel>left tibia</HumanWithTail.corePart.parts.16.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.customLabel>left foot</HumanWithTail.corePart.parts.16.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</HumanWithTail.corePart.parts.16.parts.2.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</HumanWithTail.corePart.parts.16.parts.2.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</HumanWithTail.corePart.parts.16.parts.2.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</HumanWithTail.corePart.parts.16.parts.2.parts.3.customLabel>
+  <HumanWithTail.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</HumanWithTail.corePart.parts.16.parts.2.parts.4.customLabel>
+  <HumanWithTail.corePart.parts.17.customLabel>right leg</HumanWithTail.corePart.parts.17.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.0.customLabel>right femur</HumanWithTail.corePart.parts.17.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.1.customLabel>right tibia</HumanWithTail.corePart.parts.17.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.customLabel>right foot</HumanWithTail.corePart.parts.17.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</HumanWithTail.corePart.parts.17.parts.2.parts.0.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</HumanWithTail.corePart.parts.17.parts.2.parts.1.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</HumanWithTail.corePart.parts.17.parts.2.parts.2.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</HumanWithTail.corePart.parts.17.parts.2.parts.3.customLabel>
+  <HumanWithTail.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</HumanWithTail.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

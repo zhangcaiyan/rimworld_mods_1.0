@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CaravanCamp.label>远征队营地</CaravanCamp.label>
+  <CaravanCamp.description>一个远征队驻扎的营地。</CaravanCamp.description>
+
+  <AbandonedCamp.label>废弃的营地</AbandonedCamp.label>
+  <AbandonedCamp.description>一个已经被废弃的远征队营地。</AbandonedCamp.description>
+
+
+</LanguageData>

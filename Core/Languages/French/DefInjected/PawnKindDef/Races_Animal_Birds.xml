@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>casoar</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>casoars</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>bébé casoar</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.0.labelPlural>bébés casoars</Cassowary.lifeStages.0.labelPlural>
+  <Cassowary.lifeStages.1.label>jeune casoar</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.1.labelPlural>jeunes casoars</Cassowary.lifeStages.1.labelPlural>
+  <Cassowary.lifeStages.2.label>casoar</Cassowary.lifeStages.2.label>
+  <Cassowary.lifeStages.2.labelPlural>casoars</Cassowary.lifeStages.2.labelPlural>
+  
+  <!-- EN: emu -->
+  <Emu.label>émeu</Emu.label>
+  <Emu.labelPlural>émeus</Emu.labelPlural>
+  <Emu.lifeStages.0.label>bébé émeu</Emu.lifeStages.0.label>
+  <Emu.lifeStages.0.labelPlural>bébés émeus</Emu.lifeStages.0.labelPlural>
+  <Emu.lifeStages.1.label>jeune émeu</Emu.lifeStages.1.label>
+  <Emu.lifeStages.1.labelPlural>jeunes émeus</Emu.lifeStages.1.labelPlural>
+  <Emu.lifeStages.2.label>émeu</Emu.lifeStages.2.label>
+  <Emu.lifeStages.2.labelPlural>émeus</Emu.lifeStages.2.labelPlural>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>autruche</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>autruches</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>bébé autruche</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.0.labelPlural>bébés autruches</Ostrich.lifeStages.0.labelPlural>
+  <Ostrich.lifeStages.1.label>jeune autruche</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.1.labelPlural>jeunes autruches</Ostrich.lifeStages.1.labelPlural>
+  <Ostrich.lifeStages.2.label>autruche</Ostrich.lifeStages.2.label>
+  <Ostrich.lifeStages.2.labelPlural>autruches</Ostrich.lifeStages.2.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>dinde</Turkey.label>
+  <Turkey.labelFemale>dinde</Turkey.labelFemale>
+  <Turkey.labelFemalePlural>dindes</Turkey.labelFemalePlural>
+  <Turkey.labelMale>dindon</Turkey.labelMale>
+  <Turkey.labelMalePlural>dindons</Turkey.labelMalePlural>
+  <Turkey.labelPlural>dindes</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>dindonneau</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.0.labelPlural>dindonneaux</Turkey.lifeStages.0.labelPlural>
+  <Turkey.lifeStages.1.label>jeune dindon</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.1.labelFemale>jeune dinde</Turkey.lifeStages.1.labelFemale>
+  <Turkey.lifeStages.1.labelFemalePlural>jeunes dindes</Turkey.lifeStages.1.labelFemalePlural>
+  <Turkey.lifeStages.1.labelMale>jeune dindon</Turkey.lifeStages.1.labelMale>
+  <Turkey.lifeStages.1.labelMalePlural>jeunes dindons</Turkey.lifeStages.1.labelMalePlural>
+  <Turkey.lifeStages.1.labelPlural>jeunes dindons</Turkey.lifeStages.1.labelPlural>
+  <Turkey.lifeStages.2.label>dindon</Turkey.lifeStages.2.label>
+  <Turkey.lifeStages.2.labelFemale>dinde</Turkey.lifeStages.2.labelFemale>
+  <Turkey.lifeStages.2.labelFemalePlural>dindes</Turkey.lifeStages.2.labelFemalePlural>
+  <Turkey.lifeStages.2.labelMale>dindon</Turkey.lifeStages.2.labelMale>
+  <Turkey.lifeStages.2.labelMalePlural>dindons</Turkey.lifeStages.2.labelMalePlural>
+  <Turkey.lifeStages.2.labelPlural>dindons</Turkey.lifeStages.2.labelPlural>
+  
+</LanguageData>

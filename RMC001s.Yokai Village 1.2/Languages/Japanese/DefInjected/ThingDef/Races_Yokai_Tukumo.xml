@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Tukumo.label>付喪神</Yokai_Tukumo.label>
+  <Yokai_Tukumo.description>長い間大切に扱われてきた刀が意思をもって動き出しました。妖怪村に仇なす敵に切りかかります。
+    \n彼らは妖怪村に属する特別な妖怪のため野生には存在していません。</Yokai_Tukumo.description>
+  <Yokai_Tukumo.tools.0.label>斬撃</Yokai_Tukumo.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Tukumo_Corpse.label>付喪神の残骸</Yokai_Tukumo_Corpse.label>
+  <Yokai_Tukumo_Corpse.description>魂の抜けたかつて付喪神だったものです。分解すれば鉄が少量手に入ります。</Yokai_Tukumo_Corpse.description>
+</LanguageData>

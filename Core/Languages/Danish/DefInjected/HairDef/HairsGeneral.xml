@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Afro.label>afro</Afro.label>
+
+    <Bob.label>bob</Bob.label>
+
+    <Burgundy.label>burgunder</Burgundy.label>
+
+    <Flowy.label>bølget</Flowy.label>
+
+    <Mohawk.label>hanekam</Mohawk.label>
+
+    <Mop.label>moppe</Mop.label>
+
+    <Shaved.label>barberet</Shaved.label>
+
+    <Spikes.label>pikket</Spikes.label>
+
+    <Tuft.label>dusk</Tuft.label>
+
+    <Wavy.label>buet</Wavy.label>
+    
+	<BraidedKnot.label>Flettet knol</BraidedKnot.label>
+	
+	<Topdog.label>topdog</Topdog.label>
+	
+	<Senorita.label>senorita</Senorita.label>
+	
+	<ScorpionTail.label>scorpion hale</ScorpionTail.label>
+	
+	<BriefPonytail.label>kort hestehale</BriefPonytail.label>
+	
+	<Troubadour.label>troubadour</Troubadour.label>
+	
+	<Messy.label>rodet</Messy.label>
+
+	<Princess.label>princesse</Princess.label>
+	
+	<Firestarter.label>ildstarter</Firestarter.label>
+	
+	<GreasySwoop.label>fedtet swoop</GreasySwoop.label>
+	
+	<Curly.label>krøllet</Curly.label>
+	
+	<Scatman.label>scatman</Scatman.label>
+	
+</LanguageData>

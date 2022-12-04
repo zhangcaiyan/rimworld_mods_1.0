@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 搬運 -->
+  <Trainable_Haul.headerTip>搬運</Trainable_Haul.headerTip>
+  
+  <!-- EN: 服從 -->
+  <Trainable_Obedience.headerTip>服從</Trainable_Obedience.headerTip>
+  
+  <!-- EN: 出擊 -->
+  <Trainable_Release.headerTip>出擊</Trainable_Release.headerTip>
+  
+  <!-- EN: 救援 -->
+  <Trainable_Rescue.headerTip>救援</Trainable_Rescue.headerTip>
+  
+  <!-- EN: 馴服 -->
+  <Trainable_Tameness.headerTip>馴服</Trainable_Tameness.headerTip>
+  
+</LanguageData>

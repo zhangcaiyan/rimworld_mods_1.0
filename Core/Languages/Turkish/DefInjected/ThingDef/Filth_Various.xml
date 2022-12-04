@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FilthDirt.label>toprak</FilthDirt.label>
+    
+    <FilthAnimalFilth.label>hayvan pisliği</FilthAnimalFilth.label>
+    
+    <FilthSand.label>kum</FilthSand.label>
+    
+    <RockRubble.label>kaya molozu</RockRubble.label>
+    
+    <BuildingRubble.label>yapı molozları</BuildingRubble.label>
+    
+    <SandbagRubble.label>parçalanmış kum torbası</SandbagRubble.label>
+    
+    <FilthBlood.label>kan</FilthBlood.label>
+    
+    <FilthBloodInsect.label>böcek kanı</FilthBloodInsect.label>
+    
+    <FilthAmnioticFluid.label>amniyotik sıvı</FilthAmnioticFluid.label>
+    
+    <FilthSlime.label>slime</FilthSlime.label>
+    
+    <FilthVomit.label>kusmuk</FilthVomit.label>
+    
+    <FilthFireFoam.label>yangın söndrüme köpüğü</FilthFireFoam.label>
+    
+    <FilthFuel.label>yakıt biriintisi</FilthFuel.label>
+    <FilthFuel.description>Yerde yanar.</FilthFuel.description>
+    
+</LanguageData>

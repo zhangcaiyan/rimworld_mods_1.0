@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--=========================== 钢铁树 ==============================-->
+
+  <ThingDef ParentName="TreeBase">
+    <defName>Plant_TreeSteel</defName>
+    <label>钢铁树</label>
+    <description>一棵神秘的树，不知为什么能长出钢铁。我不明白一棵树是如何产生无机物质的，真的是摸不着头脑啊。</description>
+    <graphicData>
+      <texPath>Things/Plant/Tree_Steel</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+        <shadowData>
+          <volume>(0.15, 0.3, 0.15)</volume>
+          <offset>(0,0,-0.38)</offset>
+        </shadowData>
+    </graphicData>
+    <selectable>true</selectable>
+    <statBases>
+      <Beauty>2</Beauty>
+      <Nutrition>1.25</Nutrition>
+    </statBases>
+    <ingestible />
+		<plant>
+			<dieIfLeafless>true</dieIfLeafless>
+			<growDays>5</growDays>
+			<visualSizeRange>
+        <min>0.8</min>
+        <max>2.0</max>
+      </visualSizeRange>
+	<sowMinSkill>0</sowMinSkill>
+      <sowTags>
+				<li>Ground</li>
+			</sowTags>
+      <sowResearchPrerequisites>
+        <li>Stage1_MT</li>
+      </sowResearchPrerequisites>
+      <topWindExposure>0.15</topWindExposure>
+      <mustBeWildToSow>false</mustBeWildToSow>
+      <immatureGraphicPath>Things/Plant/Tree_Common</immatureGraphicPath>
+      <harvestWork>200</harvestWork>
+			<harvestTag>Standard</harvestTag>
+      <harvestYield>50</harvestYield>
+      <harvestedThingDef>Steel</harvestedThingDef>
+      <harvestFailable>true</harvestFailable>
+    </plant>
+  </ThingDef>
+
+  <!--=========================== 白银树 ==============================-->
+  <ThingDef ParentName="TreeBase">
+    <defName>Plant_TreeSilver</defName>
+    <label>白银树</label>
+    <description>一棵神秘的树，不知为什么能长出白银。我不明白一棵树是如何产生无机物质的，真的是摸不着头脑啊。</description>
+    <graphicData>
+      <texPath>Things/Plant/Tree_Silver</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+        <shadowData>
+          <volume>(0.15, 0.3, 0.15)</volume>
+          <offset>(0,0,-0.38)</offset>
+        </shadowData>
+    </graphicData>
+    <selectable>true</selectable>
+    <statBases>
+      <Beauty>5</Beauty>
+      <Nutrition>1.25</Nutrition>
+    </statBases>
+    <ingestible />
+		<plant>
+			<dieIfLeafless>true</dieIfLeafless>
+			<growDays>10</growDays>
+			<visualSizeRange>
+        <min>0.8</min>
+        <max>2.0</max>
+      </visualSizeRange>
+			<sowMinSkill>5</sowMinSkill>
+      <sowTags>
+				<li>Ground</li>
+			</sowTags>
+      <sowResearchPrerequisites>
+        <li>Stage2_MT</li>
+      </sowResearchPrerequisites>
+      <topWindExposure>0.15</topWindExposure>
+      <mustBeWildToSow>false</mustBeWildToSow>
+      <immatureGraphicPath>Things/Plant/Tree_Common</immatureGraphicPath>
+      <harvestWork>300</harvestWork>
+			<harvestTag>Standard</harvestTag>
+      <harvestYield>35</harvestYield>
+      <harvestedThingDef>Silver</harvestedThingDef>
+      <harvestFailable>true</harvestFailable>
+    </plant>
+  </ThingDef>
+
+
+  <!--=========================== 黄金树 ==============================-->
+  <ThingDef ParentName="TreeBase">
+    <defName>Plant_TreeGold</defName>
+    <label>黄金树</label>
+    <description>一棵神秘的树，不知为什么能长出黄金。我不明白一棵树是如何产生无机物质的，真的是摸不着头脑啊。</description>
+    <graphicData>
+      <texPath>Things/Plant/Tree_Gold</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+        <shadowData>
+          <volume>(0.15, 0.3, 0.15)</volume>
+          <offset>(0,0,-0.38)</offset>
+        </shadowData>
+    </graphicData>
+    <selectable>true</selectable>
+    <statBases>
+      <Beauty>5</Beauty>
+      <Nutrition>1.25</Nutrition>
+    </statBases>
+    <ingestible />
+		<plant>
+			<dieIfLeafless>true</dieIfLeafless>
+			<growDays>15</growDays>
+			<visualSizeRange>
+        <min>0.8</min>
+        <max>2.0</max>
+      </visualSizeRange>
+			<sowMinSkill>7</sowMinSkill>
+      <sowTags>
+				<li>Ground</li>
+			</sowTags>
+      <sowResearchPrerequisites>
+        <li>Stage3_MT</li>
+      </sowResearchPrerequisites>
+      <topWindExposure>0.15</topWindExposure>
+      <mustBeWildToSow>false</mustBeWildToSow>
+      <immatureGraphicPath>Things/Plant/Tree_Common</immatureGraphicPath>
+      <harvestWork>500</harvestWork>
+			<harvestTag>Standard</harvestTag>
+      <harvestYield>20</harvestYield>
+      <harvestedThingDef>Gold</harvestedThingDef>
+      <harvestFailable>true</harvestFailable>
+    </plant>
+  </ThingDef>
+  
+  
+   <!--=========================== 翡翠树 ==============================-->
+  <ThingDef ParentName="TreeBase">
+    <defName>Plant_TreeJade</defName>
+    <label>翡翠树</label>
+    <description>一棵神秘的树，不知为什么能长出翡翠。我不明白一棵树是如何产生无机物质的，真的是摸不着头脑啊。</description>
+    <graphicData>
+      <texPath>Things/Plant/Tree_Jade</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+        <shadowData>
+          <volume>(0.15, 0.3, 0.15)</volume>
+          <offset>(0,0,-0.38)</offset>
+        </shadowData>
+    </graphicData>
+    <selectable>true</selectable>
+    <statBases>
+      <Beauty>5</Beauty>
+      <Nutrition>1.25</Nutrition>
+    </statBases>
+    <ingestible />
+		<plant>
+			<dieIfLeafless>true</dieIfLeafless>
+			<growDays>15</growDays>
+			<visualSizeRange>
+        <min>0.8</min>
+        <max>2.0</max>
+      </visualSizeRange>
+			<sowMinSkill>8</sowMinSkill>
+      <sowTags>
+				<li>Ground</li>
+			</sowTags>
+      <sowResearchPrerequisites>
+        <li>Stage4_MT</li>
+      </sowResearchPrerequisites>
+      <topWindExposure>0.15</topWindExposure>
+      <mustBeWildToSow>false</mustBeWildToSow>
+      <immatureGraphicPath>Things/Plant/Tree_Common</immatureGraphicPath>
+      <harvestWork>500</harvestWork>
+			<harvestTag>Standard</harvestTag>
+      <harvestYield>20</harvestYield>
+      <harvestedThingDef>Jade</harvestedThingDef>
+      <harvestFailable>true</harvestFailable>
+    </plant>
+  </ThingDef>
+
+</Defs>

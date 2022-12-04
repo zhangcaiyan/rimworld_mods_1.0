@@ -1,0 +1,17 @@
+﻿északi
+északkeleti
+keleti
+délkeleti
+déli
+délnyugati
+nyugati
+északnyugati
+
+északi
+északkeleti
+keleti
+délkeleti
+déli
+délnyugati
+nyugati
+északnyugati

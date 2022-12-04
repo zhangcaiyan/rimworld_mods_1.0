@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KamaitatiBody.label>Kamaitati animal</KamaitatiBody.label>
+  <KamaitatiBody.corePart.parts.4.customLabel>left lung</KamaitatiBody.corePart.parts.4.customLabel>
+  <KamaitatiBody.corePart.parts.5.customLabel>right lung</KamaitatiBody.corePart.parts.5.customLabel>
+  <KamaitatiBody.corePart.parts.6.customLabel>left kidney</KamaitatiBody.corePart.parts.6.customLabel>
+  <KamaitatiBody.corePart.parts.7.customLabel>right kidney</KamaitatiBody.corePart.parts.7.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.1.customLabel>left eye</KamaitatiBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.2.customLabel>right eye</KamaitatiBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.3.customLabel>left ear</KamaitatiBody.corePart.parts.9.parts.0.parts.3.customLabel>
+  <KamaitatiBody.corePart.parts.9.parts.0.parts.4.customLabel>right ear</KamaitatiBody.corePart.parts.9.parts.0.parts.4.customLabel>
+  <KamaitatiBody.corePart.parts.10.customLabel>front left leg</KamaitatiBody.corePart.parts.10.customLabel>
+  <KamaitatiBody.corePart.parts.10.parts.0.customLabel>front left paw</KamaitatiBody.corePart.parts.10.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.11.customLabel>front right leg</KamaitatiBody.corePart.parts.11.customLabel>
+  <KamaitatiBody.corePart.parts.11.parts.0.customLabel>front right paw</KamaitatiBody.corePart.parts.11.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.12.customLabel>rear left leg</KamaitatiBody.corePart.parts.12.customLabel>
+  <KamaitatiBody.corePart.parts.12.parts.0.customLabel>rear left paw</KamaitatiBody.corePart.parts.12.parts.0.customLabel>
+  <KamaitatiBody.corePart.parts.13.customLabel>rear right leg</KamaitatiBody.corePart.parts.13.customLabel>
+  <KamaitatiBody.corePart.parts.13.parts.0.customLabel>rear right paw</KamaitatiBody.corePart.parts.13.parts.0.customLabel>
+
+
+</LanguageData>

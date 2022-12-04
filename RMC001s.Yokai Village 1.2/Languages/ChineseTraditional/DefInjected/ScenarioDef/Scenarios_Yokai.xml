@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <YokaiVillage_newPerson.label>妖怪村的脫逃者</YokaiVillage_newPerson.label>
+  <YokaiVillage_newPerson.description>對於人類文化感到抱有興趣的兩人組跑出了村莊，決定探索嶄新的生活方式。
+    \n離開了滑瓢與九尾狐的加護，能否得以在新天地生存?
+    \n他們雖為人類，但習得了妖怪村文化的基礎部分，為了長途旅行而帶上了希洛及拉米亞。
+    </YokaiVillage_newPerson.description>
+  <YokaiVillage_newPerson.scenario.name>妖怪村的脫逃者</YokaiVillage_newPerson.scenario.name>
+  <YokaiVillage_newPerson.scenario.summary>開局帶有妖怪村的基礎技術、兩隻寵物，以及一把不可思議的弓。以兩名村人展開遊戲。</YokaiVillage_newPerson.scenario.summary>
+  <YokaiVillage_newPerson.scenario.description>對於人類文化感到抱有興趣的兩人組跑出了村莊，決定探索嶄新的生活方式。
+    \n離開了滑瓢與九尾狐的加護，能否得以在新天地生存?
+    \n他們雖為人類，但習得了妖怪村文化的基礎部分，為了遷移而帶上了希洛及拉米亞。
+
+\n\n製作者的小提示
+只要好好栽培宿魂木，戰鬥將變得格外容易上手。因此建議在遊戲早期便積極進行狩獵。妥善地保護希洛與拉米亞，這兩隻寵物可提供安定的資源收入。</YokaiVillage_newPerson.scenario.description>
+  <YokaiVillage_newPerson.scenario.parts.0.text>兩人並不滿足於在妖怪村安穩但無趣的生活。帶上滑瓢所授予的成長型武器「宿魂木」與「宿魂木的樹枝」，陪著拉米亞與希洛，一同在新天地展開刺激的冒險篇章。
+</YokaiVillage_newPerson.scenario.parts.0.text>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>automatické dveře</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>Oddělují místnosti. Elektrický pohon dveří umožní lidem průchod bez zpomalení.</Autodoor.description>
+  
+  <!-- EN: door -->
+  <Door.label>dveře</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Oddělují místnosti. Obyčejné dveře musí být ručně otevřeny, což zpomaluje pohyb lidí. Výše zpomalení závisí na tom, z čeho jsou dveře vyrobeny.</Door.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>zeď</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>Neprůchodná zeď, která unese střechu.</Wall.description>
+  
+</LanguageData>

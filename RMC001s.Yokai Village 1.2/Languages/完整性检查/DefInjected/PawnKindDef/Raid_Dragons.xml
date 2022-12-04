@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- むんどらもどき -->
+
+  <Yokai_Raid_Mdra.label>Insanity Dragon</Yokai_Raid_Mdra.label>
+  <Yokai_Raid_Mdra.labelPlural>Insanity Dragons</Yokai_Raid_Mdra.labelPlural>
+
+
+  <!-- ぺこどらもどき -->
+
+  <Yokai_Raid_Pekodra.label>Hungry Dragon</Yokai_Raid_Pekodra.label>
+  <Yokai_Raid_Pekodra.labelPlural>Hungry Dragons</Yokai_Raid_Pekodra.labelPlural>
+
+
+  <!-- れどらもどき -->
+
+  <Yokai_Raid_Redra.label>Cruel Dragon</Yokai_Raid_Redra.label>
+  <Yokai_Raid_Redra.labelPlural>Cruel Dragons</Yokai_Raid_Redra.labelPlural>
+
+
+</LanguageData>

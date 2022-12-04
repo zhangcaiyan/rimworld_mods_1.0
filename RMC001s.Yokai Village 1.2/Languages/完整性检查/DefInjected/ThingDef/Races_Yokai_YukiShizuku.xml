@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_YukiShizuku.label>YukiShizuku</Yokai_YukiShizuku.label>
+  <Yokai_YukiShizuku.description>Yuki Shizuku are a rare species Yokai typically found in icy biomes. Her friendly and quirky nature-not to mention her icy punches-make her an interesting addition to any snowbound colony.
+    \nBy magic or grace or some mix of these, she appears invulnerable to most ranged attacks (bullets and arrows); however, she has a very low heat tolerance.
+    \nThey are also known for the cool, milky liquid they produce. This liquid can be used as a drink, or-with some knowledge-used as fuel for a cooler.
+    \nColonists are often surprised to discover that Yuki Shizuku have a passive cooling effect of their own! So be careful about who or what is in a room with them.
+    \nThe name "Yuki Shizuku" means "snow drop." This Yokai is most likely a reference to the Yokai Yuki-onna. Yuki-onna is a Yokai that takes the shape of a human female during snow storms, with a preference for mountainous regions. Tales concerning this Yokai range from a woman trying to get travelers to hug her child, which could lead to death or fortune, or the Yuki-onna coming upon a lonely traveler/mountain dweller and becoming their spouse.</Yokai_YukiShizuku.description>
+  <Yokai_YukiShizuku.tools.0.label>left hand</Yokai_YukiShizuku.tools.0.label>
+  <Yokai_YukiShizuku.tools.1.label>right hand</Yokai_YukiShizuku.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_YukiShizuku_Corpse.label>YukiShizuku corpse</Yokai_YukiShizuku_Corpse.label>
+  <Yokai_YukiShizuku_Corpse.description>YukiShizuku corpse</Yokai_YukiShizuku_Corpse.description>
+
+
+</LanguageData>

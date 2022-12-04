@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Ocean -->
+	<Operation Class="PatchOperationAdd">
+		<order>Append</order>
+		<xpath>*/BiomeDef[defName="Ocean"]</xpath>
+		<value>
+			<movementDifficulty>6</movementDifficulty>
+			<forageability>0.4</forageability>
+			<foragedFood>RawFish</foragedFood>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/BiomeDef[defName="Ocean"]/impassable</xpath>
+		<value>
+			<impassable>false</impassable>
+		</value>
+	</Operation>
+	
+	<!-- Lake -->
+	<Operation Class="PatchOperationAdd">
+		<order>Append</order>
+		<xpath>*/BiomeDef[defName="Lake"]</xpath>
+		<value>
+			<movementDifficulty>6</movementDifficulty>
+			<forageability>0.4</forageability>
+			<foragedFood>RawFish</foragedFood>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/BiomeDef[defName="Lake"]/impassable</xpath>
+		<value>
+			<impassable>false</impassable>
+		</value>
+	</Operation>
+	
+	<!-- Thanks for all the Fish -->
+	<!--Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName="DeadFish"]</xpath>
+			</li>
+		
+			<li Class="PatchOperationReplace">
+				<xpath>*/BiomeDef[defName="Ocean"]/foragedFood</xpath>
+				<value>
+					<foragedFood>DeadFish</foragedFood>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/BiomeDef[defName="Lake"]/foragedFood</xpath>
+				<value>
+					<foragedFood>DeadFish</foragedFood>
+				</value>
+			</li>
+			
+		</operations>
+	</Operation-->
+	
+	<!-- [RF] Fishing -->
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName="DeadFish"]</xpath>
+			</li>
+		
+			<li Class="PatchOperationReplace">
+				<xpath>*/BiomeDef[defName="Ocean"]/foragedFood</xpath>
+				<value>
+					<foragedFood>RawFish</foragedFood>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/BiomeDef[defName="Lake"]/foragedFood</xpath>
+				<value>
+					<foragedFood>RawFish</foragedFood>
+				</value>
+			</li>
+			
+		</operations>
+	</Operation>
+	
+</Patch>

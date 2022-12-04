@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_WildChild.title>野生的幼年龙女</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>野生幼年龙女</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef]是野生的幼年龙女。</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>野生的龙女</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>野生的龙女</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef]是野生的龙女</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>被遗弃的幼年龙女</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>被遗弃者</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef]是由人类抚养的幼年龙女。</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>由人类抚养长大的龙女</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>被抚养的龙女</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef]是由人类抚养长大的龙女，现在因为原先的主人去世了而浪迹天涯。</Dragonian_Slave.baseDescription>
+
+
+</LanguageData>

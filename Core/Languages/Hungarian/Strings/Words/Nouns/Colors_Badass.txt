@@ -1,0 +1,6 @@
+﻿piros
+fekete
+szürke
+hamuszürke
+sötét
+árnyékos

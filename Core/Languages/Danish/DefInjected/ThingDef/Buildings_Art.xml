@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <SculptureSmall.label>Lille skulptur</SculptureSmall.label>
+  <SculptureSmall.description>Et værk på størrelse med en torso, lavet af materialer der er modelleret til en artistisk form.</SculptureSmall.description>
+  <SculptureSmall_Blueprint_Install.label>Lille skulptur (plan)</SculptureSmall_Blueprint_Install.label>
+
+  <SculptureLarge.label>Stor skulptur</SculptureLarge.label>
+  <SculptureLarge.description>Et værk på størrelse med et menneske, lavet af materialer der er modelleret til en artistisk form.</SculptureLarge.description>
+  <SculptureLarge_Blueprint_Install.label>Stor skulpture (plan)</SculptureLarge_Blueprint_Install.label>
+
+  <SculptureGrand.label>grandiøs skulptur</SculptureGrand.label>
+  <SculptureGrand.description>Et værk på størrelse med en bil, lavet af materialer der er modelleret til en artistisk form.</SculptureGrand.description>
+  <SculptureGrand_Blueprint_Install.label>grandiøs skulpture (plan)</SculptureGrand_Blueprint_Install.label>
+
+  
+  <!-- Snowman -->
+
+  <Snowman.label>sneman</Snowman.label>
+  <Snowman.description>Et sæt af store snebolde der er stablet og formet til at ligne en person.</Snowman.description>
+
+
+</LanguageData>

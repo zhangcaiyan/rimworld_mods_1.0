@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <MakeHolyWood150.label>制作神木的复制品</MakeHolyWood150.label>
+    <MakeHolyWood150.description>依据其木材，尝试复原失落的古代神木。一次能制作150根木材。</MakeHolyWood150.description>
+    <MakeHolyWood150.jobString>正在复原神圣木的木材。</MakeHolyWood150.jobString>
+
+    <PressIronScrap.label>压缩废鉄块</PressIronScrap.label>
+    <PressIronScrap.description>压缩1个废铁块，可获得20个压缩铁块以作为建材使用。比起单纯熔解，此方法能更有效率的处理废铁，之后也能重铸成铁。</PressIronScrap.description>
+    <PressIronScrap.jobString>正在压缩废铁块。</PressIronScrap.jobString>
+
+    <PressBulkIronScraps.label>压缩大量废铁块</PressBulkIronScraps.label>
+    <PressBulkIronScraps.description>压缩5个废铁块，可获得100个压缩铁块以作为建材使用。比起使用熔炉，此方法能更有效率的处理废铁，之后也能熔解成铁。</PressBulkIronScraps.description>
+    <PressBulkIronScraps.jobString>正在压缩废铁块。</PressBulkIronScraps.jobString>
+
+    <SmeltPressedIronScraps.label>熔解压缩铁块</SmeltPressedIronScraps.label>
+    <SmeltPressedIronScraps.description>将20个压缩铁块熔成20个铁。些许快于熔解废铁。</SmeltPressedIronScraps.description>
+    <SmeltPressedIronScraps.jobString>熔解压缩铁块。</SmeltPressedIronScraps.jobString>
+
+    <SmeltBulkPressedIronScraps.label>熔解大量压缩铁块</SmeltBulkPressedIronScraps.label>
+    <SmeltBulkPressedIronScraps.description>将100个压缩铁块熔成100个铁。些许快于熔解废铁。</SmeltBulkPressedIronScraps.description>
+    <SmeltBulkPressedIronScraps.jobString>溶解压缩铁块。</SmeltBulkPressedIronScraps.jobString>
+
+    <LF_ButcherCorpseFleshDE.label>屠宰（舍弃装备）</LF_ButcherCorpseFleshDE.label>
+    <LF_ButcherCorpseFleshDE.description>进行屠宰的同时，将尸体穿戴的装备处分掉。</LF_ButcherCorpseFleshDE.description>
+    <LF_ButcherCorpseFleshDE.jobString>屠宰（舍弃装备）中。</LF_ButcherCorpseFleshDE.jobString>
+
+</LanguageData>

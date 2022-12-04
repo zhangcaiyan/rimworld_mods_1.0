@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_LeffyFur.label>ちびモフの毛皮</LF_LeffyFur.label>
+  <LF_LeffyFur.description>白くてフワフワなちびモフの毛皮です。それは人々の疾病に対する免疫を高める特別な効力を持ちます。</LF_LeffyFur.description>
+  <LF_LeffyFur.stuffProps.stuffAdjective>ちびモフの毛皮</LF_LeffyFur.stuffProps.stuffAdjective>
+
+  <LF_MofuMofu.label>もふもふ</LF_MofuMofu.label>
+  <LF_MofuMofu.description>サラサラでフワフワの、思わず触りたくなるほど上質なモコモコです。不思議な力に守られていて火がつきません。軽くて丈夫な衣類の材料になります。</LF_MofuMofu.description>
+  <LF_MofuMofu.stuffProps.stuffAdjective>もふもふ</LF_MofuMofu.stuffProps.stuffAdjective>
+
+  <LF_FukaFuka.label>ふかふか</LF_FukaFuka.label>
+  <LF_FukaFuka.description>サラサラでフワフワの、思わず触りたくなるほど上質なモコモコです。不思議な力に守られていて火がつきません。軽くて丈夫な衣類の材料になります。</LF_FukaFuka.description>
+  <LF_FukaFuka.stuffProps.stuffAdjective>ふかふか</LF_FukaFuka.stuffProps.stuffAdjective>
+
+  <LF_FuwaFuwa.label>ふわふわ</LF_FuwaFuwa.label>
+  <LF_FuwaFuwa.description>サラサラでフワフワの、思わず触りたくなるほど上質なモコモコです。不思議な力に守られていて火がつきません。軽くて丈夫な衣類の材料になります。</LF_FuwaFuwa.description>
+  <LF_FuwaFuwa.stuffProps.stuffAdjective>ふわふわ</LF_FuwaFuwa.stuffProps.stuffAdjective>
+
+  <LF_AzureDragonScales.label>青き竜の鱗</LF_AzureDragonScales.label>
+  <LF_AzureDragonScales.description>召使い竜から得られた小さな竜の鱗です。表面が青く美しい輝きを放っています。小さすぎるため防具の材料には使えそうもありませんが、青き竜に関連する何かの製作物で必要になるかもしれません。</LF_AzureDragonScales.description>
+
+  <LF_DragoniaWisdom.label>竜の叡智</LF_DragoniaWisdom.label>
+  <LF_DragoniaWisdom.description>青き竜の子から譲り受けた、竜帝時代の古竜象形文字で書かれた巻物です。残念ながらそれを直接読み解くことはできませんが、スクロールに込められた強い魔力の波動を感じることはできます。ロストテクノロジーの研究に用いるようです。</LF_DragoniaWisdom.description>
+
+  <LF_ArcaneCrystal.label>古の結晶</LF_ArcaneCrystal.label>
+  <LF_ArcaneCrystal.description>表面に絶えず明滅を繰り返す幾何学的な模様が彫りこまれた、濃青色の結晶です。青き竜の子が自在に操っているそれを見ると、所有者の意思で自在に物性を変えられるようです。残念ながらいくら入植者が気合を入れて真似してみても、それは果てしなくただの岩のように不動で、得られたのは怪訝そうな竜の子の冷ややかな視線だけでした。何かしらの加工を施す事で我々もその特性を活かせるのかもしれません。</LF_ArcaneCrystal.description>
+
+  <LF_EggFlammeliaUnfertilized.label>フラメリアの卵(無精卵)</LF_EggFlammeliaUnfertilized.label>
+  <LF_EggFlammeliaUnfertilized.description>巨大なフラメリアの無精卵。生でも食べることができますが、調理した方がより美味しく食べられます。</LF_EggFlammeliaUnfertilized.description>
+
+  <LF_EggFlammeliaFertilized.label>フラメリアの卵(有精卵)</LF_EggFlammeliaFertilized.label>
+  <LF_EggFlammeliaFertilized.description>巨大なフラメリアの有精卵。適温を保てばやがてフラメリアの雛が孵化します。</LF_EggFlammeliaFertilized.description>
+
+
+</LanguageData>

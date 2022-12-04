@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NineTailBody.label>NineTailBody</NineTailBody.label>
+  <NineTailBody.corePart.parts.6.customLabel>left lung</NineTailBody.corePart.parts.6.customLabel>
+  <NineTailBody.corePart.parts.7.customLabel>right lung</NineTailBody.corePart.parts.7.customLabel>
+  <NineTailBody.corePart.parts.8.customLabel>left kidney</NineTailBody.corePart.parts.8.customLabel>
+  <NineTailBody.corePart.parts.9.customLabel>right kidney</NineTailBody.corePart.parts.9.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.1.customLabel>left eye</NineTailBody.corePart.parts.12.parts.0.parts.1.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.2.customLabel>right eye</NineTailBody.corePart.parts.12.parts.0.parts.2.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.3.customLabel>left ear</NineTailBody.corePart.parts.12.parts.0.parts.3.customLabel>
+  <NineTailBody.corePart.parts.12.parts.0.parts.4.customLabel>right ear</NineTailBody.corePart.parts.12.parts.0.parts.4.customLabel>
+  <NineTailBody.corePart.parts.13.customLabel>left shoulder</NineTailBody.corePart.parts.13.customLabel>
+  <NineTailBody.corePart.parts.13.parts.0.customLabel>left clavicle</NineTailBody.corePart.parts.13.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.customLabel>left arm</NineTailBody.corePart.parts.13.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</NineTailBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.1.customLabel>left radius</NineTailBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.customLabel>left hand</NineTailBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left pinky</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring finger</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle finger</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index finger</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb</NineTailBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.14.customLabel>right shoulder</NineTailBody.corePart.parts.14.customLabel>
+  <NineTailBody.corePart.parts.14.parts.0.customLabel>right clavicle</NineTailBody.corePart.parts.14.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.customLabel>right arm</NineTailBody.corePart.parts.14.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</NineTailBody.corePart.parts.14.parts.1.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.1.customLabel>right radius</NineTailBody.corePart.parts.14.parts.1.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.customLabel>right hand</NineTailBody.corePart.parts.14.parts.1.parts.2.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right pinky</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring finger</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle finger</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index finger</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb</NineTailBody.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.16.customLabel>left leg</NineTailBody.corePart.parts.16.customLabel>
+  <NineTailBody.corePart.parts.16.parts.0.customLabel>left femur</NineTailBody.corePart.parts.16.parts.0.customLabel>
+  <NineTailBody.corePart.parts.16.parts.1.customLabel>left tibia</NineTailBody.corePart.parts.16.parts.1.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.customLabel>left foot</NineTailBody.corePart.parts.16.parts.2.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</NineTailBody.corePart.parts.16.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</NineTailBody.corePart.parts.16.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</NineTailBody.corePart.parts.16.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</NineTailBody.corePart.parts.16.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</NineTailBody.corePart.parts.16.parts.2.parts.4.customLabel>
+  <NineTailBody.corePart.parts.17.customLabel>right leg</NineTailBody.corePart.parts.17.customLabel>
+  <NineTailBody.corePart.parts.17.parts.0.customLabel>right femur</NineTailBody.corePart.parts.17.parts.0.customLabel>
+  <NineTailBody.corePart.parts.17.parts.1.customLabel>right tibia</NineTailBody.corePart.parts.17.parts.1.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.customLabel>right foot</NineTailBody.corePart.parts.17.parts.2.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</NineTailBody.corePart.parts.17.parts.2.parts.0.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</NineTailBody.corePart.parts.17.parts.2.parts.1.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</NineTailBody.corePart.parts.17.parts.2.parts.2.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</NineTailBody.corePart.parts.17.parts.2.parts.3.customLabel>
+  <NineTailBody.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</NineTailBody.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!--================Tool Capacity Defs===================-->
+<!--注釈
+namespace Verse
+{
+  public class ManeuverDef : Def
+  {
+    public ToolCapacityDef requiredCapacity;
+    public VerbProperties verb;
+    public RulePackDef combatLogRules;
+  }
+}
+  <ManeuverDef>←Pawnの攻撃手段が詰まった親クラス
+    <defName>Coldgrasp</defName>
+    <requiredCapacity>Blunt</requiredCapacity>←tool capa.
+    <verb>
+      <verbClass>Verb_MeleeAttack</verbClass>
+      <meleeDamageDef>Blunt</meleeDamageDef>
+    </verb>
+    <combatLogRules>Maneuver_Coldgrasp</combatLogRules>
+  </ManeuverDef>
+-->
+
+	<!--低体温症系-->
+  <ToolCapacityDef>
+    <defName>LF_Coldgrasp</defName>
+    <label>cold grasp</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Iciclebash</defName>
+    <label>icicle bash</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Glacialbite</defName>
+    <label>glacialbite</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Hailblast</defName>
+    <label>hailblast</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Cocytus</defName>
+    <label>cocytus</label>
+  </ToolCapacityDef>
+
+	<!--熱中症系-->
+  <ToolCapacityDef>
+    <defName>LF_Blazingsmash</defName>
+    <label>blazing smash</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Burningcharge</defName>
+    <label>burning charge</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Heatbite</defName>
+    <label>heatbite</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Heatlance</defName>
+    <label>heat lance</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Flareblast</defName>
+    <label>flare blast</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Inferno</defName>
+    <label>inferno</label>
+  </ToolCapacityDef>
+
+	<!--蓄積毒系-->
+  <ToolCapacityDef>
+    <defName>LF_Poisonstab</defName>
+    <label>poison stab</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_ThornStab</defName>
+    <label>thorn stab</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Deadlypoison</defName>
+    <label>deadly poison</label>
+  </ToolCapacityDef>
+
+
+	<!--特殊-->
+  <ToolCapacityDef>
+    <defName>LF_Sandblast</defName>
+    <label>sand blast</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Armorbreak</defName>
+    <label>armor break</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Armbreak</defName>
+    <label>arm break</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Legbreak</defName>
+    <label>leg break</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_ArmorRavage</defName>
+    <label>armor ravage</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_MobilityRavage</defName>
+    <label>mobility ravage</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Bloodleech</defName>
+    <label>blood leech</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Famine</defName>
+    <label>famine</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_Pestilence</defName>
+    <label>pestilence</label>
+  </ToolCapacityDef>
+  <ToolCapacityDef>
+    <defName>LF_DragonicSigil</defName>
+    <label>drarr sigil</label>
+  </ToolCapacityDef>
+
+
+</Defs>

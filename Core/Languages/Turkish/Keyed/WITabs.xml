@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>Arazi</TabTerrain>
+  <TabPlanet>Gezegen</TabPlanet>
+  <TabCaravanSocial>Sosyal</TabCaravanSocial>
+  <TabCaravanHealth>Sağlık</TabCaravanHealth>
+  <TabCaravanNeeds>İhtiyaçlar</TabCaravanNeeds>
+  <TabCaravanGear>Ekipman</TabCaravanGear>
+  <TabCaravanItems>Eşya</TabCaravanItems>
+
+  <!-- Misc -->
+  <AbandonSliderText>Vazgeç {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Gerçekten {0} vazgeçmek istiyor musun?\n\nVazgeçilmiş ürünler kaybolur ve asla kurtarılamazlar.</ConfirmAbandonItemDialog>
+  <AbandonTip>Vazgeç</AbandonTip>
+  <AbandonSpecificCountTip>Belirli sayımdan vazgeç</AbandonSpecificCountTip>
+  <AbandonAllTip>Vazgeç (hepsi)</AbandonAllTip>
+  <AbandonItemTipExtraText>Terk edilmiş ürünler kaybolur ve asla kurtarılamazlar.</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} büyük bir olasılıkla ölecektir.</AbandonTipWillDie>
+
+  <!-- Caravan inspect -->
+  <CaravanColonists>Kolonists</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Esirler ve hayvanlar</CaravanPrisonersAndAnimals>
+  <CaravanItems>Envanter</CaravanItems>
+  <OpenSpecificTabButtonTip>Daha fazla ayrıntı içeren bir sekme açmak için tıklayın.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Esirler</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Envanter</CaravanWeaponsAndApparel>
+
+  <!-- Caravan gear -->
+  <DragToRearrange>Yeniden düzenlemek için sürükleyin.</DragToRearrange>
+
+  <!-- Planet -->
+  <PlanetSeed>Yerleşke</PlanetSeed>
+  <PlanetCoverageShort>Kapsama alanı</PlanetCoverageShort>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Yok</WorkTagNone>
+  <WorkTagIntellectual>Zeki</WorkTagIntellectual>
+  <WorkTagManualDumb>Aptal işçi</WorkTagManualDumb>
+  <WorkTagManualSkilled>Yetenekli işçi</WorkTagManualSkilled>
+  <WorkTagViolent>Saldırgan</WorkTagViolent>
+  <WorkTagCaring>Dikkatli</WorkTagCaring>
+  <WorkTagSocial>Sosyal</WorkTagSocial>
+  <WorkTagScary>Korkunç</WorkTagScary>
+  <WorkTagAnimals>Hayvanlar</WorkTagAnimals>
+  <WorkTagArtistic>Sanatçı</WorkTagArtistic>
+  <WorkTagCrafting>İnşaacı</WorkTagCrafting>
+  <WorkTagCooking>Aşçı</WorkTagCooking>
+  <WorkTagFirefighting>Yangın Söndürme</WorkTagFirefighting>
+  <WorkTagCleaning>Temizlik</WorkTagCleaning>
+  <WorkTagHauling>Taşıma</WorkTagHauling>
+  <WorkTagPlantWork>Bitki İşleri</WorkTagPlantWork>
+  <WorkTagMining>Madencilik</WorkTagMining>
+
+</LanguageData>

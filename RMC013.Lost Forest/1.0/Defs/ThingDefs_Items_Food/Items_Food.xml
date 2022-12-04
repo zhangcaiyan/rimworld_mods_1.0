@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef Name="LF_ResourceBaseFood" Abstract="True">
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<altitudeLayer>Item</altitudeLayer>
+		<stackLimit>75</stackLimit>
+		<statBases>
+			<Beauty>0</Beauty>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Ingredients"/>
+			<li Class="CompProperties_FoodPoisonable"/>
+		</comps>
+		<alwaysHaulable>true</alwaysHaulable>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<rotatable>false</rotatable>
+		<pathCost>15</pathCost>
+	</ThingDef>
+	<ThingDef Abstract="True" ParentName="LF_ResourceBaseFood" Name="LF_CookingProductBase">
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<DeteriorationRate>5</DeteriorationRate>
+			<Mass>0.20</Mass>
+		</statBases>
+		<ingestible>
+			<foodType>Meal</foodType>
+			<tasteThought>AteFineMeal</tasteThought>
+			<maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+			<optimalityOffsetHumanlikes>16</optimalityOffsetHumanlikes>
+			<joyKind>Gluttonous</joyKind>
+			<joy>0.25</joy>
+		</ingestible>
+		<tickerType>Rare</tickerType>
+		<thingCategories>
+			<li>FoodMeals</li>
+		</thingCategories>
+	</ThingDef>
+
+		<!-- =================おみくじ煎餅================== -->
+
+	<ThingDef ParentName="LF_CookingProductBase">
+		<defName>FortuneCookie_Fox</defName>
+		<label>Omikuji Senbei</label>
+		<description>It's exotic snack looks like fortune cookies. Strangely, there is the maiden's protection in place of divination memo inside.</description>
+		<graphicData>
+			<texPath>Things/Item/Food/FortuneCookies</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.8</drawSize>
+		</graphicData>
+		<tradeability>Sellable</tradeability>
+		<statBases>
+			<Nutrition>0.25</Nutrition>
+			<DeteriorationRate>5</DeteriorationRate>
+			<MarketValue>10</MarketValue>
+			<WorkToMake>500</WorkToMake>
+			<Mass>0.10</Mass>
+		</statBases>
+		<stuffProps>
+			<commonality>0</commonality>
+		</stuffProps>
+		<ingestible>
+			<preferability>DesperateOnly</preferability>
+			<tasteThought>AteFineMeal</tasteThought>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+			<joyKind>Gluttonous</joyKind>
+			<joy>0.25</joy>
+			<maxNumToIngestAtOnce></maxNumToIngestAtOnce>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedOmikuji</hediffDef>
+					<severity>1</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+
+  <ThoughtDef>
+    <defName>Thought_Omikuji</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>HedOmikuji</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>drew Omikuji</label>
+        <description>I feel little warm from foxia divination.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+		<!-- =================レフカの花冠================== -->
+
+	<ThingDef ParentName="LF_CookingProductBase">
+		<defName>MysteriousWreath</defName>
+		<label>Lefca's wreath</label>
+		<description>It's a wreath made of mysterious herbs which have beautiful flowers and we have never seen. Unfortunately the knot is too weak, so you can not wear it. Perhaps the herb has some medicinal effect.</description>
+		<graphicData>
+			<texPath>Things/Item/Food/MysteriousWreath</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<tradeability>Sellable</tradeability>
+		<statBases>
+			<Nutrition>0.1</Nutrition>
+			<DeteriorationRate>2</DeteriorationRate>
+			<MarketValue>10</MarketValue>
+			<WorkToMake>500</WorkToMake>
+			<Mass>0.05</Mass>
+			<Beauty>10</Beauty>
+		</statBases>
+		<stuffProps>
+			<commonality>0</commonality>
+		</stuffProps>
+		<ingestible>
+			<preferability>DesperateOnly</preferability>
+			<tasteThought></tasteThought>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+			<joyKind>Gluttonous</joyKind>
+			<joy>0.05</joy>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMysteriousHerb</hediffDef>
+					<severity>1</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+
+  <ThoughtDef>
+    <defName>Thought_MysteriousWreath</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>HedMysteriousHerb</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>wondering refreshment</label>
+        <description>I feel my body got a little lighter. </description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+		<!-- =================義理チョコ...？================== -->
+
+	<ThingDef ParentName="LF_CookingProductBase">
+		<defName>NutChocolate</defName>
+		<label>heart shaped nut chocolate</label>
+		<description>"I gave it because I made it too much, so it's NOT for you separately!" Heart-shaped nut chocolate was handed over to me. It is strangely big for obligatory gift chocolate, and the whole unknown-nuts has been solidified by grotesque marble-pattern chocolate. Even if I ask her about the mysterious nuts, she doesn't seem to gathered it herself and I don't got it well. Is it okay to really eat...? It is pressed from Wolvern once every 3 days.</description>
+		<graphicData>
+			<texPath>Things/Item/Food/NutChocolate</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<tradeability>Sellable</tradeability>
+		<statBases>
+			<Nutrition>0.7</Nutrition>
+			<DeteriorationRate>5</DeteriorationRate>
+			<MarketValue>10</MarketValue>
+			<WorkToMake>500</WorkToMake>
+			<Mass>0.20</Mass>
+		</statBases>
+		<stuffProps>
+			<commonality>0</commonality>
+		</stuffProps>
+		<ingestible>
+			<preferability>DesperateOnly</preferability>
+			<tasteThought></tasteThought>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+			<joyKind>Gluttonous</joyKind>
+			<joy>0.10</joy>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedNutChocolate</hediffDef>
+					<severity>1</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+
+  <ThoughtDef>
+    <defName>Thought_NutChocolate</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>HedNutChocolate</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>awkward kindness</label>
+        <description>My tongue is still a bit numb, but I will accept her kindness gently. </description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Flammelia.label>フラメリア</LF_Flammelia.label>
+  <LF_Flammelia.description>恐鳥類に似た大型生物にルーツを持つ獣人族で、古き森の住人です。燃え盛る炎のように鮮やかな赤い羽根が特徴的で、鉤爪の残るその翼は空を飛ぶには適していませんが、代わりに強靭な脚を持ちます。ほとんどの個体が楽天家かつ享楽的で、踊ったり歌ったり、楽しい事をするのがとにかく大好きです。彼女は嫌なことがあっても３歩歩けば忘れるほど切り替えが早く、細かい事は気にしません。ただし彼女を怒らせたら、相手にとってその体格から繰り出される打撃は文字通りの脅威となるでしょう。普段は守人の一人として、古き森周辺の警備や力仕事に従事しているようです。彼女が野生に出現することはありません。滅ぼされた古き森で最後まで果敢に戦い捕虜となった生き残りが、稀に近辺で目撃されているようです。</LF_Flammelia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Flammelia_Corpse.label>フラメリアの死骸</LF_Flammelia_Corpse.label>
+  <LF_Flammelia_Corpse.description>冷たくなったフラメリアの死骸です。もはや何者も、彼女を苦しめることはできません。</LF_Flammelia_Corpse.description>
+
+</LanguageData>

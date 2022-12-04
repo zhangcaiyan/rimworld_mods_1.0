@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_Glacia.label>格蕾希亚</LF_Glacia.label>
+  <LF_Glacia.description>源于大型猫科动物的兽人族、也是居住在远古森林的一分子。身体覆盖着如冰块般坚硬的水晶，对于外来的创伤具有极高的忍耐力。当同伴面临危机时会以其迅敏的脚力前来救援，并以自身作为盾牌来保护同伴。在紧要关头时是个足以依赖的好孩子。个体多半有着温驯沉稳的性格。作为森林守卫之成员，平淡地巡逻着远古森林的周围。他们习惯依照自己的步调生活，闲暇时经常待在安静的地方悠悠闲闲地午睡。若是打扰到她的休闲时光，可会让她闹别扭上好一阵子。「可恶的红色恶魔......」。他不会出现于野外，在被毁灭的远古森林中英勇奋战后，而成为俘虏的幸存者们，似乎仍稀少地在附近被目击到。</LF_Glacia.description>
+  <!-- Leather Amount: 0 -->
+
+  <LF_Glacia_Corpse.label>格蕾希亚的尸体</LF_Glacia_Corpse.label>
+  <LF_Glacia_Corpse.description>逐渐失去温度的格蕾希亚尸体。再也没有人能给她带来更多痛苦。</LF_Glacia_Corpse.description>
+
+</LanguageData>
+

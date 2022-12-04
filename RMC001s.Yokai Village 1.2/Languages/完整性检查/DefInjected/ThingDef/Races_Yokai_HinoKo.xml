@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_HinoKo.label>Hi no Ko</Yokai_HinoKo.label>
+  <Yokai_HinoKo.description>This "Child of Fire," is a small unusual Yokai who-unironically-likes fire.
+    \nAs seemingly living flames, they are resistant to heat and fire damage, and are mainly seen in deserts and extreme deserts.
+    \nTheir fists are wrapped in flames, and their bodies explode upon death; thus, be careful when using them to defend your colony.
+    \nThey are somewhat easy to tame. Butchering their smoldering corpses will render liquid fuel, not leather or meat.</Yokai_HinoKo.description>
+  <Yokai_HinoKo.tools.0.label>Left hand</Yokai_HinoKo.tools.0.label>
+  <Yokai_HinoKo.tools.1.label>Right hand</Yokai_HinoKo.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_HinoKo_Corpse.label>Hi no Ko corpse</Yokai_HinoKo_Corpse.label>
+  <Yokai_HinoKo_Corpse.description>Hi no Ko corpse</Yokai_HinoKo_Corpse.description>
+
+
+</LanguageData>

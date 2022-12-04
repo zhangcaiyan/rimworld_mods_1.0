@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+	<ResearchProjectDef>
+		<defName>Xtraflower</defName>
+		<label>Xtra Flowers</label>
+		<description>Researches Xtra Flowers to plant.</description>
+		<tab>VG</tab>
+		<baseCost>300</baseCost>
+		    <techLevel>Neolithic</techLevel>
+ 		<researchViewX>1</researchViewX>
+		<researchViewY>1</researchViewY>
+ 	 </ResearchProjectDef>
+
+</Defs>

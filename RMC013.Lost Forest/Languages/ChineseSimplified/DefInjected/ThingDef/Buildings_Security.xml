@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_Turret_PrecisionMortar.label>精准型迫撃炮</LF_Turret_PrecisionMortar.label>
+	<LF_Turret_PrecisionMortar.description>弹道偏离范围极小，具有高精准度的迫撃炮。透过骇入星球附近的监视卫星与无线电探天仪所取得的情报即时修正弹道。\n（落下误差半径:3）</LF_Turret_PrecisionMortar.description>
+
+</LanguageData>

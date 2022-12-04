@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchTimeOfDaySwitch.label>定时开关</ResearchTimeOfDaySwitch.label>
+  <ResearchTimeOfDaySwitch.description>研究一种电源开关，它可以根据一天中不同的时间被设置成开启或关闭。</ResearchTimeOfDaySwitch.description>
+  <ResearchTimeOfDaySwitch.discoveredLetterTitle>定时开关研究完毕</ResearchTimeOfDaySwitch.discoveredLetterTitle>
+  <ResearchTimeOfDaySwitch.discoveredLetterText>您现在可以构造可配置为在指定时间打开或关闭的电源开关。\n\n注意:不要把你的灯、炮塔等直接连到开关上!加一根电源线，然后连接!</ResearchTimeOfDaySwitch.discoveredLetterText>
+
+
+</LanguageData>

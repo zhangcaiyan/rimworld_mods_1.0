@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_WaterwayConstructionSpot.label>Water Expansion</LF_WaterwayConstructionSpot.label>
+	<LF_WaterwayConstructionSpot.description>Spread a water source from one tile to another. The arrow indicates where water is being pulled from.\nBy digging into the ground, colonists can prepare a path for water to spread into adjacent tiles. Work amount is proportional to the type of water; moreover, necessary researche must be completed in order to pull more deeper water sources that cannot be forded.</LF_WaterwayConstructionSpot.description>
+
+	<LF_KAZUSA_WaterVeinDrillSystem.label>KAZUSA system</LF_KAZUSA_WaterVeinDrillSystem.label>
+	<LF_KAZUSA_WaterVeinDrillSystem.description>A traditional vertical drilling facility that can access aquifers (underground deposits of water, aka groundwater) without using electricity. "Traditional," however is a slight misnomer, at least in the context of the Rim; the Kazusa was previously, before your discovery, an unknown structure to colonies on the Rim. In general, the Kazusa's design harkens to an exotic-but almost forgotten-world. This drill can dig more than 500 meters deep with a bit of wood, iron, manpower, and some patience. Upon completion of the excavation, a spring will replace the structure; however, whether that spring will be hot or cold is impossible to say beforehand.</LF_KAZUSA_WaterVeinDrillSystem.description>
+
+	<LF_WaterVeinDrill.label>Aquifer bore</LF_WaterVeinDrill.label>
+	<LF_WaterVeinDrill.description>A mechanized drilling device for digging into aquifers. It consumes electricity and drills at high speeds. Such drills, however, are seen as disposable due to the intense wear it undertakes from prolonged use, deep drilling, and water exposure. Upon completion of the excavation, a spring will replace the structure; however, whether that spring will be hot or cold is impossible to say beforehand.</LF_WaterVeinDrill.description>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 方形花盆 -->
+
+  <Anon2SquarePlantPot.label>方形花盆</Anon2SquarePlantPot.label>
+  <Anon2SquarePlantPot.description>可以用来种植装饰性的花来提高周围小人的心情</Anon2SquarePlantPot.description>
+  <Anon2SquarePlantPot_Blueprint.label>方形花盆 (蓝图)</Anon2SquarePlantPot_Blueprint.label>
+  <Anon2SquarePlantPot_Blueprint_Install.label>方形花盆 (蓝图)</Anon2SquarePlantPot_Blueprint_Install.label>
+  <Anon2SquarePlantPot_Frame.label>方形花盆 (建造中)</Anon2SquarePlantPot_Frame.label>
+  <Anon2SquarePlantPot_Frame.description>可以用来种植装饰性的花来提高周围小人的心情</Anon2SquarePlantPot_Frame.description>
+
+
+  <!-- plantspot -->
+
+  <Anon2PlantSpot.label>大型花盆</Anon2PlantSpot.label>
+  <Anon2PlantSpot.description>用来种植装饰性花的大型花盆.更容易建造但是美观度不如小型花盆.</Anon2PlantSpot.description>
+  <Anon2PlantSpot_Blueprint.label>大型花盆 (蓝图)</Anon2PlantSpot_Blueprint.label>
+  <Anon2PlantSpot_Frame.label>大型花盆 (建造中)</Anon2PlantSpot_Frame.label>
+  <Anon2PlantSpot_Frame.description>用来种植装饰性花的大型花盆.更容易建造但是美观度不如小型花盆.</Anon2PlantSpot_Frame.description>
+
+
+  <!-- ornate plant pot -->
+
+  <Anon2OrnatePlantPot.label>艺术花盆</Anon2OrnatePlantPot.label>
+  <Anon2OrnatePlantPot.description>可以用来种植装饰性的花来提高周围小人的心情,同时这个花盆是个艺术品</Anon2OrnatePlantPot.description>
+  <Anon2OrnatePlantPot_Blueprint_Install.label>艺术花盆雕像 (蓝图)</Anon2OrnatePlantPot_Blueprint_Install.label>
+
+
+  <!-- ornate 方形花盆 -->
+
+  <Anon2OrnateSquarePlantPot.label>艺术方形花盆</Anon2OrnateSquarePlantPot.label>
+  <Anon2OrnateSquarePlantPot.description>可以用来种植装饰性的花来提高周围小人的心情,同时这个花盆是个艺术品</Anon2OrnateSquarePlantPot.description>
+  <Anon2OrnateSquarePlantPot_Blueprint_Install.label>艺术方形花盆 (蓝图)</Anon2OrnateSquarePlantPot_Blueprint_Install.label>
+
+
+</LanguageData>

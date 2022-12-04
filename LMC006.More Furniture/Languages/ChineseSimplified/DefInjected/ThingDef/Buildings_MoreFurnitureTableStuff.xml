@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 小桌子 -->
+
+  <Anon2TableTiny.label>小桌子</Anon2TableTiny.label>
+  <Anon2TableTiny.description>当有椅子的时候，人们可以在桌子上吃饭。</Anon2TableTiny.description>
+  <Anon2TableTiny_Blueprint.label>小桌子 (蓝图)</Anon2TableTiny_Blueprint.label>
+  <Anon2TableTiny_Blueprint_Install.label>小桌子 (蓝图)</Anon2TableTiny_Blueprint_Install.label>
+  <Anon2TableTiny_Frame.label>小桌子 (建造中)</Anon2TableTiny_Frame.label>
+  <Anon2TableTiny_Frame.description>当有椅子的时候，人们可以在桌子上吃饭。</Anon2TableTiny_Frame.description>
+
+
+  <!-- Counter Basic -->
+
+  <Anon2CounterA.label>柜台</Anon2CounterA.label>
+  <Anon2CounterA.description>一个拥有大平面的柜台。</Anon2CounterA.description>
+  <Anon2CounterA_Blueprint.label>柜台 (蓝图)</Anon2CounterA_Blueprint.label>
+  <Anon2CounterA_Blueprint_Install.label>柜台 (蓝图)</Anon2CounterA_Blueprint_Install.label>
+  <Anon2CounterA_Frame.label>柜台 (建造中)</Anon2CounterA_Frame.label>
+  <Anon2CounterA_Frame.description>一个拥有大平面的柜台。</Anon2CounterA_Frame.description>
+
+
+  <!-- Counter Basic Full -->
+
+  <Anon2CounterAFull.label>大柜台</Anon2CounterAFull.label>
+  <Anon2CounterAFull.description>一个拥有超大平面的柜台，可以用来当前台。</Anon2CounterAFull.description>
+  <Anon2CounterAFull_Blueprint.label>大柜台 (蓝图)</Anon2CounterAFull_Blueprint.label>
+  <Anon2CounterAFull_Blueprint_Install.label>大柜台 (蓝图)</Anon2CounterAFull_Blueprint_Install.label>
+  <Anon2CounterAFull_Frame.label>大柜台 (建造中)</Anon2CounterAFull_Frame.label>
+  <Anon2CounterAFull_Frame.description>一个拥有超大平面的柜台，可以用来当前台。</Anon2CounterAFull_Frame.description>
+
+
+</LanguageData>

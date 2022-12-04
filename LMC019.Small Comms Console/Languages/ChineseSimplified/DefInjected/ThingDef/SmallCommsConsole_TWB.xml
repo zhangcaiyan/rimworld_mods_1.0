@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmallCommsConsole_TWB.label>小型通讯台</SmallCommsConsole_TWB.label>
+  <SmallCommsConsole_TWB.description>标准尺寸通讯台的缩小版本，仅占地1X1。可以通过无线电和遥远的轨道贸易商进行交易。以及联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。</SmallCommsConsole_TWB.description>
+  <SmallCommsConsole_TWB_Blueprint.label>小型通讯台 (蓝图)</SmallCommsConsole_TWB_Blueprint.label>
+  <SmallCommsConsole_TWB_Blueprint_Install.label>小型通讯台 (蓝图)</SmallCommsConsole_TWB_Blueprint_Install.label>
+  <SmallCommsConsole_TWB_Frame.label>小型通讯台 (建造中)</SmallCommsConsole_TWB_Frame.label>
+  <SmallCommsConsole_TWB_Frame.description>标准尺寸通讯台的缩小版本，仅占地1X1。可以通过无线电和遥远的轨道贸易商进行交易。以及联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。</SmallCommsConsole_TWB_Frame.description>
+
+
+</LanguageData>

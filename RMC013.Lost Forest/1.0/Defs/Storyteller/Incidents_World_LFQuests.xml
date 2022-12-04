@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>Quest_LFFindOutSurvivor</defName>
+    <label>find out survivor quest</label>
+    <category>WorldQuest</category>
+    <targetTags>
+      <li>World</li>
+    </targetTags>
+    <workerClass>LostForest.IncidentWorker_LFQuestFindOutSurvivor</workerClass>
+    <letterLabel>Find out beasthuman survivor quest</letterLabel>
+    <letterText>There are rumors that beasthuman who were separated from their friends were witnessed near the colony. If go to that place within {0} days, he may still be there. \n {1}</letterText>
+    <letterDef>PositiveEvent</letterDef>
+    <baseChance>0</baseChance>
+    <populationEffect>IncreaseHard</populationEffect>
+    <earliestDay>10</earliestDay>
+    <minRefireDays>2</minRefireDays>
+  </IncidentDef>
+
+  <IncidentDef>
+    <defName>Quest_LFGaitOfAncientOne</defName>
+    <label>gait of ancient one quest</label>
+    <category>WorldQuest</category>
+    <targetTags>
+      <li>World</li>
+    </targetTags>
+    <workerClass>LostForest.IncidentWorker_LFQuestGaitOfAncientOne</workerClass>
+    <letterLabel>Gait of ancient one quest</letterLabel>
+    <letterText>With some clues, we grabbed the steps of the unknown one. "It", which is the master of servant dragons, will probably stay there for {0} days. Unfortunately, there seems to be not much time for contact.</letterText>
+    <letterDef>PositiveEvent</letterDef>
+    <baseChance>0</baseChance>
+    <populationEffect>IncreaseHard</populationEffect>
+    <earliestDay>30</earliestDay>
+    <minRefireDays>5</minRefireDays>
+  </IncidentDef>
+
+
+</Defs>

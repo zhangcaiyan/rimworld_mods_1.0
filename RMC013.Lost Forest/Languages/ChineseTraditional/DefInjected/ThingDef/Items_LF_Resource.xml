@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <LF_FoxiaTears.label>巫女狐之涙</LF_FoxiaTears.label>
+    <LF_FoxiaTears.description>嚥下最後一口氣時，巫女狐所流落的淚珠。她們的眼淚具有能使傷勢痊癒的超然力量。傳說中，此淚水似乎能喚醒失落的遠古神木所藏有的記憶。</LF_FoxiaTears.description>
+
+    <LF_WoodLog.label>神木的木材</LF_WoodLog.label>
+    <LF_WoodLog.description>仿製了古代神聖大樹的木材。被不可思議的力量所加護的木材，絕不會被烈火焚毀。以此木材製成的家具既輕又堅固，想必能保佑人們遠離疾病，並帶來安詳。</LF_WoodLog.description>
+　　<LF_WoodLog.stuffProps.stuffAdjective>神木</LF_WoodLog.stuffProps.stuffAdjective>
+
+    <PressedIronScraps.label>壓縮鐵塊</PressedIronScraps.label>
+    <PressedIronScraps.description>將金屬碎片壓縮而成，跟鋼鐵一樣能作為建材使用。比起金屬提煉器能更為快速的變換成可利用資源。但製作家具時所消耗的量會多比使用石材時還多。請多加留意。熔解後仍能得到相同數量的鋼鐵。</PressedIronScraps.description>
+　　<PressedIronScraps.stuffProps.stuffAdjective>壓縮鐵塊</PressedIronScraps.stuffProps.stuffAdjective>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AvoidFriendlyFire_0_17_6.modNameReadable>避免友军误伤</AvoidFriendlyFire_0_17_6.modNameReadable>
+	<AvoidFriendlyFire_0_17_6.content>MOD现在支持具有强制脱靶半径的武器，例如加特林。</AvoidFriendlyFire_0_17_6.content>
+
+	<AvoidFriendlyFire_0_18_2.modNameReadable>避免友军误伤</AvoidFriendlyFire_0_18_2.modNameReadable>
+	<AvoidFriendlyFire_0_18_2.content>远程部队不会停止射击如果在前线的友军配备护盾，且至少拥有10%的能量。你现在可以用配备护盾的近战步兵攻击，而远程部队继续从后面向他们开火。如果前线部队在受到友方火力攻击时，护盾的能量降到10%以下，那么远程部队就会停止射击。当护盾重新充能超过10%后，他们将恢复射击。如果需要，可以从mod选项中禁用此行为。</AvoidFriendlyFire_0_18_2.content>
+
+	<AvoidFriendlyFire_0_18_5.modNameReadable>避免友军误伤</AvoidFriendlyFire_0_18_5.modNameReadable>
+	<AvoidFriendlyFire_0_18_5.content>在MOD配置中添加了一个设定，当一个兵未被征兆时总是启用“避免FF”（避免友军误伤）状态。如果您在战斗中倾向于禁用当兵的“避免FF”设置，使用此选项。默认情况下，此选项处于关闭状态。</AvoidFriendlyFire_0_18_5.content>
+
+	<AvoidFriendlyFire_0_18_7.modNameReadable>避免友军误伤</AvoidFriendlyFire_0_18_7.modNameReadable>
+	<AvoidFriendlyFire_0_18_7.content>如果需要的话宠物保护现在可以在Mod选项关闭。当使用驯服的美洲山鼠作为武器或者使用某些mod时，这是非常有用的。</AvoidFriendlyFire_0_18_7.content>
+
+</LanguageData>

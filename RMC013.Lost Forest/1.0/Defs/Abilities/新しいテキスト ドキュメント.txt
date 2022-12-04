@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--====================  =======================-->
+
+  <LostForest.AbilityDef>
+    <defName>LFAbilityBase</defName>
+    <label>アビリティベース</label>
+    <verb>
+	<verbClass>LostForest.Verb_CastSkill</verbClass>
+	<abilityDef>LFAbilityBase</abilityDef>
+	<defaultProjectile>Projectile_LFAbilityBase</defaultProjectile>
+	<hasStandardCommand>true</hasStandardCommand>
+	<isPrimary>false</isPrimary>
+	<warmupTime>2</warmupTime>
+	<defaultCooldownTime>10</defaultCooldownTime>
+	<minRange></minRange>
+	<range>60</range>
+	<forcedMissRadius>0</forcedMissRadius>
+	<burstShotCount>1</burstShotCount>
+	<ticksBetweenBurstShots>15</ticksBetweenBurstShots>
+	<stopBurstWithoutLos>true</stopBurstWithoutLos>
+	<soundCast>Shot_IncendiaryLauncher</soundCast>
+	<soundCastTail>GunTail_Medium</soundCastTail>
+	<muzzleFlashScale>0</muzzleFlashScale>
+	<requireLineOfSight>false</requireLineOfSight>
+	<mustCastOnOpenGround>false</mustCastOnOpenGround>
+        <targetParams>
+<!--
+		<canTargetLocations>true</canTargetLocations>
+		public bool canTargetLocations;
+		public bool canTargetSelf;
+		public bool canTargetPawns = true;
+		public bool canTargetFires;
+		public bool canTargetBuildings = true;
+		public bool canTargetItems;
+		public List<Faction> onlyTargetFactions;
+		public Predicate<TargetInfo> validator;
+		public bool onlyTargetFlammables;
+		public Thing targetSpecificThing;
+		public bool mustBeSelectable;
+		public bool neverTargetDoors;
+		public bool neverTargetIncapacitated;
+		public bool onlyTargetThingsAffectingRegions;
+		public bool onlyTargetDamagedThings;
+		public bool mapObjectTargetsMustBeAutoAttackable = true;
+		public bool onlyTargetIncapacitatedPawns;
+-->
+	</targetParams>
+    </verb>
+  </LostForest.AbilityDef>
+
+  <ThingDef Class="LostForest.ProjectileDef">
+    <defName>Projectile_LFAbilityBase</defName>
+    <label>アビリティダミー</label>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>LostForest.Projectile_Ability</thingClass>
+    <projectile>
+      <speed>9999</speed>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>0</damageAmountBase>
+      <explosionRadius>4.9</explosionRadius>
+      <stoppingPower>0</stoppingPower>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof></soundHitThickRoof>
+      <soundExplode></soundExplode>
+      <soundImpactAnticipate></soundImpactAnticipate>
+      <soundAmbient></soundAmbient>
+    </projectile>
+  </ThingDef>
+
+
+</Defs>
+
+<!--
+	public class VerbProperties
+	{
+		private enum RangeCategory : byte
+		{
+			Touch,
+			Short,
+			Medium,
+			Long
+		}
+
+		public VerbCategory category = VerbCategory.Misc;
+
+		[TranslationHandle]
+		public Type verbClass = typeof(Verb);
+
+		[MustTranslate]
+		public string label;
+
+		[TranslationHandle(Priority = 100), Unsaved]
+		public string untranslatedLabel;
+		public bool isPrimary = true;
+		public float minRange;
+		public float range = 1.42f;
+		public int burstShotCount = 1;
+		public int ticksBetweenBurstShots = 15;
+		public float noiseRadius = 3f;
+		public bool hasStandardCommand;
+		public bool targetable = true;
+		public TargetingParameters targetParams = new TargetingParameters();
+		public bool requireLineOfSight = true;
+		public bool mustCastOnOpenGround;
+		public bool forceNormalTimeSpeed = true;
+		public bool onlyManualCast;
+		public bool stopBurstWithoutLos = true;
+		public SurpriseAttackProps surpriseAttack;
+		public float commonality = 1f;
+		public Intelligence minIntelligence;
+		public float consumeFuelPerShot;
+		public float warmupTime;
+		public float defaultCooldownTime;
+		public SoundDef soundCast;
+		public SoundDef soundCastTail;
+		public SoundDef soundAiming;
+		public float muzzleFlashScale;
+		public ThingDef impactMote;
+		public BodyPartGroupDef linkedBodyPartsGroup;
+		public bool ensureLinkedBodyPartsGroupAlwaysUsable;
+		public DamageDef meleeDamageDef;
+		public int meleeDamageBaseAmount = 1;
+		public float meleeArmorPenetrationBase = -1f;
+		public bool ai_IsWeapon = true;
+		public bool ai_IsBuildingDestroyer;
+		public float ai_AvoidFriendlyFireRadius;
+		public ThingDef defaultProjectile;
+		public float forcedMissRadius;
+		public float accuracyTouch = 1f;
+		public float accuracyShort = 1f;
+		public float accuracyMedium = 1f;
+		public float accuracyLong = 1f;
+		public ThingDef spawnDef;
+		public TaleDef colonyWideTaleDef;
+		public BodyPartTagDef bodypartTagTarget;
+		public RulePackDef rangedFireRulepack;
+		public const float DefaultArmorPenetrationPerDamage = 0.015f;
+		private const float VerbSelectionWeightFactor_BodyPart = 0.3f;
+		private const float MinLinkedBodyPartGroupEfficiencyIfMustBeAlwaysUsable = 0.4f;
+
+-->
+
+
+

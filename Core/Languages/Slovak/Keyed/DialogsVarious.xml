@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Potvrdiť</Confirm>
+  <GoBack>Späť</GoBack>
+  <OK>OK</OK>
+
+ <!-- Save/load -->
+  <SaveGameButton>Uložiť</SaveGameButton>
+  <OverwriteButton>Prepísať</OverwriteButton>
+  <LoadGameButton>Nahrať</LoadGameButton>
+  <ConfirmDelete>Naozaj zmazať {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Zmazať túto uloženú hru.</DeleteThisSavegame>
+  <SavedAs>Uložiť ako {0}.</SavedAs>
+  <NeedAName>Zadajte prosím meno.</NeedAName>
+  <LoadingLongEvent>Nahrávam...</LoadingLongEvent>
+
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Každý vie, že nechcete na tejto skale zostať naveky. Ale {0} navrhuje, aby ste aj tak svoju kolóniu pomenovali.\n\nAko sa má volať?</NameColonyMessage>
+  <ColonyGainsName>Kolónia sa odteraz volá {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Toto meno kolónie nie je platné.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>Táto zóna sa odteraz nazýva {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Uveďte prosím platné meno zóny.</ZoneNameIsInvalid>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Nezhoda verzií: Mapa bola uložená vo verzii hry {0}, pričom práve hráte verziu {1}.\n\n Nahratie tejto hry pravdepodobne spôsobí chyby a nestabilitu.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Nekompatibilná uložená pozícia</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Zmenili ste rozlíšenie. Pracuje toto nové správne?\n\nAutomatické vrátenie pôvodného rozlíšenia o {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Ponechať</ResolutionKeep>
+  <ResolutionRevert>Vrátiť</ResolutionRevert>
+  
+  <!-- Overview -->  
+  <OverviewOf>Prehľad o {0}</OverviewOf>
+  
+  <!-- Research -->    
+  <Research>Výskum</Research>
+  <Researched>Preskúmané</Researched>
+  <Unresearched>Nepreskúmané</Unresearched>
+  <Finished>Ukončené</Finished>
+  <InProgress>Prebieha</InProgress>
+  <ResearchMenuWithoutBench>Pokiaľ nepostavíte VÝVOJÁRSKY STÔL, kolonisti nebudú môcť vykonávať výskum.\n\nStále si ale môžete pozrieť detaily výskumných projektov a zvoliť plánovaný projekt na výskum.</ResearchMenuWithoutBench>
+  
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>UPOZORNENIE: Výkon môže pri väčších mapách klesnúť, pokiaľ nemáte dostatočne rýchly počítač. Pri slabšom počítači zvoľte Malá; hra je stále vyrovnaná. Ludeonikrózna veľkosť nebola zatiaľ príliš otestovaná :) </MapSizePerformanceWarning>
+  <MapSize>Veľkosť mapy</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} políčok)</MapSizeDesc>
+  <MapSizeSmall>Malá</MapSizeSmall>
+  <MapSizeMedium>Stredná</MapSizeMedium>
+  <MapSizeLarge>Veľká</MapSizeLarge>
+  <MapSizeExtreme>Ludeonikrózna</MapSizeExtreme>
+
+
+  
+  <!-- Bill config -->
+  <Suspended>Pozastavený</Suspended>
+  <NotSuspended>Nepozastavený</NotSuspended>
+  <SuspendedAllCaps>POZASTAVENÝ</SuspendedAllCaps>
+  <RepeatCount>Opakovať: {0}</RepeatCount>
+  <Forever>Donekonečna</Forever>
+  <IngredientSearchRadius>Okruh hľadania prísad</IngredientSearchRadius>
+  <TargetCount>Vyrobiť viac, pokiaľ nie je: {0}</TargetCount>
+  <Infinite>Donekonečna</Infinite>
+  <RecipeCannotHaveTargetCount>(Tento recept nemôže mať cieľový počet, pretože má viacero alebo nepredvídateľné produkty.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Povolené prísady</PermittedIngredients>
+  <MinimumSkills>Minimálne schopnosti:</MinimumSkills>
+  <DoXTimes>Vykonať X-krát</DoXTimes>
+  <DoUntilYouHaveX>Vykonať, až kým nie je X</DoUntilYouHaveX>
+  <DoForever>Vykonať donekonečna</DoForever>
+  <BillRepeatTargetCountShort>Až do {0}</BillRepeatTargetCountShort>
+  <BasePrice>Cena</BasePrice>
+  <Diet>Druh potravy</Diet>
+    <MinFoodQuality>Minimálna kvalita jedla</MinFoodQuality>
+	  <MeatAmount>Množstvo mäsa</MeatAmount>
+  <WalkSpeedProperty>Rýchlosť pohybu</WalkSpeedProperty>
+   <BillRequires>Požaduje {0} {1}</BillRequires>
+  <UsableIngredients>Použiteľné ingrediencie </UsableIngredients>
+  <BillStoreMode_DropOnFloor>Položiť na zem</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Odniesť do najlepšieho skladu</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Odniesť do najbližšieho skladu</BillStoreMode_NearestStockpileAnyPriority>
+   <MeleeDamage>Ručný útok</MeleeDamage>
+  <!-- Trade -->
+  <YourTradeableSilver>Tvoje striebro: {0}</YourTradeableSilver>
+   	<YourTradeableSilverTip>Môžeš obchodovať iba so striebrom, ktoré sa nachádza neďaleko orbitálneho obchodného majáka a nie je pod strechou.</YourTradeableSilverTip>
+
+  
+  <!-- Comms -->  
+  <SocialSkillIs>Sociálna schopnosť: {0}</SocialSkillIs>
+
+
+  <!--Other-->
+  <ResearchFinished>Výskum dokončený: {0}</ResearchFinished>
+  <ResearchScreen>Obrazovka výskumu</ResearchScreen>
+  
+   <!-- Def Card -->
+  <Type>Typ</Type>
+  <GunType>Zbraň</GunType>
+  <PlantType>Rastlina</PlantType>
+  <FoodType>Jedlo</FoodType>
+  <HumanType>Človek</HumanType>
+  <AnimalType>Zviera</AnimalType>
+  <MechanoidType>Mechanoid</MechanoidType>
+  <Damage>Poškodenie</Damage>
+  <Accuracy>Presnosť</Accuracy>
+  <BurstShotCount>Počet striel</BurstShotCount>
+  <WarmupTime>Čas zameriavania</WarmupTime>
+  <CooldownTime>Čas medzi streľbou</CooldownTime>
+  <BurstShotFireRate>Počet striel za minútu</BurstShotFireRate>
+  <Range>Dostrel</Range>
+  <GrowsWild>Rastie v prírode</GrowsWild>
+  <Harvestable>Možný zber</Harvestable>
+  <LimitedLifespan>Obmedzená životnosť</LimitedLifespan>
+  <GrowingTime>Čas rastu</GrowingTime>
+  <Days>Dní</Days>
+  <FertilityRequirement>Požadované pohnojenie zeme.</FertilityRequirement>
+  <LightRequirement>Požadované svetlo</LightRequirement>
+  <Attributes>Atribúty</Attributes>
+  <LifeSpan>Životnosť</LifeSpan>
+  <Nutrition>Nutricií</Nutrition>
+  <FoodQuality>Kvalita</FoodQuality>
+    <RecruitDifficulty>Obtiažnosť naverbovania</RecruitDifficulty>
+  <baseMarketValue>Základná cena</baseMarketValue>
+  <Covers>Pokrýva</Covers>
+  <NaturalArmorCovers>Prirodzené brnenie pokrýva</NaturalArmorCovers>
+  <BodyPartEfficiency>Efektívnosť časti tela</BodyPartEfficiency>
+  
+   <!-- Trade -->
+  <DragToTrade>Potiahni pre obchod</DragToTrade>
+  <BuyPriceDesc>Cenu ktorú zaplatiš za kúpu.</BuyPriceDesc>
+  <SellPriceDesc>Cenu ktorú dostaneš za predaj.</SellPriceDesc>
+  <PriceTypeDesc>Pre tento objekt je cena {0}.</PriceTypeDesc>
+  <ColonyCount>Koľko kusov tohto predmetu má kolónia na predaj.\n\nPredmety môžeš predávať len ak nie su pod strechou, a v dosahu orbitálneho majáka.</ColonyCount>
+  <TraderCount>Koľko kusov tohto predmetu má obchodník na predaj.</TraderCount>
+  <AcceptButton>Potvrdiť</AcceptButton>
+  <ResetButton>Resetovať</ResetButton>
+  <CancelButton>Zrušiť</CancelButton>
+  <TraderHasNoMore>Obchodník už viac nemá.</TraderHasNoMore>
+  <ColonyHasNoMore>Nič viac na predaj.</ColonyHasNoMore>
+  <TraderWillNotTrade>Obchodník nechce vymeniť tento predmet.</TraderWillNotTrade>
+  
+    <!-- Stats report -->
+  <StatsReport_BaseValue>Základná cena</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Dôležité vlastnosti</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Dôležita výstroj</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiál</StatsReport_Material>
+  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Skill factors</StatsReport_Skills>
+  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Finálna cena</StatsReport_FinalValue>
+  
+   <!-- Pawn naming -->
+  <PawnGainsName>Prezývka kolonistu je teraz {0}.</PawnGainsName>
+  
+   <!--HistoryUpload-->
+  <HistoryUploadMessage>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované.Ďalšie nastavenia súkromia sú možné v menu nastavení.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Údaje sú úplne anonýmne, ale môžete pripojiť vaše meno.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Povoliť nahrávanie herných dát</HistoryUploadYes>
+  <HistoryUploadNo>Nepovoliť nahrávanie herných dát</HistoryUploadNo>
+  <HistoryUploadYesOnce>Nahrať len raz</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Nenahrávať teraz, opýtajte sa ma neskôr</HistoryUploadNoOnce>
+	
+  
+ 
+	  
+</LanguageData>

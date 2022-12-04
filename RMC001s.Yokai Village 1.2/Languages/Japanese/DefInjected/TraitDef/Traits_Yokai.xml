@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <YokaiSodathi.degreeDatas.0.label>妖怪育ち</YokaiSodathi.degreeDatas.0.label>
+  <YokaiSodathi.degreeDatas.0.description>妖怪と共に育った[PAWN_nameDef]は足が速く、動物とすぐに仲良くなれます。</YokaiSodathi.degreeDatas.0.description>
+  <HanYou.degreeDatas.0.label>ぬらりひょんの血</HanYou.degreeDatas.0.label>
+  <HanYou.degreeDatas.0.description>[PAWN_nameDef]の一族は過去のどこかでぬらりひょんと交わりました。その血は薄まっていますが優れた身体能力を有しています。</HanYou.degreeDatas.0.description>
+</LanguageData>

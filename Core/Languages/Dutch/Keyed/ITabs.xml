@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
+  <TabBills>Opdracht</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Landbouw</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Karakter</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Training</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>Gevangene</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>Gast</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>Spullen</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>Behoeften</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>Opslag</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>Hulzen</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>Gezondheid</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>Ras</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>Basics</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>Stats</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>Verslagen</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Kunst</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>Sociaal</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>Logboek</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Karavaan</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Inhoud</TabTransporterContents>
+
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>Opdracht toevoegen</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>Het recept {0} vereist de onderstaande vaardigheden. Geen van je kolonisten heeft deze vaardigheden, dus zal niemand deze opdracht uitvoeren.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Min. vaardigheid</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>OPGESCHORT</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Arbeider: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Plant</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Gekopieerde opdracht kan hier niet worden geplakt.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Verplaats omhoog</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Verplaats omlaag</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Verwijder</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Kopieer naar klembord</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>opschorten </SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Plakken</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>kan niet meer toevoegen</PasteBillTip_LimitReached>
+
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Resterende weerstand</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Recruterings basisniveau</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
+  <GetsFood>Krijgt voedsel</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Wordt verzorgd</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Krijgt medicijnen </GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Probeer te recruteren</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>Schuldig bevonden (vervalt in {0})</ConsideredGuilty>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Bewegingssnelheid</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Efficiëntie</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>Onderdelenefficiëntie</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Ontbreekt</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Vernietigd</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Versplinterd</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Verwijderd</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Gezond</Healthy>
+  <!-- EN: In pain -->
+  <InPain>In Pijn</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Pijn</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Gewond</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>geen gezondheidsproblemen </NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Hele lichaam</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Dataverwerking</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Communicatie</Communication>
+  <!-- EN: Affects -->
+  <Affects>Heeft invloed op </Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Hoeveelheid bloed</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>overlijden in {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>geen direct gevaar</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Overzicht</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operaties ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Aanpassingen ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Medische operaties</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>Amputeer</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>oogsten</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>verwĳderen</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>geheugen</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>sociale interacties</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Hongergehalte</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Vermoeidheid</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>Pijn</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>Voorkomt infecties </PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>Zelfverzorging</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>{0} met zelfverzorging ingeschakeld zal automatisch zichzelf verzorgen op {1} van de normale efficiëntie.</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Geen</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Erg slecht</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Slecht</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Verzwakt</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>OK</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Verbeterd</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Extreem gehandicapt</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>gehandicapt</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Licht gehandicapt</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Geen</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Een beetje</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Gemiddeld</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Veel</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Extreem veel</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Trainbaarheid</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>Vereisde trainbaarheid {0}.</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} is te klein om dit te trainen.</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Voorwaarde nodig: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(geen relaties)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Ontvoerd</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>Vermist</Missing>
+  <!-- EN: Slave -->
+  <Slave>Slaaf</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Factie leider</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Mening van {1_labelShort} </OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}'s mening over mij </SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Ik ben dood</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Ik ben een psychopaat </IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Totaal pantser</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>Gedragen massa: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>Comfortabel temperatuurbereik</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>Bot</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>Scherp</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>Warmte</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Toon alle</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Toon gevecht</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Toon sociaal</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>geen recente vermeldingen</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Kopieer logboek naar klembord.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Dieren verzamelen</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Dieren verzamelen (wachten)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Items verzamelen</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Items verzamelen (wahten)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Slaven verzamelen</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Slaven verzamelen (wachten)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Verzamelen van neergehaalde mensen</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Verzamelen van neergehaalde mensen (wachten)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Vertrekken</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Vertrekken (wachten)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Wachten</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Leden</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Dieren </CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>Te laden items</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Geladen items </LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>lastdieren laden</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>geestelijk gebroken</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Verwijder {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Wilt u {0} echt verwijderen?</ConfirmRemoveItemDialog>
+
+</LanguageData>

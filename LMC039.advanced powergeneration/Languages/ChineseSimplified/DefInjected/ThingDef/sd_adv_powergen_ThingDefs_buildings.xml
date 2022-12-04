@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- adv wind -->
+
+  <sd_adv_powergen_adv_wind_turbine.label>先进风力发电机</sd_adv_powergen_adv_wind_turbine.label>
+  <sd_adv_powergen_adv_wind_turbine.description>先进风力发电机。前后需要一个很大的空间，以获得最佳的气流。最大能量输出：4000W。</sd_adv_powergen_adv_wind_turbine.description>
+  <sd_adv_powergen_adv_wind_turbine_Blueprint.label>先进风力发电机（蓝图）</sd_adv_powergen_adv_wind_turbine_Blueprint.label>
+  <sd_adv_powergen_adv_wind_turbine_Blueprint_Install.label>先进的风力发电机（蓝图）</sd_adv_powergen_adv_wind_turbine_Blueprint_Install.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.label>先进风力发电机（建造中）</sd_adv_powergen_adv_wind_turbine_Frame.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.description>先进风力发电机。前后需要一个很大的空间，以获得最佳的气流。最大能量输出：4000W。</sd_adv_powergen_adv_wind_turbine_Frame.description>
+
+
+  <!-- adv solar -->
+
+  <sd_adv_powergen_adv_solar_generator.label>先进太阳能发电板</sd_adv_powergen_adv_solar_generator.label>
+  <sd_adv_powergen_adv_solar_generator.description>吸收阳光产生电力。没有阳光时无能量输出。最大能量输出：3400W。</sd_adv_powergen_adv_solar_generator.description>
+  <sd_adv_powergen_adv_solar_generator_Blueprint.label>先进太阳能发电板（蓝图）</sd_adv_powergen_adv_solar_generator_Blueprint.label>
+  <sd_adv_powergen_adv_solar_generator_Blueprint_Install.label>先进的太阳能发电板（蓝图）</sd_adv_powergen_adv_solar_generator_Blueprint_Install.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.label>先进太阳能发电板（建造中）</sd_adv_powergen_adv_solar_generator_Frame.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.description>吸收阳光产生电力。没有阳光时无能量输出。最大能量输出：3400W。</sd_adv_powergen_adv_solar_generator_Frame.description>
+
+
+  <!-- adv geothermal -->
+
+  <sd_adv_powergen_adv_geothermal_generator.label>先进地热发电机</sd_adv_powergen_adv_geothermal_generator.label>
+  <sd_adv_powergen_adv_geothermal_generator.description>利用地热蒸汽间歇泉产生电力。必须放在喷泉上。能量输出：7500W。</sd_adv_powergen_adv_geothermal_generator.description>
+  <sd_adv_powergen_adv_geothermal_generator_Blueprint.label>先进地热发电机（蓝图）</sd_adv_powergen_adv_geothermal_generator_Blueprint.label>
+  <sd_adv_powergen_adv_geothermal_generator_Blueprint_Install.label>先进地热发电机（蓝图）</sd_adv_powergen_adv_geothermal_generator_Blueprint_Install.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.label>先进地热发电机（建造中）</sd_adv_powergen_adv_geothermal_generator_Frame.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.description>利用地热蒸汽间歇泉产生电力。必须放在喷泉上。能量输出：7500W。</sd_adv_powergen_adv_geothermal_generator_Frame.description>
+
+
+  <!-- adv nuclear -->
+
+  <sd_adv_powergen_nuclear_power_plant.label>先进核电站</sd_adv_powergen_nuclear_power_plant.label>
+  <sd_adv_powergen_nuclear_power_plant.description>利用铀生产电力。可放置在任何地方。能量输出：20kW。</sd_adv_powergen_nuclear_power_plant.description>
+  <sd_adv_powergen_nuclear_power_plant_Blueprint.label>先进核电站（蓝图）</sd_adv_powergen_nuclear_power_plant_Blueprint.label>
+  <sd_adv_powergen_nuclear_power_plant_Blueprint_Install.label>先进核电站（蓝图）</sd_adv_powergen_nuclear_power_plant_Blueprint_Install.label>
+  <sd_adv_powergen_nuclear_power_plant_Frame.label>先进核电站（建造中）</sd_adv_powergen_nuclear_power_plant_Frame.label>
+  <sd_adv_powergen_nuclear_power_plant_Frame.description>利用铀生产电力。可放置在任何地方。能量输出：20kW。</sd_adv_powergen_nuclear_power_plant_Frame.description>
+
+
+</LanguageData>

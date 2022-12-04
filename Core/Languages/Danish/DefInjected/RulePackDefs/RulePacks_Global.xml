@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>quantity_adjphrase-&gt;en gruppe af</li>
+		<li>quantity_adjphrase-&gt;flere</li>
+		<li>quantity_adjphrase-&gt;dusinvis</li>
+		<li>quantity_adjphrase-&gt;to</li>
+		<li>quantity_adjphrase-&gt;tre</li>
+		<li>quantity_adjphrase-&gt;fire</li>
+		<li>quantity_adjphrase-&gt;fem</li>
+		<li>quantity_adjphrase-&gt;seks</li>
+		<li>quantity_adjphrase-&gt;utallige</li>
+		<li>quantity_adjphrase-&gt;utallig</li>
+		<li>trans-&gt;af</li>
+		<li>trans-&gt;for</li>
+		<li>trans-&gt;ved</li>
+		<li>trans-&gt;med</li>
+	</GlobalUtility.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Tukumo.label>付丧神</Yokai_Tukumo.label>
+  <Yokai_Tukumo.description>一把独受锺爱的刀，在经过了许久後拥有了自己的意识。会向妖怪村的仇敌毫不留情地释放斩击。
+    \n他们是属於妖怪村的特别妖怪，并不会在野外中存在。</Yokai_Tukumo.description>
+  <Yokai_Tukumo.tools.0.label>斩撃</Yokai_Tukumo.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Tukumo_Corpse.label>付丧神的尸体</Yokai_Tukumo_Corpse.label>
+  <Yokai_Tukumo_Corpse.description>曾经是付丧神的东西，魂已飞魄已散。分解後能得到少量的铁。</Yokai_Tukumo_Corpse.description>
+</LanguageData>

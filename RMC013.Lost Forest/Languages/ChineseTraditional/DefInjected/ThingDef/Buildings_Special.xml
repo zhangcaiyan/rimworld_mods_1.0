@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LF_AlchemyCore.label>錬成核心</LF_AlchemyCore.label>
+	<LF_AlchemyCore.description>從虛無中產生電力的神秘造物。可能正發生著事件視界崩壞的內部經過黑箱加密過，而那遠超人智的作用機制仍舊未明。根據文獻記載，在上古龍帝時代就已存在著利用卓械技術(Archotech)製造的等價性恆久發電機關。作為發電機使用時，能調控接續到的電器迴路，並使其安定化。</LF_AlchemyCore.description>
+
+	<LF_AlchemicBattery.label>錬成蓄電器</LF_AlchemicBattery.label>
+	<LF_AlchemicBattery.description>藉由上古龍帝時代的大容量蓄電装置所剩餘的零件，拼湊而成的模仿品。推測原是用於進行高能量鍊成的研究中。以何種形式儲藏能量仍是個謎，可以知道的是其驚人的變換效率及蓄電量，且能負荷大量電流的出入。儲入能量後不會產生自己放電或漏電等電力耗損事件，當接續的電路上發生因漏電而引發的過電流時，會將損失的電力盡數吸收。</LF_AlchemicBattery.description>
+
+	<LF_HolyWoodSapling.label>神聖樹的幼苗</LF_HolyWoodSapling.label>
+	<LF_HolyWoodSapling.description>古代神聖大樹的幼苗，相傳是孕育了諸多生命的源頭。能將周遭污穢淨化成清淨的空氣，並能賦予萬物生靈特別的力量。與遠古森林的中樞形似同源，遺憾的是需數百年的光陰方可成長茁壯，對我們來說，要親眼見證它長成離離蔚蔚的巨樹只怕是難以實現。罹患著蛔蟲、肌肉纖維化等長期疾病的殖民者，會受到苗木的祝福而得到定期治療，也能讓失控的微型機械病毒沉靜化。此外，對於潛伏在岩盤中的大型蟲群亦有強力的忌避效果。\n\n*但無法防止深部礦脈鑽頭所引發的蟲群入侵。</LF_HolyWoodSapling.description>
+
+	<LF_EntropyReductionCooler.label>熵遡行冷卻器</LF_EntropyReductionCooler.label>
+	<LF_EntropyReductionCooler.description>將周圍的熱吸收後轉換成電力的謎樣結構物，產生的電力大多數用於維持自身運作，是個永動機關。可能正發生著事件視界崩壞的內部經過黑箱加密過，而那遠超人智的作用機制仍舊未明。不受外界電磁場的影響，太陽風暴時仍能維持機能。根據其中一種假說，原是作為巨大戰略兵器的能量調控裝置的部分零件。</LF_EntropyReductionCooler.description>
+
+	<LF_EltguelmHeater.label>埃爾特葛勒姆發熱器</LF_EltguelmHeater.label>
+	<LF_EltguelmHeater.description>無需燃料補給即能半永久性的發出熱源的謎樣結構物。可能正發生著事件視界崩壞的內部經過黑箱加密過，而那遠超人智的作用機制仍舊未明。不受外界電磁場的影響，太陽風暴時仍能維持機能。根據其中一種假說，原是作為巨大戰略兵器的能量增幅裝置的部分零件。</LF_EltguelmHeater.description>
+
+	<LF_DaliusSunLamp.label>達利烏斯的煌輝燈</LF_DaliusSunLamp.label>
+	<LF_DaliusSunLamp.description>輝煌亮麗的曦照著強烈暉光的神秘燈火。比通常的太陽燈所需的電力還少，能不分晝夜的照亮周邊，對於屋內的農作物的生長能幫上不少忙。
+    那炫目的暉光，也能防止潛伏在岩盤中的大型蟲群。\n\n*但無法防止深部礦脈鑽頭所引發的蟲群入侵。</LF_DaliusSunLamp.description>
+
+	<LF_AtzldoirStella.label>阿迪爾的星爛燈</LF_AtzldoirStella.label>
+	<LF_AtzldoirStella.description>溫暖且蘊發神秘輝彩的謎樣燈火，無須任何電力，柔熙的光彩能恆久照亮周遭，對作物的生長帶來幫助。那沉靜安詳的柔輝，也能防止潛伏在岩盤中的大型蟲群。\n\n*但無法防止深部礦脈鑽頭所引發的蟲群入侵。</LF_AtzldoirStella.description>
+
+
+</LanguageData>

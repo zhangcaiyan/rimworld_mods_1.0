@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<!--====================== Furniture Base Defs ======================-->
+
+  <ThingDef Name="Anon2BuildingBase" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+		<statBases>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+  </ThingDef>
+
+  <ThingDef Name="Anon2FurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
+    <designationCategory>Furniture</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="Anon2FurnitureWithQualityBase" ParentName="Anon2FurnitureBase" Abstract="True">
+    <designationCategory>Furniture</designationCategory>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  <ThingDef Name="Anon2NoCompQualityFurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
+    <designationCategory>Furniture</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+  
+<!--====================== plantspot ======================-->
+
+
+  <ThingDef ParentName="Anon2FurnitureWithQualityBase">
+    <defName>Anon2PlantSpot</defName>
+    <label>Garden box</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Custom5</li>
+      </linkFlags>
+      <damageData>
+        <rectN>(0.125,0.296875,0.734375,0.421875)</rectN>
+        <rectS>(0.125,0.296875,0.734375,0.421875)</rectS>
+        <rectE>(0.234375,0.296875,0.5,0.546875)</rectE>
+        <rectW>(0.234375,0.296875,0.5,0.546875)</rectW>
+        <edgeTop>Damage/Edge</edgeTop>
+        <edgeBot>Damage/Edge</edgeBot>
+        <edgeLeft>Damage/Edge</edgeLeft>
+        <edgeRight>Damage/Edge</edgeRight>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToBuild>1600</WorkToBuild>
+      <Mass>50</Mass>
+      <Flammability>0.1</Flammability>
+    </statBases>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>45</costStuffCount>
+        <description>A garden box filled with soil.</description>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <altitudeLayer>Filth</altitudeLayer>
+    <passability>Standable</passability>
+    <blockWind>false</blockWind>
+    <fillPercent>0.15</fillPercent>
+    <coversFloor>True</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>false</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <holdsRoof>false</holdsRoof>
+    <blockLight>false</blockLight>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <pathCost>10</pathCost>
+        <fertility>1.0</fertility>
+    <building>
+      <isInert>true</isInert>
+      <defaultPlantToGrow>Plant_Rice</defaultPlantToGrow>
+      <sowTag>Ground</sowTag>
+    <blueprintGraphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Blueprint_Atlas</texPath>
+    </blueprintGraphicData>
+    </building>
+    <designationCategory>Furniture</designationCategory>
+    <staticSunShadowHeight>0.08</staticSunShadowHeight>
+
+    <tools>
+      <li>
+        <label>dirt</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>DirtInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+
+
+  </ThingDef>
+
+</Defs>

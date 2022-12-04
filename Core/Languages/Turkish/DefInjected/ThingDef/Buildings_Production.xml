@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<CraftingSpot.label>Üretim noktası</CraftingSpot.label>
+	<CraftingSpot.description>Basit yay ve bıçak yapmak için bir yer.</CraftingSpot.description>
+
+	<TableSculpting.label>Heykeltraşın masası</TableSculpting.label>
+	<TableSculpting.description>Heykeltraş için bir çalışma masası.</TableSculpting.description>
+	
+	<TableButcher.label>Kasap masası</TableButcher.label>
+	<TableButcher.description>Ölü yaratıkları parçalayıp ham et elde etmek için ağır bir masa.</TableButcher.description>
+
+  	<HandTailoringBench.label>Elde dikiş masası.</HandTailoringBench.label>
+  	<HandTailoringBench.description>Kıyafetleri elde dkmek için bir çalışma masası. Elektrikli dikiş masasına göre %40 daha yavaş.</HandTailoringBench.description>
+
+	<ElectricTailoringBench.label>Elektrikli dikiş massı</ElectricTailoringBench.label>
+  	<ElectricTailoringBench.description>Kıyafetleri hızlı şekilde dikmek için tasarlanmış çalışma masası. Elektrik olmadan da %40 daha yavaş şekilde çalışabilir.</ElectricTailoringBench.description>
+
+  	<FueledSmithy.label>Odunla çalışan demirci yeri.</FueledSmithy.label>
+  	<FueledSmithy.description>Odunla ısıtılan mekanik olmayan eşya ve silah yapmaya yarayan yer.</FueledSmithy.description>
+
+ 	<ElectricSmithy.label>Elektrikle çalışan demirci yeri.</ElectricSmithy.label>
+  	<ElectricSmithy.description>Elektrikle çalışan mekanik olmayan silah ve eşyalar yapmaya yarayan yer.</ElectricSmithy.description>
+
+	<TableMachining.label>İşleme masası</TableMachining.label>
+	<TableMachining.description>Silah ve mekanik ceset gibi m1akine parçalarını birleştirme ve ayrıştırma yapabileceğin bir çalışma istasyonu.</TableMachining.description>
+
+	<ElectricStove.label>Elektrikli ısıtıcı</ElectricStove.label>
+  	<ElectricStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan elektrikli ısıtıcı.</ElectricStove.description>
+
+  	<FueledStove.label>Odunlu ısıtıcı</FueledStove.label>
+  	<FueledStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan odunla çalışan ısıtıcı.</FueledStove.description>
+
+	<TableStonecutter.label>Taş yontma masası</TableStonecutter.label>
+	<TableStonecutter.description>Sert taşları işleyip kullanılabilir blok haline getirmeye yarayan çalışma masası.</TableStonecutter.description>
+	
+	<Brewery.label>Bira fabrikası</Brewery.label>
+	<Brewery.description>Gerekli eşyaları damıtıp bira yapmaya yarayan çalışma masası.</Brewery.description>
+	
+	<DrugLab.label>Uyuşturucu Laboratuarı</DrugLab.label>
+	<DrugLab.Description>Çeşitli kapları, ısıtıcılar ile donatılmış uyuşturucu yapma tezgahı.</DrugLab.Description>
+
+	<ElectricSmelter.label>Elektrikli döküm makinesi</ElectricSmelter.label>
+	<ElectricSmelter.description>Hurda metallerden ve diğer karışık metallerden işe yarar metal çıkarmaya yarar. Çok fazla güç kullanır.</ElectricSmelter.description>
+	
+	<ComponentAssemblyBench.label>Bileşen montaj masası</ComponentAssemblyBench.label>
+  	<ComponentAssemblyBench.description>Basit materyallerden bileşen üretmek için gelişmiş aletlerle donatılmış çalışma masası.</ComponentAssemblyBench.description>
+
+ 	<SimpleResearchBench.label>Basit araştırma masası</SimpleResearchBench.label>
+  	<SimpleResearchBench.description>Düşük teknoloji ilerlemesini ve gelişmeleri kayda almak içn basit bir çalışma masası. Araştırmacılar burda çalışarak yeni şeyler keşfedebilir.</SimpleResearchBench.description>
+
+  	<HiTechResearchBench.label>Yüksek teknoloji araştırma masası</HiTechResearchBench.label>
+  	<HiTechResearchBench.description>Bilgisayar ve elektrikli ölçüm araçlarıyla donatılmış yüksek teknoloji araştırma masası. Araştırmalar yüksek teknolojik aletlerle hız kazanır. Güç gerektirir.</HiTechResearchBench.description>
+
+	<ElectricCrematorium.label>Elektrikli ölü yakma yeri</ElectricCrematorium.label>
+	<ElectricCrematorium.description>Ölüleri yakmak için bir yer. Elektrik kullanır.</ElectricCrematorium.description>
+	
+	<HydroponicsBasin.label>Su havzası</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Yapay olark hazırlanmış besin dolu içinde ekinler hızlıca gelişir. Çalışması için güç gerekir; eğer güç kesilirse ekinler ölecektir.</HydroponicsBasin.description>
+	
+	<FermentingBarrel.label>Fermantasyon Varili</FermentingBarrel.label>
+    	<FermentingBarrel.description>Bira mayalamak için varil.</FermentingBarrel.description>
+	
+	<DeepDrill.label>Derin Sondaj</DeepDrill.label>
+    	<DeepDrill.description>Yeraltı minerallerini çıkarmaya yarayan derin sondaj makinesi.Yeraltı kaynaklarını çıakarabilmek için tarayıcı kullanmalısınız.</DeepDrill.description>
+	
+  	<NutrientPasteDispenser.label>Yemek Sıkıştırıcısı</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Organik besinleri sentezleyerek sıkıştırılmış yemek üretir. Ama kimse sıkıştırılmış yemek yemeyi sevmez.Çiğ yiyecekler sıkıştırılabilir, saman dışında. </NutrientPasteDispenser.description>
+	
+	<Hopper.label>Beslenme Hunisi</Hopper.label>
+	<Hopper.description>Sıkıstırılmış besin dağıtıcıları gibi makineler tarafından kullanılmak üzere kaynakları tutar.</Hopper.description>
+  
+</LanguageData>

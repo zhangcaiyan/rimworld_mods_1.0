@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>hjärna</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>öra</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>öga</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>fot</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>huvud</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>käke</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>ben</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>nacke</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>näsa</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>bröstkorg</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>kranium</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>ryggrad</Spine.label>
+  
+</LanguageData>

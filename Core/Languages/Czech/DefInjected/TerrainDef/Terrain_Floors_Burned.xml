@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>spálený koberec</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>Ohořelý koberec.</BurnedCarpet.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>spálená dřevěná podlaha</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Ohořelá dřevěná podlaha.</BurnedWoodPlankFloor.description>
+  
+</LanguageData>

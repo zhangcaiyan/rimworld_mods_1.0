@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FortuneCookie_Fox.label>おみくじ煎餅</FortuneCookie_Fox.label>
+  <FortuneCookie_Fox.description>ちび巫女狐から３日に１度貰える特別な食べ物。本来中に入っているおみくじの代わりに、特別なお守りが入っています。食べた人を一日病の進行から遠ざけてくれるでしょう。（なお、お守りの中にはモフモフとした何かの毛が１本入っているようです。）</FortuneCookie_Fox.description>
+
+  <MysteriousWreath.label>レフカの花冠</MysteriousWreath.label>
+  <MysteriousWreath.description>採集好きの彼女がどこからともなく集めてきたであろう、見たこともないハーブで編みこまれた神秘的な花冠。美しい花が咲き乱れています。残念ながら結び目が弱すぎて、これを身に着けることはできません。かすかにバニラのような香りがする。ちびレフカから３日に１度プレゼントされます。</MysteriousWreath.description>
+
+  <NutChocolate.label>義理チョコ...？</NutChocolate.label>
+  <NutChocolate.description>「作りすぎちゃったからあげる。別にあんたのためじゃないんだからね！」と言われ手渡されたハート型のナッツチョコ。義理チョコにしては妙に大きいし、見たこともない木の実がおどろおどろしいマーブル模様で丸ごと塗り固められている。謎の木の実について彼女に聞いても、自分で集めたものではないらしく良く判らない。本当に食べても大丈夫だろうか・・・？ちび狼から３日に１度押し付けられます。</NutChocolate.description>
+
+</LanguageData>

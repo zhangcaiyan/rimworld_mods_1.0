@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC035.定时开关</name>
+	<author>Shaun McFall</author>
+	<url>https://bitbucket.org/merthsoft/timeofdayswitch/</url>
+	<targetVersion>1.0.0</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+Adds power switches that can be activated or deactivated according to the current in-game time.\n\n添加可根据当前游戏内时间激活或停用的电源开关。\n\n*Power switches must be researched before they are unlocked.\n\n必须先研究电源开关才能建造它。\n\n汉化：jxb12306\n\n合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+  </description>
+</ModMetaData>

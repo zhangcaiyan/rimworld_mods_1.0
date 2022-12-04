@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FoxFlame.label>狐火</FoxFlame.label>
+  <FoxFlame.deathMessage>{0}は焼け死んだ。</FoxFlame.deathMessage>
+  <SnowFrostbite.label>雪傷</SnowFrostbite.label>
+  <SnowFrostbite.deathMessage>{0}は凍り付いた。</SnowFrostbite.deathMessage>
+  <DragonFrost.label>竜の冷気</DragonFrost.label>
+  <DragonFrost.deathMessage>{0}は凍り付いた。</DragonFrost.deathMessage>
+  <YokaiPower.label>妖気</YokaiPower.label>
+  <YokaiPower.deathMessage>{0}は切り裂かれて息絶えた。</YokaiPower.deathMessage>
+</LanguageData>

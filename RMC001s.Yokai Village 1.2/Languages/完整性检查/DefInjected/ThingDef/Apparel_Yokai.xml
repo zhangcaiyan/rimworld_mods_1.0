@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪衣 -->
+
+  <Yokai_Kimono_Koromo.label>Yokai Wear</Yokai_Kimono_Koromo.label>
+  <Yokai_Kimono_Koromo.description>Spacers wile their time with fancy cloths, while a bit of magic allows this simple garment to ward against heat and cold.
+       \nAs such magics draw upon the Yokai, the thread resonates with nature, endearing the wearer to all animals.</Yokai_Kimono_Koromo.description>
+
+
+  <!-- 女郎蜘蛛の肌着 -->
+
+  <Yokai_Kimono_Katabira.label>Kumo-ito no Sukin</Yokai_Kimono_Katabira.label>
+  <Yokai_Kimono_Katabira.description>The pattern used to make this outfit makes it resemble scale or chain mail; however, it uses neither of these materials, and instead utilizes Jorogumo thread. The thread is rather elastic and quickly adapts to the contours the wearer. This allows the outfit to safely cling to the skin without impeding movement. Colonists should be aware that, though the outfit does grant decent defense, it lacks any heat retention whatsoever, making it miserable to wear in colder climes.
+    \nColloqially known as the "Maiden's Protection," this outfit is still called by its formal name "Kumo-ito no Sukin," which translates to "Spider thread skin."</Yokai_Kimono_Katabira.description>
+
+  <Yokai_Kimono_Shitabaki.label>Maiden's Garments</Yokai_Kimono_Shitabaki.label>
+  <Yokai_Kimono_Shitabaki.description>Unlike Kumo-ito no Sukin, cultural pressure quickly saw this underwear renamed from "Kumo-ito no Shitabaki," which means "Spider thread underwear," to "Maiden's Garments." Prior to the name change Yokai merchants had great difficulty finding any buyers for such amazingly protective, comfortable, and flexible underwear. Some Rim-wide reviews cite the lack of heat retention as a problem; however, many others enjoy the airy, not-even-there feeling that this underwear gives.</Yokai_Kimono_Shitabaki.description>
+
+
+  <!-- 外套 -->
+
+  <Yokai_Kimono_Gaitou.label>Kemono no Gaitou</Yokai_Kimono_Gaitou.label>
+  <Yokai_Kimono_Gaitou.description>"Kemono no Kakusu" is a cloak made primarily of leather that has been reinforced by Jorogumo thread. This heavy cloak is ideal for long trips due to its high durability, resistance to slashing damage, and ability to fend off the cold. Focusing on the latter point, Yokai villages in cold biomes often rely upon these cloaks to keep them warm.</Yokai_Kimono_Gaitou.description>
+
+
+  <!-- 戦装束 -->
+
+  <Yokai_Kimono_Ikusa.label>Ikusa Shouzoku</Yokai_Kimono_Ikusa.label>
+  <Yokai_Kimono_Ikusa.description>Skilled hands are required to stitch this armor together. Dragon skin and Shiro wool allow this armor to be light and durable.</Yokai_Kimono_Ikusa.description>
+
+
+  <!-- 豊穣の面 -->
+
+  <Yokai_Omen_Warai.label>Warai Men</Yokai_Omen_Warai.label>
+  <Yokai_Omen_Warai.description>This ritual mask is routinely worn by yokai villagers; it depicts a calm kitsune (which means "fox" in Japanese). Its somewhat beastial appearance has sparked debate among outsiders, who wonder it pays homage to kitsune or Tsuzurao.
+    \nColonists who dawn this mask will find it far easier to interact with animals, as the Tsuzurao has placed a small blessing on all such masks.
+    \nAside from its blessing, this is a simple wooden mask, and offers very little in terms of physical or temperature resistance.</Yokai_Omen_Warai.description>
+
+
+  <!-- 狐面　非戦闘用 -->
+
+  <Yokai_Omen_Kitune.label>Kitune Men</Yokai_Omen_Kitune.label>
+  <Yokai_Omen_Kitune.description>This mask has been painted for war; and, though the strokes are few, though the paint little, it is enough to evoke a rather frightful blessing. With this mask, a colonist will mobility, precision, and dodge in melee combat.
+    \nThe Kyuubi's blessing also grants this chunk of wood the ability to resist blows, allowing its wearer to have increased confidence in battle.
+    \nAt the end, however, the object is still a piece of wood, and thus offers little in resistance to cold or heat.</Yokai_Omen_Kitune.description>
+
+
+  <!-- 戦仮面 -->
+
+  <Yokai_Omen_Ikusa.label>Ikusa Men</Yokai_Omen_Ikusa.label>
+  <Yokai_Omen_Ikusa.description>Imitation. Such helms are made to mimic the Nine Tails. It is not the blue leather or white fur that evoke her; rather, it is the glaring eyes that glisten for battle.</Yokai_Omen_Ikusa.description>
+
+
+</LanguageData>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--水中のポーン表示用-->
+  <HediffDef>
+    <defName>Hed_LFBathing</defName>
+    <label>bathing</label>
+    <maxSeverity>1</maxSeverity>
+    <defaultLabelColor>(0.6,0.6,0.6)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <stages>
+        <li>
+          <becomeVisible>false</becomeVisible>
+	  <statOffsets>
+            <ComfyTemperatureMax>10</ComfyTemperatureMax>
+            <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+            <Flammability>-1.0</Flammability>
+          </statOffsets>
+	</li>
+    </stages>
+  </HediffDef>
+
+	<!--温泉バフ-->
+  <HediffDef>
+    <defName>Hed_HotSpringWarmth</defName>
+    <label>hot spring warmth</label>
+    <maxSeverity>1</maxSeverity>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(1,0.8,0.8)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-8.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+        <li>
+          <minSeverity>0</minSeverity>
+          <label>slightly warm</label>
+          <restFallFactor>0.9</restFallFactor>
+	  <statOffsets>
+            <ComfyTemperatureMin>-8</ComfyTemperatureMin>
+          </statOffsets>
+            <capMods>
+              <li>
+                <capacity>Metabolism</capacity>
+                <offset>0.10</offset>
+              </li>
+            </capMods>
+        </li>
+        <li>
+          <minSeverity>0.33</minSeverity>
+          <label>warm</label>
+          <restFallFactor>0.9</restFallFactor>
+	  <statOffsets>
+            <ComfyTemperatureMin>-16</ComfyTemperatureMin>
+          </statOffsets>
+            <capMods>
+              <li>
+                <capacity>BloodPumping</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>Metabolism</capacity>
+                <offset>0.10</offset>
+              </li>
+            </capMods>
+        </li>
+        <li>
+          <minSeverity>0.67</minSeverity>
+          <label>very warm</label>
+          <restFallFactor>0.9</restFallFactor>
+	  <statOffsets>
+            <ComfyTemperatureMin>-24</ComfyTemperatureMin>
+          </statOffsets>
+            <capMods>
+              <li>
+                <capacity>BloodFiltration</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>BloodPumping</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>Metabolism</capacity>
+                <offset>0.10</offset>
+              </li>
+            </capMods>
+        </li>
+      </stages>
+  </HediffDef>
+
+  <ThoughtDef>
+    <defName>LF_Thought_HotSpringJoy</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>Hed_HotSpringWarmth</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>refreshed in hot spring</label>
+        <description>My body and mind warmed up in spa, still feel a little warmer.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>refreshed in hot spring</label>
+        <description>My body and mind warmed up in spa. It's a comfortable warmth.</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+      <li>
+        <label>refreshed in hot spring</label>
+        <description>My body and mind warmed up in spa. It was very refreshing!</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+	<!--冷泉バフ-->
+  <HediffDef>
+    <defName>Hed_ColdSpringCoolness</defName>
+    <label>cold spring coolness</label>
+    <maxSeverity>1</maxSeverity>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(0.8,0.8,1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-8.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+        <li>
+          <minSeverity>0</minSeverity>
+          <label>slightly cool (moist)</label>
+          <painFactor>0.9</painFactor>
+	  <statOffsets>
+            <ComfyTemperatureMax>10</ComfyTemperatureMax>
+            <ComfyTemperatureMin>2</ComfyTemperatureMin>
+            <Flammability>-0.3</Flammability>
+          </statOffsets>
+        </li>
+        <li>
+          <minSeverity>0.33</minSeverity>
+          <label>cool (wet)</label>
+          <painFactor>0.85</painFactor>
+	  <statOffsets>
+            <ComfyTemperatureMax>20</ComfyTemperatureMax>
+            <ComfyTemperatureMin>6</ComfyTemperatureMin>
+            <Flammability>-0.5</Flammability>
+          </statOffsets>
+        </li>
+        <li>
+          <minSeverity>0.67</minSeverity>
+          <label>very cool (soaked)</label>
+          <painFactor>0.8</painFactor>
+	  <statOffsets>
+            <ComfyTemperatureMax>30</ComfyTemperatureMax>
+            <ComfyTemperatureMin>10</ComfyTemperatureMin>
+            <Flammability>-0.8</Flammability>
+          </statOffsets>
+        </li>
+      </stages>
+  </HediffDef>
+
+
+</Defs>

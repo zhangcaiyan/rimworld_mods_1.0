@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <HediffDef>
+    <defName>HedOmikuji</defName>
+    <label>Ate OmikujiSenbei</label>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(0.15,0.95,0.1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+        <li>
+          <minSeverity>0</minSeverity>
+          <label>Well Fed: OmikujiSenbei</label>
+          <painFactor>0.9</painFactor>
+            <capMods>
+              <li>
+                <capacity>Consciousness</capacity>
+                <offset>0.05</offset>
+              </li>
+              <li>
+                <capacity>Hearing</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>Talking</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>BloodFiltration</capacity>
+                <offset>0.50</offset>
+              </li>
+            </capMods>
+        </li>
+      </stages>
+  </HediffDef>
+
+  <HediffDef>
+    <defName>HedMysteriousHerb</defName>
+    <label>Ate Mysterious Herb</label>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(0.15,0.95,0.1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+        <li>
+          <minSeverity>0</minSeverity>
+          <label>Well Fed: Mysterious Herb</label>
+          <painFactor>0.9</painFactor>
+            <capMods>
+              <li>
+                <capacity>Moving</capacity>
+                <offset>0.05</offset>
+              </li>
+              <li>
+                <capacity>Manipulation</capacity>
+                <offset>0.05</offset>
+              </li>
+              <li>
+                <capacity>Eating</capacity>
+                <offset>0.20</offset>
+              </li>
+              <li>
+                <capacity>Sight</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>BloodFiltration</capacity>
+                <offset>0.25</offset>
+              </li>
+            </capMods>
+        </li>
+      </stages>
+  </HediffDef>
+
+  <HediffDef>
+    <defName>HedNutChocolate</defName>
+    <label>Ate Nut Chocolate</label>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(0.15,0.95,0.1)</defaultLabelColor>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+        <li>
+          <minSeverity>0</minSeverity>
+          <label>Well Fed: Wolvern's Kind</label>
+          <painFactor>0.7</painFactor>
+            <capMods>
+              <li>
+                <capacity>Consciousness</capacity>
+                <offset>-0.05</offset>
+              </li>
+              <li>
+                <capacity>Sight</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>Breathing</capacity>
+                <offset>0.10</offset>
+              </li>
+              <li>
+                <capacity>BloodFiltration</capacity>
+                <offset>0.25</offset>
+              </li>
+              <li>
+                <capacity>BloodPumping</capacity>
+                <offset>0.20</offset>
+              </li>
+              <li>
+                <capacity>Metabolism</capacity>
+                <offset>0.20</offset>
+              </li>
+            </capMods>
+        </li>
+      </stages>
+  </HediffDef>
+
+</Defs>

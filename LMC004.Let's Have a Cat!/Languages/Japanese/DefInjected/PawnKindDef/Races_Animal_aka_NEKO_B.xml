@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ペルシャ -->
+
+  <akaNEKO_Persian.label>ペルシャ</akaNEKO_Persian.label>
+  <akaNEKO_Persian.labelPlural>ペルシャ</akaNEKO_Persian.labelPlural>
+
+
+  <!-- スコティッシュフォールド -->
+
+  <akaNEKO_Scottish_Fold.label>スコティッシュフォールド</akaNEKO_Scottish_Fold.label>
+  <akaNEKO_Scottish_Fold.labelPlural>スコティッシュフォールド</akaNEKO_Scottish_Fold.labelPlural>
+
+
+  <!-- スコティッシュフォールドロング -->
+
+  <akaNEKO_Scottish_Fold_Long.label>スコティッシュフォールド ロング</akaNEKO_Scottish_Fold_Long.label>
+  <akaNEKO_Scottish_Fold_Long.labelPlural>スコティッシュフォールド ロング</akaNEKO_Scottish_Fold_Long.labelPlural>
+
+
+  <!-- メインクーン -->
+
+  <akaNEKO_Maine_Coon.label>メインクーン</akaNEKO_Maine_Coon.label>
+  <akaNEKO_Maine_Coon.labelPlural>メインクーン</akaNEKO_Maine_Coon.labelPlural>
+
+
+</LanguageData>

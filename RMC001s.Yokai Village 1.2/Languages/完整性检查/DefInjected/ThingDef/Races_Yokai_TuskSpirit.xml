@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_TuskSprit.label>Kiba no Seirei</Yokai_TuskSprit.label>
+  <Yokai_TuskSprit.description>Brittle, tiny, and seemingly useless, these tusk spirits can make a discerning colony wealthy beyond imagination.
+    \nFeed and protect these little lumps for 4 years, and the fang of a dragon-far rarer than a Thrumbo horn-can be twisted, wretched, and butchered from their lifeless frames.</Yokai_TuskSprit.description>
+  <Yokai_TuskSprit.tools.0.label>Body attack</Yokai_TuskSprit.tools.0.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_TuskSprit_Corpse.label>Kiba no Seirei corpse</Yokai_TuskSprit_Corpse.label>
+  <Yokai_TuskSprit_Corpse.description>Kiba no Seirei corpse</Yokai_TuskSprit_Corpse.description>
+
+
+</LanguageData>

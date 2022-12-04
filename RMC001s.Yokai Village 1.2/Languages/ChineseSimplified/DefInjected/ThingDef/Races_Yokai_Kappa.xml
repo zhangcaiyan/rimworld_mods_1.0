@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Kappa.label>河童</Yokai_Kappa.label>
+  <Yokai_Kappa.description>河童，最喜欢相扑及黄瓜的水生型妖怪。与它谈论相扑的话题是打好关系的重点?
+\n广泛生活在寒冷地区，对热带地区难以适应。他们的肉与人类并无差异，也因此不适合做为猎物。皮的品质还是勉勉强强。</Yokai_Kappa.description>
+  <Yokai_Kappa.tools.0.label>左手</Yokai_Kappa.tools.0.label>
+  <Yokai_Kappa.tools.1.label>右手</Yokai_Kappa.tools.1.label>
+  <Yokai_Kappa.tools.2.label>头</Yokai_Kappa.tools.2.label>
+  <Yokai_Kappa_Corpse.label>河童尸体</Yokai_Kappa_Corpse.label>
+  <Yokai_Kappa_Corpse.description>死亡的河童尸体。放置於常温会逐渐腐坏，尽早解体掉吧。
+  </Yokai_Kappa_Corpse.description>
+  <!-- やせ河童 -->
+  <Yokai_OKappa.label>kappa</Yokai_OKappa.label>
+  <Yokai_OKappa.description>这只瘦骨如柴的妖怪倒也还能称作河童，不能玩相扑的他们总是一副病恹恹的样子。
+\n话虽如此它们仍是喜爱黄瓜与相扑。能在温带森林及湿地遇见他们。他们的肉与人类的并无差异，不适合当作猎物。皮的品质还是勉勉强强。</Yokai_OKappa.description>
+  <Yokai_OKappa.tools.0.label>左手</Yokai_OKappa.tools.0.label>
+  <Yokai_OKappa.tools.1.label>右手</Yokai_OKappa.tools.1.label>
+  <Yokai_OKappa.tools.2.label>头</Yokai_OKappa.tools.2.label>
+  <Yokai_OKappa_Corpse.label>kappa</Yokai_OKappa_Corpse.label>
+  <Yokai_OKappa_Corpse.description>死亡的河童尸体。放置於常温会逐渐腐坏，尽早解体掉吧。</Yokai_OKappa_Corpse.description>
+</LanguageData>

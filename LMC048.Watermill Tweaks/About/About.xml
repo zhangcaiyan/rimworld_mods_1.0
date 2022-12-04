@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC048.水轮发电机调整</name>
+	<author>XeoNovaDan</author>
+	<url>https://ludeon.com/forums/index.php?topic=29503.0</url>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+	Current Version: v1.2.1 (5th December 2018)
+	
+	Changes the watermill generator in several different ways:
+	在以下几个方面更改了水轮发电机
+	
+	* Increases its base power production from 1100W to 1400W
+	其产生的功率由1100W提升到1400W
+	
+	* Power production is directly influenced by the season
+	季节会影响到发电量
+	
+	* Its power production decreases if temperatures are too low or too high
+	温度过高或者过低会影响到发电量
+	
+	* Adds a new incident which affects watermill generators, both good and bad
+	添加了一个新的事件，该事件（湍急的水流）会影响到水轮发电机，有好（发电量会增加）有坏（发电机会损坏）
+	
+	汉化：jxb12306
+	合集地址：http://bbs.3dmgame.com/thread-5842015-1-1.html
+	</description>
+</ModMetaData>

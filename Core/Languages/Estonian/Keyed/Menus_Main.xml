@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Loo maailm</CreateWorld>
+  <NewColony>Uus koloonia</NewColony>
+  <BackToGame>Tagasi mängu</BackToGame>
+  <ReviewScenario>Tsenaariumi eelvaade</ReviewScenario>
+  <Save>Salvesta</Save>
+  <LoadGame>Lae mäng</LoadGame>
+  <Options>Valikud</Options>
+  <Mods>Modifikatsioonid</Mods>
+  <Credits>Autorid</Credits>
+  <QuitToMainMenu>Välju menüüsse</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Salvesta ja välju menüüsse</SaveAndQuitToMainMenu>
+  <QuitToOS>Välju töölauale</QuitToOS>
+  <SaveAndQuitToOS>Salvesta ja välju töölauale</SaveAndQuitToOS>
+  <FictionPrimer>Kujutluse tekitaja</FictionPrimer>
+  <LudeonBlog>Ludeon'i blogi</LudeonBlog>
+  <Forums>Foorumid</Forums>
+  <OfficialWiki>Ametlik viki</OfficialWiki>
+  <TynansTwitter>Tynan'i twitter</TynansTwitter>
+  <TynansDesignBook>Tynan'i disaini raamat</TynansDesignBook>
+  <HelpTranslate>Aita tõlkida RimWorld'i</HelpTranslate>
+  <BuySoundtrack>Osta heliriba</BuySoundtrack>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Vaata üle maailm</ReviewWorld>
+  <WorldGenerate>Genereeri</WorldGenerate>
+  <WorldSaveAndFinish>Salvesta ja lõpeta</WorldSaveAndFinish>
+  <Reset>Lähtesta</Reset>
+  <WorldSize>Suurus</WorldSize>
+  <WorldSeed>Seeme</WorldSeed>
+  <RandomizeSeed>Randomiseeri seeme</RandomizeSeed>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Vali maailm</SelectWorld>
+  <WorldChooseButton>Vali</WorldChooseButton>
+  <NoWorldsFilesFound>Maailma faile ei leitud. Loo esmalt maailm.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Versioon {0} on nüüd saadaval. Külasta lisainfo jaoks ludeon.com.</BuildNowAvailable>
+  <BuildUpToDate>Versioon on ajakohane.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Tõrge versiooni info hankimisel: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Versiooni info laadimine...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Genereeri maailm</GenerateWorld>
+
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Ava Steam'i Töökoda</OpenSteamWorkshop>
+  <GetModsFromForum>Hangi modifikatsioone foorumist</GetModsFromForum>
+  <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Oled sa kindel, et tahad kustutada kogu {0} sisu?</ConfirmDeleteMod>
+  <Unsubscribe>Tühista tellimus</Unsubscribe>
+  <ConfirmUnsubscribe>Oled sa kindel, et tahad tühistada {0} tellimuse?</ConfirmUnsubscribe>
+  <Author>Autor</Author>
+  <WorkshopPage>Töökoja lehekülg</WorkshopPage>
+  <UploadToSteamWorkshop>Lae üles Steam'i Töökotta</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Uuenda Steam Töökojas</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Üleslaadimine juba toimub.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Töökotta esitamine luhtus.\n\nPõhjus: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>{0} edukalt üleslaetud.</WorkshopUploadSucceeded>
+  <Downloading>Allalaadimine</Downloading>
+  <Source>Lähe</Source>
+  <ModTargetVersion>Sihtversioon: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>See modifikatsioon ei olnud loodud selle RimWorld'i versiooni jaoks ja arvatavasti ei tööta korralikult.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modifikatsioon vajab hästi vormindatud sihtversiooni About.xml'is. Nagu nii: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Vali tsenaarium</ChooseScenario>
+  <ScenariosCustom>Kohandatud</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam'i Töökoda</ScenariosSteamWorkshop>
+  <ScenarioEditor>Tsenaariumi redaktor</ScenarioEditor>
+  <Delete>Kustuta</Delete>
+  
+  <!--============ Scenario editor ===============-->
+  <Seed>seeme</Seed>
+  <Load>Lae</Load>
+  <EditMode>redigeerimis mood</EditMode>
+  <Summary>Kokkuvõte</Summary>
+  <AddPart>Lisa osa</AddPart>
+  <TextFieldsMustBeFilled>Kõik tekstiväljad peavad olema täidetud.</TextFieldsMustBeFilled>
+  <ConfirmContentAuthor>Sa peaksid üleslaadima ainult asju, mida sa ise oled loonud.\n\nKas sa oled loonud selle ise?</ConfirmContentAuthor>
+  <ConfirmSteamWorkshopUpload>Oled kindel et tahad selle üles laadida Steam'i Töökotta?\n\nSa pead nõustuma Steam'i Töökoja kasutustingimustega. Leia kõik tingimused siit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <Incompatible>Ühtimatu</Incompatible>
+  <TooMany>Liiga palju (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>On võimalik uuendada Töökotta, sest sa oled autor.</CanBeUpdatedOnWorkshop>
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
+  <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, kukkumiskaunad või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
+  <MustChooseDifficulty>Palun vali raskusaste.</MustChooseDifficulty>
+  <Difficulty>Raskusaste</Difficulty>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Vali maandumis asukoht</SelectLandingSite>
+  <SelectRandomSite>Vali juhuslik asukoht</SelectRandomSite>
+  <SelectSite>Vali asukoht</SelectSite>
+  <MustSelectLandingSite>Palun vali maandumis asukoht.</MustSelectLandingSite>
+  <CannotLandBiome>Sa ei saa maanduda sellel bioomil: {0}</CannotLandBiome>
+  <WorldRenderMode>Vaade</WorldRenderMode>
+  <WorldRenderModeFull>Täielik</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Kõrgus</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Viljakus</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Sademed</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Bioomid</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Bioom pole veel lisatud</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} juba on baas seal.</BaseAlreadyThere>
+  <Biome>Bioom</Biome>
+  <Terrain>Maastik</Terrain>
+  <Elevation>Kõrgus</Elevation>
+  <Fertility>Viljakus</Fertility>
+  <AvgTemp>Keskmine temperatuur</AvgTemp>
+  <AvgWinterTemp>Keskmine temperatuur (talv): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Keskmine temperatuur (suvi): {0}</AvgSummerTemp>
+  <Rainfall>Sademed</Rainfall>
+  <HasCoast0>Põhjarannik</HasCoast0>
+  <HasCoast1>Idarannik</HasCoast1>
+  <HasCoast2>Lõunarannik</HasCoast2>
+  <HasCoast3>Läänerannik</HasCoast3>
+  <FactionBase>Kildkonna baas</FactionBase>
+  <StoneTypesHere>Kivi tüübid</StoneTypesHere>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Loo inimesed</CreateCharacters>
+  <FirstNameDesc>Inimese eesnimi.\n\nSeda kuvatakse ainult teatud menüüdes.</FirstNameDesc>
+  <ShortIdentifierDesc>Inimese lühike indetifitseerija.\n\nSeda kuvatakse koguaeg. See võib olla ees- või perekonnanimi, või täielikult erinev hüüdnimi.</ShortIdentifierDesc>
+  <LastNameDesc>Inimese perekonnanimi.\n\nSeda kuvatakse ainult teatud menüüdes.</LastNameDesc>
+  <Randomize>Randomiseeri</Randomize>
+  <AgeIndicator>vanus {0}</AgeIndicator>
+  <Backstory>Tagalugu</Backstory>
+  <IncapableOf>Võimetu tegema</IncapableOf>
+  <Traits>Oskused</Traits>
+  <PermanentMoodEffect>Alatised tuju effektid</PermanentMoodEffect>
+  <Skills>Oskused</Skills>
+  <NoneLower>puudub</NoneLower>
+  <Adulthood>Täiskasvanu</Adulthood>
+  <Childhood>Lapseiga</Childhood>
+  <Male>mees</Male>
+  <Female>naine</Female>
+  <Pain>Valu</Pain>
+  <Health>Tervis</Health>
+  <Relations>Tutvused</Relations>
+
+  <!--=========== Misc ==========-->
+  <Start>Alusta</Start>
+  <Advanced>Täpsem</Advanced>
+  <Next>Edasi</Next>
+  <Back>Tagasi</Back>
+  <Gameplay>Gameplay</Gameplay>
+  <ConfirmQuit>Tõesti väljuda? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
+  <EveryoneNeedsValidName>Igal inimisel on vaja kehtivat nime.</EveryoneNeedsValidName>
+  <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
+  <GeneratingMap>Mapi genereerimine...</GeneratingMap>
+</LanguageData>

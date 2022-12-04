@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Trees -->
+
+  <PlantTreeJapaneseMaple.label>japanese maple tree</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>These beautiful trees have branches that twist and turn unpredictably and brilliant orange and red foliage that draws the eye.</PlantTreeJapaneseMaple.description>
+
+  <PlantTreeCherryBlossom.label>cherry blossom tree</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>Cherry blossom trees are not just a good source of building materials, they are also one of the most beautiful trees to have in your lawn.</PlantTreeCherryBlossom.description>
+
+  <PlantTreeCamellia.label>camellia tree</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>This small ornamental tree has beautiful flowers that have been known to stay healthy even through tough winter conditions.</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>acacia tree</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>Acacia trees are hardy and can grow in the toughest desert environments. They don't provide much wood and they have sharp thorns too.</PlantTreeAcacia.description>
+
+  <PlantTreeRedMaple.label>red maple tree</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>A soft wood tree. Known for it's red leaves.</PlantTreeRedMaple.description>
+
+
+</LanguageData>

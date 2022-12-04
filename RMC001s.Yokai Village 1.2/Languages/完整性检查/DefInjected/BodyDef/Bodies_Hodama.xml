@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HodamaBody.label>Hodama Body</HodamaBody.label>
+  <HodamaBody.corePart.parts.2.customLabel>left Lung</HodamaBody.corePart.parts.2.customLabel>
+  <HodamaBody.corePart.parts.3.customLabel>right Lung</HodamaBody.corePart.parts.3.customLabel>
+  <HodamaBody.corePart.parts.4.customLabel>left kidney</HodamaBody.corePart.parts.4.customLabel>
+  <HodamaBody.corePart.parts.5.customLabel>right kidney</HodamaBody.corePart.parts.5.customLabel>
+  <HodamaBody.corePart.parts.8.customLabel>left Eye</HodamaBody.corePart.parts.8.customLabel>
+  <HodamaBody.corePart.parts.9.customLabel>right Eye</HodamaBody.corePart.parts.9.customLabel>
+
+
+</LanguageData>

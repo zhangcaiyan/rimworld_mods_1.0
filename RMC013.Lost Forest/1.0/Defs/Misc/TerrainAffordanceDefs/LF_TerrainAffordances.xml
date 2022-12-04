@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- 泉。浅瀬互換。 -->
+  <TerrainAffordanceDef>
+    <defName>LFTrAf_Spring</defName>
+    <label>spring</label>
+    <order>2301</order>
+  </TerrainAffordanceDef>
+
+  <!-- 温泉。寒い時期のロマン -->
+  <TerrainAffordanceDef>
+    <defName>LFTrAf_HotSpring</defName>
+    <label>hot spring</label>
+    <order>2302</order>
+  </TerrainAffordanceDef>
+
+</Defs>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[@Name = "MealBase"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>100</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[@Name = "ResourceBase"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>750</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[@Name = "MedicineBase"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>250</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[@Name = "WoolBase"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>1000</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Beer"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>250</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Wort"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>250</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "ComponentIndustrial"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>500</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "ComponentSpacer"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>500</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Chemfuel"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>1500</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Hay"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>2000</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Silver"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>5000</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/ThingDef[defName = "Gold"]/stackLimit</xpath>
+	    <value>
+			<stackLimit>5000</stackLimit>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	    <xpath>/Defs/ThingDef[defName = "MedicineHerbal"]</xpath>
+	    <value>
+			<stackLimit>750</stackLimit>
+		</value>
+	</Operation>
+</Patch>

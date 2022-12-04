@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪の薬草束 -->
+
+  <Yokai_Herbs.label>Yokai Kusuri</Yokai_Herbs.label>
+  <Yokai_Herbs.description>Even Yokai have their "humble" beginnings, and this is one such instance; Kusuri is the lowest tier of Yokai medicine, and is often used as a component for better medicines rather than by itself. Some within the Yokai villages still hold Kusuri in very high regard, as it was a blessing granted to their fledgling forebears by the Tsuzurao. Evidence for this theory lies in its sole ingredient: healroot. Healroot is the de facto medicine of any-well, most-new colonies and villages on the Rim. The Tsuzurao attempted to uplift the Yokai people by showing them that-with a little magic-healroot could become more potent.
+    \nScholars debate the veracity of such claims due to accounts that describe the Tsuzurao as near-immortal creatures. In fact, first hand accounts also attest to the fact that Tsuzurao seem to "naturally" recover from wounds at an infinitely faster rate than humans. Be this due to their magic or physiology, which honestly could also be conflated as the same thing, is hard to tell. The question, however, is this: if the Tsuzurao can recover so well without the aid of medicine, then why would they have knowledge of such? Detractors point to the fact that the Tsuzurao taught humans how to use magic to enhance healroot; that it was not a recipe or herb that they showed humans: but rather magic. The Yokai community has yet to reach a consensus on the matter, and few expect it will any time soon.</Yokai_Herbs.description>
+
+
+  <!-- 妖怪包帯 -->
+
+  <Yokai_Bandage.label>Yokai Hōtai</Yokai_Bandage.label>
+  <Yokai_Bandage.description>With a medical potency comparable to nanomachines, these bandages allow for highly efficient treatment of any wound. Its effectiveness is due to the inclusion of Yokai hair, which requires dextrous hands to distill into an active agent.
+    \nOf course, medical knowledge is also required to understand how to combine the distilled agent with Kusuri.</Yokai_Bandage.description>
+
+
+</LanguageData>

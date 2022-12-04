@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <MainButtonDef>
+    <defName>Timers</defName>
+    <label>timers</label>
+    <description>Configure timer switches.</description>
+    <tabWindowClass>TimerSwitches.TimersTab</tabWindowClass>
+    <buttonVisible>false</buttonVisible>
+  </MainButtonDef>
+</Defs>

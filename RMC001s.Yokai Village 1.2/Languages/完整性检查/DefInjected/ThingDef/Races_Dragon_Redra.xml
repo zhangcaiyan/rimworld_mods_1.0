@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Dragon_Redra.label>Redra</Yokai_Dragon_Redra.label>
+  <Yokai_Dragon_Redra.description>Smart, brave, and proud, the red dragons, Redra, do not mind the existence of others. They can be encountered in hot biomes, such as the Savannah or Desert.</Yokai_Dragon_Redra.description>
+  <Yokai_Dragon_Redra.tools.0.label>FrontLeftLeg</Yokai_Dragon_Redra.tools.0.label>
+  <Yokai_Dragon_Redra.tools.1.label>FrontRightLeg</Yokai_Dragon_Redra.tools.1.label>
+  <Yokai_Dragon_Redra.tools.2.label>Fang</Yokai_Dragon_Redra.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Dragon_Redra_Corpse.label>Redra corpse</Yokai_Dragon_Redra_Corpse.label>
+  <Yokai_Dragon_Redra_Corpse.description>Redra corpse</Yokai_Dragon_Redra_Corpse.description>
+
+
+</LanguageData>

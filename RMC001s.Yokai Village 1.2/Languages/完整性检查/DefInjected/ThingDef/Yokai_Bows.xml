@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪短弓 -->
+
+  <Yokai_A_Kaze.label>Kaze Allow</Yokai_A_Kaze.label>
+
+  <Yokai_B_Kaze.label>Kaze</Yokai_B_Kaze.label>
+  <Yokai_B_Kaze.description>妖気の欠片を精錬し、女郎蜘蛛の糸を束ねて弦に、精刻の石の妖気を矢として作られる妖怪村の短弓です。
+\n風の力が籠められたこの弓の射程は短く威力も低いですが、貫通力に優れ連射が利くため走り回って撃つのに適しています。使い込むことで威力が育ち、衝撃で相手の動きを止める「スタン」を発生する力が宿ることがあります。
+\n至近距離から放たれる貫通力の高い一撃は厚い鎧を来た相手に特に有効です。飛び道具を厭う妖怪村の狩人たちも、携帯に向いたこの弓だけは今でも使う事があります。
+\n妖怪村の戦士たちが弓を好まないのは妖怪たちが飛び道具を持たず突撃して戦う時に後ろから撃ってしまうことを避けるためです。</Yokai_B_Kaze.description>
+  <Yokai_B_Kaze.tools.0.label>姫反</Yokai_B_Kaze.tools.0.label>
+
+
+  <!-- 妖怪弓 -->
+
+  <Yokai_A_Arare.label>Arare Allow</Yokai_A_Arare.label>
+
+  <Yokai_B_Arare.label>Arare</Yokai_B_Arare.label>
+  <Yokai_B_Arare.description>妖気の欠片を精錬し、女郎蜘蛛の糸を束ねて弦に、精刻の石の妖気を矢として作られる妖怪村の弓です。空の冷気を妖気と混ぜて放つことで１度に複数の矢を放つことが出来ます。中距離戦に向いていますがグレートボウに射程で負けています。
+\n妖怪村に悪しきものが手下を率いて攻め寄せてきた際、戦闘の苦手な者たちはこの弓で味方を援護しました。使うほどに手に馴染み、弓の苦手なものでも不思議と的にあたる妖気が込められいる他、徐々に発射数が増える特徴があります。
+\n妖怪村の装備はどれも作成に特別な素材が必要で入手も困難な物が多いです。けれども、多くの道具には特別な力が宿っていて持ち主を助けてくれます。これらの加護は「玉藻前」と呼ばれた始まりの九尾の一人が、長く妖怪が栄えるよう願いを込めて与えたと妖怪たちは信じています。</Yokai_B_Arare.description>
+  <Yokai_B_Arare.tools.0.label>姫反</Yokai_B_Arare.tools.0.label>
+
+
+  <!-- 大弓 -->
+
+  <Yokai_A_Ikazuti.label>Ikazuti Arrow</Yokai_A_Ikazuti.label>
+
+  <Yokai_B_Ikazuti.label>Ikazuti</Yokai_B_Ikazuti.label>
+  <Yokai_B_Ikazuti.description>雷の名を冠した妖怪の大弓です。非常に重く装填時間も長い代りに狙撃銃にも勝る超遠距離から貫通力に優れた巨大な矢を壁をこえて放つことができます。使い込むことで命中率と威力が上がり、雷の名に相応しい広い範囲へ波及する一撃を得られる事もあります。初期の命中率に難があるので過信は禁物です。
+\nかつて妖怪村にもっと外くの敵がいた時代、妖怪村の戦士たちは集団でこの弓を３斉射してから刀に持ち替えて突撃を行ったと伝えられています。また今でもメカノイドの船への先制攻撃として使うことがあります。
+\n妖怪村では今でも装飾品として飾られていることがありますが、彼らの商人たちはこの武器を含めて飛び道具を取り扱う事はありません。これには妖怪村の価値観が強く影響しています。
+\nとはいえその製法は今でも伝わっているばかりか、彼ら自身が使うために作られる事は頻繁にあるようです。</Yokai_B_Ikazuti.description>
+  <Yokai_B_Ikazuti.tools.0.label>姫反</Yokai_B_Ikazuti.tools.0.label>
+
+
+  <!-- 送り火 -->
+
+  <Yokai_A_Okuribi.label>Okuribi Arrow</Yokai_A_Okuribi.label>
+
+  <Yokai_B_Okuribi.label>Okuribi</Yokai_B_Okuribi.label>
+  <Yokai_B_Okuribi.description>妖怪村で禁忌とされる武器です。妖気を火に変えて発射することが出来ます。
+\n火刻の石から生み出される貫通力に優れる炎は多くの生物に効果的ですが、この弓に加護はなく逆に獣たちから避けられます。また妖怪の弓の中で唯一成長することがありません。
+\n
+\n妖怪村から分派した攻撃的な部族がこの弓を使い敵対者の村を焼き払い、混乱の時代を招いたために「忌まわしきもの」が目覚め星を破壊して回ったと伝えられていますが、妖怪村の住民でさえおとぎ話の類と思っています。</Yokai_B_Okuribi.description>
+  <Yokai_B_Okuribi.tools.0.label>姫反</Yokai_B_Okuribi.tools.0.label>
+
+
+  <!-- 妖の弓 -->
+
+  <Yokai_A_Ayakasi.label>Ayakasi Arrow</Yokai_A_Ayakasi.label>
+
+  <Yokai_B_Ayakasi.label>Ayakashi</Yokai_B_Ayakasi.label>
+  <Yokai_B_Ayakasi.description>妖刻の石から作られた妖の弓は、発射数、威力、命中率、射程のバランスがとれた強力な武器であり、様々な加護を付与する強い妖気の宿った品でもあります。
+\n使い込むことで徐々に成長し、威力、命中を中心にまれに発射数が増えることもあります。作成難易度は決して低くありませんが軍用ライフルやチャージライフルとも渡り合える頼りになる武器です。
+\n幻の品を限界まで鍛え抜くことで恐ろしい威力を持った殺傷兵器となる可能性を秘めています。とはいえ、宿り木の弓と比べるとその成長期間は短く物足りないものかもしれません。
+\n妖怪の武器は基本的に燃えることはありませんし、野ざらしにされても痛むことはありません。其の上この武器はどれだけ使おうとも摩耗することがないという素晴らしい長所を備えています。
+\n妖怪村の住民が自ら使うことのない妖の弓の製造法と技術をしっかりと伝えているのは、「忌まわしきもの」が再び訪れる時に備えなのか、別の何かを恐れているのかもしれないと異邦人たちは考えているようです。</Yokai_B_Ayakasi.description>
+  <Yokai_B_Ayakasi.tools.0.label>姫反</Yokai_B_Ayakasi.tools.0.label>
+
+
+  <!-- 宿り木の弓 -->
+
+  <Yokai_A_Yadorigi.label>Yadorigi Arrow</Yokai_A_Yadorigi.label>
+
+  <Yokai_B_Yadorigi.label>Yadorigi</Yokai_B_Yadorigi.label>
+  <Yokai_B_Yadorigi.description>妖怪村に伝わる品々の中でも特別風変わりで一等貴重な弓です。ヒヒイロカネと呼ばれる紅の金属を精錬して作られ精刻の石の妖気を射出します。
+\n初期状態では命中精度、威力共に弱く頼りになりません。けれども、ずば抜けて長い成長期間を有し、発射数、スタン率、威力、命中率が上昇し続けることで、妖の弓を遥かに凌駕する恐ろしい武器へと変貌を遂げるでしょう。
+\n宿り木が妖怪村で作られる事はめったにありません。希少なヒヒイロカネを使う必要があるせいでもありますが、この武器の恐ろしさを妖怪たちがよく理解しているからでもあります。
+\n作成には妖怪の高度な武器の研究と、ヒヒイロカネ、女郎蜘蛛の糸、精刻の石と確かな技術を持った鍛冶屋が必要です。
+\nほぼ全ての妖怪の武器は戦いの中で成長しますが、妖気を持った存在である妖怪たちを攻撃しても成長することはありません。</Yokai_B_Yadorigi.description>
+  <Yokai_B_Yadorigi.tools.0.label>姫反</Yokai_B_Yadorigi.tools.0.label>
+
+
+</LanguageData>

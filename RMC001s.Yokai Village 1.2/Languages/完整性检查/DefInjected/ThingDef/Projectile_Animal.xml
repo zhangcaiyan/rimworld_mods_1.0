@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 月の竜 -->
+
+  <Projectile_IceBreath.label>Winter Storm</Projectile_IceBreath.label>
+
+
+  <!-- ぺこれどら -->
+
+  <Projectile_DragonBreath.label>Spoken Draconic</Projectile_DragonBreath.label>
+
+
+  <!-- しろちゃん -->
+
+  <Projectile_ShiroBreath.label>Dazzling Daisy</Projectile_ShiroBreath.label>
+
+
+  <!-- 九尾様 -->
+
+  <Projectile_NineTail.label>Far Away Fireflies</Projectile_NineTail.label>
+
+
+</LanguageData>

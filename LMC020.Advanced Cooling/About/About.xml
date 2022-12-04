@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC020.先进冷却器</name>
+	<author>twoski</author>
+	<url></url>
+	<targetVersion>1.0.0</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+This mod adds an advanced cooler which doesn't emit heat.\n\n这个MOD添加了不会产生热量的先进冷却器。\n\nYou must research advanced coolers before you are able to construct them. A minimum of 8 construction skill is required.\n\n你必须先研发先进冷却器科技并且需要8级建造技能才能建造它。\n\n汉化：jxb12306
+	</description>
+</ModMetaData>

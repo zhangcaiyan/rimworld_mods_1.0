@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 妖怪料理台　妖怪の料理とドリンク、食肉の解体が出来る -->
+
+  <Yokai_Nabe.label>Yokai cooking pot</Yokai_Nabe.label>
+  <Yokai_Nabe.description>Special fuel is required to ignite the fire in this Yokai cooking table. A ward keeps the fire from igniting any other way, as all Yokai recipes require a peculiar flame to cook properly.</Yokai_Nabe.description>
+  <Yokai_Nabe_Blueprint.label>Yokai cooking pot (blueprint)</Yokai_Nabe_Blueprint.label>
+  <Yokai_Nabe_Blueprint_Install.label>Yokai cooking pot (blueprint)</Yokai_Nabe_Blueprint_Install.label>
+  <Yokai_Nabe_Frame.label>Yokai cooking pot (building)</Yokai_Nabe_Frame.label>
+  <Yokai_Nabe_Frame.description>Special fuel is required to ignite the fire in this Yokai cooking table. A ward keeps the fire from igniting any other way, as all Yokai recipes require a peculiar flame to cook properly.</Yokai_Nabe_Frame.description>
+
+
+  <!-- 妖怪ミシン　電力を使わないけど、起動に特別な石が必要。一度の補充で１年以上持つ。妖怪装備４種が作れる。 -->
+
+  <Yokai_Hariko.label>Yokai tailoring bench</Yokai_Hariko.label>
+  <Yokai_Hariko.description>This special sewing machine does not require electricity to use; instead, one must make or attain a certain kind of fuel from Yokai traders. Besides clothes, this bench is used to create Yokai medicine.</Yokai_Hariko.description>
+  <Yokai_Hariko_Blueprint.label>Yokai tailoring bench (blueprint)</Yokai_Hariko_Blueprint.label>
+  <Yokai_Hariko_Blueprint_Install.label>Yokai tailoring bench (blueprint)</Yokai_Hariko_Blueprint_Install.label>
+  <Yokai_Hariko_Frame.label>Yokai tailoring bench (building)</Yokai_Hariko_Frame.label>
+  <Yokai_Hariko_Frame.description>This special sewing machine does not require electricity to use; instead, one must make or attain a certain kind of fuel from Yokai traders. Besides clothes, this bench is used to create Yokai medicine.</Yokai_Hariko_Frame.description>
+
+
+  <!-- 妖怪武器製造台　妖怪の色々な武器と義体を作れる。電力は必要ないけど、特別な石が必要。 -->
+
+  <Yokai_Kanatoko.label>Forge of the Yokai</Yokai_Kanatoko.label>
+  <Yokai_Kanatoko.description>A tender but fierce magic guides the flame within this forge, thus it can create anything from army annihilating weapons to intricately crafted prosthetics.</Yokai_Kanatoko.description>
+  <Yokai_Kanatoko_Blueprint.label>Forge of the Yokai (blueprint)</Yokai_Kanatoko_Blueprint.label>
+  <Yokai_Kanatoko_Blueprint_Install.label>Forge of the Yokai (blueprint)</Yokai_Kanatoko_Blueprint_Install.label>
+  <Yokai_Kanatoko_Frame.label>Forge of the Yokai (building)</Yokai_Kanatoko_Frame.label>
+  <Yokai_Kanatoko_Frame.description>A tender but fierce magic guides the flame within this forge, thus it can create anything from army annihilating weapons to intricately crafted prosthetics.</Yokai_Kanatoko_Frame.description>
+
+
+</LanguageData>

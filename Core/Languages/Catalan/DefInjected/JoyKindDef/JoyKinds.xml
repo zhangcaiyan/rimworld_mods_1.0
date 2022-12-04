@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>consum químic</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>juga (cerebral)</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>juga (destresa)</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>consum de menjar</Gluttonous.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>medita</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>social</Social.label>
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>mira pel telescopi</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>mira la televisió</Television.label>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Peaceful.label>Barışçıl</Peaceful.label>
+  <Peaceful.description>Huzurlu bir ortamda koloni kurmak isteyenler için.</Peaceful.description>
+  
+  <VeryEasy.label>Üs Kurucu</VeryEasy.label>
+  <VeryEasy.description>Üs kurmaya odaklı oyun tarzı. Tehditler oldukça zayıflatılmıştır</VeryEasy.description>
+
+  <Easy.label>Kolay</Easy.label>
+  <Easy.description>Sıradan oyuncular için, az zorlukta ama dişi sıkmayacak derecede</Easy.description>
+
+  <Medium.label>Normal</Medium.label>
+  <Medium.description>Hayatta kalmak için biraz beceri gerektirir. Buranın dünyası tehlikelidir, ayrıca kolonist morallerini ve mahsulleri artırıcı efektler kaldırılır</Medium.description>
+
+  <Hard.label>Zor</Hard.label>
+  <Hard.description>Zorlu bir oyun. Bu zorluk seviyesi çok zor değil ama hayatta kalmak için stratejin, taktiğin ve şansın yoksa öldün demektir.</Hard.description>
+
+  <VeryHard.label>Aşırı Zor</VeryHard.label>
+  <VeryHard.description>Elmas bir hançer kadar sert. Düşmanlar güçlü, fiyatlar kötü, yiyecekler kıt ve kolonistler huysuz. Bu mod zorluğu sevenler için birebir.</VeryHard.description>
+
+ </LanguageData>

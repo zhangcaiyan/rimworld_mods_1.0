@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <HorseshoesPin.label>hesteskopinne</HorseshoesPin.label>
+    <HorseshoesPin.description>Et enkelt gammeldags spill. Spilles med noen få hestesko og en pinne i jorda. Spillerne kaster hestesko fra avstand og forsøker å få dem til å lande nærme eller rundt pinnen. Det er avslappende og trener til og med øye-hånd koordinasjon.</HorseshoesPin.description>
+    
+    <ChessTable.label>sjakkbord</ChessTable.label>
+    <ChessTable.description>Det eldgamle spillet, spilt av konger. Gøy iblant i noen få timer, man kan til og med spille alene.</ChessTable.description>
+    
+    <BilliardsTable.label>biljardbord</BilliardsTable.label>
+    <BilliardsTable.description>Et bord med myk overflate til å spille ulike spill i biljardkategorien.</BilliardsTable.description>
+    
+    <TubeTelevision.label>bilderørs-tv</TubeTelevision.label>
+    <TubeTelevision.description>Fjernsyn av bilderørstypen, til å vise bilder som beveger seg med lyd til. Selv på Kantverdenene, er det ofte en gammel sender som overfører noe i det minste litt interessant.</TubeTelevision.description>
+    
+    <FlatscreenTelevision.label>flatskjerm-tv</FlatscreenTelevision.label>
+    <FlatscreenTelevision.description>En høyteknologisk flatskjerm-tv med krystallklart bilde og rikt fargebilde. Mer underholdende enn en simpel bilderørs-tv.</FlatscreenTelevision.description>
+    
+    <MegascreenTelevision.label>megascreen television</MegascreenTelevision.label>
+    <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Svært underholdende.</MegascreenTelevision.description>
+    
+    <Telescope.label>telescope</Telescope.label>
+    <Telescope.description>A telescope for doing amateur astronomy. It's a relaxing and fun hobby for a certain kind of person.</Telescope.description>
+    
+</LanguageData>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Contactează {0}</CallOnRadio>
+	<CannotUseSolarFlare>Imposibil de utilizat (erupție solară)</CannotUseSolarFlare>
+	<CannotUseNoPower>Imposibil de utilizat (nealimentat)</CannotUseNoPower>
+	<CannotUseNoPath>Imposibil de utilizat (nu poate fi ajuns)</CannotUseNoPath>
+  <CannotUseReserved>Imposibil de utilizat (rezervat)</CannotUseReserved>
+  <CannotUseFull>Imposibil de utilizat (plin)</CannotUseFull>
+  
+  <FireAt>Trage în {0}</FireAt>
+
+  <OutOfRange>în afara razei de acțiune</OutOfRange>
+  <CannotHitTarget>nu se poate nimeri ținta</CannotHitTarget>
+  <CannotFight>{0} nu poate lupta</CannotFight>
+
+  <OrderManThing>Om {0}</OrderManThing>
+  
+  <MeleeAttack>Atacă în meleu {0}</MeleeAttack>
+  <MeleeAttackToDeath>Atacă {0} în meleu până la moarte</MeleeAttackToDeath>
+  <NoPath>nu poate fi ajuns</NoPath>
+
+	<ForbiddenLower>Interzis</ForbiddenLower>
+	<SociallyImproperLower>inadecvat social</SociallyImproperLower>
+  <PrisonerRoomLower>cameră pentru prizonier</PrisonerRoomLower>
+	<BurningLower>arde</BurningLower>
+	<NoEmptyPlaceLower>nu există un spațiu gol în care poate fi depozitat</NoEmptyPlaceLower>
+	<AlreadyFilledLower>deja suficient de plin</AlreadyFilledLower>
+	<MissingMaterials>este nevoie de materiale</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Nu se poate merge acolo (nu poate fi ajuns)</CannotGoNoPath>
+  <GoHere>Du-te aici</GoHere>
+  
+  <Arrest>Arestează-l pe {0}</Arrest>
+  <CannotArrest>Nu poate fi arestat</CannotArrest>
+
+  <Capture>Capturează-l pe {0}</Capture>
+  <CannotCapture>Nu poate fi capturat</CannotCapture>
+
+  <Rescue>Salvează-l pe {0}</Rescue>
+  <CannotRescue>Nu poate fi salvat</CannotRescue>
+
+  <CarryToCryptosleepCasket>Transportă-l pe {0} în camera de crypto-somn</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Nu poate fi transportat în camera de crypto-somn</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Nu există o cameră de crypto-somn disponibilă.</NoCryptosleepCasket>
+  <NoPrisonerBed>Nu este disponibil un pat izolat pentru prizonieri .</NoPrisonerBed>
+  <NoNonPrisonerBed>Nu este disponibil un pat utilizabil.</NoNonPrisonerBed>
+  <Reserved>Rezervat de altcineva.</Reserved>
+  <ReservedBy>Rezervat de {0}</ReservedBy>
+  <IsReservedBy>{0} este rezervat de {1}.</IsReservedBy>
+
+  <NoManipulationSkill>incapabil</NoManipulationSkill>
+
+  <Equip>Echipează {0}</Equip>
+  <EquipWarningBrawler>(bătăușul va fi nefericit)</EquipWarningBrawler>
+  <CannotEquip>Nu se poate echipa {0}</CannotEquip>
+  
+  <Wear>Îmbracă {0}</Wear>
+  <CannotWear>Nu se poate îmbrăca {0}</CannotWear>
+  
+  <Strip>Dezbracă {0}</Strip>
+  <CannotStrip>Nu se poate dezbrăca {0}</CannotStrip>
+
+  <Deposit>Depozitează {0} în {1}</Deposit>
+  <CannotDeposit>Nu se poate depozita {0} în {1}</CannotDeposit>
+
+  <SelfDestructHere>Auto-distruge aici</SelfDestructHere>
+  
+  <Drop>Lasă {0}</Drop>
+  
+  <UseMedicalBed>Odihnă până la vindecare</UseMedicalBed>
+  <NotInjured>Nu este rănit</NotInjured>
+  <SomeoneElseSleeping>Ocupat</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Folosește camera de crypto-somn</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Deschide camera de crypto-somn</OpenCryptosleepCasket>
+
+
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Nu se poate {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Nu se poate prioritiza (Problemă de sănătate: {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Deja se {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Nu se poate prioritiza ({0} nu este {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Nu se poate prioritiza (cercetarea este o sarcină pe termen lung)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Nu se poate prioritiza ({0} este interzis)</CannotPrioritizeForbidden>
+  
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioritizează {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

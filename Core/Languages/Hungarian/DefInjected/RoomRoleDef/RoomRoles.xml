@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barn -->
+  <Barn.label>csűr</Barn.label>
+  
+  <!-- EN: barracks -->
+  <Barracks.label>barakk</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>hálószoba</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>éléskamra</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>betegszoba</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>konyha</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>labor</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>semmi</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>börtönbarakk</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>börtöncella</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>pihenőszoba</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>szoba</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>kripta</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>műhely</Workshop.label>
+  
+</LanguageData>

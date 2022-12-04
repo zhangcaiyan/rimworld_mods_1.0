@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TurbulentWaters.label>湍急的水流</TurbulentWaters.label>
+  <TurbulentWaters.description>河水流速比正常情况下要快，这使得水轮发电机产生了更多的电力，但也对它们造成了损伤。</TurbulentWaters.description>
+  <TurbulentWaters.endMessage>河水平静下来了。</TurbulentWaters.endMessage>
+
+
+</LanguageData>

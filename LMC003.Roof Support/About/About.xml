@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LMC003.随时随地搭建屋顶</name>
+    <url>https://github.com/MatchSG/RoofSupport</url>
+	<author>Match</author>
+	<targetVersion>1.0.0</targetVersion>
+	<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+	
+随时随地自由建造屋顶区域，可以用来建造天井、有盖人行道、大型房间。但是在四周未被封闭的情况下，即使使用该建筑搭建屋顶，仍会被识别为户外，存储的物品会照常老化。
+
+Updated from Beta 19 to 1.0. This mod will allow you to build patios, covered walkways, or massive rooms without collapsing the ceiling.These supports do not impede movement, nor provide cover. When using beneath a mountain, don't forget to use the build roof command. 
+
+Special thanks to Nommy, Igabod, Minus, Shinzy, Vas.
+
+Additionally I would like to thank Syrchalis and Beschi for there recomendations and bug fixes. As well as a shout-out to Proxyer for the japanese translation! 
+</description>
+</ModMetaData>

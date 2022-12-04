@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Akaname.label>垢尝</Yokai_Akaname.label>
+  <Yokai_Akaname.description>本来是以舔除浴室污垢为生的妖怪。在浴室减少的当今社会只能靠舔除各种污垢能填饱肚子。
+    \n若是放任不管则会跑到任何地方清扫脏污，在一起生活时要多加注意。无法取得肉和皮。
+    \n体型小而不具力量，但拥有不可思议的力量保护而不受肉食动物袭击。但对於入侵者的攻击仍是毫无抵抗之力，是故须多加保护。
+    \n能在针叶树林丶温带森林丶热带雨林等地区以低机率看到其身影。又因偏好湿气重的地区而在沼泽有更高的机率出现。</Yokai_Akaname.description>
+  <Yokai_Akaname.tools.0.label>左手</Yokai_Akaname.tools.0.label>
+  <Yokai_Akaname.tools.1.label>右手</Yokai_Akaname.tools.1.label>
+  <Yokai_Akaname_Corpse.label>垢尝的尸体</Yokai_Akaname_Corpse.label>
+  <Yokai_Akaname_Corpse.description>垢尝的尸体。变成这样就没办法帮忙清洁脏污了...</Yokai_Akaname_Corpse.description>
+</LanguageData>

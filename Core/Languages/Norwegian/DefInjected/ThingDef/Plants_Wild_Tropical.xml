@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <PlantTallGrass.label>høyt gress</PlantTallGrass.label>
+    <PlantTallGrass.description>Høyt, viltvoksende gress. Sinker enhver som beveger seg gjennom det betraktelig.</PlantTallGrass.description>
+    
+    <PlantTreeTeak.label>teaktre</PlantTreeTeak.label>
+    <PlantTreeTeak.description>Et svært sterkt hardtre, brukt i antikken til å lage trebåter.</PlantTreeTeak.description>
+    
+    <PlantTreeCecropia.label>cecropiatre</PlantTreeCecropia.label>
+    <PlantTreeCecropia.description>En av de vanligstre trærne i regnskogen. Vokser svært fort, men gir lite brukbart trevirke.</PlantTreeCecropia.description>
+    
+</LanguageData>

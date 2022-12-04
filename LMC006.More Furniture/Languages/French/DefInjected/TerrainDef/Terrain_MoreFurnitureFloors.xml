@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Carpets -->
+
+	<CarpetBedGreen.label>Lit vert tapis</CarpetBedGreen.label>
+	<CarpetBedGreen.description>Un tapis vert qui correspond au lit.</CarpetBedGreen.description>
+
+	<CarpetBedOrange.label>Lit Orange tapis</CarpetBedOrange.label>
+	<CarpetBedOrange.description>Un tapis orange qui correspond au lit.</CarpetBedOrange.description>
+
+	<CarpetBedBlue.label>Lit bleu tapis</CarpetBedBlue.label>
+	<CarpetBedBlue.description>Un tapis bleu qui correspond au lit.</CarpetBedBlue.description>
+
+	<CarpetBedMaroon.label>Lit Bordeaux tapis</CarpetBedMaroon.label>
+	<CarpetBedMaroon.description>Un tapis Bordeaux qui correspond au lit.</CarpetBedMaroon.description>
+
+</LanguageData>

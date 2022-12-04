@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef Name="LF_BuildingNaturalBase" Abstract="True">
+    <category>Building</category>
+    <selectable>true</selectable>
+    <drawerType>MapMeshOnly</drawerType>
+    <filthLeaving>Filth_RubbleRock</filthLeaving>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+	</ThingDef>
+
+
+  <ThingDef Name="LF_RockBase" ParentName="LF_BuildingNaturalBase" Abstract="True" >
+    <thingClass>Mineable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Linked/Rock_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Rock</li>
+        <li>MapEdge</li>
+      </linkFlags>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <neverMultiSelect>true</neverMultiSelect>
+    <rotatable>false</rotatable>
+    <saveCompressible>true</saveCompressible>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <mineable>true</mineable>
+    <statBases>
+      <Flammability>0</Flammability>
+    </statBases>
+    <building>
+      <isInert>true</isInert>
+      <isNaturalRock>true</isNaturalRock>
+      <canBuildNonEdificesUnder>false</canBuildNonEdificesUnder>
+      <deconstructible>false</deconstructible>
+    </building>
+  </ThingDef>
+
+  <ThingDef Name="LF_UglyRockBase" ParentName="LF_RockBase" Abstract="True">
+    <statBases>
+      <Flammability>0</Flammability>
+      <Beauty>-2</Beauty>
+    </statBases>
+		<building>
+			<mineableYieldWasteable>false</mineableYieldWasteable>
+		</building>
+  </ThingDef>
+
+		<!-- == Rock reconstructer == -->
+
+  <ThingDef ParentName="LF_RockBase" Name="LF_StoneReconstructerBase" Abstract="True">
+    <thingClass>Mineable</thingClass>
+    <graphicData>
+      <texPath>Things/Terrain/Rock_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Rock</li>
+        <li>MapEdge</li>
+      </linkFlags>
+    </graphicData>
+    <saveCompressible>false</saveCompressible>
+
+    <description>A rebuilt rock wall. it assimilates to the same kind of natural rock as the original material after a certain period.</description>
+    <statBases>
+      <Flammability>0</Flammability>
+      <WorkToBuild>2000</WorkToBuild>
+    </statBases>
+    <building>
+      <isInert>false</isInert>
+      <isNaturalRock>false</isNaturalRock>
+      <canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+      <deconstructible>true</deconstructible>
+      <mineableDropChance>0.25</mineableDropChance>
+      <smoothedThing />
+    </building>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>LF_TerraForm</designationCategory>
+    <designatorDropdown>LF_Dropdown_Rocks</designatorDropdown>
+    <tickerType>Rare</tickerType>
+  </ThingDef>
+
+	<!-- ================ Sandstone ================ -->
+
+  <ThingDef ParentName="LF_StoneReconstructerBase">
+    <defName>LF_StoneReconstructer_Sandstone</defName>
+    <label>sandstone (TF)</label>
+    <graphicData>
+      <color>(126,104,94)</color>
+    </graphicData>
+    <uiIconPath>Things/Terrain/Rock_UI_Sandstone</uiIconPath>
+    <statBases>
+      <MaxHitPoints>320</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkSandstone</mineableThing>
+    </building>
+    <costList>
+      <BlocksSandstone>20</BlocksSandstone>
+    </costList>
+    <comps>
+      <li Class="LostForest.CompProperties_LFRockAdaptation">
+        <ChangeTo>Sandstone</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+  </ThingDef>
+
+	<!-- ================ Granite ================ -->
+
+  <ThingDef ParentName="LF_StoneReconstructerBase">
+    <defName>LF_StoneReconstructer_Granite</defName>
+    <label>granite (TF)</label>
+    <graphicData>
+      <color>(105,95,97)</color>
+    </graphicData>
+    <uiIconPath>Things/Terrain/Rock_UI_Granite</uiIconPath>
+    <statBases>
+      <MaxHitPoints>720</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkGranite</mineableThing>
+    </building>
+    <costList>
+      <BlocksGranite>20</BlocksGranite>
+    </costList>
+    <comps>
+      <li Class="LostForest.CompProperties_LFRockAdaptation">
+        <ChangeTo>Granite</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+  </ThingDef>
+
+	<!-- ================ Limestone ================ -->
+
+  <ThingDef ParentName="LF_StoneReconstructerBase">
+    <defName>LF_StoneReconstructer_Limestone</defName>
+    <label>limestone (TF)</label>
+    <graphicData>
+      <color>(158,153,135)</color>
+    </graphicData>
+    <uiIconPath>Things/Terrain/Rock_UI_Limestone</uiIconPath>
+    <statBases>
+      <MaxHitPoints>540</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkLimestone</mineableThing>
+    </building>
+    <costList>
+      <BlocksLimestone>20</BlocksLimestone>
+    </costList>
+    <comps>
+      <li Class="LostForest.CompProperties_LFRockAdaptation">
+        <ChangeTo>Limestone</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+  </ThingDef>
+
+	<!-- ================ Slate ================ -->
+
+  <ThingDef ParentName="LF_StoneReconstructerBase">
+    <defName>LF_StoneReconstructer_Slate</defName>
+    <label>slate (TF)</label>
+    <graphicData>
+      <color>(70,70,70)</color>
+    </graphicData>
+    <uiIconPath>Things/Terrain/Rock_UI_Slate</uiIconPath>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkSlate</mineableThing>
+    </building>
+    <costList>
+      <BlocksSlate>20</BlocksSlate>
+    </costList>
+    <comps>
+      <li Class="LostForest.CompProperties_LFRockAdaptation">
+        <ChangeTo>Slate</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+  </ThingDef>
+
+	<!-- ================ Marble ================ -->
+
+  <ThingDef ParentName="LF_StoneReconstructerBase">
+    <defName>LF_StoneReconstructer_Marble</defName>
+    <label>marble (TF)</label>
+    <graphicData>
+      <color>(132,135,132)</color>
+    </graphicData>
+    <uiIconPath>Things/Terrain/Rock_UI_Marble</uiIconPath>
+    <statBases>
+      <MaxHitPoints>390</MaxHitPoints>
+    </statBases>
+    <building>
+      <mineableThing>ChunkMarble</mineableThing>
+    </building>
+    <costList>
+      <BlocksMarble>20</BlocksMarble>
+    </costList>
+    <comps>
+      <li Class="LostForest.CompProperties_LFRockAdaptation">
+        <ChangeTo>Marble</ChangeTo>
+	<TicksToAdaptation>120000</TicksToAdaptation>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+</Defs>

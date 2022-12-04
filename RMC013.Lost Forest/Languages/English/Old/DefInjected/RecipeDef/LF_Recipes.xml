@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <MakeHolyWood150.label>Make 150 Ancient Holy Wood</MakeHolyWood150.label>
+    <MakeHolyWood150.description>Through magical wool and a Foxia's Tear, one can ascend basic wood into something more.</MakeHolyWood150.description>
+    <MakeHolyWood150.jobString>Making 150 Ancient Holy Wood.</MakeHolyWood150.jobString>
+
+    <PressIronScrap.label>Compress slag chunk</PressIronScrap.label>
+    <PressIronScrap.description>Rend a slag chunk into iron scraps, and then press those into an easy to manage block.</PressIronScrap.description>
+    <PressIronScrap.jobString>Compressing slag chunk.</PressIronScrap.jobString>
+
+    <PressBulkIronScraps.label>Bulk compress slag chunk</PressBulkIronScraps.label>
+    <PressBulkIronScraps.description>Rend multiple slag chunks into iron scraps, and then press those into an easy to manage block.</PressBulkIronScraps.description>
+    <PressBulkIronScraps.jobString>Compressing multiple slag chunks.</PressBulkIronScraps.jobString>
+
+    <SmeltPressedIronScraps.label>Smelt compressed scraps</SmeltPressedIronScraps.label>
+    <SmeltPressedIronScraps.description>Smelt compressed scraps into steel.</SmeltPressedIronScraps.description>
+    <SmeltPressedIronScraps.jobString>Smelting compressed scraps.</SmeltPressedIronScraps.jobString>
+
+    <SmeltBulkPressedIronScraps.label>Bulk smelt compressed scraps</SmeltBulkPressedIronScraps.label>
+    <SmeltBulkPressedIronScraps.description>Smelt enough compressed scraps to get 100 steel; this process is far faster than smelting slag chunks directly.</SmeltBulkPressedIronScraps.description>
+    <SmeltBulkPressedIronScraps.jobString>Smelting multiple chunks of compressed scrap.</SmeltBulkPressedIronScraps.jobString>
+
+</LanguageData>

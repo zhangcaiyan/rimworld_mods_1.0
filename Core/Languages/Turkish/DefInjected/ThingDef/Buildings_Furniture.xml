@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SleepingSpot.label>uyuma noktası</SleepingSpot.label>
+    <SleepingSpot.description>İnsanların yerin neresinde uyuması gerektiğini belirle. Rahat değil.</SleepingSpot.description>
+    
+    <Bed.label>yatak</Bed.label>
+    <Bed.description>Uyumak için bir yapı üstünde döşek ve çarşaflar.</Bed.description>
+    
+    <DoubleBed.label>çift kişilik yatak</DoubleBed.label>
+    <DoubleBed.description>İki kişi için basit çift kişilik yatak.</DoubleBed.description>
+    
+    <RoyalBed.label>soylu yatağı</RoyalBed.label>
+    <RoyalBed.description>Soylular için lüks altın işlemeli bir yatak. Çok rahat and güzel. İki kişilik.</RoyalBed.description>
+    
+    <HospitalBed.label>hastane yatağı</HospitalBed.label>
+    <HospitalBed.description>Yaralanmış kişiler için özel olarak tasarlanmış yatak. Tıbbi çalışmaların başarı oranını arttırır.</HospitalBed.description>
+    
+    <AnimalSleepingSpot.label>hayvan uyuma noktası</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Yerde hayvanların nerde uyuması gerektiğini belirle.</AnimalSleepingSpot.description>
+    
+    <AnimalSleepingBox.label>hayvan uyuma kutusu</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>Hayvanların uyuması için küçük bir kutu. Tavuk, kedi veya küçük köpek gibi küçük hayvanlar için.</AnimalSleepingBox.description>
+    
+    <AnimalBed.label>hayvan yatağı</AnimalBed.label>
+    <AnimalBed.description>Hayvanların uyuması için yumuşak yatak. Her hayvana uygun.</AnimalBed.description>
+    
+    <Stool.label>tabure</Stool.label>
+    <Stool.description>Oturmak için basit bir platform..</Stool.description>
+    
+    <DiningChair.label>yemek sandalyesi</DiningChair.label>
+    <DiningChair.description>Oturmak için rahat ve çekici bir sandalye.</DiningChair.description>
+    
+    <Armchair.label>koltuk</Armchair.label>
+    <Armchair.description>İyi bir dinlenme için tasarlanmış büyük, yumukşak ve rahat bir koltuk.</Armchair.description>
+    
+    <TableShort.label>masa (kısa)</TableShort.label>
+    <TableShort.description>Eğer sandalyeleri varsa insanlar etrafına oturabilir.</TableShort.description>
+    
+    <TableLong.label>masa (uzun)</TableLong.label>
+    <TableLong.description>Eğer sandalyeleri varsa insanlar etrafına oturabilir.</TableLong.description>
+    
+    <PlantPot.label>vazo</PlantPot.label>
+    <PlantPot.description>Dekoratif çiçekler ekmek için bir vazo. Yakınındaki insanların ruh halini iyileştirir.</PlantPot.description>
+    
+    <TorchLamp.label>meşale</TorchLamp.label>
+    <TorchLamp.description>Aydınlatmak için odundan meşale. Otomatik olarak odun yakıt olarak kullanılabilir. Ayrıca çevresine küçük bir ısı yarar.</TorchLamp.description>
+  
+    <StandingLamp.label>ayaklı lamba</StandingLamp.label>
+    <StandingLamp.description>Bölgeyi aydınlatmak için ayaklı lamba.</StandingLamp.description>
+    
+    <StandingLamp_Red.label>ayaklı lamba (kırmızı)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Bölgeyi kırmızı şekilde aydınlatmak için ayaklı lamba.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>ayaklı lamba (yeşil)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Bölgeyi yeşil şekilde aydınlatmak için ayaklı lamba.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>ayaklı lamba (mavi)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Bölgeyi mavi şekilde aydınlatmak için ayaklı lamba.</StandingLamp_Blue.description>
+    
+    <SunLamp.label>Güneş Lambası</SunLamp.label>
+    <SunLamp.description>Bir alanı ekinlerin yetişebileceği kadar aydınlatır,fakat çok enerji gerektirir.</SunLamp.description>
+    
+    <EquipmentRack.label>teçhizat dolabı</EquipmentRack.label>
+    <EquipmentRack.description>İçinde depolanan eşyalar dışarda olsa bile bozulmaz.</EquipmentRack.description>
+    
+</LanguageData>

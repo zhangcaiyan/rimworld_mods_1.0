@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--==================== Spike Wall (trap) ======================== -->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LF_SpikeWall</defName>
+    <label>spike wall</label>
+    <description>A spiny barricade that blocks enemies from entering. It slows down the steps of those who try to forcibly pass through on, causing minor damage. Self-destruct when activated a certain number of times.</description>
+    <thingClass>LostForest.Building_SpikeWall</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Linked/SpikeWall</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <rect>(0,0,1,0.15)</rect>
+      </damageData>
+      <linkType>Basic</linkType>
+      <linkFlags>
+        <li>Custom1</li>
+      </linkFlags>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/UI_SpikeWall</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <drawerType>MapMeshAndRealTime</drawerType>
+<!--
+    <drawerType>RealtimeOnly</drawerType>
+-->
+    <rotatable>false</rotatable>
+    <tickerType>Normal</tickerType>
+    <stealable>false</stealable>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <pathCost>100</pathCost>
+    <passability>PassThroughOnly</passability>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <statBases>
+      <Mass>2.5</Mass>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>1200</WorkToBuild>
+      <Flammability>1</Flammability>
+      <Beauty>-14</Beauty>
+      <Cleanliness>-5</Cleanliness>
+      <TrapMeleeDamage>5</TrapMeleeDamage>
+      <TrapSpringChance>1.0</TrapSpringChance>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <designationCategory>Security</designationCategory>
+    <designationHotKey>Misc6</designationHotKey>
+    <building>
+      <isTrap>true</isTrap>
+      <trapDestroyOnSpring>false</trapDestroyOnSpring>
+      <trapDamageCategory>Sharp</trapDamageCategory>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/SpikeWall_Blueprint</texPath>
+      </blueprintGraphicData>
+    </building>
+    <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+    <placeWorkers>
+
+    </placeWorkers>
+  </ThingDef>
+
+
+  <!-- ================ Mortar Base ==================-->
+
+  <ThingDef Name="LF_BaseArtilleryBuilding" ParentName="LF_BuildingBase" Abstract="True">
+    <thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Security/TurretMortar_Base</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,4)</drawSize>
+      <damageData>
+        <rect>(0.38,0.2,0.56375,0.8)</rect>
+        <cornerTL>Damage/Corner</cornerTL>
+      </damageData>
+      <shadowData>
+	      <offset>(-0.13,-0.87,-0.1)</offset>
+        <volume>(0.5,0.4,1.05)</volume>
+      </shadowData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <stealable>false</stealable>
+    <size>(2,2)</size>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <tickerType>Normal</tickerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+		<costStuffCount>50</costStuffCount>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <costList>
+
+		</costList>
+    <inspectorTabs>
+      <li>ITab_Shells</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+      <li Class="CompProperties_Mannable">
+        <manWorkType>Violent</manWorkType>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>0.7</Flammability>
+      <WorkToBuild>1900</WorkToBuild>
+      <Mass>30</Mass>
+      <Beauty>-20</Beauty>
+    </statBases>
+    <building>
+      <turretBurstWarmupTime>4.0</turretBurstWarmupTime>
+			<turretBurstCooldownTime>28.0</turretBurstCooldownTime>
+			<buildingTags>
+				<li>Artillery</li>
+			</buildingTags>
+		</building>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_TurretTop</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>Mortars</li>
+    </researchPrerequisites>
+    <uiIconScale>1.1</uiIconScale>
+    <generateCommonality>0</generateCommonality>
+    <stuffProps>
+      <commonality>0</commonality>
+    </stuffProps>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+
+  <ThingDef Name="LF_BaseArtilleryWeapon" Abstract="True">
+    <category>Item</category>
+    <thingClass>ThingWithComps</thingClass>
+    <label>artillery error</label>
+    <useHitPoints>false</useHitPoints>
+    <equipmentType>Primary</equipmentType>
+    <tickerType>Never</tickerType>
+    <techLevel>Industrial</techLevel>
+    <destroyOnDrop>True</destroyOnDrop>
+    <menuHidden>True</menuHidden>
+    <tradeability>None</tradeability>
+    <weaponTags>
+      <li>LF_Artillery</li>
+    </weaponTags>
+    <comps>
+      <li>
+        <compClass>CompEquippable</compClass>
+      </li>
+      <li Class="CompProperties_ChangeableProjectile" />
+    </comps>
+    <building>
+      <fixedStorageSettings>
+        <filter>
+          <categories>
+            <li>MortarShells</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <categories>
+            <li>MortarShells</li>
+          </categories>
+          <disallowedThingDefs>
+            <li>Shell_Firefoam</li>
+            <li>Shell_AntigrainWarhead</li>
+          </disallowedThingDefs>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <generateCommonality>0</generateCommonality>
+    <stuffProps>
+      <commonality>0</commonality>
+    </stuffProps>
+  </ThingDef>
+
+    <!--=============== Mortar turret ===============-->
+
+  <ThingDef ParentName="LF_BaseArtilleryBuilding">
+    <defName>LF_Turret_PrecisionMortar</defName>
+    <label>precision mortar</label>
+    <description>The mortar with a narrow spreading field and extremely high shooting accuracy. 
+Perform ballistic correction in real time from information obtained by hacking neighboring monitoring satellites and rawinsonde.(zone of dispersion : radius 3)</description>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.9</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+      </li>
+    </comps>
+    <designationHotKey>Misc4</designationHotKey>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <costStuffCount>50</costStuffCount>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <costList>
+	<Steel>100</Steel>
+	<ComponentSpacer>4</ComponentSpacer>
+    </costList>
+    <building>
+      <turretGunDef>LF_Artillery_PrecisionMortar</turretGunDef>
+      <turretTopGraphicPath>Things/Building/Security/TurretMortar_Top</turretTopGraphicPath>
+      <buildingTags>
+        <li>LF_Artillery_BaseDestroyer</li>
+      </buildingTags>
+    </building>
+	<uiIconPath>Things/Building/Security/TurretMortar_MenuIcon</uiIconPath>
+	<uiIconScale>0.9</uiIconScale>
+  </ThingDef>
+  
+  <ThingDef ParentName="LF_BaseArtilleryWeapon">
+    <defName>LF_Artillery_PrecisionMortar</defName>
+    <label>precision mortar</label>
+    <description>Precision mortar launcher. Lobs bombs over walls. High acculacy and long-ranged.</description>
+    <weaponTags>
+      <li>LF_Artillery_BaseDestroyer</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <forceNormalTimeSpeed>false</forceNormalTimeSpeed>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>4.0</warmupTime>
+        <forcedMissRadius>3</forcedMissRadius>
+        <requireLineOfSight>false</requireLineOfSight>
+        <minRange>24.9</minRange>
+        <range>500</range>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>Mortar_LaunchA</soundCast>
+        <muzzleFlashScale>16</muzzleFlashScale>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+        </targetParams>
+      </li>
+    </verbs>
+  </ThingDef>
+
+
+</Defs>

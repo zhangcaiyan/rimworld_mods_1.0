@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Turret_AGS.label>固定式AGS-17烈火自动榴弹发射器</Turret_AGS.label>
+  <Turret_AGS.description>安装在三脚架上的30mm自动榴弹发射器。</Turret_AGS.description>
+  <Turret_AGS_Blueprint.label>固定式AGS-17烈火自动榴弹发射器 (蓝图)</Turret_AGS_Blueprint.label>
+  <Turret_AGS_Blueprint_Install.label>固定式AGS-17烈火自动榴弹发射器 (蓝图)</Turret_AGS_Blueprint_Install.label>
+  <Turret_AGS_Frame.label>固定式AGS-17烈火自动榴弹发射器 (建造中)</Turret_AGS_Frame.label>
+  <Turret_AGS_Frame.description>安装在三脚架上的30mm自动榴弹发射器。</Turret_AGS_Frame.description>
+
+  <Bullet_3000mm.label>榴弹发射器弹药</Bullet_3000mm.label>
+
+  <Gun_AGS.label>固定式AGS-17</Gun_AGS.label>
+  <Gun_AGS.description>安装在三脚架上的30mm自动榴弹发射器。</Gun_AGS.description>
+
+
+</LanguageData>

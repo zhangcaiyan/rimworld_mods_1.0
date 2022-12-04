@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--====================for Halloweeeeeeeeen=======================-->
+
+<!--=====PumpkinHead=====-->
+<!--
+  <ThingDef ParentName="LF_HatMakeableBase">
+    <defName>LF_Apparel_PumpkinHead</defName>
+    <label>pumpkin head</label>
+    <description>desc.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/PumpkinHead/LF_PumpkinHead</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+	<shaderType>Cutout</shaderType>
+    </graphicData>
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>1800</WorkToMake>
+      <Mass>0.8</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.50</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <PlantWorkSpeed>0.03</PlantWorkSpeed>
+      <PlantHarvestYield>0.01</PlantHarvestYield>
+      <FoodPoisonChance>-0.003</FoodPoisonChance>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+	<li>Neck</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/Halloween/PumpkinHead/LF_PumpkinHead</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+
+      </tags>
+      <defaultOutfitTags>
+
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+-->
+<!--=====HalloweenSuit Torso=====-->
+<!--
+  <ThingDef ParentName="LF_ApparelMakeableBase">
+    <defName>LF_Apparel_HalloweenSuitT</defName>
+    <label>halloween vest</label>
+    <description>A nice-looking collared shirt with buttons.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitT/LF_HalloweenSuitT</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>45</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>2700</WorkToMake>
+      <Mass>0.3</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.26</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <PlantWorkSpeed>0.02</PlantWorkSpeed>
+      <PlantHarvestYield>0.01</PlantHarvestYield>
+      <FoodPoisonChance>-0.002</FoodPoisonChance>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitT/LF_HalloweenSuitT</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <tags>
+
+      </tags>
+      <defaultOutfitTags>
+
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+-->
+<!--=====HalloweenSuit Bottoms=====-->
+<!--
+  <ThingDef ParentName="LF_ApparelMakeableBase">
+    <defName>LF_Apparel_HalloweenSuitL</defName>
+    <label>halloween pants</label>
+    <description>A simple set of halloween pants.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitL/LF_HalloweenSuitL</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>2000</WorkToMake>
+      <Mass>0.5</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.20</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.08</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <PlantWorkSpeed>0.02</PlantWorkSpeed>
+      <PlantHarvestYield>0.01</PlantHarvestYield>
+      <FoodPoisonChance>-0.002</FoodPoisonChance>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Legs</li>
+	<li>Feet</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitL/LF_HalloweenSuitL</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+
+      </tags>
+      <defaultOutfitTags>
+
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+-->
+<!--=====HalloweenSuit Shell=====-->
+<!--
+  <ThingDef ParentName="LF_ApparelMakeableBase">
+    <defName>LF_Apparel_HalloweenSuitS</defName>
+    <label>halloween tail coat</label>
+    <description>A halloween tail coat for evening of the festival.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitS/LF_HalloweenSuitS</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.05</drawSize>
+    </graphicData>
+    <costStuffCount>80</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>2.2</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.60</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.85</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <PlantWorkSpeed>0.03</PlantWorkSpeed>
+      <PlantHarvestYield>0.03</PlantHarvestYield>
+      <FoodPoisonChance>-0.003</FoodPoisonChance>
+      <ImmunityGainSpeed>0.03</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Hands</li>
+        <li>Legs</li>
+	<li>Feet</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/Halloween/HalloweenSuitS/LF_HalloweenSuitS</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+
+      </tags>
+      <defaultOutfitTags>
+
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+-->
+<!--=====GhostCloak=====-->
+
+  <ThingDef ParentName="LF_HatMakeableBase" Name="GhostCloak">
+    <defName>LF_Apparel_GhostCloak</defName>
+    <label>ghost cloak</label>
+    <description>It is a ghostly cloth used in a festival celebrating the autumn harvest. It seems to be used in the meaning to drive out evil spirits on the day of Samhain, which is said to open the gate connecting the spirit world and this world. This clothing does not prevent the freedom of nudist at all.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/GhostCloak/LF_GhostCloak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>1800</WorkToMake>
+      <Mass>0.8</Mass>
+      <StuffEffectMultiplierArmor>0.25</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>1.0</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>1.0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <PlantWorkSpeed>0.10</PlantWorkSpeed>
+      <PlantHarvestYield>0.05</PlantHarvestYield>
+      <FoodPoisonChance>-0.01</FoodPoisonChance>
+      <ImmunityGainSpeed>0.03</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+	<li>Neck</li>
+	<li>Shoulders</li>
+	<li>Arms</li>
+	<li>Hands</li>
+	<li>Feet</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/Halloween/GhostCloak/LF_GhostCloak</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+
+      </tags>
+      <defaultOutfitTags>
+
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+
+<!--=====HalloweenLantern=====-->
+
+  <ThingDef ParentName="LF_ApparelBase">
+    <defName>LF_Apparel_HalloweenLantern</defName>
+    <label>halloween lantern</label>
+    <description>A cute lantern made by hollowing out a pumpkin. It is portable and can handle various things as fuel, but fuel efficiency and brightness are not so good.\n (Lighting range: 4.8)</description>
+    <thingClass>LostForest.LightSourceApparel</thingClass>
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Halloween/Lantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
+    </graphicData>
+    <uiIconPath>Things/Pawn/Humanlike/Apparel/Halloween/UI_HalloweenLantern</uiIconPath>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <WoodLog>10</WoodLog>
+    </costList>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>20</MarketValue>
+      <WorkToMake>200</WorkToMake>
+      <Mass>1.8</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+
+    </equippedStatOffsets>
+    <comps>
+      <li Class="LostForest.CompProperties_LFLuminousEquipment" />
+      <li Class="CompProperties_Forbiddable"/>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>LostForest.ITab_LightSourceApparel</li>
+    </inspectorTabs>
+    <apparel>
+
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+
+      <bodyPartGroups>
+
+        <li>Waist</li>
+
+      </bodyPartGroups>
+
+      <layers>
+
+        <li>Shell</li>
+
+      </layers>
+
+      <tags>
+
+        
+      </tags>
+
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+
+	<!--ハロウィンランタン用グロー-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LFGlow_HalloweenLantern</defName>
+    <label>lantern glow</label>
+    <description>Glow of halloween lantern.</description>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFGlowOfEquipment" />
+      <li Class="CompProperties_Glower">
+        <glowRadius>4.8</glowRadius>
+        <glowColor>(240,180,100,0)</glowColor>
+      </li>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <terrainAffordanceNeeded />
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>false</selectable>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>0</MarketValue>
+      <Flammability>0</Flammability>
+      <Beauty>0</Beauty>
+    </statBases>
+    <fillPercent>0</fillPercent>
+    <building>
+      <isInert>true</isInert>
+      <isEdifice>false</isEdifice>
+      <ai_chillDestination>false</ai_chillDestination>
+      <canPlaceOverWall>true</canPlaceOverWall>
+    </building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+</Defs>

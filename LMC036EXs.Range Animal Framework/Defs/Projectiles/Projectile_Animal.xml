@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Burrowing More mechanoid flamethrower code-->
+<!--These are fundmental defs for animal range unlock.-->
+	<ThingDef Name="ARA_FireProjectile" Abstract="True">
+		<label>flame</label>
+		<category>Projectile</category>
+		<tickerType>Normal</tickerType>
+		<altitudeLayer>Projectile</altitudeLayer>
+		<useHitPoints>False</useHitPoints>
+		<neverMultiSelect>True</neverMultiSelect>
+		<thingClass>AnimalRangeAttack.Projectile_Fire</thingClass>
+		<graphicData>
+			<shaderType>TransparentPostLight</shaderType>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef Name="ARA_ExplodeProjectile" Abstract="True">
+		<label>splash projectile</label>
+		<category>Projectile</category>
+		<tickerType>Normal</tickerType>
+		<altitudeLayer>Projectile</altitudeLayer>
+		<useHitPoints>False</useHitPoints>
+		<neverMultiSelect>True</neverMultiSelect>
+		<thingClass>AnimalRangeAttack.Projectile_Explode</thingClass>
+		<graphicData>
+			<shaderType>TransparentPostLight</shaderType>
+		</graphicData>
+	</ThingDef>
+</Defs>

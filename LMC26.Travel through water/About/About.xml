@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>LMC026.航海</name>
+  <author>Silt</author>
+  <description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+  
+Allows you to travel through water with your caravan. It'll take you 6x longer than most biomes (forest, desert, et cetera).
+  
+允许你的远征队横过海洋，但是会花费比大多数地貌（如森林，沙漠等）多6倍的时间。
+  
+To change stats, go to \Steam\steamapps\workshop\content\294100\1469326540\Patches, open Patch.xml and change anything you want.
+  
+要改变所花费的时间，打开Patches\Patch.xml修改movementDifficulty项数值。
+  
+汉化：jxb12306
+  
+  </description>
+  <targetVersion>1.0.2059</targetVersion>
+</ModMetaData>

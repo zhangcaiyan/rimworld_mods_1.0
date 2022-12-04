@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Player -->
+
+	<NamerFactionPlayerRandomized.rulePack.rulesStrings>
+		<li>name->[colonyname]</li>
+	</NamerFactionPlayerRandomized.rulePack.rulesStrings>
+	<NamerFactionBasePlayerColony.rulePack.rulesStrings>
+		<li>name->Koloni</li>
+	</NamerFactionBasePlayerColony.rulePack.rulesStrings>
+	<NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+		<li>name->Landsby</li>
+	</NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+	
+	<!-- Pirate -->
+
+	<NamerFactionPirate.rulePack.rulesStrings>
+		<li>name->De [badassanimal]er</li>
+		<li>name->De [badassanimal] Mænd</li>
+		<li>name->De [badassanimal]er af [badassconcept]</li>
+		<li>name->De [badassperson]s af [badassconcept]</li>
+		<li>name->De [badassperson]s</li>
+		<li>name->De [weapon] Mænd</li>
+		<li>name->[weapon]erne</li>
+		<li>name->[weapon]er [badassanimal]er</li>
+		<li>name->De [badasscolor] [weapon]</li>
+		<li>name->De [badasscolor] [badassanimal]er</li>
+		<li>name->De [badasscolor] [badassperson]s</li>
+		<li>name->De [badassperson] [groupname]</li>
+		<li>name->De [badassadjective] [groupname]</li>
+		<li>name->De [badassadjective] [badassanimal]s</li>
+		<li>name->De [badassadjective] [badassperson]s</li>
+		<li>name->[weapon] [groupname]</li>
+		<li>name->[badassconcept] [groupname]</li>
+		<li>name->[badassconcept][groupname]</li>
+	</NamerFactionPirate.rulePack.rulesStrings>
+
+	<NamerFactionBasePirate.rulePack.rulesStrings>
+		<li>name->[badassanimal] [geography]</li>
+		<li>name->[badassconcept] [geography]</li>
+		<li>name->[badassanimal]s [geography]</li>
+		<li>name->[badassperson]'s [geography]</li>
+		<li>geography->[terrainfeature]</li>
+		<li>geography->[community]</li>
+	</NamerFactionBasePirate.rulePack.rulesStrings>
+  
+    	<!-- Outlander -->
+	
+	<NamerFactionOutlander.rulePack.rulesStrings>
+		<li>name->[subname]</li>
+		<li>name->[subname]</li>
+		<li>name->[subname]</li>
+		<li>name->[subname] [politicalunion]</li>
+		<li>name->[subname] [politicaladjective] [politicalunion]</li>
+		<li>name->[politicalunion] af [subname]</li>
+		<li>name->[politicaladjective] [politicalunion] af [subname]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[direction] [wordname]</li>
+		<li>wordname->[syl][endsyl]</li>
+		<li>wordname->[syl][syl][endsyl]</li>
+		<li>wordname->[syl][syl][syl][endsyl]</li>
+	</NamerFactionOutlander.rulePack.rulesStrings>
+
+	<NamerFactionBaseOutlander.rulePack.rulesStrings>
+		<li>name->[positiveconcept]'s [terrainfeature]</li>
+		<li>name->[outlander]'s [terrainfeature]</li>
+		<li>name->[outlander]'s [community]</li>
+		<li>name->[nearname]</li>
+		<li>name->[wordname]</li>
+		<li>name->[wordname]</li>
+		<li>nearname->[subname]-ved-the-[terrainfeature]</li>
+		<li>nearname->[subname]-ovre ved-[terrainfeature]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[community]</li>
+		<li>wordname->[syl][syl]</li>
+		<li>wordname->[syl][townend]</li>
+		<li>wordname->[syl][syl][townend]</li>
+		<li>wordname->[terrainfeature][townend]</li>
+		<li>townend->sted</li>
+		<li>townend->by</li>
+		<li>townend->rup</li>
+		<li>townend->else</li>
+		<li>townend->brad</li>
+		<li>townend->dal</li>
+		<li>townend->hope</li>
+		<li>townend->ing</li>
+	</NamerFactionBaseOutlander.rulePack.rulesStrings>
+
+	<!-- Tribe -->
+
+	<NamerFactionTribal.rulePack.rulesStrings>
+		<li>name->[tribalworld] [politicalunion]</li>
+		<li>name->Den [tribalworld] [politicalunion]</li>
+		<li>name->Den [color] [terrainfeature] [politicalunion]</li>
+		<li>name->[politicalunion] af [tribalword]</li>
+		<li>name->Den [color] [animal] [tribalword]</li>
+		<li>name->Den [tribalword] af den [terrainfeature]</li>
+		<li>tribalword->[tribalwordfile]</li>
+		<li>tribalword->[syl][syl]</li>
+		<li>tribalword->[syl][syl][syl]</li>
+	</NamerFactionTribal.rulePack.rulesStrings>
+
+	<NamerFactionBaseTribal.rulePack.rulesStrings>
+		<li>name->[tribalword]</li>
+		<li>name->[tribalword]</li>
+		<li>name->[color] [tribalword]</li>
+		<li>name->[color] [terrainfeature]</li>
+		<li>name->[tribalword] [terrainfeature]</li>
+		<li>tribalword->[tribalwordfile]</li>
+		<li>tribalword->[syl][syl]</li>
+		<li>tribalword->[syl][syl][syl]</li>
+	</NamerFactionBaseTribal.rulePack.rulesStrings>
+
+	<!-- Special -->
+
+	<NamerFactionSpacer.rulePack.rulesStrings>
+		<li>name->Spacer</li>
+	</NamerFactionSpacer.rulePack.rulesStrings>
+
+
+</LanguageData>

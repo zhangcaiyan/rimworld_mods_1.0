@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="YokaiVillage.AnimaConverter.Defs.AC_PawnCategoryDef">
+    <defName>AC_AnyPawnCategory</defName>
+    <categories>
+      <!-- 対象Pawnが対応する報酬カテゴリ設定　-->
+      <li>
+        <index>10</index>
+        <category>KAPPA</category>
+        <pawns>
+          <li>*Kappa</li>
+        </pawns>
+      </li>
+      <li>
+        <index>10</index>
+        <category>Hono</category>
+        <pawns>
+          <li>Yokai_Hinoko</li>
+          <li>Yokai_Hodama</li>
+        </pawns>
+      </li>
+      <li>
+        <index>10</index>
+        <category>Energy</category>
+        <pawns>
+          <li>Yokai_Kamaitachi</li>
+        </pawns>
+      </li>
+      <li>
+        <index>10</index>
+        <category>DRAGON</category>
+        <pawns>
+          <li>Yokai_Dragon*</li>
+        </pawns>
+      </li>
+      <li>
+        <index>10</index>
+        <category>Tuzurao</category>
+        <pawns>
+          <li>Yokai_NineTail</li>
+        </pawns>
+      </li>
+      <li>
+        <index>9999</index>
+        <category>NORMAL</category>
+        <pawns>
+          <li>Yokai_*</li>
+        </pawns>
+      </li>
+    </categories>
+  </Def>
+</Defs>

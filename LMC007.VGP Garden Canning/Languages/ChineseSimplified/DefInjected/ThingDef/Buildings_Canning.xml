@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>罐头加工台</CanningFactory.label>
+  <CanningFactory.description>罐头加工台需要钢铁才能运作，然后你可以在此制造罐头食物，肉类罐头，蔬菜罐头和水果罐头。</CanningFactory.description>
+  <CanningFactory_Blueprint.label>罐头加工台 (蓝图)</CanningFactory_Blueprint.label>
+  <CanningFactory_Blueprint_Install.label>罐头加工台 (蓝图)</CanningFactory_Blueprint_Install.label>
+  <CanningFactory_Frame.label>罐头加工台 (建造中)</CanningFactory_Frame.label>
+  <CanningFactory_Frame.description>罐头加工台需要钢铁才能运作，然后你可以在此制造罐头食物，肉类罐头，蔬菜罐头和水果罐头。</CanningFactory_Frame.description>
+
+  <VG_CanningFactory.label>罐头机器</VG_CanningFactory.label>
+  <VG_CanningFactory.description>罐头机器可以用来制作罐头食物或者将不同种类的食物保存于罐头中。</VG_CanningFactory.description>
+  <VG_CanningFactory_Blueprint.label>罐头机器 (蓝图)</VG_CanningFactory_Blueprint.label>
+  <VG_CanningFactory_Blueprint_Install.label>罐头机器 (蓝图)</VG_CanningFactory_Blueprint_Install.label>
+  <VG_CanningFactory_Frame.label>罐头机器 (建造中)</VG_CanningFactory_Frame.label>
+  <VG_CanningFactory_Frame.description>罐头机器可以用来制作罐头食物或者将不同种类的食物保存于罐头中。</VG_CanningFactory_Frame.description>
+
+
+</LanguageData>

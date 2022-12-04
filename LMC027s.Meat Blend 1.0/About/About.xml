@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+		<name>LMC027.肉类混合</name>
+		<author>Sneaks</author>
+		  <supportedVersions>    <li>1.0</li>  </supportedVersions>
+		<description>&lt;color=orange&gt;&lt;b&gt;汉化：jxb12306
+Author jxb12306 FROM 3DM Localization Group
+合集链接：http://bbs.3dmgame.com/thread-5842015-1-1.html
+&lt;/b&gt;&lt;/color&gt;
+
+Sorry for the wait! Here's the 1.0 version for you guys.
+
+十分抱歉让大家等了这么久，这是1.0版本适用的MOD。
+
+A new recipe for mixing all your meats into one compact pile. Produced at the butchering table by your chef.
+
+新增了把所有的肉混合成一堆的新食谱。由厨师在屠宰台上制作。
+
+5 raw meat = 5 Meat Blend
+
+5块生肉=5块混合肉
+
+20 raw meat = 20 Meat Blend
+
+20块生肉=20块混合肉
+
+Can be used in any recipe that requires raw meat, including meals and kibble. Can be eaten raw (with a negative thought), or used to tame animals.
+
+可用于任何需要生肉的食谱，包括膳食和拼盘。可以生吃（吃的人会很不高兴），也可以用来驯服动物。
+
+Safe to add to existing saves!
+
+可以安全附加到已有的存档中！
+
+汉化：jxb12306
+
+Code borrowed from 'Mince that Meat' by Whizzard, modified with help from Mehni to make Veggie Blend, then further modified from Veggie Blend to make this one. (Mince That Meat can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=889529242 and Veggie Blend here: https://steamcommunity.com/sharedfiles/filedetails/?id=1428104260 )
+
+Thank you to erdelf, SoggyNoodle, FuriouslyEloquent, and Mehni for helping me fix the code for the changes done to 0.19, and to AUTOMATIC for the texture!
+</description>
+</ModMetaData>

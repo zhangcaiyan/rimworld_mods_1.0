@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorldCameraMovement.label>Kamera Hareketi</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>FARENİN ORTA TUŞU ile haritayı yakınlaştır.\n\nHaritayı kaydırmak için  WASD veya YÖN TUŞLARI, veya FARENİN ORTA TUŞU ile sürükle.</WorldCameraMovement.helpText>
+  
+</LanguageData>

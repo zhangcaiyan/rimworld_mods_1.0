@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe -->
+  <Makecheeeese.label>ラミアチーズを作る</Makecheeeese.label>
+  <Makecheeeese.description>ラミアミルクからラミアチーズを5つ作ります。</Makecheeeese.description>
+  <Makecheeeese.jobString>ラミアチーズを作っています。</Makecheeeese.jobString>
+  <MakeCheeeeseCake.label>チーズケーキを焼く</MakeCheeeeseCake.label>
+  <MakeCheeeeseCake.description>米、ベリー、ラミアチーズからチーズケーキを10作ります。</MakeCheeeeseCake.description>
+  <MakeCheeeeseCake.jobString>チーズケーキを焼いています。</MakeCheeeeseCake.jobString>
+  <!-- Domeet -->
+  <make_domeat.label>ドミートを焼く</make_domeat.label>
+  <make_domeat.description>ドラゴン肉を焼いて栄養満点のドミートにします。</make_domeat.description>
+  <make_domeat.jobString>ドミートを焼いています。</make_domeat.jobString>
+  <!-- 妖怪焼き -->
+  <make_Yokai_Yaki.label>妖怪焼きを作る</make_Yokai_Yaki.label>
+  <make_Yokai_Yaki.description>お肉を焼いて妖怪焼きを作ります。</make_Yokai_Yaki.description>
+  <make_Yokai_Yaki.jobString>妖怪焼きを作っています。</make_Yokai_Yaki.jobString>
+</LanguageData>

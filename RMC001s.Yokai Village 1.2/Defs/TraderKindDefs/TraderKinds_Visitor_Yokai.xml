@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Visitor_Yokai_Standard</defName>
+    <label>Yokai traveller</label>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>150</min>
+          <max>350</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_Bandage</thingDef>
+        <countRange>
+          <min>1</min>
+          <max>6</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_SnowMilk</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_FlameStone</thingDef>
+        <countRange>
+          <min>1</min>
+          <max>3</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_Fragment</thingDef>
+        <countRange>
+          <min>3</min>
+          <max>8</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_NekoMusumeWool</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>100</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Yokai_JorouGumoThread</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>50</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Jade</thingDef>
+        <countRange>
+          <min>0</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <!--動物 -->
+      <li Class="StockGenerator_Animals">
+        <tradeTagsSell>
+          <li>Yokai_Farm</li>
+        </tradeTagsSell>
+        <kindCountRange>
+          <min>1</min>
+          <max>2</max>
+        </kindCountRange>
+        <countRange>
+          <min>1</min>
+          <max>1</max>
+        </countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

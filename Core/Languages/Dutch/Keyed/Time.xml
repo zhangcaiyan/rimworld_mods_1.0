@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>d</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>u</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>s</LetterSecond>
+  
+  <!-- EN: days -->
+  <DaysLower>dagen</DaysLower>
+  <!-- EN: seconds -->
+  <SecondsLower>seconden</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>Lente</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>Zomer</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>Herfst</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>Winter</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>permanente zomer</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>permanente winter</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Aprimei</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Jugustus</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Decembruarie</QuadrumDecembary>
+  
+  <!-- EN: Born: {0} -->
+  <Born>Geboren: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Chronologische leeftijd: {0} jaar, {1} quadrums, {2} dagen</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Biologische leeftijd: {0} jaar, {1} quadrums, {2} dagen </AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 jaar </Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} jaar</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 dag</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} dagen</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 uur</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} uren</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 seconde</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} seconden</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Gestart</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Duurde</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>gebeurde {0} geleden</OccurredTimeAgo>
+  
+</LanguageData>

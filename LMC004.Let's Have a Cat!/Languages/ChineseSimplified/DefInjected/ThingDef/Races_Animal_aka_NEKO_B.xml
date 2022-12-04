@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+  <akaNEKO_Persian.label>波斯猫</akaNEKO_Persian.label>
+  <akaNEKO_Persian.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Persian.description>
+  <akaNEKO_Persian.tools.0.label>左爪</akaNEKO_Persian.tools.0.label>
+  <akaNEKO_Persian.tools.1.label>右爪</akaNEKO_Persian.tools.1.label>
+  <akaNEKO_Persian.tools.3.label>头部</akaNEKO_Persian.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Persian_Corpse.label>波斯猫的尸体</akaNEKO_Persian_Corpse.label>
+  <akaNEKO_Persian_Corpse.description>波斯猫的尸体</akaNEKO_Persian_Corpse.description>
+
+
+
+
+  <akaNEKO_Scottish_Fold.label>苏格兰折耳猫</akaNEKO_Scottish_Fold.label>
+  <akaNEKO_Scottish_Fold.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Scottish_Fold.description>
+  <akaNEKO_Scottish_Fold.tools.0.label>左爪</akaNEKO_Scottish_Fold.tools.0.label>
+  <akaNEKO_Scottish_Fold.tools.1.label>右爪</akaNEKO_Scottish_Fold.tools.1.label>
+  <akaNEKO_Scottish_Fold.tools.3.label>头部</akaNEKO_Scottish_Fold.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Scottish_Fold_Corpse.label>苏格兰折耳猫的尸体</akaNEKO_Scottish_Fold_Corpse.label>
+  <akaNEKO_Scottish_Fold_Corpse.description>苏格兰折耳猫的尸体</akaNEKO_Scottish_Fold_Corpse.description>
+
+
+
+
+  <akaNEKO_Scottish_Fold_Long.label>苏格兰折耳长毛猫</akaNEKO_Scottish_Fold_Long.label>
+  <akaNEKO_Scottish_Fold_Long.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Scottish_Fold_Long.description>
+  <akaNEKO_Scottish_Fold_Long.tools.0.label>左爪</akaNEKO_Scottish_Fold_Long.tools.0.label>
+  <akaNEKO_Scottish_Fold_Long.tools.1.label>右爪</akaNEKO_Scottish_Fold_Long.tools.1.label>
+  <akaNEKO_Scottish_Fold_Long.tools.3.label>头部</akaNEKO_Scottish_Fold_Long.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Scottish_Fold_Long_Corpse.label>苏格兰折耳长毛猫的尸体</akaNEKO_Scottish_Fold_Long_Corpse.label>
+  <akaNEKO_Scottish_Fold_Long_Corpse.description>苏格兰折耳长毛猫的尸体</akaNEKO_Scottish_Fold_Long_Corpse.description>
+
+
+
+
+  <akaNEKO_Maine_Coon.label>缅因猫</akaNEKO_Maine_Coon.label>
+  <akaNEKO_Maine_Coon.description>猫作为一种狩猎害兽的小型哺乳动物，是人类首批宠物的其中之一。尽管它不谄媚，但是猫还是很温顺，有独立心，再加上它裹着可爱的毛皮，所以很受人类的欢迎。</akaNEKO_Maine_Coon.description>
+  <akaNEKO_Maine_Coon.tools.0.label>左爪</akaNEKO_Maine_Coon.tools.0.label>
+  <akaNEKO_Maine_Coon.tools.1.label>右爪</akaNEKO_Maine_Coon.tools.1.label>
+  <akaNEKO_Maine_Coon.tools.3.label>头部</akaNEKO_Maine_Coon.tools.3.label>
+  <!-- Use Meat From: Cat -->
+  <akaNEKO_Maine_Coon_Corpse.label>缅因猫的尸体</akaNEKO_Maine_Coon_Corpse.label>
+  <akaNEKO_Maine_Coon_Corpse.description>缅因猫的尸体</akaNEKO_Maine_Coon_Corpse.description>
+
+
+</LanguageData>

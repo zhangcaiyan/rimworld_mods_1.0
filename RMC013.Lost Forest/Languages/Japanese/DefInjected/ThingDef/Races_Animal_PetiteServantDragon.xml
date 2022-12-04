@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_PetiteServantDragon.label>召使いちび竜</LF_PetiteServantDragon.label>
+  <LF_PetiteServantDragon.description>青き竜の子の側に仕えて身の周りのお世話を担当する、３匹の専属召使い竜のうちの１匹です。そのルーツは古く先代が竜帝の側近であった頃から続き、彼らが滅亡するまでずっと青き竜の血筋に仕えてきました。竜族の中では最弱の部類ですが、その忠誠心は今でも揺るぎません。一人の寂しさを隠している青き竜の子を少しでも支えようと、今日も献身的に尽くします。もし道に迷った彼らを見つけたのなら、それは青き竜の子を探しているに違いありません。</LF_PetiteServantDragon.description>
+  <!-- Leather Amount: 0 -->
+<!--
+  <LF_PetiteServantDragon_Meat.label>召使いちび竜の肉</LF_PetiteServantDragon_Meat.label>
+  <LF_PetiteServantDragon_Meat.description>召使いちび竜の肉。</LF_PetiteServantDragon_Meat.description>
+-->
+  <LF_PetiteServantDragon_Corpse.label>召使いちび竜の死骸</LF_PetiteServantDragon_Corpse.label>
+  <LF_PetiteServantDragon_Corpse.description>召使いちび竜の死骸です。</LF_PetiteServantDragon_Corpse.description>
+
+
+</LanguageData>

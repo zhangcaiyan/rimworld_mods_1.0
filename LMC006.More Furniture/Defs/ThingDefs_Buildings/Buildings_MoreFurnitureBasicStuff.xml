@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<!--====================== Furniture Base Defs ======================-->
+
+  <ThingDef Name="Anon2BuildingBase" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+		<statBases>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+  </ThingDef>
+
+  <ThingDef Name="Anon2FurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
+    <designationCategory>ANON2MF</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="Anon2FurnitureWithQualityBase" ParentName="Anon2FurnitureBase" Abstract="True">
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef Name="Anon2ArtableFurnitureBase" ParentName="Anon2FurnitureWithQualityBase" Abstract="True">
+    <comps>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtFurniture</nameMaker>
+        <descriptionMaker>ArtDescription_Furniture</descriptionMaker>
+        <minQualityForArtistic>Excellent</minQualityForArtistic>
+			</li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+  </ThingDef>
+
+  <ThingDef Name="Anon2NoCompQualityFurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
+    <designationCategory>ANON2MF</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+  
+
+<!--============================== Plant Pots ==============================-->
+
+<!--====================== square plant pot ======================-->  
+  
+    <ThingDef ParentName="Anon2FurnitureWithQualityBase">
+    <defName>Anon2SquarePlantPot</defName>
+    <label>square plant pot</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Anon2SquarePlantPot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.20</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>495</WorkToBuild>
+      <Mass>2</Mass>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>15</costStuffCount>
+    <description>Plant decorative flowers here to improve the mood of people nearby.</description>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <fertility>1.0</fertility>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <building>
+      <defaultPlantToGrow>Plant_Rose</defaultPlantToGrow>
+      <sowTag>Decorative</sowTag>
+    </building>
+    <rotatable>false</rotatable>
+    <designationCategory>ANON2MF</designationCategory>
+  </ThingDef>
+
+<!--====================== plantspot ======================-->
+
+
+  <ThingDef ParentName="Anon2BuildingBase">
+    <defName>Anon2PlantSpot</defName>
+    <label>plant spot</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.6, 0.6, 0.6)</volume>
+      </shadowData>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Custom5</li>
+      </linkFlags>
+      <damageData>
+        <rectN>(0.125,0.296875,0.734375,0.421875)</rectN>
+        <rectS>(0.125,0.296875,0.734375,0.421875)</rectS>
+        <rectE>(0.234375,0.296875,0.5,0.546875)</rectE>
+        <rectW>(0.234375,0.296875,0.5,0.546875)</rectW>
+        <edgeTop>Damage/Edge</edgeTop>
+        <edgeBot>Damage/Edge</edgeBot>
+        <edgeLeft>Damage/Edge</edgeLeft>
+        <edgeRight>Damage/Edge</edgeRight>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>235</WorkToBuild>
+      <Mass>2</Mass>
+      <Flammability>1.0</Flammability>
+    </statBases> 
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>15</costStuffCount>
+        <description>A large flat pot for decorative flowers. Easier to build but not quite as pretty as a pot.</description>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <blockWind>false</blockWind>
+    <fillPercent>0.1</fillPercent>
+    <coversFloor>false</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>false</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <holdsRoof>false</holdsRoof>
+    <blockLight>false</blockLight>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <pathCost>10</pathCost>
+        <fertility>1.0</fertility>
+    <building>
+      <isInert>true</isInert>
+      <defaultPlantToGrow>Plant_Rose</defaultPlantToGrow>
+      <sowTag>Decorative</sowTag>
+    <blueprintGraphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Blueprint_Atlas</texPath>
+    </blueprintGraphicData>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>1.25</multiplier>
+      </li>
+    </damageMultipliers>
+    <designationCategory>ANON2MF</designationCategory>
+  </ThingDef>
+
+
+  <!--================================ Abstract bases ======================================-->
+
+  <ThingDef ParentName="Anon2BuildingBase" Name="Anon2SculptureBase2" Abstract="True">
+    <thingClass>Building_Art</thingClass>
+    <altitudeLayer>Waist</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <castEdgeShadows>false</castEdgeShadows>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <Flammability>1.0</Flammability>
+      <SellPriceFactor>1.10</SellPriceFactor>
+    </statBases>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtSculpture</nameMaker>
+        <descriptionMaker>ArtDescription_Sculpture</descriptionMaker>
+				<canBeEnjoyedAsArt>true</canBeEnjoyedAsArt>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <recipeMaker>
+      <workSpeedStat>SculptingSpeed</workSpeedStat>
+      <workSkill>Artistic</workSkill>
+      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+      <effectWorking>Sculpt</effectWorking>
+      <soundWorking>Recipe_Sculpt</soundWorking>
+      <recipeUsers>
+        <li>TableSculpting</li>
+      </recipeUsers>
+      <defaultIngredientFilter>
+				<categories>
+					<li>Root</li>
+				</categories>
+				<disallowedThingDefs>
+					<li>Gold</li>
+					<li>Silver</li>
+					<li>Plasteel</li>
+					<li>Jade</li>
+					<li>Uranium</li>
+          <li>Steel</li>
+          <li>Marble</li>
+          <li>Slate</li>
+          <li>Sandstone</li>
+          <li>Granite</li>
+          <li>Limestone</li>
+				</disallowedThingDefs>
+			</defaultIngredientFilter>
+    </recipeMaker>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+  </ThingDef>
+
+
+
+<!--====================== ornate plant pot ======================-->  
+  
+    <ThingDef ParentName="Anon2SculptureBase2">
+    <defName>Anon2OrnatePlantPot</defName>
+    <label>ornate plant pot</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot</texPath>
+          <graphicClass>Graphic_Random</graphicClass>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.20</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>11976</WorkToMake>
+      <Mass>2</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>25</Beauty>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>15</costStuffCount>
+    <description>Plant decorative flowers here to improve the mood of people nearby. This plant pot has some artwork carved into it.</description>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fertility>1.0</fertility>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <building>
+      <defaultPlantToGrow>Plant_Rose</defaultPlantToGrow>
+      <sowTag>Decorative</sowTag>
+    </building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+
+<!--====================== ornate square plant pot ======================-->  
+  
+    <ThingDef ParentName="Anon2SculptureBase2">
+    <defName>Anon2OrnateSquarePlantPot</defName>
+    <label>ornate square plant pot</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Furniture/FurnitureBasic/Anon2OrnateSquarePlantPot</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.20</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>11976</WorkToMake>
+      <Mass>2</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>25</Beauty>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>15</costStuffCount>
+    <description>Plant decorative flowers here to improve the mood of people nearby. This plant pot has some artwork carved into it.</description>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fertility>1.0</fertility>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <building>
+      <defaultPlantToGrow>Plant_Rose</defaultPlantToGrow>
+      <sowTag>Decorative</sowTag>
+    </building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+
+
+</Defs>

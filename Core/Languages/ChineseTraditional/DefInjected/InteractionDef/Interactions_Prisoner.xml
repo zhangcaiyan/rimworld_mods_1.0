@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>友好交談</BuildRapport.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->told a story about</li>
+    <li>toldastoryabout->told a funny story about</li>
+    <li>toldastoryabout->told a heartfelt story about</li>
+    <li>toldastoryabout->told an old story about</li>
+    <li>toldastoryabout->told a family story about</li>
+    <li>toldastoryabout->told a childhood story about</li>
+    <li>toldastoryabout->mentioned an anecdote about</li>
+    <li>talkabout->talk about</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->have a discussion about</li>
+    <li>talkabout->ask about</li>
+    <li>talkabout->think about</li>
+    <li>talkabout->find common ground around</li>
+    <li>subject->the colony</li>
+    <li>subject->the community</li>
+    <li>subject->joining the colony</li>
+    <li>subject->changing teams</li>
+    <li>subject->finding friends</li>
+    <li>subject->meeting new people</li>
+    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
+    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
+    <li>subject->health</li>
+    <li>subject->the future</li>
+    <li>subject->letting go</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  -->
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef][toldastoryabout]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]說了關於[subject]的事。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]述說有關[subject]的事。</li>
+    <li>r_logentry->[INITIATOR_nameDef]鼓勵[RECIPIENT_nameDef][talkabout]關於[subject]的事。</li>
+    <li>r_logentry->[INITIATOR_nameDef]引導[RECIPIENT_nameDef][talkabout]關於[subject]的事。</li>
+    <li>r_logentry->[INITIATOR_nameDef]表示對[RECIPIENT_nameDef]的[PersonalCharacteristic]很有興趣。</li>
+    <li>r_logentry->[INITIATOR_nameDef]詢問了[RECIPIENT_nameDef]關於[RECIPIENT_possessive][PersonalCharacteristic]的事。</li>
+    <li>toldastoryabout(p=2)->說了一個有關[subject]的故事</li>
+    <li>toldastoryabout->說了一個有關[subject]的趣事</li>
+    <li>toldastoryabout->說了一個關於[subject]的事</li>
+    <li>toldastoryabout->說了一個有關[subject]的往事</li>
+    <li>toldastoryabout->說了一個有關[subject]的家庭故事</li>
+    <li>toldastoryabout->說了一個有關[subject]的兒時回憶</li>
+    <li>toldastoryabout->提到了一則有關[subject]的傳聞</li>
+    <li>talkabout->說說</li>
+    <li>talkabout->提起</li>
+    <li>talkabout->討論</li>
+    <li>talkabout->提出</li>
+    <li>talkabout->想想</li>
+    <li>talkabout->考慮</li>
+    <li>subject->家鄉</li>
+    <li>subject->朋友</li>
+    <li>subject->跳槽</li>
+    <li>subject->結識新朋友</li>
+    <li>subject->遇到生面孔</li>
+    <li>subject->傳聞</li>
+    <li>subject->過去</li>
+    <li>subject->未來</li>
+    <li>subject->生活</li>
+    <li>subject->健康</li>
+    <li>subject->家人</li>
+    <li>subject(p=4)->[RECIPIENT_possessive]想法</li>
+    <li>subject(p=2)->[INITIATOR_possessive][PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>嘗試招募</RecruitAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]試圖招募[RECIPIENT_nameDef]加入。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]承諾了[goodthing]，並嘗試說服[RECIPIENT_objective]加入。</li>
+    <li>goodthing(p=15)->自由和溫飽</li>
+    <li>goodthing->免費而新鮮的[Vegetable]</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>煽動越獄</SparkJailbreak.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</li>
+    <li>freedom->freedom</li>
+    <li>freedom->opportunity</li>
+    <li>freedom->home</li>
+    <li>freedom->self-determination</li>
+  -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]諂媚了[freedom]的美好，並提供越獄的手段。</li>
+    <li>r_logentry->[INITIATOR_nameDef]述說了自由世界的美麗景緻，並願意給予自由。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]展示了越獄的辦法。</li>
+    <li>r_logentry->[INITIATOR_nameDef]告訴[RECIPIENT_nameDef]安保正鬆散，是越獄的好時機。</li>
+    <li>freedom->自由</li>
+    <li>freedom->擺脫拘束</li>
+    <li>freedom->家鄉</li>
+    <li>freedom->把持自己命運</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

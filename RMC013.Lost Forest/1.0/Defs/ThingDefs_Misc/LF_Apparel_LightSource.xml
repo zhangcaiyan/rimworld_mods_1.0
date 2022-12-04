@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!--=====カンテラ=====-->
+
+  <ThingDef ParentName="LF_ApparelBase">
+    <defName>LF_Apparel_Lantern</defName>
+    <label>lantern</label>
+    <description>A portable lamp that uses candles or oil. In the RimWorld that doesn't know what will happen, it is a popular for adventurers and some civilians as a reliable light source for emergencies. \n (Lighting range: 6.8)</description>
+    <thingClass>LostForest.LightSourceApparel</thingClass>
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/Lantern/Lantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
+    </graphicData>
+    <uiIconPath>Things/Pawn/Humanlike/Apparel/Lantern/UI_Lantern</uiIconPath>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Chemfuel>5</Chemfuel>
+      <Steel>20</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <MarketValue>60</MarketValue>
+      <Flammability>0.2</Flammability>
+      <WorkToMake>300</WorkToMake>
+      <Mass>1.0</Mass>
+      <DeteriorationRate>1</DeteriorationRate>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+
+    </equippedStatOffsets>
+    <comps>
+      <li Class="LostForest.CompProperties_LFLuminousEquipment" />
+      <li Class="CompProperties_Forbiddable"/>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>LostForest.ITab_LightSourceApparel</li>
+    </inspectorTabs>
+    <apparel>
+
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+
+      <bodyPartGroups>
+
+        <li>Waist</li>
+
+      </bodyPartGroups>
+
+      <layers>
+
+        <li>Shell</li>
+
+      </layers>
+
+      <tags>
+
+        
+      </tags>
+
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>100</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+
+	<!--カンテラ用グロー-->
+
+  <ThingDef ParentName="LF_BuildingBase">
+    <defName>LFGlow_Lantern</defName>
+    <label>lantern glow</label>
+    <description>Glow of lantern.</description>
+    <graphicData>
+      <texPath>Things/Empty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="LostForest.CompProperties_LFGlowOfEquipment" />
+      <li Class="CompProperties_Glower">
+        <glowRadius>6.8</glowRadius>
+        <glowColor>(240,220,200,0)</glowColor>
+      </li>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <terrainAffordanceNeeded />
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>false</selectable>
+    <destroyable>true</destroyable>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>0</MarketValue>
+      <Flammability>0</Flammability>
+      <Beauty>0</Beauty>
+    </statBases>
+    <fillPercent>0</fillPercent>
+    <building>
+      <isInert>true</isInert>
+      <isEdifice>false</isEdifice>
+      <ai_chillDestination>false</ai_chillDestination>
+      <canPlaceOverWall>true</canPlaceOverWall>
+    </building>
+    <rotatable>false</rotatable>
+  </ThingDef>
+
+</Defs>

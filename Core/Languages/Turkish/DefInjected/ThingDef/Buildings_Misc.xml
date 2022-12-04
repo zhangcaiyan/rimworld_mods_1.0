@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SunLamp.label>Güneş Işığı Lambası</SunLamp.label>
+    <SunLamp.description>Ekinlerin büyüymesine yetecek kadar bölgeyi aydınlatır.</SunLamp.description>
+    
+    <OrbitalTradeBeacon.label>Uzay Ticareti İstasyonu</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Uzay ile ticaret için gerekli. Sadece bu istastonun yakınındaki maddeleri satablirsin. Dışarıya da yapılabilir.</OrbitalTradeBeacon.description>
+    
+    <CommsConsole.label>İletişim Konsolu</CommsConsole.label>
+    <CommsConsole.description>Radyo dalgaları ile ticaret ve diplomasi için tüccarlar ve diğer kolonilerle iletişim kurmayı sağlar.</CommsConsole.description>
+    
+    <MultiAnalyzer.label>Çoklu Analiz makinesi</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Araştırma hızını arttırır Yüksek teknoloji araştırma makinesinin yanına yapılmalı. Bir araştırma makinesi sadece bir tane çoklu analiz makinesi ile eşleşebilir.</MultiAnalyzer.description>
+    
+    <VitalsMonitor.label>Elektrokardiyografi Monitörü</VitalsMonitor.label>
+    <VitalsMonitor.description>Hastaların tedavi kalitesini arttırır. Tıbbi yatağın yanına yapılmalı. Bir tıbbi yatak sadece bir yaşam monitörü ile eşleşebilir.</VitalsMonitor.description>
+    
+    <ToolCabinet.label>Alet Dolabı</ToolCabinet.label>
+    <ToolCabinet.description>Çalışma hızını arttır. Çalışma masasının yanına yapılmalı. Bir çalışma masası aynı anda sadece iki alet edavat dolabıyla eşleşebilir.</ToolCabinet.description>
+    
+    <FirefoamPopper.label>Otomatik Yangın Söndürücü</FirefoamPopper.label>
+    <FirefoamPopper.description>Çevresindeki yuvarlan alanda yangın çıktığı zaman otomatik olarak söndürmeye çalışır.</FirefoamPopper.description>
+    
+    <MoisturePump.label>Drenaj Makinesi</MoisturePump.label>
+    <MoisturePump.description>Çok yavaş şekilde yakınlarındaki nemi temizler, sığ suları ya da bataklıkları kuru alana çevirebilir. Derin sularda iş yapmaz.</MoisturePump.description>
+   
+    <Grave.label>Mezar</Grave.label>
+    <Grave.description>Ölülerin son dinlenme yeri. Kolonistlerin meditasyon amacıyla mezarlığı ziyaret edecektir.</Grave.description>
+    
+    <Sarcophagus.label>Lahit</Sarcophagus.label>
+    <Sarcophagus.description>Onurlu ölülerin koyulacağı süslü tabut.</Sarcophagus.description>
+    
+    <CryptosleepCasket.label>Uyku Haznesi</CryptosleepCasket.label>
+    <CryptosleepCasket.description>İnsanları yıllarca hayvan saldırısından korumak için dizayn edilmiş bir nevi yarı güçte çalışan lahit.</CryptosleepCasket.description>
+    
+    <AncientCryptosleepCasket.label> Uyku Haznesi</AncientCryptosleepCasket.label>
+    <AncientCryptosleepCasket.description>Bu uyku haznesi yıllardır burda durmuşa benziyor. İçinde ne olduğunu kim bilebilir?</AncientCryptosleepCasket.description>
+    
+    <MarriageSpot.label>Evlenme Noktası</MarriageSpot.label>
+    <MarriageSpot.description>Evlilik kutlamalarının nerede olacağını belirtir. İki taraftan da izleyiciler izleyebilir.</MarriageSpot.description>
+    
+    <PartySpot.label>Parti Noktası</PartySpot.label>
+    <PartySpot.description>Partinin merkezinin neresi olacağını belirtir. Partiler bu noktanın etrafındaki bölgelerde gerçekleşir.</PartySpot.description>
+    
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 改良DF -->
+  <Yokai_deadfall.label>断頭器</Yokai_deadfall.label>
+  <Yokai_deadfall.description>精刻の石と女郎蜘蛛の糸から作られたこの断頭器の一番の特徴は、落ちた刃が即座に浮かび上がり次の獲物を待つことです。
+    \n再設置が可能で電力も使わず丈夫で燃えることもありませんが、精刻の石の入手は簡単ではないため量産には不向きかもしれません。</Yokai_deadfall.description>
+  <Yokai_deadfall_Blueprint.label>断頭器（設置予定地）</Yokai_deadfall_Blueprint.label>
+  <Yokai_deadfall_Blueprint_Install.label>断頭器（設置予定地）</Yokai_deadfall_Blueprint_Install.label>
+  <Yokai_deadfall_Frame.label>断頭器を設置しています</Yokai_deadfall_Frame.label>
+  <Yokai_deadfall_Frame.description>精刻の石と女郎蜘蛛の糸から作られたこの断頭器の一番の特徴は、落ちた刃が即座に浮かび上がり次の獲物を待つことです。
+    \n再設置が可能で電力も使わず丈夫で燃えることもありませんが、精刻の石の入手は簡単ではないため量産には不向きかもしれません。</Yokai_deadfall_Frame.description>
+  <!-- 遠隔防衛 -->
+  <Yokai_TurretBow.label>要の弓</Yokai_TurretBow.label>
+  <Yokai_TurretBow.description>ほとんどの妖怪は、遠方からの銃や矢に対して無防備で反撃する手段を持たず、武器を使うだけの技能もありません。
+    \nこの事を憂いたぬらりひょん達が、九尾の狐の力の一端を利用して作らせた要の弓は、非常に強力で頑丈な防衛兵器です。
+    \n素材となる竜核の石は貴重なものであり、弾となる精刻の石も簡単に手に入るものではありませんが、その価値に見合う素晴らしい性能を備えています。
+    \n敵意を感知して妖気の矢を放つこの弓があれば、中途半端な襲撃ならばいともたやすく撃退できるでしょう。</Yokai_TurretBow.description>
+  <Yokai_TurretBow_Blueprint.label>要の弓（設置予定地）</Yokai_TurretBow_Blueprint.label>
+  <Yokai_TurretBow_Blueprint_Install.label>要の弓（設置予定地）</Yokai_TurretBow_Blueprint_Install.label>
+  <Yokai_TurretBow_Frame.label>要の弓を設置しています</Yokai_TurretBow_Frame.label>
+  <Yokai_TurretBow_Frame.description>精刻の石を燃料として動く要の弓はタレットの一種と言えるでしょう。電力を消費せず再設置することが可能です。</Yokai_TurretBow_Frame.description>
+  <!-- 竜の喉＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <Yokai_HinoIki_Base.label>竜の喉</Yokai_HinoIki_Base.label>
+  <Yokai_HinoIki_Base.description>この灯籠のような不思議な形の器具は、敵意をもって近づくものに強烈な炎を浴びせる防衛器具の一つであり、その恐ろしさから竜の喉と呼ばれています。
+    \n貴重な錬成素材を材料として要求しますが、連続で火炎の塊を吹き出し火に弱い敵を薙ぎ払うことが出来ます。射程距離が短い点と燃料として火刻の石を大量に要求される点には注意が必要です。</Yokai_HinoIki_Base.description>
+  <Yokai_HinoIki_Base_Blueprint.label>竜の喉（設置予定地）</Yokai_HinoIki_Base_Blueprint.label>
+  <Yokai_HinoIki_Base_Blueprint_Install.label>竜の喉（設置予定地）</Yokai_HinoIki_Base_Blueprint_Install.label>
+  <Yokai_HinoIki_Base_Frame.label>竜の喉を設置しています</Yokai_HinoIki_Base_Frame.label>
+  <Yokai_HinoIki_Base_Frame.description>竜刻の石から作られた呪術的な防衛装置です。電力を消費せず再設置することができます。燃料として火刻の石を使います。</Yokai_HinoIki_Base_Frame.description>
+  <!-- 竜の喉、武器部分 -->
+  <Yokai_HinoIki_B.label>火の息</Yokai_HinoIki_B.label>
+  <Yokai_HinoIki_G.label>火の元</Yokai_HinoIki_G.label>
+  <Yokai_HinoIki_G.description>竜の力が込められた珠です。炎の塊を吐き出します。</Yokai_HinoIki_G.description>
+  <!-- 女郎蜘蛛の網＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <Yokai_JorouGumoWeb.label>蜘蛛の網</Yokai_JorouGumoWeb.label>
+  <Yokai_JorouGumoWeb.description>女郎蜘蛛の糸で作られた網です。地面に設置することで侵入者の歩みを妨げます。</Yokai_JorouGumoWeb.description>
+  <Yokai_JorouGumoWeb_Blueprint.label>蜘蛛の網（設置予定地）</Yokai_JorouGumoWeb_Blueprint.label>
+  <Yokai_JorouGumoWeb_Blueprint_Install.label>蜘蛛の網（設置予定地）</Yokai_JorouGumoWeb_Blueprint_Install.label>
+  <Yokai_JorouGumoWeb_Frame.label>蜘蛛の網 (building)</Yokai_JorouGumoWeb_Frame.label>
+  <Yokai_JorouGumoWeb_Frame.description>女郎蜘蛛の糸で作られた網です。地面に設置することで侵入者の歩みを妨げます。</Yokai_JorouGumoWeb_Frame.description>
+  <!-- 緋色の土嚢＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <Yokai_HiiroBags.label>緋色の土嚢</Yokai_HiiroBags.label>
+  <Yokai_HiiroBags.description>鉄の代わりにヒヒイロカネを詰め込んだ丈夫で巨大な土嚢です。高コストですが遥かに頼りになります。</Yokai_HiiroBags.description>
+  <Yokai_HiiroBags_Blueprint.label>緋色の土嚢（設置予定地）</Yokai_HiiroBags_Blueprint.label>
+  <Yokai_HiiroBags_Blueprint_Install.label>緋色の土嚢（設置予定地）</Yokai_HiiroBags_Blueprint_Install.label>
+  <Yokai_HiiroBags_Frame.label>緋色の土嚢 (building)</Yokai_HiiroBags_Frame.label>
+  <Yokai_HiiroBags_Frame.description>鉄の代わりにヒヒイロカネを詰め込んだ丈夫で巨大な土嚢です。高コストですが遥かに頼りになります。</Yokai_HiiroBags_Frame.description>
+</LanguageData>

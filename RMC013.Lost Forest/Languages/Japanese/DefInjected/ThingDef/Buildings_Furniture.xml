@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LF_Bedroll.label>特製寝袋</LF_Bedroll.label>
+	<LF_Bedroll.description>携行のための軽量化を第一としつつ、出先での休息効率や負傷といった不測の事態への対処も考慮しデザインされた、旅行者や冒険者向けの寝具です。</LF_Bedroll.description>
+
+	<LF_Cushion.label>座布団</LF_Cushion.label>
+	<LF_Cushion.description>そこに座ることでいくらかの快適性を得る事の出来る調度品です。皮革や毛皮、羽毛など柔らかい素材から作れます。</LF_Cushion.description>
+
+	<LF_Tinytable1st.label>ミニテーブル</LF_Tinytable1st.label>
+	<LF_Tinytable1st.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。（ちゃぶ台スタイル）</LF_Tinytable1st.description>
+
+	<LF_Tinytable2nd.label>ミニテーブル</LF_Tinytable2nd.label>
+	<LF_Tinytable2nd.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。（カフェスタイル）</LF_Tinytable2nd.description>
+
+	<LF_JackOLantern.label>ジャック・オ・ランタン</LF_JackOLantern.label>
+	<LF_JackOLantern.description>カボチャの中身をくりぬいて作られた灯籠。とある世界では、秋の収穫を祝うお祭りでこれが飾られる風習があります。少量の熱を生成します。雨天でも燃料消費は加速しません。あまり快適ではないですが食事をする時の椅子代わりに使うこともできます。</LF_JackOLantern.description>
+
+
+
+</LanguageData>

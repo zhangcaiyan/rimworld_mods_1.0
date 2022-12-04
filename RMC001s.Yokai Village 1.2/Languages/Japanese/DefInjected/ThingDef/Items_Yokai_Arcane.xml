@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--下位素材 -->
+  <Yokai_Fragment.label>妖気の欠片</Yokai_Fragment.label>
+  <Yokai_Fragment.description>小さな妖気の欠片は特に珍しいものではなく、妖怪村を中心に広く流通しているため入手は容易です。
+\n もっとも基本的な錬成素材であるこの小さな欠片があれば、偉大な武器や伝説の妖狐へと続く錬成の道を歩み始める事ができます。</Yokai_Fragment.description>
+  <!--中位素材 -->
+  <Yokai_SigilStone.label>妖刻の石</Yokai_SigilStone.label>
+  <Yokai_SigilStone.description>しっかりとした妖気が刻み込まれた中級錬成で最も基本的な素材です。
+    \nこの小さな石からは様々な中級素材を作り出せる他、他の素材に手を加えることでこの石に戻すこともできます。
+    \nまたこの石があれば多くの基本的な錬成をこなすことが出来ます。</Yokai_SigilStone.description>
+  <Yokai_FlameStone.label>火刻の石</Yokai_FlameStone.label>
+  <Yokai_FlameStone.description>触るとほんのり温かい不思議な石です。特に珍しいものではなく、妖怪村を中心に広く流通しているため入手は容易です。
+\n 妖怪村の各種製作台を動かす燃料になりますが、それらを使わないのであれば不要です。</Yokai_FlameStone.description>
+  <Yokai_EnergyStone.label>精刻の石</Yokai_EnergyStone.label>
+  <Yokai_EnergyStone.description>純粋な妖気を集めたこの石は、攻撃的な力を秘めているため多くの武器の素材となります。</Yokai_EnergyStone.description>
+  <Yokai_HydroStone.label>水刻の石</Yokai_HydroStone.label>
+  <Yokai_HydroStone.description>生命をはぐくむ偉大な川の力が秘められたこの石は、妖怪村の特別な発電機に使われています。
+\n河童が生成する他、河童の数に応じて転換器で生成されます。</Yokai_HydroStone.description>
+  <Yokai_ArcaneStone.label>妖秘の石</Yokai_ArcaneStone.label>
+  <Yokai_ArcaneStone.description>中級素材の中で最も貴重な妖秘の核は、妖刻の石を合わせることで作成できます。
+    \nこの核をもとにさらなる上位素材を作り出すこともできますし、様々な道具や素材に変換することもできます。</Yokai_ArcaneStone.description>
+  <!--上位素材 -->
+  <Yokai_DragonStone.label>竜刻の石</Yokai_DragonStone.label>
+  <Yokai_DragonStone.description>強い力をひめた上位の錬成素材です。竜の数に応じて転換器が生成してくれる他、竜の心臓からも作ることができます。
+\n 特に強力な道具や武器などを作るために使われます。</Yokai_DragonStone.description>
+  <Yokai_AnimaCore.label>妖怪の心核</Yokai_AnimaCore.label>
+  <Yokai_AnimaCore.description>最上位の錬成素材で入手難易度も作成難易度も高い品物です。
+\n特別な知識と設備を使う事で様々な道具や武器、さらには妖怪の召喚にも使うことが出来ます。</Yokai_AnimaCore.description>
+</LanguageData>

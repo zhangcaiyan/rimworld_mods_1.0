@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- WITab titles -->
+    <TabTerrain>地形</TabTerrain>
+    <TabPlanet>惑星</TabPlanet>
+    <TabCaravanSocial>社交</TabCaravanSocial>
+    <TabCaravanHealth>健康</TabCaravanHealth>
+    <TabCaravanNeeds>欲求</TabCaravanNeeds>
+    <TabCaravanGear>装備</TabCaravanGear>
+    <TabCaravanItems>アイテム</TabCaravanItems>
+
+    <!-- Misc -->
+    <AbandonSliderText>放棄 {{0}}x {1_labelShort}</AbandonSliderText>
+    <ConfirmAbandonItemDialog>本当に {1_label}を放棄する気ですか？\n\n放棄されたアイテムは,修復できずに消滅するでしょう.</ConfirmAbandonItemDialog>
+    <AbandonTip>放棄</AbandonTip>
+    <BanishTip>追放</BanishTip>
+    <AbandonSpecificCountTip>放棄 (個数指定)</AbandonSpecificCountTip>
+    <AbandonAllTip>放棄 (全て)</AbandonAllTip>
+    <AbandonItemTipExtraText>放棄されたアイテムは,修復できずに消滅するでしょう.</AbandonItemTipExtraText>
+    <BanishTipWillDie>{1_labelShort}は,おそらく死ぬでしょう.</BanishTipWillDie>
+
+    <!-- Caravan inspect -->
+    <CaravanColonists>入植者</CaravanColonists>
+    <CaravanPrisonersAndAnimals>囚人と動物</CaravanPrisonersAndAnimals>
+    <CaravanItems>所持品</CaravanItems>
+    <OpenSpecificTabButtonTip>詳細を見るには"Open"タブをクリック</OpenSpecificTabButtonTip>
+    <CaravanPrisoners>囚人</CaravanPrisoners>
+    <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
+    <NoneCapable>能力なし</NoneCapable>
+    <GainingJoyBecauseCaravanNotMoving>キャラバン隊は動けません.</GainingJoyBecauseCaravanNotMoving>
+
+    <!-- Caravan gear -->
+    <DragToRearrange>再調整するにはドラッグ</DragToRearrange>
+
+    <!-- Caravan items -->
+    <AssignDrugPolicies>ドラッグ適用方針を割当る</AssignDrugPolicies>
+
+    <!-- Caravan health -->
+    <BeCarriedIfSickTip>この人・動物は病気の時には,他のキャラバン隊員によって担がれていく必要があります.\n\n担がれている間は,キャラバン隊が移動中でも休息することができますが,隊の移動速度はゆっくりになります.</BeCarriedIfSickTip>
+
+    <!-- Planet -->
+    <PlanetSeed>シード値</PlanetSeed>
+    <PlanetCoverageShort>範囲</PlanetCoverageShort>
+
+</LanguageData>

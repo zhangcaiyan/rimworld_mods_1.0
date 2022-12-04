@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Plant Pots -->
+
+	<Anon2SquarePlantPot.label>Pot de fleurs carré</Anon2SquarePlantPot.label>
+	<Anon2SquarePlantPot.description>Plantez des fleurs décoratives ici pour améliorer l'humeur des personnes à proximité.</Anon2SquarePlantPot.description>
+
+	<Anon2PlantSpot.label>planteur</Anon2PlantSpot.label>
+	<Anon2PlantSpot.description>Une grande base plate pour les fleurs décoratives. Plus facile à construire, mais pas tout à fait aussi joli qu'un pot de fleurs.</Anon2PlantSpot.description>
+
+	<Anon2OrnatePlantPot.label>Pot de fleurs orné</Anon2OrnatePlantPot.label>
+	<Anon2OrnatePlantPot.description>Plantez des fleurs décoratives ici pour améliorer l'humeur des personnes à proximité. Ce pot de fleurs a une oeuvre d'art.</Anon2OrnatePlantPot.description>
+
+	<Anon2OrnateSquarePlantPot.label>Pot de fleur carré orné</Anon2OrnateSquarePlantPot.label>
+	<Anon2OrnateSquarePlantPot.description>Plantez des fleurs décoratives ici pour améliorer l'humeur des personnes à proximité. Ce pot de fleurs a une oeuvre d'art.</Anon2OrnateSquarePlantPot.description>
+
+</LanguageData>

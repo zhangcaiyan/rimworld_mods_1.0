@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced -->
+  <Advanced.label>rozvinutá</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>středně pokročilá</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>žádná</None.label>
+  
+  <!-- EN: simple -->
+  <Simple.label>jednoduchá</Simple.label>
+  
+</LanguageData>

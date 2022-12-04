@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 妖怪松明 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_taimatu</defName>
+    <label>Yokai Shroom(light)</label>
+    <description>仄かな明かりをもたらす一抱えほどもある妖怪の茸の一つです。照明器具の代わりに利用されています。
+   \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があります。
+   \n栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Kinoko</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <pathCost>8</pathCost>
+    <tickerType>Normal</tickerType>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToBuild>350</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Mass>0.2</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>10</glowRadius>
+        <glowColor>(190,187,160,0)</glowColor>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1</fuelConsumptionRate>
+        <fuelCapacity>20</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_Fragment</li>
+          </thingDefs>
+        </fuelFilter>
+        <destroyOnNoFuel>true</destroyOnNoFuel>
+        <initialFuelPercent>1</initialFuelPercent>
+      </li>
+    </comps>
+    <designationCategory>Furniture</designationCategory>
+    <researchPrerequisites>
+      <li>YokaiTraditionBasic</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <!--土壌の改善 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_Kinoko</defName>
+    <label>Yokai Mushuroom(dry)</label>
+    <description>This yokai mushroom growing from the hair of NekoMusume sucks up moisture rapidly from the surrounding soil. Although the range is narrow, you can dry the ground faster than the soil improvement pump at low cost.</description>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Kinoko</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(30,30,80)</color>
+      <shadowData>
+        <volume>(0.58, 0.35, 0.25)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_TerrainPumpDry">
+        <radius>3</radius>
+        <daysToRadius>20</daysToRadius>
+      </li>
+    </comps>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Flammability>0.5</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <fillPercent>0</fillPercent>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <costList>
+      <Yokai_NekoMusumeWool>35</Yokai_NekoMusumeWool>
+    </costList>
+    <specialDisplayRadius>3</specialDisplayRadius>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <pathCost>5</pathCost>
+    <designationCategory>Misc</designationCategory>
+    <rotatable>false</rotatable>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </ThingDef>
+  <!-- 太陽茸 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_TaiyouKinoko</defName>
+    <label>Giant Sun Shroom</label>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Onsen</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.3,0,5.4,6)</rect>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>false</blockWind>
+    <fillPercent>1</fillPercent>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>12000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>30</Beauty>
+      <Mass>120</Mass>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <description>妖秘の石と猫娘の毛を使って作ることが出来る、間欠泉にのみ生存可能な大型の群生茸です。
+    \n太陽の名にふさわしい強力な熱と光を放つこの茸を壁で囲うことで、広く安定した温室を作ることができます。</description>
+    <size>(2,2)</size>
+    <costList>
+      <Yokai_NekoMusumeWool>200</Yokai_NekoMusumeWool>
+      <Yokai_ArcaneStone>2</Yokai_ArcaneStone>
+    </costList>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>120</heatPerSecond>
+        <heatPushMaxTemperature>20</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>-120</heatPerSecond>
+        <heatPushMinTemperature>20</heatPushMinTemperature>
+      </li>
+      <li Class="CompProperties_Glower">
+        <overlightRadius>10.9</overlightRadius>
+        <glowRadius>13</glowRadius>
+        <glowColor>(190,147,147,0)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>9.4</specialDisplayRadius>
+    <rotatable>false</rotatable>
+    <designationCategory>Temperature</designationCategory>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
+    <placeWorkers>
+      <li>PlaceWorker_OnSteamGeyser</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+  </ThingDef>
+</Defs>

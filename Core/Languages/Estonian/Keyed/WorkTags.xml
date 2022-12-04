@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WorkTagNone>Puudub</WorkTagNone>
+  <WorkTagIntellectual>Intellektuaalne</WorkTagIntellectual>
+  <WorkTagManualDumb>Tumm töö</WorkTagManualDumb>
+  <WorkTagManualSkilled>Oskuslik töö</WorkTagManualSkilled>
+  <WorkTagViolent>Vägivaldne</WorkTagViolent>
+  <WorkTagCaring>Hoolimine</WorkTagCaring>
+  <WorkTagSocial>Sotsiaalne</WorkTagSocial>
+  <WorkTagScary>Hirmutav</WorkTagScary>
+  <WorkTagAnimals>Loomad</WorkTagAnimals>
+  <WorkTagArtistic>Kunstiline</WorkTagArtistic>
+  <WorkTagCrafting>Käsitöö</WorkTagCrafting>
+  <WorkTagCooking>Kokkamine</WorkTagCooking>
+  <WorkTagFirefighting>Tuletõrjumine</WorkTagFirefighting>
+  <WorkTagCleaning>Puhastamine</WorkTagCleaning>
+  <WorkTagHauling>Vedamine</WorkTagHauling>
+  <WorkTagPlantWork>Taimekasvatus</WorkTagPlantWork>
+  <WorkTagMining>Kaevandamine</WorkTagMining>
+</LanguageData>

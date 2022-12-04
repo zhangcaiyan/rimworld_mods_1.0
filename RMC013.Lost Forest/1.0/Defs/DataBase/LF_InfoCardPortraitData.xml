@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--key = PawnKindDefName-->
+<!--Value = TexturePath-->
+
+<Defs>
+  <Def Class="LostForest.Data.LFICPDataXmlLoader">
+    <defName>LF_ICPortraitData</defName>
+    <ICPortraitData>
+
+      <li>
+	<key>LF_Foxia</key>
+	<value>System/ICP/HiReso/Foxia</value>
+      </li>
+      <li>
+	<key>LF_Lefca</key>
+	<value>System/ICP/HiReso/Lefca</value>
+      </li>
+      <li>
+	<key>LF_Wolvern</key>
+	<value>System/ICP/HiReso/Wolvern</value>
+      </li>
+      <li>
+	<key>LF_Glacia</key>
+	<value>System/ICP/HiReso/Glacia</value>
+      </li>
+      <li>
+	<key>LF_Flammelia</key>
+	<value>System/ICP/HiReso/Flammelia</value>
+      </li>
+      <li>
+	<key>LF_PetiteServantDragon</key>
+	<value>System/ICP/HiReso/PetiteServantDragon</value>
+      </li>
+      <li>
+	<key>LF_Dragonia</key>
+	<value>System/ICP/HiReso/Dragonia</value>
+      </li>
+    </ICPortraitData>
+  </Def>
+</Defs>

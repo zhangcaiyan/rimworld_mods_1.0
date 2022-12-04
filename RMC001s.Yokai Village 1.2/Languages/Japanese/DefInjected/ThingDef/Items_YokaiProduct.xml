@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Lamia milk -->
+  <Yokai_LamiaMilk.label>ラミアのミルク</Yokai_LamiaMilk.label>
+  <Yokai_LamiaMilk.description>栄養満点のラミアのミルクです。チーズやいくつかの薬の素材にもなります。</Yokai_LamiaMilk.description>
+  <Yokai_SnowMilk.label>雪の雫</Yokai_SnowMilk.label>
+  <Yokai_SnowMilk.description>不思議な妖力で満ちているため、腐ることがありません。加工することで特別な道具や薬にすることができます。</Yokai_SnowMilk.description>
+  <!-- Egg -->
+  <Yokai_LamiaEggB.label>青ラミアの卵</Yokai_LamiaEggB.label>
+  <Yokai_LamiaEggB.description>綺麗な青色をしたラミアの卵です。適温に置いておけば青ラミアが孵ります。</Yokai_LamiaEggB.description>
+  <Yokai_LamiaEggR.label>赤ラミアの卵</Yokai_LamiaEggR.label>
+  <Yokai_LamiaEggR.description>綺麗な赤色をしたラミアの卵です。適温に置いておけば赤ラミアが孵ります。</Yokai_LamiaEggR.description>
+  <Yokai_JorouGumoEgg.label>女郎蜘蛛の卵</Yokai_JorouGumoEgg.label>
+  <Yokai_JorouGumoEgg.description>女郎蜘蛛の卵です。卵を産むところを見た人はいませんが確かに女郎蜘蛛が生まれます。</Yokai_JorouGumoEgg.description>
+</LanguageData>

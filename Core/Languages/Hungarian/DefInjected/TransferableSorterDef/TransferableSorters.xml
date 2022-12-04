@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>Kategória</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>Állapot</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>Piaci ár</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>Tömeg</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>Név</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>Semmi</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>Minőség</Quality.label>
+  
+</LanguageData>

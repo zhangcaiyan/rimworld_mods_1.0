@@ -1,0 +1,18 @@
+carotte 
+oignon 
+navet 
+gourde 
+citrouille 
+choufleur 
+poivron 
+poivre 
+champignon 
+pois 
+artichaut 
+aubergine 
+lentille 
+chou 
+betterave 
+épi de maïs 
+patate douce 
+courgette

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_FakeTail.label>简易的假尾巴</DR_FakeTail.label>
+  <DR_FakeTail.description>这是一条用皮革制造的假尾巴。</DR_FakeTail.description>
+
+  <DR_BionicTail.label>仿生尾巴</DR_BionicTail.label>
+  <DR_BionicTail.description>一条先进的仿生尾巴。它甚至配有一个小型AI用来辅助使用者，避免其运动时发生失衡。</DR_BionicTail.description>
+
+
+</LanguageData>

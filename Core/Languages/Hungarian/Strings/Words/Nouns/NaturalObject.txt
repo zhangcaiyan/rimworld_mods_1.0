@@ -1,0 +1,30 @@
+﻿//Intended as small-scale objects, not major terrain formations
+//Includes animal, vegetable, and mineral
+szikla
+kő
+szikladarab
+fa
+cserje
+bokor
+tavacska
+medence
+tó
+hegy
+barlang
+bogyó
+mag
+levél
+törzs
+gyümölcs
+bogár
+bogár
+légy
+pata
+karom
+farok
+szőrme
+bőr
+szarv
+fog
+szárny
+fa

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LifeStageDef>
+    <defName>NineTailKogitune</defName>
+    <label>Kogitune</label>
+    <voxPitch>1.3</voxPitch>
+    <bodySizeFactor>0.7</bodySizeFactor>
+    <healthScaleFactor>0.1</healthScaleFactor>
+    <hungerRateFactor>2.0</hungerRateFactor>
+    <marketValueFactor>0.5</marketValueFactor>
+    <statFactors>
+      <MoveSpeed>0.5</MoveSpeed>
+      <ImmunityGainSpeed>1.6</ImmunityGainSpeed>
+      <MeleeHitChance>0.5</MeleeHitChance>
+      <Mass>0.5</Mass>
+    </statFactors>
+    <shearable>true</shearable>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>NineTailAdult</defName>
+    <label>Adult</label>
+    <voxPitch>1.0</voxPitch>
+    <statFactors>
+      <ImmunityGainSpeed>5.0</ImmunityGainSpeed>
+    </statFactors>
+    <shearable>true</shearable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+  <LifeStageDef>
+    <defName>NineTailShiro</defName>
+    <label>White Tailed</label>
+    <voxPitch>1.0</voxPitch>
+    <bodySizeFactor>0.9</bodySizeFactor>
+    <healthScaleFactor>3</healthScaleFactor>
+    <hungerRateFactor>0.5</hungerRateFactor>
+    <marketValueFactor>10.0</marketValueFactor>
+    <foodMaxFactor>2</foodMaxFactor>
+    <statFactors>
+      <MoveSpeed>2.0</MoveSpeed>
+      <ImmunityGainSpeed>10.0</ImmunityGainSpeed>
+      <MeleeHitChance>5.0</MeleeHitChance>
+    </statFactors>
+    <shearable>true</shearable>
+    <reproductive>true</reproductive>
+  </LifeStageDef>
+</Defs>

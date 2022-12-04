@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_JorouGumo.label>女郎蜘蛛</Yokai_JorouGumo.label>
+  <Yokai_JorouGumo.description>抗寒能力不佳的女郎蜘蛛是熟練的獵人。接近飢餓的牠們可說是極為危險之舉。
+   \n易與人親近，每天都能產出高品質的絲，若能成為夥伴會是相當可靠的助力。雖具有一定實力，但防禦性並不高。在戰鬥時請適時掩護她們。
+   \n她們習慣居住在溫帶森林、草原、沙漠等地帶。
+   \n女郎蜘蛛的肉與人並無差異，若是讓殖民者食用會產生負面情緒。</Yokai_JorouGumo.description>
+  <Yokai_JorouGumo.tools.0.label>爪</Yokai_JorouGumo.tools.0.label>
+  <Yokai_JorouGumo.tools.1.label>爪</Yokai_JorouGumo.tools.1.label>
+  <Yokai_JorouGumo.tools.3.label>左手</Yokai_JorouGumo.tools.3.label>
+  <Yokai_JorouGumo.tools.4.label>右手</Yokai_JorouGumo.tools.4.label>
+  <Yokai_JorouGumo_Corpse.label>女郎蜘蛛</Yokai_JorouGumo_Corpse.label>
+  <Yokai_JorouGumo_Corpse.description>動也不動，女郎蜘蛛的屍體。也無法再聽到她可愛的聲音了。若是解體的話....?</Yokai_JorouGumo_Corpse.description>
+</LanguageData>

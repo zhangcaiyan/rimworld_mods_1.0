@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CollapsedRocks.label>Kollapset stein</CollapsedRocks.label>
+    <CollapsedRocks.description>Stein, kollapset og klemt sammen, og som kan holde et tak.</CollapsedRocks.description>
+    
+    <MineableSteel.label>compacted steel</MineableSteel.label>
+    <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
+    
+    <MineableSilver.label>sølvmalm</MineableSilver.label>
+    <MineableSilver.description>Grav ut dette for sølv.</MineableSilver.description>
+    
+    <MineableGold.label>gullmalm</MineableGold.label>
+    <MineableGold.description>grav ut dette for gull.</MineableGold.description>
+    
+    <MineableUranium.label>uranium ore</MineableUranium.label>
+    <MineableUranium.description>Rock containing bits of uranium.</MineableUranium.description>
+    
+    <MineablePlasteel.label>kompakt plaststål</MineablePlasteel.label>
+    <MineablePlasteel.description>Eldgammel kompakt åre av plaststål.</MineablePlasteel.description>
+    
+    <MineableJade.label>jade</MineableJade.label>
+    <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+    
+    <MineableComponents.label>compacted machinery</MineableComponents.label>
+    <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
+    
+    <SteamGeyser.label>damp geiser</SteamGeyser.label>
+    <SteamGeyser.description>En naturlig springkilde og ressurs av damp.</SteamGeyser.description>
+    
+    <Hive.label>hive</Hive.label>
+    <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
+    
+</LanguageData>

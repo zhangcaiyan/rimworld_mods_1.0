@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="Yokai_KimonoBase" Abstract="True" ParentName="ApparelBase">
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+      <recipeUsers>
+        <li>Yokai_Hariko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiTraditionCloth</researchPrerequisite>
+      <defaultIngredientFilter>
+        <categories>
+          <li>Root</li>
+        </categories>
+        <disallowedThingDefs>
+          <li>Yokai_NineTailWool</li>
+          <li>Yokai_NekoMusumeWool</li>
+        </disallowedThingDefs>
+      </defaultIngredientFilter>
+    </recipeMaker>
+    <apparel>
+      <tags>
+        <li>Yokai_Ihuku</li>
+      </tags>
+    </apparel>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+  <!-- 妖怪衣 -->
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Koromo</defName>
+    <label>Yokai Wear</label>
+    <description>Spacers wile their time with fancy cloths, while a bit of magic allows this simple garment to ward against heat and cold.
+       \nAs such magics draw upon the Yokai, the thread resonates with nature, endearing the wearer to all animals.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/YokaiWear/YokaiWear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <WorkToMake>4200</WorkToMake>
+      <Mass>0.5</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.55</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <TameAnimalChance>0.10</TameAnimalChance>
+      <TrainAnimalChance>0.18</TrainAnimalChance>
+      <ImmunityGainSpeed>0.01</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/YokaiWear/YokaiWear</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 巫女の服　退避させてある。 -->
+  <!-- 一時退避
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Kitune</defName>
+    <label>Kitune Shouzoku</label>
+    <description>The "Costume of the Fox" is a sacred outfit worn by Yokai village priests and priestesses. Even though the garb is woven from Jorogumo thread-which can make some of the most durable clothing-it lacks any defensive capabilities.
+    \nColonists speculate that this "weakness" stims from the benign blessing placed upon such garb. The blessing is meant to assist priests and priestesses in their common duties, which mainly include cooking and medical care.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/KI/KI</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Yokai_JorouGumoThread>80</Yokai_JorouGumoThread>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToMake>6200</WorkToMake>
+      <Mass>0.4</Mass>
+      <StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.32</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.20</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MedicalTendSpeed>+0.3</MedicalTendSpeed>
+      <MedicalTendQuality>+0.2</MedicalTendQuality>
+      <MedicalOperationSpeed>+0.2</MedicalOperationSpeed>
+      <MedicalSurgerySuccessChance>+0.1</MedicalSurgerySuccessChance>
+      <CookSpeed>+0.1</CookSpeed>
+      <FoodPoisonChance>-0.2</FoodPoisonChance>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Legs</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/KI/KI</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>-->
+  <!--女郎蜘蛛の肌着 -->
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Katabira</defName>
+    <label>Kumo-ito no Sukin</label>
+    <description>The pattern used to make this outfit makes it resemble scale or chain mail; however, it uses neither of these materials, and instead utilizes Jorogumo thread. The thread is rather elastic and quickly adapts to the contours the wearer. This allows the outfit to safely cling to the skin without impeding movement. Colonists should be aware that, though the outfit does grant decent defense, it lacks any heat retention whatsoever, making it miserable to wear in colder climes.
+    \nColloqially known as the "Maiden's Protection," this outfit is still called by its formal name "Kumo-ito no Sukin," which translates to "Spider thread skin."</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/JGK/JGK</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Yokai_JorouGumoThread>60</Yokai_JorouGumoThread>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToMake>8200</WorkToMake>
+      <Mass>0.05</Mass>
+      <ArmorRating_Sharp>0.28</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.20</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.1</ArmorRating_Heat>
+      <Insulation_Heat>8</Insulation_Heat>
+      <EquipDelay>1.1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+0.20</MoveSpeed>
+      <ImmunityGainSpeed>+0.05</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/JGK/JGK</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Shitabaki</defName>
+    <label>Maiden's Garments</label>
+    <description>Unlike Kumo-ito no Sukin, cultural pressure quickly saw this underwear renamed from "Kumo-ito no Shitabaki," which means "Spider thread underwear," to "Maiden's Garments." Prior to the name change Yokai merchants had great difficulty finding any buyers for such amazingly protective, comfortable, and flexible underwear. Some Rim-wide reviews cite the lack of heat retention as a problem; however, many others enjoy the airy, not-even-there feeling that this underwear gives.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/JGS/JGS</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Yokai_JorouGumoThread>60</Yokai_JorouGumoThread>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToMake>8200</WorkToMake>
+      <Mass>0.05</Mass>
+      <ArmorRating_Sharp>0.28</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.20</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.1</ArmorRating_Heat>
+      <Insulation_Heat>8</Insulation_Heat>
+      <EquipDelay>1.1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+0.20</MoveSpeed>
+      <ImmunityGainSpeed>+0.05</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 外套 -->
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Gaitou</defName>
+    <label>Kemono no Gaitou</label>
+    <description>"Kemono no Kakusu" is a cloak made primarily of leather that has been reinforced by Jorogumo thread. This heavy cloak is ideal for long trips due to its high durability, resistance to slashing damage, and ability to fend off the cold. Focusing on the latter point, Yokai villages in cold biomes often rely upon these cloaks to keep them warm.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/KG/KG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>60</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costList>
+      <Yokai_JorouGumoThread>40</Yokai_JorouGumoThread>
+    </costList>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToMake>8200</WorkToMake>
+      <Mass>0.8</Mass>
+      <StuffEffectMultiplierArmor>0.28</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.6</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>Torso</li>
+        <li>Legs</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/KG/KG</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 戦装束 -->
+  <ThingDef ParentName="Yokai_KimonoBase">
+    <defName>Yokai_Kimono_Ikusa</defName>
+    <label>Ikusa Shouzoku</label>
+    <description>Skilled hands are required to stitch this armor together. Dragon skin and Shiro wool allow this armor to be light and durable.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/IK/IK</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Yokai_ShiroWool>120</Yokai_ShiroWool>
+      <Yokai_Leather_Dragon>80</Yokai_Leather_Dragon>
+    </costList>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+      <WorkToMake>12000</WorkToMake>
+      <Mass>1.4</Mass>
+      <ArmorRating_Blunt>0.84</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.78</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.8</ArmorRating_Heat>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>20</Insulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+0.80</MoveSpeed>
+      <MeleeHitChance>+0.2</MeleeHitChance>
+      <MeleeDodgeChance>+0.35</MeleeDodgeChance>
+      <ImmunityGainSpeed>+0.1</ImmunityGainSpeed>
+      <MentalBreakThreshold>-0.05</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>Torso</li>
+        <li>Legs</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/IK/IK</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>YokaiTraditionArmor</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>10</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <thingCategories>
+      <li>Yokai_Kimono</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 頭装備 -->
+  <ThingDef Name="Yokai_OmenBase" ParentName="Yokai_KimonoBase" Abstract="True">
+    <thingCategories>
+      <li>Yokai_Omen</li>
+    </thingCategories>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+  <!-- 豊穣の面 -->
+  <ThingDef ParentName="Yokai_OmenBase">
+    <defName>Yokai_Omen_Warai</defName>
+    <label>Warai Men</label>
+    <description>This ritual mask is routinely worn by yokai villagers; it depicts a calm kitsune (which means "fox" in Japanese). Its somewhat beastial appearance has sparked debate among outsiders, who wonder it pays homage to kitsune or Tsuzurao.
+    \nColonists who dawn this mask will find it far easier to interact with animals, as the Tsuzurao has placed a small blessing on all such masks.
+    \nAside from its blessing, this is a simple wooden mask, and offers very little in terms of physical or temperature resistance.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/YKM/YKM</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <WoodLog>30</WoodLog>
+    </costList>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToMake>1600</WorkToMake>
+      <Mass>0.2</Mass>
+      <EquipDelay>0.1</EquipDelay>
+      <ArmorRating_Blunt>0.04</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.02</ArmorRating_Sharp>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>3</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <TameAnimalChance>0.08</TameAnimalChance>
+      <TrainAnimalChance>0.18</TrainAnimalChance>
+      <ImmunityGainSpeed>0.01</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <wornGraphicPath>Things/Item/Apparel/YKM/YKM</wornGraphicPath>
+      <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+    </apparel>
+  </ThingDef>
+  <!--狐面　非戦闘用 -->
+  <ThingDef ParentName="Yokai_OmenBase">
+    <defName>Yokai_Omen_Kitune</defName>
+    <label>Kitune Men</label>
+    <description>This mask has been painted for war; and, though the strokes are few, though the paint little, it is enough to evoke a rather frightful blessing. With this mask, a colonist will mobility, precision, and dodge in melee combat.
+    \nThe Kyuubi's blessing also grants this chunk of wood the ability to resist blows, allowing its wearer to have increased confidence in battle.
+    \nAt the end, however, the object is still a piece of wood, and thus offers little in resistance to cold or heat.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/KM/KM</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <WoodLog>50</WoodLog>
+    </costList>
+    <statBases>
+      <MaxHitPoints>260</MaxHitPoints>
+      <WorkToMake>2000</WorkToMake>
+      <Mass>0.35</Mass>
+      <EquipDelay>0.1</EquipDelay>
+      <ArmorRating_Blunt>0.18</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.14</ArmorRating_Sharp>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>3</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+0.8</MoveSpeed>
+      <MeleeHitChance>0.50</MeleeHitChance>
+      <MeleeDodgeChance>+0.62</MeleeDodgeChance>
+      <PainShockThreshold>+1.2</PainShockThreshold>
+      <ImmunityGainSpeed>+0.3</ImmunityGainSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <wornGraphicPath>Things/Item/Apparel/KM/KM</wornGraphicPath>
+      <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+    </apparel>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  <!-- 戦仮面 -->
+  <ThingDef ParentName="Yokai_OmenBase">
+    <defName>Yokai_Omen_Ikusa</defName>
+    <label>Ikusa Men</label>
+    <description>Imitation. Such helms are made to mimic the Nine Tails. It is not the blue leather or white fur that evoke her; rather, it is the glaring eyes that glisten for battle.</description>
+    <graphicData>
+      <texPath>Things/Item/Apparel/IM/IM</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Yokai_ShiroWool>80</Yokai_ShiroWool>
+      <Yokai_Leather_Dragon>40</Yokai_Leather_Dragon>
+    </costList>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <WorkToMake>4500</WorkToMake>
+      <Mass>0.8</Mass>
+      <ArmorRating_Blunt>0.98</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.88</ArmorRating_Sharp>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>20</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>+0.80</MoveSpeed>
+      <MeleeHitChance>0.15</MeleeHitChance>
+      <MeleeDodgeChance>+0.45</MeleeDodgeChance>
+      <ImmunityGainSpeed>+0.1</ImmunityGainSpeed>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PainShockThreshold>+0.15</PainShockThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/Apparel/IM/IM</wornGraphicPath>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>10</Crafting>
+      </skillRequirements>
+      <researchPrerequisite>YokaiTraditionArmor</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+</Defs>

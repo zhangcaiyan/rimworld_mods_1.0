@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Install artificial parts -->
+
+  <InstallYokai_DragonArm.label>Install dragon arm</InstallYokai_DragonArm.label>
+  <InstallYokai_DragonArm.description>Extract the power of a dragon from its still beating heart and place it an arm. This is a relatively easy magic, but some medical experience is required.</InstallYokai_DragonArm.description>
+  <InstallYokai_DragonArm.jobString>Transplanting the power of the dragon</InstallYokai_DragonArm.jobString>
+
+  <InstallYokai_DragonLeg.label>Install dragon leg</InstallYokai_DragonLeg.label>
+  <InstallYokai_DragonLeg.description>Extract the power of a dragon from its still beating heart and place it a leg. This is a relatively easy magic, but some medical experience is required.</InstallYokai_DragonLeg.description>
+  <InstallYokai_DragonLeg.jobString>Install DragonLeg</InstallYokai_DragonLeg.jobString>
+
+  <InstallYokai_DragonEye.label>Install dragon eye</InstallYokai_DragonEye.label>
+  <InstallYokai_DragonEye.description>Extract the power of a dragon from its still beating heart and place it an eye. This is a relatively easy magic, but some medical experience is required.</InstallYokai_DragonEye.description>
+  <InstallYokai_DragonEye.jobString>Install DragonEye</InstallYokai_DragonEye.jobString>
+
+  <InstallYokai_DragonBrain.label>Install dragon brain</InstallYokai_DragonBrain.label>
+  <InstallYokai_DragonBrain.description>Extract the power of a dragon from its still beating heart and place it a brain. This is a relatively easy magic, but some medical experience is required.
+    \nCan a dragon's will truly be supressed? Shall the mind remind your own? For did not the dragon still live within its disembodied heart? Or does such fear assume a dragon shares the same nature as man? Perhaps such creatures are too noble for revenge.</InstallYokai_DragonBrain.description>
+  <InstallYokai_DragonBrain.jobString>Install Yokai_DragonStone</InstallYokai_DragonBrain.jobString>
+
+  <InstallYokai_DragonStone.label>Install dragon heart</InstallYokai_DragonStone.label>
+  <InstallYokai_DragonStone.description>Embed the force extracted from the heart of the dragon into the heart. The highest magic entails a crisis of death, but the effect is absolute.</InstallYokai_DragonStone.description>
+  <InstallYokai_DragonStone.jobString>Install Yokai_DragonStone</InstallYokai_DragonStone.jobString>
+
+
+</LanguageData>

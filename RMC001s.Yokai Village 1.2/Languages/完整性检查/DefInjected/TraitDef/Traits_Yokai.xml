@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YokaiSodathi.degreeDatas.0.label>Yokai Child</YokaiSodathi.degreeDatas.0.label>
+  <YokaiSodathi.degreeDatas.0.description>[PAWN_nameDef] grew up amongst the Yokai; the Tsuzurao itself, perhaps, deigned to take notice, and blessed [PAWN_nameDef] with greater agility and animal handling, though they suffer higher sensitivity to toxins and psychic attacks in exchange.</YokaiSodathi.degreeDatas.0.description>
+
+  <HanYou.degreeDatas.0.label>Nurarihyon's Blood</HanYou.degreeDatas.0.label>
+  <HanYou.degreeDatas.0.description>An ancestor of [PAWN_nameDef] married a Nurarihyon. Spectral blood fills their veins, granting them increased physical ability.</HanYou.degreeDatas.0.description>
+
+  <YokaiWarrior.degreeDatas.0.label>三尾</YokaiWarrior.degreeDatas.0.label>
+  <YokaiWarrior.degreeDatas.0.description>[PAWN_nameDef]は妖怪武術を学び達人と呼ばれる域に達しています。</YokaiWarrior.degreeDatas.0.description>
+  <YokaiWarrior.degreeDatas.1.label>五尾</YokaiWarrior.degreeDatas.1.label>
+  <YokaiWarrior.degreeDatas.1.description>達人たちの中でも飛び抜けた技術を身に着けた[PAWN_nameDef]は５つの尾を持つものと呼ばれています。</YokaiWarrior.degreeDatas.1.description>
+  <YokaiWarrior.degreeDatas.2.label>白尾</YokaiWarrior.degreeDatas.2.label>
+  <YokaiWarrior.degreeDatas.2.description>生まれ持った天賦の才を極限まで磨き上げた者にのみ「白尾」の称号が与えられます。</YokaiWarrior.degreeDatas.2.description>
+
+
+</LanguageData>

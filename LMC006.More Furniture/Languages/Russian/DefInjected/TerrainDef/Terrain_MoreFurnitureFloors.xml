@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Carpets -->
+
+	<CarpetBedGreen.label>Светло-зеленый ковер</CarpetBedGreen.label>
+	<CarpetBedGreen.description>Светло-зеленый ковер под цвет кровати</CarpetBedGreen.description>
+
+	<CarpetBedOrange.label>Темно-оранжевый ковер</CarpetBedOrange.label>
+	<CarpetBedOrange.description>Темно-оранжевый ковер под цвет тюремной кровати.</CarpetBedOrange.description>
+
+	<CarpetBedBlue.label>Ярко-синий ковер</CarpetBedBlue.label>
+	<CarpetBedBlue.description>Приятный ярко-синий ковер под цвет медицинской кровати.</CarpetBedBlue.description>
+
+	<CarpetBedMaroon.label>Коричневый ковер</CarpetBedMaroon.label>
+	<CarpetBedMaroon.description>Коричневый ковер под цвет медицинской кровати для заключенных.</CarpetBedMaroon.description>
+
+</LanguageData>

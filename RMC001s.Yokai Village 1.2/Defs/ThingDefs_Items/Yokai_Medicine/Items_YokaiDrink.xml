@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--=============== IceDrink ====================-->
+  <ThingDef ParentName="DrugPillBase">
+    <defName>Yokai_IceDrink</defName>
+    <label>Winter's Blessing</label>
+    <description>Made with Snow Milk, this drink drastically increases the consumer's heat tolerance for a day. The effect will weaken before disappearing completely.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/IceDrag</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>15</DeteriorationRate>
+      <MarketValue>40</MarketValue>
+      <WorkToMake>450</WorkToMake>
+      <Mass>0.2</Mass>
+    </statBases>
+    <ingestible>
+      <foodType>Processed, Fluid</foodType>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>Hediff_Yokai_hiebie</hediffDef>
+          <severity>3</severity>
+        </li>
+      </outcomeDoers>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-1</optimalityOffsetFeedingAnimals>
+    </ingestible>
+  </ThingDef>
+  <!-- Recipe!!! -->
+  <RecipeDef>
+    <defName>Make_IceDrink</defName>
+    <label>Make Winter's Blessing</label>
+    <description>Making Five Winter's Blessings</description>
+    <jobString>colding....</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <workAmount>700</workAmount>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_SnowMilk</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_SnowMilk</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Yokai_IceDrink>5</Yokai_IceDrink>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <recipeUsers>
+      <li>Yokai_Nabe</li>
+    </recipeUsers>
+    <researchPrerequisite>YokaiTraditionFood</researchPrerequisite>
+  </RecipeDef>
+  <!--=============== HotDrink ====================-->
+  <ThingDef ParentName="DrugPillBase">
+    <defName>Yokai_HotDrink</defName>
+    <label>Summer's Rebuke</label>
+    <description>By changing the method of preperation, Snow Milk can also produce Summer's Rebuke. This drink has the opposite effect of Winter's Blessing, and therefore increases the consumer's resistance to cold.</description>
+    <graphicData>
+      <texPath>Things/Item/Medical/HotDrag</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>15</DeteriorationRate>
+      <MarketValue>40</MarketValue>
+      <WorkToMake>450</WorkToMake>
+      <Mass>0.2</Mass>
+    </statBases>
+    <ingestible>
+      <foodType>Processed, Fluid</foodType>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>Hediff_Yokai_hokahoka</hediffDef>
+          <severity>3</severity>
+        </li>
+      </outcomeDoers>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-1</optimalityOffsetFeedingAnimals>
+    </ingestible>
+  </ThingDef>
+  <RecipeDef>
+    <defName>Make_HotDrink</defName>
+    <label>Make Summer's Rebuke</label>
+    <description>Making Five Summer's Rebukes</description>
+    <jobString>hotting....</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <workAmount>700</workAmount>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yokai_SnowMilk</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Yokai_SnowMilk</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Yokai_HotDrink>5</Yokai_HotDrink>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <recipeUsers>
+      <li>Yokai_Nabe</li>
+    </recipeUsers>
+    <researchPrerequisite>YokaiTraditionFood</researchPrerequisite>
+  </RecipeDef>
+</Defs>

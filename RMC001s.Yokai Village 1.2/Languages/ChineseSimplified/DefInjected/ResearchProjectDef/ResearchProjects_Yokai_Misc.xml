@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 妖怪文化 -->
+  <YokaiTraditionBasic.label>妖怪文化</YokaiTraditionBasic.label>
+  <YokaiTraditionBasic.description>学习关於妖怪文化的基础知识。可以解锁纺织品的生产。</YokaiTraditionBasic.description>
+  <!-- 衣类 -->
+  <YokaiTraditionCloth.label>妖怪的衣类</YokaiTraditionCloth.label>
+  <YokaiTraditionCloth.description>进行关於妖怪衣服的研究。穿戴妖怪衣类的人能更轻易的取得动物们的信任</YokaiTraditionCloth.description>
+  <YokaiTraditionArmor.label>妖怪的防具</YokaiTraditionArmor.label>
+  <YokaiTraditionArmor.description>可制作滑瓢穿着於身的战争装束及面具。作为素材，需要希洛的毛及龙皮。</YokaiTraditionArmor.description>
+  <!-- 武器 -->
+  <YokaiTraditionWeapon.label>妖怪的武器</YokaiTraditionWeapon.label>
+  <YokaiTraditionWeapon.description>调查妖怪们所使用的弓丶斧，以及剑。可以解锁初阶的妖怪武器及陷阱。</YokaiTraditionWeapon.description>
+  <YokaiTraditionWeaponSecond.label>妖怪的争战装备</YokaiTraditionWeaponSecond.label>
+  <YokaiTraditionWeaponSecond.description>得知如何制造更加强力的陷阱和剑丶弓，想必会对守卫您的村落带来莫大帮助。\n制作时需要特殊的素材及高水准的工艺技术。</YokaiTraditionWeaponSecond.description>
+  <!-- 生活补助 -->
+  <YokaiTraditionFood.label>妖怪的食物</YokaiTraditionFood.label>
+  <YokaiTraditionFood.description>调查妖怪们的饮食，可以得知拉米亚奶酪以及巨龙肉排的制程。</YokaiTraditionFood.description>
+  <YokaiTraditionLife.label>生活知识</YokaiTraditionLife.label>
+  <YokaiTraditionLife.description>能了解妖怪们的生活用品要如何制作。需要猫娘的毛及雪之雫。</YokaiTraditionLife.description>
+  <!-- 愈し -->
+  <YokaiTraditionCure.label>治愈之术</YokaiTraditionCure.label>
+  <YokaiTraditionCure.description>学习妖怪的医术，可让妖怪们的身体再生。能明白妖怪绷带的制法，一种需要利用猫娘的毛以及医疗包来制作的高品质医药品。</YokaiTraditionCure.description>
+  <YokaiTraditionCureAnimal.label>医术的应用</YokaiTraditionCureAnimal.label>
+  <YokaiTraditionCureAnimal.description>透过妖怪绷带及九尾的咒术，能对多种生物实施再生医疗。</YokaiTraditionCureAnimal.description>
+  <YokaiTraditionAddDragon.label>龙力的咒术</YokaiTraditionAddDragon.label>
+  <YokaiTraditionAddDragon.description>能学习将笼的力量移植进入人体中的咒术。</YokaiTraditionAddDragon.description>
+  <!-- 伝承と神话 -->
+  <YokaiTraditionSecret.label>言之叶（封）</YokaiTraditionSecret.label>
+  <YokaiTraditionSecret.description>以龙牙丶九尾狐的毛，龙的心臓等珍贵的物品中，传达出来的言语。铸造「言之叶」。据说单凭这把弓就足以击退逼近而来的宙贼军队。</YokaiTraditionSecret.description>
+  <Yokai_Magatama.label>太阳与海的守护</Yokai_Magatama.label>
+  <Yokai_Magatama.description>传承於妖怪村，传说中的勾玉。习得此物的制作工法能使您的村庄更加繁荣，保护殖民者远离凶恶。</Yokai_Magatama.description>
+  <Yokai_DragonDrop.label>月之雫</Yokai_DragonDrop.label>
+  <Yokai_DragonDrop.description>传承於妖怪村中，透过加工龙牙制成的剑，能轻易的斩断石壁，装备者能得到加护，成长更为显卓。</Yokai_DragonDrop.description>
+  <YokaiMythology.label>妖怪的神话</YokaiMythology.label>
+  <YokaiMythology.description>知晓妖怪们的神话，能解开究极之弓的封印。能以雷霆万钧之势击溃你的敌人。</YokaiMythology.description>
+  <!--妖怪錬成 -->
+  <YokaiAlchemyBasic.label>初级錬成研究</YokaiAlchemyBasic.label>
+  <YokaiAlchemyBasic.description>最为初阶的錬成研究。【尚未实装!不会有任何事情发生!】</YokaiAlchemyBasic.description>
+  <YokaiAlchemyMiddle.label>中级錬成研究</YokaiAlchemyMiddle.label>
+  <YokaiAlchemyMiddle.description>完成这项研究就能制作来自妖怪村的各种素材。【尚未实装!不会有任何事情发生!!】</YokaiAlchemyMiddle.description>
+  <YokaiAlchemyHigh.label>上级錬成研究</YokaiAlchemyHigh.label>
+  <YokaiAlchemyHigh.description>涵盖了复杂錬成技巧的高阶咒术。完成这项研究後将具备召唤妖怪的能力。【尚未实装!不会有任何事情发生!】</YokaiAlchemyHigh.description>
+  <YokaiAlchemyAnimated.label>錬成的探求</YokaiAlchemyAnimated.label>
+  <YokaiAlchemyAnimated.description>炼成术的最高阶丶极度费时旷日的研究。当完成的这项炼成术，便能得到崭新的和平。【尚未实装!不会有任何事情发生!】</YokaiAlchemyAnimated.description>
+</LanguageData>

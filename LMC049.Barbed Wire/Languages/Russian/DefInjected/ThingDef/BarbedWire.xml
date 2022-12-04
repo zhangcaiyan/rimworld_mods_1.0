@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BarbedWire.label>колючая проволока</BarbedWire.label>
+  <BarbedWire.description>Простое оборонительное сооружение, замедляющее передвижение и практически не дающее укрытия.</BarbedWire.description>
+  <BarbedWire_Blueprint.label>колючая проволока (проект)</BarbedWire_Blueprint.label>
+  <BarbedWire_Frame.label>колючая проволока (строится)</BarbedWire_Frame.label>
+  <BarbedWire_Frame.description>Простое оборонительное сооружение, замедляющее передвижение и практически не дающее укрытия.</BarbedWire_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Bedroom stuff -->
+
+	<Anon2Dresser.label>Komoda</Anon2Dresser.label>
+	<Anon2Dresser.description>Miejsce dla kolonistów do przechowywania rzeczy osobistych. Po umieszczeniu w pobliżu łóżka poprawia komfort.</Anon2Dresser.description>
+
+	<Anon2EndTable.label>Stolik Nocny</Anon2EndTable.label>
+	<Anon2EndTable.description>Miejsce dla kolonistów do przechowywania rzeczy osobistych. Po umieszczeniu w pobliżu łóżka poprawia komfort.</Anon2EndTable.description>
+
+	<Anon2RoyalEndTable.label>Królewski Stolik Nocny</Anon2RoyalEndTable.label>
+	<Anon2RoyalEndTable.description>Miejsce dla kolonistów do przechowywania rzeczy osobistych. Po umieszczeniu w pobliżu łóżka poprawia komfort.</Anon2RoyalEndTable.description>
+
+</LanguageData>

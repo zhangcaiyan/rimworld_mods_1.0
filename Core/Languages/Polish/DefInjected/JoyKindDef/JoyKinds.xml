@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<Work.label>praca</Work.label>
+	<Meditative.label>medytacja</Meditative.label>	
+	<Lewd.label>sprośna</Lewd.label>
+	<Social.label>społeczna</Social.label>
+	<Chemical.label>chemiczna</Chemical.label>
+	<Gluttonous.label>żarłoczna</Gluttonous.label>
+	<GamingDexterity.label>granie (zręczność)</GamingDexterity.label>
+	<GamingCerebral.label>granie (intelekt)</GamingCerebral.label>	
+	<Passive.label>pasywna</Passive.label>
+	<Study.label>ucząca</Study.label>
+	
+	
+</LanguageData>

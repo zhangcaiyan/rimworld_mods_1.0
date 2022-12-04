@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--====================　河童の水車 未実装 ======================== -->
+  <!--<ThingDef ParentName="BuildingBase">
+    <defName>Yokai_KappaWater</defName>
+    <label>kappa suisha</label>
+    <description>A special water mill that moves with the water's weakness of the kappa creates power with a powerful rotation. Because the amount of power generation is poor, a number is necessary to cover the power of the whole village.
+\n It is beautiful modeling and it does not generate heat, so it is easy to install in the room, and if you have kappa, you get the infinite number of stone of hydration which is fuel is excellent.
+\n It is the name of Kappa's water mill, but it was nurarihyon that invented this, it was just given this name because Kappa likes water.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Power/WoodFiredGenerator</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <shadowData>
+        <volume>(1.93,1,1.69)</volume>
+        <offset>(-0.03,0,-0.1)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>150</pathCost>
+    <blockWind>true</blockWind>
+    <fillPercent>1.0</fillPercent>
+    <castEdgeShadows>false</castEdgeShadows>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>333</MaxHitPoints>
+      <WorkToBuild>4500</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>15</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <canOverlapZones>false</canOverlapZones>
+    <size>(2,2)</size>
+    <costList>
+      <Yokai_Fragment>60</Yokai_Fragment>
+      <Yokai_HydroStone>5</Yokai_HydroStone>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlant</compClass>
+        <basePowerConsumption>-880</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>0.1</fuelConsumptionRate>
+        <fuelCapacity>3.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_HydroStone</li>
+          </thingDefs>
+        </fuelFilter>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>3</glowRadius>
+        <glowColor>(198,210,255,0)</glowColor>
+      </li>
+    </comps>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+  </ThingDef>-->
+</Defs>

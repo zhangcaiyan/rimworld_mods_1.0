@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <MeatBlend5.label>Blend 5 meats</MeatBlend5.label>-->
+  <!--[Duplicated] <MeatBlend5.description>Chop up a bit of meat, making a blend for cooking.</MeatBlend5.description>-->
+  <!--[Duplicated] <MeatBlend5.jobString>Blending meat.</MeatBlend5.jobString>-->
+
+  <MeatblendTwenty.label>混合20单位肉类</MeatblendTwenty.label>
+  <MeatblendTwenty.description>将多种肉切碎混合，得到适合烹饪的混合肉类。</MeatblendTwenty.description>
+  <MeatblendTwenty.jobString>正在混合肉类。</MeatblendTwenty.jobString>
+
+  <MeatBlend5.label>混合100单位肉类</MeatBlend5.label>
+  <MeatBlend5.description>将多种肉切碎混合，得到适合烹饪的混合肉类。</MeatBlend5.description>
+  <MeatBlend5.jobString>正在混合肉类。</MeatBlend5.jobString>
+
+
+</LanguageData>

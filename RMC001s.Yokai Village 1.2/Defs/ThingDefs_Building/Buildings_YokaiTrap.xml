@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--====================　改良DF ======================== -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_deadfall</defName>
+    <label>Decapitator</label>
+    <thingClass>Building_TrapDamager</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_DeadfallArmed</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <rect>(0,0,1,0.15)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <costList>
+      <Yokai_JorouGumoThread>20</Yokai_JorouGumoThread>
+      <Yokai_EnergyStone>2</Yokai_EnergyStone>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <rotatable>false</rotatable>
+    <tickerType>Normal</tickerType>
+    <stealable>false</stealable>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>6000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>-5</Beauty>
+      <TrapMeleeDamage>80</TrapMeleeDamage>
+      <TrapSpringChance>1</TrapSpringChance>
+      <Mass>10</Mass>
+    </statBases>
+    <description>精刻の石と女郎蜘蛛の糸から作られたこの断頭器の一番の特徴は、落ちた刃が即座に浮かび上がり次の獲物を待つことです。
+    \n再設置が可能で電力も使わず丈夫で燃えることもありませんが、精刻の石の入手は簡単ではないため量産には不向きかもしれません。</description>
+    <designationCategory>Security</designationCategory>
+    <building>
+      <isTrap>true</isTrap>
+      <trapDamageCategory>Sharp</trapDamageCategory>
+      <trapUnarmedGraphicData>
+        <texPath>Things/Item/Building/Yokai_DeadfallUnarmed</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+        <shaderType>Cutout</shaderType>
+      </trapUnarmedGraphicData>
+    </building>
+    <constructionSkillPrerequisite>7</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>YokaiTraditionWeapon</li>
+    </researchPrerequisites>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+  </ThingDef>
+  <!--=============== 遠隔防衛 ===============-->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_TurretBow</defName>
+    <label>Kaname no Yumi</label>
+    <thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_ProtectBowBase</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>3000</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <WorkToBuild>12000</WorkToBuild>
+      <Mass>8</Mass>
+      <Beauty>+15</Beauty>
+      <ShootingAccuracyTurret>1.8</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <comps Inherit="False">
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Shots until barrel change</fuelLabel>
+        <fuelGizmoLabel>Barrel durability</fuelGizmoLabel>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_EnergyStone</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>60</fuelCapacity>
+        <initialFuelPercent>1</initialFuelPercent>
+        <autoRefuelPercent>0.75</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <fuelMultiplier>2</fuelMultiplier>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+        <outOfFuelMessage>Cannot shoot: Needs new barrel</outOfFuelMessage>
+        <fuelIconPath>UI/Overlays/Barrel</fuelIconPath>
+      </li>
+    </comps>
+    <description>ほとんどの妖怪は、遠方からの銃や矢に対して無防備で反撃する手段を持たず、武器を使うだけの技能もありません。
+    \nこの事を憂いたぬらりひょん達が、九尾の狐の力の一端を利用して作らせた要の弓は、非常に強力で頑丈な防衛兵器です。
+    \n素材となる竜核の石は貴重なものであり、弾となる精刻の石も簡単に手に入るものではありませんが、その価値に見合う素晴らしい性能を備えています。
+    \n敵意を感知して妖気の矢を放つこの弓があれば、中途半端な襲撃ならばいともたやすく撃退できるでしょう。</description>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.1</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <Yokai_JorouGumoThread>60</Yokai_JorouGumoThread>
+      <Yokai_EnergyStone>30</Yokai_EnergyStone>
+      <Yokai_DragonStone>1</Yokai_DragonStone>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <specialDisplayRadius>40</specialDisplayRadius>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>Yokai_TurretBow_Kaname_B</turretGunDef>
+      <turretBurstCooldownTime>1</turretBurstCooldownTime>
+      <turretTopGraphicPath>Things/Item/Building/Yokai_ProtectBow</turretTopGraphicPath>
+    </building>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>YokaiTraditionWeaponSecond</li>
+    </researchPrerequisites>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+    </placeWorkers>
+  </ThingDef>
+  <!-- 要の弓　武器部分 弾 -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Yokai_TurretBow_Kaname_A</defName>
+    <label>妖気の矢（要）</label>
+    <graphicData>
+      <texPath>Things/Item/Projectile/Yokai_Arrow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingClass>Bullet</thingClass>
+    <projectile>
+      <damageDef>YokaiPower</damageDef>
+      <damageAmountBase>22</damageAmountBase>
+      <speed>140</speed>
+      <armorPenetrationBase>1</armorPenetrationBase>
+      <ai_IsIncendiary>true</ai_IsIncendiary>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeapon">
+    <defName>Yokai_TurretBow_Kaname_B</defName>
+    <label>要の弓</label>
+    <description>竜刻の石と女郎蜘蛛の糸で作られた強力な設置型の自動弓です。精刻の石から妖気の弓を生成して発射します。</description>
+    <graphicData>
+      <texPath>Things/Item/Weapon/Yokai_Ayakasi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Ultra</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
+    <statBases>
+      <MarketValue>0</MarketValue>
+      <Mass>3</Mass>
+      <AccuracyTouch>0.99</AccuracyTouch>
+      <AccuracyShort>0.95</AccuracyShort>
+      <AccuracyMedium>0.88</AccuracyMedium>
+      <AccuracyLong>0.084</AccuracyLong>
+      <RangedWeapon_Cooldown>0.95</RangedWeapon_Cooldown>
+    </statBases>
+    <tradeability>None</tradeability>
+    <menuHidden>True</menuHidden>
+    <destroyOnDrop>true</destroyOnDrop>
+    <weaponTags>
+      <li>Yokai_Kojiki</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Yokai_TurretBow_Kaname_A</defaultProjectile>
+        <warmupTime>1</warmupTime>
+        <range>40</range>
+        <ticksBetweenBurstShots>2</ticksBetweenBurstShots>
+        <burstShotCount>5</burstShotCount>
+        <soundCast>Bow_Large</soundCast>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!-- 竜の喉＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_HinoIki_Base</defName>
+    <label>Dragon's Throat</label>
+    <description>この灯籠のような不思議な形の器具は、敵意をもって近づくものに強烈な炎を浴びせる防衛器具の一つであり、その恐ろしさから竜の喉と呼ばれています。
+    \n貴重な錬成素材を材料として要求しますが、連続で火炎の塊を吹き出し火に弱い敵を薙ぎ払うことが出来ます。射程距離が短い点と燃料として火刻の石を大量に要求される点には注意が必要です。</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Dragon_throatBase</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>880</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <WorkToBuild>12900</WorkToBuild>
+      <Mass>6</Mass>
+      <Beauty>10</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <comps Inherit="False">
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Shots until barrel change</fuelLabel>
+        <fuelGizmoLabel>Barrel durability</fuelGizmoLabel>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_FlameStone</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>60</fuelCapacity>
+        <initialFuelPercent>1</initialFuelPercent>
+        <autoRefuelPercent>0.75</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <fuelMultiplier>0.5</fuelMultiplier>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+        <outOfFuelMessage>Cannot shoot: Needs new barrel</outOfFuelMessage>
+        <fuelIconPath>UI/Overlays/Barrel</fuelIconPath>
+      </li>
+    </comps>
+    <passability>PassThroughOnly</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <Jade>20</Jade>
+      <Yokai_FlameStone>30</Yokai_FlameStone>
+      <Yokai_EnergyStone>20</Yokai_EnergyStone>
+      <Yokai_DragonStone>3</Yokai_DragonStone>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <specialDisplayRadius>7</specialDisplayRadius>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>Yokai_HinoIki_G</turretGunDef>
+      <turretBurstCooldownTime>0.6</turretBurstCooldownTime>
+      <turretTopGraphicPath>Things/Item/Building/Yokai_Dragon_throat</turretTopGraphicPath>
+    </building>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>YokaiTraditionWeaponSecond</li>
+    </researchPrerequisites>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- 竜の喉、武器部分 -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Yokai_HinoIki_B</defName>
+    <label>Breath of fire</label>
+    <graphicData>
+      <texPath>Things/Projectile/InfernoCannonShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>19</damageAmountBase>
+      <speed>25</speed>
+      <explosionRadius>2.5</explosionRadius>
+      <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+      <preExplosionSpawnChance>0.27</preExplosionSpawnChance>
+      <ai_IsIncendiary>true</ai_IsIncendiary>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeapon">
+    <defName>Yokai_HinoIki_G</defName>
+    <label>Dragon flame</label>
+    <description>It is a bead with the power of a dragon. It can hit a flame of fire.</description>
+    <graphicData>
+      <texPath>Things/Item/Weapon/Dragon_Breath</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Ultra</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
+    <statBases>
+      <MarketValue>0</MarketValue>
+      <Mass>3</Mass>
+      <AccuracyTouch>0.99</AccuracyTouch>
+      <AccuracyShort>0.84</AccuracyShort>
+      <AccuracyMedium>0.01</AccuracyMedium>
+      <AccuracyLong>0.01</AccuracyLong>
+      <RangedWeapon_Cooldown>0.6</RangedWeapon_Cooldown>
+    </statBases>
+    <tradeability>None</tradeability>
+    <menuHidden>True</menuHidden>
+    <weaponTags>
+      <li>FireBreath</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_InfernoCannon</defaultProjectile>
+        <forcedMissRadius>5</forcedMissRadius>
+        <ai_AvoidFriendlyFireRadius>5</ai_AvoidFriendlyFireRadius>
+        <warmupTime>0.5</warmupTime>
+        <minRange>2.0</minRange>
+        <range>7</range>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>InfernoCannon_Fire</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>3</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!--防御用 -->
+  <!--蜘蛛の巣 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_JorouGumoWeb</defName>
+    <label>JorouGumo Web</label>
+    <description>It is a web made of spider thread. Installing on the ground has an effect of hindering the movement of intruders, but it is weak against fire and it has difficulty in durability..</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Item/Building/JorouGumoWeb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <pathCost>98</pathCost>
+    <pathCostIgnoreRepeat>false</pathCostIgnoreRepeat>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>
+      <Beauty>-10</Beauty>
+      <WorkToBuild>15</WorkToBuild>
+      <Flammability>1</Flammability>
+    </statBases>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isInert>true</isInert>
+    </building>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <costList>
+      <Yokai_JorouGumoThread>3</Yokai_JorouGumoThread>
+    </costList>
+    <filthLeaving>SandbagRubble</filthLeaving>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+    <repairEffect>ConstructDirt</repairEffect>
+  </ThingDef>
+  <!--緋色の土嚢 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_HiiroBags</defName>
+    <label>Scarlet sandbag</label>
+    <description>Though expensive, these sandbags are easily twice as effective as normal sandbags in terms of both cover effectiveness and durability.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Linked/Sandbags_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>Basic</linkType>
+      <linkFlags>
+        <li>Sandbags</li>
+      </linkFlags>
+      <color>(255,220,160)</color>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/Sandbags_MenuIcon</uiIconPath>
+    <uiIconColor>(255,220,160)</uiIconColor>
+    <altitudeLayer>Building</altitudeLayer>
+    <pathCost>35</pathCost>
+    <pathCostIgnoreRepeat>false</pathCostIgnoreRepeat>
+    <fillPercent>0.95</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <Beauty>0</Beauty>
+      <WorkToBuild>360</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isInert>true</isInert>
+    </building>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <costList>
+      <Yokai_HihiiroKane>10</Yokai_HihiiroKane>
+    </costList>
+    <filthLeaving>SandbagRubble</filthLeaving>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+    <repairEffect>ConstructDirt</repairEffect>
+  </ThingDef>
+</Defs>

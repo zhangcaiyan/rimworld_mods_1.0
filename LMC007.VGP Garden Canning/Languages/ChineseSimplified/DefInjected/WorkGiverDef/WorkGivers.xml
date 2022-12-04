@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsCanningMachine.label>制造罐头食物。/DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>制造罐头中。</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>制造罐头中。</DoBillsCanningMachine.gerund>
+
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>取出机器中的罐头。</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>取出罐头。</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>从机器中获得罐头。</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <Canning_WorkGiver_FillUniversalFermenter.label>填充食物机器。</Canning_WorkGiver_FillUniversalFermenter.label>
+  <Canning_WorkGiver_FillUniversalFermenter.verb>填充中。</Canning_WorkGiver_FillUniversalFermenter.verb>
+  <Canning_WorkGiver_FillUniversalFermenter.gerund>填充中。</Canning_WorkGiver_FillUniversalFermenter.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ==== 暖房器具 === -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_karyuu_tomosibi</defName>
+    <label>Dragon's Light</label>
+    <description>妖怪にとって翡翠は特別な価値のあるものです。霊気の宿る神聖な鉱物である翡翠、竜刻の石、そして妖気の欠片からこの竜の灯火は作られます。
+    \n補充の必要もなく電力に頼らないこの灯籠は強い光を放つことで植物の生育を助けます。また同時に暖房器具としてもとても優れています。
+    \n間欠泉に恵まれない土地では竜の灯火が妖怪たちの畑を守り育み、戦乱の時代を生き抜く大きな助けとなりました。</description>
+    <category>Building</category>
+    <thingClass>Building_SunLamp</thingClass>
+    <thingCategories>
+      <li>BuildingsTemperature</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Tomoshibi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MaxHitPoints>600</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>110</Beauty>
+      <Mass>30</Mass>
+    </statBases>
+    <selectable>true</selectable>
+    <costList>
+      <Jade>20</Jade>
+      <Yokai_Fragment>30</Yokai_Fragment>
+      <Yokai_DragonStone>1</Yokai_DragonStone>
+    </costList>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>60</heatPerSecond>
+        <heatPushMaxTemperature>24</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_Glower">
+        <overlightRadius>7.0</overlightRadius>
+        <glowRadius>14</glowRadius>
+        <glowColor>(280,167,167,0)</glowColor>
+      </li>
+      <li Class="CompProperties_FireOverlay">
+        <fireSize>0.3</fireSize>
+      </li>
+    </comps>
+    <designationCategory>Furniture</designationCategory>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <specialDisplayRadius>5.8</specialDisplayRadius>
+  </ThingDef>
+  <!-- ==== 冷房器具 === -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_Himuro</defName>
+    <label>Winter's Sigh</label>
+    <description>銀と翡翠は妖怪にとって特別な価値のあるものです。妖怪にとっては金やウランよりも翡翠のほうが尊ばれます。（とはいえ惑星通貨として銀が使われている事を理解していないわけではありません。）
+\n水刻の石、銀、雪の雫から作られる冷気の溢れる不思議な壺です。強烈な冷気は周囲の気温をマイナス５０度まで下げることができます。
+\n一度作成すれば補充も電力も必要としませんが、その強烈な効果を上手く調整する必要があります。</description>
+    <category>Building</category>
+    <thingCategories>
+      <li>BuildingsTemperature</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_Himuro</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0.3</Flammability>
+      <Beauty>30</Beauty>
+      <Mass>8</Mass>
+    </statBases>
+    <selectable>true</selectable>
+    <costList>
+      <Yokai_HydroStone>10</Yokai_HydroStone>
+      <Silver>70</Silver>
+      <Yokai_SnowMilk>90</Yokai_SnowMilk>
+    </costList>
+    <placeWorkers>
+      <li>PlaceWorker_CoolerSimple</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>-40</heatPerSecond>
+        <heatPushMinTemperature>-50</heatPushMinTemperature>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>7</glowRadius>
+        <glowColor>(187,187,247,0)</glowColor>
+      </li>
+    </comps>
+    <!--建設タブのどこに所属するか-->
+    <designationCategory>Temperature</designationCategory>
+    <researchPrerequisites>
+      <li>YokaiTraditionLife</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <minifiedDef>MinifiedThing</minifiedDef>
+  </ThingDef>
+  <!-- 簡易 暖房器具 === -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_KaenTake</defName>
+    <label>火炎茸</label>
+    <description>周辺に熱を放つ一抱えほどもある妖怪の茸の一つで、砂漠や氷海など木材の乏しい土地で貴重な暖房器具として重宝されています。
+    \n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与える必要があり、栄養となる妖気の欠片の供給を怠ると朽ちてしまいます。
+\n妖怪の茸は多くの種類がありますが、妖怪村の外部へ育成方法が伝わっている茸は１０種にみたない数しかありません。</description>
+    <category>Building</category>
+    <thingClass>Building_Heater</thingClass>
+    <tickerType>Normal</tickerType>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_KaenTake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+    </graphicData>
+    <fillPercent>0</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>5</Beauty>
+      <Mass>1</Mass>
+    </statBases>
+    <selectable>true</selectable>
+    <costList>
+      <Yokai_Fragment>15</Yokai_Fragment>
+    </costList>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>6</heatPerSecond>
+        <heatPushMaxTemperature>24</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1</fuelConsumptionRate>
+        <fuelCapacity>20</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_Fragment</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <destroyOnNoFuel>true</destroyOnNoFuel>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>YokaiTraditionBasic</li>
+    </researchPrerequisites>
+    <designationCategory>Temperature</designationCategory>
+    <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+  </ThingDef>
+  <!--簡易冷凍 -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>Yokai_ShimoTake</defName>
+    <label>霜茸</label>
+    <description>周囲に冷気を放つ一抱えほどもある妖怪の茸の一つです。複数用意すれば狭い範囲であれば氷点下にすることもできますが、主に極限の砂漠などでの熱波への備えとして使われています。
+\n妖気の欠片を砕いて特別な処置を施すことで生えてきます。定期的に妖気の欠片を与えなければ朽ちてしまいます。
+\n妖怪の茸を作る方法として一番簡単なのは妖気の欠片を砕いてそこに菌糸を撒くことです。そしてまた猫娘の毛を使う方法もいくつか知られていますが、それらは技術がいるとされています。
+\nなぜ茸を育てるのに建築の技術が必要とされているかは妖怪村でも解明されていない謎の一つです。</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Item/Building/Yokai_ShimoTake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>5</Beauty>
+      <Mass>3</Mass>
+    </statBases>
+    <costList>
+      <Yokai_Fragment>15</Yokai_Fragment>
+    </costList>
+    <placeWorkers>
+      <li>PlaceWorker_CoolerSimple</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>-6</heatPerSecond>
+        <heatPushMinTemperature>-10</heatPushMinTemperature>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1</fuelConsumptionRate>
+        <fuelCapacity>20</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>Yokai_Fragment</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <destroyOnNoFuel>true</destroyOnNoFuel>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>YokaiTraditionBasic</li>
+    </researchPrerequisites>
+    <designationCategory>Temperature</designationCategory>
+    <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+  </ThingDef>
+</Defs>

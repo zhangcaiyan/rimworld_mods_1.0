@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>kémiai üzemanyag finomító</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Kémiai finomító. Fából és növényekből állít elő kémiai üzemanyagot.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>sörfőzde</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>Munkaállomás minden sörfőzéshez szükséges felszereléssel.</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>mészárszék</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Egy hely állatok leölésére. A felszerelés hiánya miatt a hús-, és bőrhozam csak 70%.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>munkahely</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Egy hely egyszerű dolgok készítésére, mint például íjak, kések.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>talajfúró</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Talajfúró, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>droglabor</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Munkaállomás felszerelve kémcsövekkel, melegítővel és mérőeszközökkel mindenféle drog előállítására.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>krematórium (elektromos)</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Holttestek elhamvasztásához. Elektromos fűtésű.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Kivonja a fémet a törmelékből és egyéb tárgyakból. Sok áramot fogyaszt.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>kovácstűzhely (elektromos)</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Elektromos fűtésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>tűzhely (elektromos)</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Elektromos tűzhely és pult ételek készítéséhez.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>varrógép</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Munkaasztal varrógéppel, ruhák gyors készítéséhez. Áram nélkül is működik, de 60 százalékkal lassabban.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>Gyártó asztal</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Munkaállomás fejlett eszközökkel, amikkel egyszerű anyagokból technológiai csodák készíthetők.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>Erjesztő hordó</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Hordó söralap erjesztésére.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>kovácstűzhely (fatüzelés)</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Egyszerű fatüzelésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>tűzhely (fatüzelés)</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Fatüzelésű tűzhely és pult ételek készítéséhez.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>varróasztal</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Munkaasztal ruhák kézi varrásához. Az öltözékek a varrógéphez képest 60 százalékkal lassabban készülnek el.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>fejlett laborasztal</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Fejlett munkaállomás számítógéppel és elektronikus mérőeszközökkel. A kutatást korszerű szerszámok gyorsítják. Működéséhez áram szükséges.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>adagoló</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag pépesítő.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>hidroponikus ágyás</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Növények mesterséges tápanyag fürdőben való gyors termesztéséhez. Működéséhez áram szükséges. A növények elhalnak, ha az áramellátás megszűnik.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>tápanyag pépesítő</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Tápanyagpépet állít elő organikus anyagokból. Kevesebb hozzávalót és időt igényel bármelyik másik ételkészítési módszernél, de senki sem szereti a végeredményt. Nyers ételt bevesz, de erősebb rostú növényi részeket (pl. széna) nem.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>egyszerű laborasztal</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Egyszerű munkaasztal íróeszközökkel és fejletlen tudományos felszereléssel. A kutatók itt fedeznek fel új dolgokat.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>hastok</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>Nehéz asztal állatok szétbontásához és húsuk feldolgozásához.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>gépészasztal</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Munkaállomás gépek, fegyverek és mechanoid testek szét-, és összeszereléséhez.</TableMachining.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>szobrász asztal</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>Munkaasztal művészi faragványok készítéséhez.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>kőfaragó asztal</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Asztal, amin nyers kövekből hasznos építőanyag készíthető.</TableStonecutter.description>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RMC019.电路断路器</name>
+	<author>Ratys</author>
+	<url>https://ludeon.com/forums/index.php?topic=11272</url>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>英文名：RT Fuse
+	
+Researchable (RT Mods research tab) electric fuses to mitigate short circuits. When placed anywhere on a power network, each fuse will safely discharge up to three of network's batteries, mitigating or preventing the explosion.
+新增简易熔断器与电路断路器以保护电路，每个保险丝将安全地释放多达三个网络电池，以减轻或防止因短路发生的爆炸。
+
+Does not require a new colony to add or remove (might throw a one-time error).
+可以安全新增或移除（可能引发一次性的红字）
+
+已于2019年6月25日 00:07:55更换版本号定义。
+
+Available languages:
+ - Chinese (simplified) (by duduluu)
+ - Chinese (traditional) (by duduluu)
+ - English
+ - Korean (by Coldmoon)
+ - Russian
+ - Spanish (Castilian) (by a kind stranger who wished to remain anonymous)
+ - Spanish (Latin America) (by a kind stranger who wished to remain anonymous)
+
+Refer to forum thread for additional information.</description>
+</ModMetaData>

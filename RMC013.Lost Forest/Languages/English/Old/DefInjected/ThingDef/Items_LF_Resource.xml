@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <LF_FoxiaTears.label>Foxia Tears</LF_FoxiaTears.label>
+    <LF_FoxiaTears.description>Tears of the Foixa. Her tears can heal old wounds, diseases, and can regrow missing limbs. These tears are also critical in the ascension of wood into something far greater.</LF_FoxiaTears.description>
+
+    <LF_WoodLog.label>Ancient Holy Wood</LF_WoodLog.label>
+    <LF_WoodLog.description>Wood that mimics the properties of a lost world tree. As it is revered, this wood is never burned; as it is protected, this wood can never burn. A mysterious power wards the wood so, and it also grants a blessing to those that use it for others: those who lay upon it (bed) will find their ills soon cured.</LF_WoodLog.description>
+　　<LF_WoodLog.stuffProps.stuffAdjective>Ancient Wood</LF_WoodLog.stuffProps.stuffAdjective>
+
+    <PressedIronScraps.label>Compressed Iron Scraps</PressedIronScraps.label>
+    <PressedIronScraps.description>Like steel, these iron scraps can used for building structures and furniture, though the latter may not be especially appealing; their compressed state also lends to a faster smelting time than slag.</PressedIronScraps.description>
+　　<PressedIronScraps.stuffProps.stuffAdjective>Scrap</PressedIronScraps.stuffProps.stuffAdjective>
+
+</LanguageData>

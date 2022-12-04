@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>EdB Prepare Carefully[中文版]1.0</name>
+	<author>EdB</author>
+	<url></url>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>翻译：AutoWave、LingLuo
+
+边缘汉化组官网：Rimworld-zh.com
+
+&lt;color=orange&gt;&lt;b&gt;这是个独立完整的Mod，不需要与英文原版同时安装&lt;/b&gt;&lt;/color&gt;
+
+精心准备 中文版（简、繁）
+版本：1.0.2059
+本模组为 EdB Prepare Carefully 中文化版本。
+遵循 MIT 许可协议
+原模组：http://steamcommunity.com/sharedfiles/filedetails/?id=735106432
+
+角色人数过多、物品过多、花费点数过高等，有可能导致开局时人物消失。
+如果你遇到无法启用「精心准备」的问题，可以尝试以下几种方法：
+- 重启游戏
+- 随便新建一个殖民地，然后退出到主菜单，再次新建殖民地。
+- 修改模组的排序：将「精心准备」排在最后，或者紧接着排在Core下方。
+
+	</description>
+</ModMetaData>

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--ベース -->
+  <ThingDef ParentName="ResourceBase" Name="YokaiStoneBase" Abstract="True">
+    <statBases>
+      <Flammability>0</Flammability>
+      <Beauty>0</Beauty>
+    </statBases>
+    <stackLimit>160</stackLimit>
+    <useHitPoints>false</useHitPoints>
+    <thingCategories>
+      <li>Yokai_Stone</li>
+    </thingCategories>
+    <!--一時的な処置　錬金が実装されたら削除する -->
+    <recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>Yokai_Kanatoko</li>
+      </recipeUsers>
+      <researchPrerequisite>YokaiAlchemyBasic</researchPrerequisite>
+      <!--  <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>-->
+    </recipeMaker>
+  </ThingDef>
+  <!--下位錬成素材 -->
+  <!-- 全ての源になる素材。妖気の欠片。錬金で様々な妖怪素材に変化させられる。燃料や武具の素材でもある。
+　ほとんどの妖怪が転換炉で生成してくれるのがこれ。  -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_Fragment</defName>
+    <label>Yokai Fragment</label>
+    <description>These small fragments are a rather common sight in Yokai villages; there they are used as one of the most basic components in crafting, or, more specifically, smelting. 
+    \nWith a handful of such fragments, any colony can strive to rebuild the weapons of Yokai lore.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/SigilStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>4</MarketValue>
+      <Mass>0.01</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_JorouGumoThread>10</Yokai_JorouGumoThread>
+    </costList>
+    <!-- -->
+  </ThingDef>
+  <!-- 中位錬成素材 -->
+  <!-- 錬金の中位素材の中で最も基本的なもの。これをベースに他の中位素材を作成できる。妖刻の石 -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_SigilStone</defName>
+    <label>Sigil Stone</label>
+    <description>At a glance-and perhaps a distance too-this stone appears to be a leaf; however, upon close inspection, one can hear the humming sigil that has been carved into the stone. An otherwise dull green, the sigil brings a shine to the rock, as its lines seemingly crease the stone, giving it a leaf-life appearance.
+    \nSigil Stones-such as this one-are used in the creation of intermediate goods; moreover, with a more advanced and duitiful understanding of Yokai lore, one may be able to get more out of each stone.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/SigilStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.03</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyMiddle</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!-- 火の力が宿った中位素材の中で恐らくもっとも使用頻度の高いもの。これをベースに他の中位素材を作成できる。
+  妖怪系の作成器具の燃料となる。またいくつかのトラップの素材や燃料にもなる予定。-->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_FlameStone</defName>
+    <label>Inari's Ember</label>
+    <description>Despite its name, the stone does not originate from a Kyuubi; that said, this magical stone is hot to the touch, and some swear that its shape is meant to resemble the bolts that Kyuubi throw at their enemies.
+    \nLike Yokai Fragments, these stones are readily available in any Yokai village, which is a blessing, as they are used to power their various work benches.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/FlameStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.03</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyMiddle</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!-- 精刻の石と呼ばれる中位素材で強いエネルギーに満ちているこれらの石を使うことで様々な妖怪道具が作ることができます。
+  希少な妖怪素材を錬成するのに使います。 -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_EnergyStone</defName>
+    <label>Psycho Stone</label>
+    <description>This stone-neigh-this crystal seems to fluctuate with the energy held inside it; lore states that such energy is captured whilst battles are fought, and blood, pain, and anger combine in equal portions to fill this otherwise placid vessel. "Psycho" is a colloquial name that comes from the pronunciation of the stone's original name, "Sei koku no ishi;" nevermind that "sei" is pronounced like "say," the name caught on and has stuck ever since.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/FlameStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(160,100,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.03</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_Fragment>30</Yokai_Fragment>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyMiddle</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!-- 水刻の石は河童水車の燃料であり、冷気を司る妖怪道具を作るのに使う。
+    また雪雫や河童の招来にも使われる。 -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_HydroStone</defName>
+    <label>Hydro Stone</label>
+    <description>This stone is said to foster a secret power, such that lore likens it to the great river that fosters life. Whether it is purely like, or is actually a product of, only some Yokai villagers know. In villages these stones are used as a source of great energy.
+    \nHowever, a word more about the origin of such stones, lore states that perhaps the stone has a secondary source, and unlikely one at that: the Kappa. By some unexplained process a Kappa may supposedly produce, convert, or otherwise create these stones.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/HydroStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.03</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_Fragment>20</Yokai_Fragment>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyMiddle</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!-- 妖秘の石は最も珍しい中位素材です。これを混ぜることで初めて上位の素材を得ることができます。
+   -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_ArcaneStone</defName>
+    <label>Arcane Nucleus</label>
+    <description>Light spins within the stone, as energy ebbs from an unseeable center, fanning out like a corona. This stone is the most valuable of the intermediate materials.
+    \nColonists may use this stone as a base-nucleus-for higher grade materials, or they may use it to create various tools.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/ArcaneStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>20</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_EnergyStone>10</Yokai_EnergyStone>
+      <Yokai_HydroStone>10</Yokai_HydroStone>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyHigh</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!--上位錬成素材 -->
+  <!-- 上位素材である竜の魂核はいくつか非常に強力な道具の素材になる他、竜を招来するのにも使われます。-->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_DragonStone</defName>
+    <label>Draconic Soul Shard</label>
+    <description>A vortex of energy undulates upon the surface of this stone; the energy flows over whatever hand grabs the stone, and the vortex's center moves to meet their gaze. A dragon's essence is not easily contained.
+    \nIn plain terms, this "stone" is a high grade crafting material, and may be used to create extremely powerful weapons and tools. Lore also states that such stones may be created through sacrificing a dragon: or at least its heart.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DragonStone</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>120</MarketValue>
+      <Mass>0.4</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_EnergyStone>10</Yokai_EnergyStone>
+      <Yokai_ArcaneStone>10</Yokai_ArcaneStone>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyAnimated</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+  <!--最も希少な素材である妖怪の心核は妖怪を招来するのに必須のものです。
+ またこの素材がなければ伝説の武器を作ることは難しいでしょう。 -->
+  <ThingDef ParentName="YokaiStoneBase">
+    <defName>Yokai_AnimaCore</defName>
+    <label>Heart of the Yokai</label>
+    <description>Also known as the "Anima Core," this precious gem is the most difficult to obtain of all Yokai materials; however, it is also used to create the best weapons and tools their culture can offer.
+    \nThrough mastery of Yokai knowledge, one may be able to use this gem to summon forth Yokai.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimaCore</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>200</MarketValue>
+      <Mass>0.8</Mass>
+    </statBases>
+    <!--あとで消す -->
+    <costList>
+      <Yokai_ArcaneStone>5</Yokai_ArcaneStone>
+      <Yokai_DragonStone>3</Yokai_DragonStone>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>YokaiAlchemyAnimated</researchPrerequisite>
+    </recipeMaker>
+    <!--ここまで -->
+  </ThingDef>
+</Defs>

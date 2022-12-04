@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LF_LeffyFur.label>Leffyfur</LF_LeffyFur.label>
+  <LF_LeffyFur.description>The white fluffy fur of a Leffy. Their fur resists various bacteria, making it very useful in medical settings; it also has a high heat tolerance.</LF_LeffyFur.description>
+  <LF_LeffyFur.stuffProps.stuffAdjective>Leffyfur</LF_LeffyFur.stuffProps.stuffAdjective>
+
+  <LF_MofuMofu.label>Mofu Mofu</LF_MofuMofu.label>
+  <LF_MofuMofu.description>The fine hair of a Foxia. A mysterious power protects this hair from being burnt. Colonists can use this hair to produce light, comfortable clothing.</LF_MofuMofu.description>
+  <LF_MofuMofu.stuffProps.stuffAdjective>Mofu Mofu</LF_MofuMofu.stuffProps.stuffAdjective>
+
+  <LF_FukaFuka.label>Fuka Fuka</LF_FukaFuka.label>
+  <LF_FukaFuka.description>The exotic fluff of a Lefca. Animal handlers are often embarrassed when asked if the Fuka Fuka came from the Lefca's hair and ears, or its puffy tail. A mysterious power protects this fluff from being burnt. Colonists can use this hair to produce light, comfortable clothing.</LF_FukaFuka.description>
+  <LF_FukaFuka.stuffProps.stuffAdjective>Fuka Fuka</LF_FukaFuka.stuffProps.stuffAdjective>
+
+  <LF_FuwaFuwa.label>Fuwa Fuwa</LF_FuwaFuwa.label>
+  <LF_FuwaFuwa.description>The exotic hair of a Wolvern. Strangely, despite their stand-offish manner, Wolverns stay completely still while being sheared; some colonists have report seeing a smirk on their Wolvern's face, though it quickly changes to a frown once they make eye contact. A mysterious power protects this hair from being burnt. Colonists can use this hair to produce light, comfortable clothing.</LF_FuwaFuwa.description>
+  <LF_FuwaFuwa.stuffProps.stuffAdjective>Fuwa Fuwa</LF_FuwaFuwa.stuffProps.stuffAdjective>
+
+  <LF_AzureDragonScales.label>Azure dragon scales</LF_AzureDragonScales.label>
+  <LF_AzureDragonScales.description>These scales were obtained from a Petite Servant Dragon. Their surface is defined by a sharp blue that sparkles in the sun. Such scales are too small to be used as armor material, but they may be necessary for some artifacts related to the blue dragon.</LF_AzureDragonScales.description>
+
+  <LF_DragoniaWisdom.label>Dragonia's Wisdom</LF_DragoniaWisdom.label>
+  <LF_DragoniaWisdom.description>Draconic hieroglyphs from the Drarr Era are carefully drawn upon this scroll. These scrolls are sometimes given to colonists by the children of the blue dragon. Unfortunately, none can decipher these scrolls, but all can feel the strong magic contained within them. Perhaps they can be used to research lost archotechnology.</LF_DragoniaWisdom.description>
+
+  <LF_ArcaneCrystal.label>Arcane Crystal</LF_ArcaneCrystal.label>
+  <LF_ArcaneCrystal.description>A dark blue crystal engraved with geometric patterns that constantly blink with energy. As a child of the blue dragon, the Dragonia can freely manipulate such crystals, having them form to whatever shape she desires. Many have tried to imitate her trance, to use their minds to alter such stones; yet, the stones remains ever mute, unchanging, and answer only with the reflected gaze of the Dragonia. Still, rumor has spread that there is some form of refinement that may prove useful.</LF_ArcaneCrystal.description>
+
+  <LF_EggFlammeliaUnfertilized.label>Flammelia egg (unfert.)</LF_EggFlammeliaUnfertilized.label>
+  <LF_EggFlammeliaUnfertilized.description>An unfertilized Flammelia egg. It can be eaten raw, but it's much, much better cooked.</LF_EggFlammeliaUnfertilized.description>
+
+  <LF_EggFlammeliaFertilized.label>Flammelia egg (fert.)</LF_EggFlammeliaFertilized.label>
+  <LF_EggFlammeliaFertilized.description>A fertilized Flammelia egg. If all goes well, it should hatch into a Flammelia chick. It can be eaten raw, but it's much better cooked.</LF_EggFlammeliaFertilized.description>
+
+
+</LanguageData>

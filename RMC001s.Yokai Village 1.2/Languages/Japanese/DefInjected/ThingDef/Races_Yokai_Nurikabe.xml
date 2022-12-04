@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Nurikabe.label>ぬりかべ</Yokai_Nurikabe.label>
+  <Yokai_Nurikabe.description>野生では生息していない希少な妖怪です。穏やかで人懐っこいため商人から購入することで、文字通り壁となって入植者を守ってくれます。
+    \nとてつもなく硬くて丈夫な上に食べ物を必要としませんが足が遅く非力です。壁なので捌いても肉と皮は手に入りません。
+    \n極まれに赤く煌めくぬりかべが妖怪村で暮らしている事があるそうです。彼らと出会う秘密は妖怪文化の研究を進めれば明らかになるでしょう。</Yokai_Nurikabe.description>
+  <Yokai_Nurikabe.tools.0.label>左手</Yokai_Nurikabe.tools.0.label>
+  <Yokai_Nurikabe.tools.1.label>右手</Yokai_Nurikabe.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Yokai_Nurikabe_Corpse.label>ぬりかべの死骸</Yokai_Nurikabe_Corpse.label>
+  <Yokai_Nurikabe_Corpse.description>ぬりかべの死骸。こうなっては自慢の硬さも意味をなしません。解体することで岩を得られます。</Yokai_Nurikabe_Corpse.description>
+</LanguageData>

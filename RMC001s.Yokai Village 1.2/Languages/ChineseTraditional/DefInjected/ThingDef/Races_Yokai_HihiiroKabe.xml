@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_HihiiroKabe.label>日緋色壁</Yokai_HihiiroKabe.label>
+  <Yokai_HihiiroKabe.description>不棲息在野外，極其稀少的妖怪。
+  \n溫和而易與人親近，妖如其名能作為牆壁保護殖民者。
+  \n堅不可摧、牢不可破，而且還不需要餵食。但還是帶有移動速度緩慢的缺點。因為是牆壁所以剖開來裡面既沒有皮也沒有肉。
+  \n在活動期間能產出稀少的日緋色金，解體日緋色壁也能得到些許。</Yokai_HihiiroKabe.description>
+  <Yokai_HihiiroKabe.tools.0.label>左手</Yokai_HihiiroKabe.tools.0.label>
+  <Yokai_HihiiroKabe.tools.1.label>右手</Yokai_HihiiroKabe.tools.1.label>
+  <Yokai_HihiiroKabe_Corpse.label>日緋色壁的屍體</Yokai_HihiiroKabe_Corpse.label>
+  <Yokai_HihiiroKabe_Corpse.description>日緋色壁的屍體。解體後能得到日緋色金。</Yokai_HihiiroKabe_Corpse.description>
+  <!-- 日緋色金 -->
+  <Yokai_HihiiroKane.label>日緋色金</Yokai_HihiiroKane.label>
+  <Yokai_HihiiroKane.description>一種貴金屬，又名火廣金。比銀輕盈、比鋼堅硬。具高度延展性，但加工時須耗費也許時間。</Yokai_HihiiroKane.description>
+  <Yokai_HihiiroKane.stuffProps.stuffAdjective>日緋色金</Yokai_HihiiroKane.stuffProps.stuffAdjective>
+</LanguageData>

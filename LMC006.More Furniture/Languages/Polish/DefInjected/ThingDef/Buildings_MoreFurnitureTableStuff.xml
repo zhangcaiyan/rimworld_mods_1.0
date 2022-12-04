@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Tables -->
+
+	<Anon2TableTiny.label>Stół (malutki)</Anon2TableTiny.label>
+	<Anon2TableTiny.description>Maluthi stolik do jedzenia.</Anon2TableTiny.description>
+
+	<Anon2CounterA.label>Lada</Anon2CounterA.label>
+	<Anon2CounterA.description>Lada z dużym płaskim blatem.</Anon2CounterA.description>
+
+	<Anon2CounterAFull.label>Lada pełna</Anon2CounterAFull.label>
+	<Anon2CounterAFull.description>ada z dużym płaskim blatem. G orna część lady, przydatna do frontowych ścian.</Anon2CounterAFull.description>
+
+</LanguageData>

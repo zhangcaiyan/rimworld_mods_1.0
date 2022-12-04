@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- plantspot -->
+
+  <Anon2PlantSpot.label>种植箱</Anon2PlantSpot.label>
+  <Anon2PlantSpot.description>一个装满泥土的种植箱。</Anon2PlantSpot.description>
+  <Anon2PlantSpot.tools.0.label>dirt</Anon2PlantSpot.tools.0.label>
+  <Anon2PlantSpot_Blueprint.label>种植箱 (blueprint)</Anon2PlantSpot_Blueprint.label>
+  <Anon2PlantSpot_Blueprint_Install.label>种植箱 (blueprint)</Anon2PlantSpot_Blueprint_Install.label>
+  <Anon2PlantSpot_Frame.label>种植箱 (building)</Anon2PlantSpot_Frame.label>
+  <Anon2PlantSpot_Frame.description>一个装满泥土的种植箱。</Anon2PlantSpot_Frame.description>
+
+
+</LanguageData>

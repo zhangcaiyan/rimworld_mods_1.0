@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>starodávná asfaltová dálnice</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>starodávná asfaltová silnice</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>prašná cesta</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>prašná silnice</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>kamenná silnice</StoneRoad.label>
+  
+</LanguageData>

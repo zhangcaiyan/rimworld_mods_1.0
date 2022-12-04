@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NineTailWool.label>九尾の毛</NineTailWool.label>
+  <NineTailWool.description>黄金色をした九尾の毛です。非常に上質な装備を作れますが、その分高価で希少です。</NineTailWool.description>
+  <NineTailWool.stuffProps.stuffAdjective>九尾の毛</NineTailWool.stuffProps.stuffAdjective>
+  <Leather_Yokai.label>妖怪の皮</Leather_Yokai.label>
+  <Leather_Yokai.description>不思議な色合いの妖怪の皮です。不思議な事にほとんどの妖怪から同じ皮が取れます。</Leather_Yokai.description>
+  <Leather_Yokai.stuffProps.stuffAdjective>妖怪の皮</Leather_Yokai.stuffProps.stuffAdjective>
+</LanguageData>

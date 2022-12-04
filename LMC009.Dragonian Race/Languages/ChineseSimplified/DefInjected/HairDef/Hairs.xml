@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_Male_Hair.label>短发</DR_Male_Hair.label>
+  <DR_TwinDownBindFront.label>向下双马尾(前面)</DR_TwinDownBindFront.label>
+  <DR_TwinDownBindBoth.label>向下双马尾</DR_TwinDownBindBoth.label>
+  <DR_TwinDownBindBack.label>向下双马尾(后面)</DR_TwinDownBindBack.label>
+  <DR_Twintail.label>双马尾</DR_Twintail.label>
+  <DR_TwinDownBind.label>向下双马尾</DR_TwinDownBind.label>
+  <DR_Long.label>长发</DR_Long.label>
+  <DR_Japan.label>卷发</DR_Japan.label>
+  <DR_Wavelongop.label>长波浪卷发op</DR_Wavelongop.label>
+  <DR_Twinlongop.label>长双马尾op</DR_Twinlongop.label>
+  <DR_Twinlong.label>长双马尾</DR_Twinlong.label>
+  <DR_Wavelong.label>长波浪卷发</DR_Wavelong.label>
+  <DR_Middlecut.label>中分</DR_Middlecut.label>
+  <DR_Short.label>短发</DR_Short.label>
+
+
+</LanguageData>

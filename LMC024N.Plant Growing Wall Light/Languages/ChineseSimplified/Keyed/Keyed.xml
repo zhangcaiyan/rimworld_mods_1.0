@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MURUVWallLight_LightRadName>照明半径</MURUVWallLight_LightRadName>
+  <MURUVWallLight_LightRadDesc>亮度被认为是明亮并且允许植物生长的半径。有效值：2-10。默认值：5</MURUVWallLight_LightRadDesc>
+  <MURUVWallLight_SteelCostName>所需钢铁量</MURUVWallLight_SteelCostName>
+  <MURUVWallLight_SteelCostDesc>建造一个太阳壁灯所需的钢铁量。默认值：10</MURUVWallLight_SteelCostDesc>
+  <MURUVWallLight_PowerCostName>所需电力</MURUVWallLight_PowerCostName>
+  <MURUVWallLight_PowerCostDesc>太阳壁灯激活时所需的电力量。默认值：600</MURUVWallLight_PowerCostDesc>
+  <MURUVWallLight_DisableRestName>不在植物休眠时停用</MURUVWallLight_DisableRestName>
+  <MURUVWallLight_DisableRestDesc>如果选中，太阳壁灯将不会在默认的植物休眠期间停用。</MURUVWallLight_DisableRestDesc>
+  <MURUVWallLight_WhiteModeName>白光模式</MURUVWallLight_WhiteModeName>
+  <MURUVWallLight_WhiteModeDesc>壁灯的颜色从冷紫色替换为淡白色。</MURUVWallLight_WhiteModeDesc>  
+
+  <MURUVWallLight_WarningNeedWall>必须设置于墙上。</MURUVWallLight_WarningNeedWall>
+  <MURUVWallLight_WarningBlocked>必须朝向可通行的地面。</MURUVWallLight_WarningBlocked>
+  <MURUVWallLight_WarningBoth>必须设置于墙上，且朝向可通行的地面。</MURUVWallLight_WarningBoth>
+
+  <MURUVWallLight_RadiusInvalidRange>照明半径无效。照亮的半径有效范围为2到10。已更改为最接近的有效值。</MURUVWallLight_RadiusInvalidRange>
+  <MURUVWallLight_AlertReload>请保存并重新加载游戏以使更改生效。</MURUVWallLight_AlertReload>
+
+  <MURUVWallLight_DestroyedBlocked>由于建造，一个太阳壁灯被破坏。</MURUVWallLight_DestroyedBlocked>
+  <MURUVWallLight_DestroyedWall>由于所在墙体破坏，一个太阳壁灯被破坏。</MURUVWallLight_DestroyedWall>
+</LanguageData>

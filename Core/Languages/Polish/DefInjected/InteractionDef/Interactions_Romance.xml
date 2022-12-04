@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <RomanceAttempt.label>adoracja</RomanceAttempt.label>
+	<RomanceAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Zabiegano o względy [other_nameShortIndef].</li>
+	</RomanceAttempt.logRulesInitiator.rulesStrings>
+	<RomanceAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Zabiegano o względy przez [other_nameShortIndef].</li>
+	</RomanceAttempt.logRulesRecipient.rulesStrings>
+    
+    <Breakup.label>zerwanie</Breakup.label>
+	<Breakup.logRulesInitiator.rulesStrings>
+		<li>logentry->Zerwano z [other_nameShortIndef].</li>
+	</Breakup.logRulesInitiator.rulesStrings>
+	<Breakup.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef] zrywa ze mną.</li>
+	</Breakup.logRulesRecipient.rulesStrings>
+    
+    <MarriageProposal.label>oświadczyny</MarriageProposal.label>
+	<MarriageProposal.logRulesInitiator.rulesStrings>
+		<li>logentry->Oświadczono się [other_nameShortIndef].</li>
+	</MarriageProposal.logRulesInitiator.rulesStrings>
+	<MarriageProposal.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef] oświadczył się mi.</li>
+	</MarriageProposal.logRulesRecipient.rulesStrings>
+    
+</LanguageData>

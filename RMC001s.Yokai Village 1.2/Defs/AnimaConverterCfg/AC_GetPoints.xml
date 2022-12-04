@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="YokaiVillage.AnimaConverter.Defs.AC_GetPointsDef">
+    <defName>AC_AnyPawnAnimaPoints</defName>
+    <pawns>
+      <!-- 妖怪種別、1hあたりの集積ポイント数設定　-->
+      <li>
+        <index>10</index>
+        <name>Yokai_JorouGumo</name>
+        <value>3</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_Samia</name>
+        <value>3</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_Hodama</name>
+        <value>4</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_Nurikabe</name>
+        <value>2</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_Nurarihyon</name>
+        <value>5</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_HihiiroKabe</name>
+        <value>4</value>
+      </li>
+      <li>
+        <index>10</index>
+        <name>Yokai_YukiShizuku</name>
+        <value>4</value>
+      </li>
+      <li>
+        <index>9999</index>
+        <name>Yokai_*</name>
+        <value>1</value>
+      </li>
+    </pawns>
+  </Def>
+</Defs>

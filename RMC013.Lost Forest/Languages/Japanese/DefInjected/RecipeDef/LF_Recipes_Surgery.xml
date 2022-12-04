@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AdministerFoxiaTears.label>ちび狐の涙を投与する</AdministerFoxiaTears.label>
+    <AdministerFoxiaTears.description>ちび狐の涙を、古き森の技法に則り処方する。重度の疾患や負傷、部位欠損を回復させる。</AdministerFoxiaTears.description>
+    <AdministerFoxiaTears.jobString>ちび狐の涙を投与中</AdministerFoxiaTears.jobString>
+
+    <AdministerOmikujiSenbei.label>おみくじ煎餅を投与する</AdministerOmikujiSenbei.label>
+    <AdministerOmikujiSenbei.description>ちび巫女狐からの加護がかかった食べ物で免疫を強化させる。</AdministerOmikujiSenbei.description>
+    <AdministerOmikujiSenbei.jobString>おみくじ煎餅を投与中</AdministerOmikujiSenbei.jobString>
+
+    <AdministerMysteriousWreath.label>レフカの花冠を投与する</AdministerMysteriousWreath.label>
+    <AdministerMysteriousWreath.description>花冠をほどいて得られた神秘的なハーブを投与する。わずかに免疫と身体機能が強化される。</AdministerMysteriousWreath.description>
+    <AdministerMysteriousWreath.jobString>レフカの花冠を投与中</AdministerMysteriousWreath.jobString>
+
+    <AdministerNutChocolate.label>義理チョコ...？を投与する</AdministerNutChocolate.label>
+    <AdministerNutChocolate.description>チョコにちりばめられた未知の果実を取り出し投与する。わずかな免疫と強めの鎮痛作用がある。</AdministerNutChocolate.description>
+    <AdministerNutChocolate.jobString>義理チョコ...？を投与中</AdministerNutChocolate.jobString>
+
+</LanguageData>

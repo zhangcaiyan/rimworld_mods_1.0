@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Kliknij, aby przejść do problemu</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Niewielkie ryzyko załamania</BreakRiskMinor>
+  <BreakRiskMajor>Duże ryzyko załamania</BreakRiskMajor>
+  <BreakRiskExtreme>Ekstremalne ryzyko załamania</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Ci koloniści mają zły nastrój i mogą się lekko załamać:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ci koloniści mają bardzo zły nastrój i mogą się załamać:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ci koloniści są krytycznie zestresowani i mogą mocno się załamać (istnieje również ryzyko, że wpadną w szał):\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Sprawdź zakładkę potrzeb kolonistów, aby dowiedzieć się, co ich martwi.\n\nAby poczuli się lepiej, możesz podać im dobry posiłek, zapewnić więcej czasu spędzonego na rozrywce czy ładniejsze otoczenie lub umożliwić im picie alkoholu i palenie.</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>Kolonista potrzebuje ratunku</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Koloniści potrzebują ratunku</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Ci koloniści są nieprzytomni:\n\n{0}\nWyślij kogoś, aby przeniósł ich do łóżek i uratował im życie.\n\n(Aby uratować, wybierz innego kolonistę, a następnie kliknij prawym przyciskiem myszy na ofierze i użyj opcję Uratuj).</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Potrzeba umocnień</NeedDefenses>
+  <NeedDefensesDesc>Jesteś tu już jakiś czas i zapewne zostałeś zauważony. Niedługo zaczną atakować cię piraci.\n\nPowinieneś wznieść jakieś umocnienia.\n\nZbuduj parę wieżyczek.</NeedDefensesDesc>
+
+  <NeedDoctor>Potrzeba lekarza</NeedDoctor>
+  <NeedDoctorDesc>Ci koloniści potrzebują opieki lekarskiej, ale nie masz obecnie żadnych zdrowych ludzi zdolnych im pomóc:\n\n{0}\nPrzypisz jakiegoś zdrowego kolonistę do pracy w zawodzie lekarza. Jeśli nie zaopiekujesz się pacjentami, mogą oni nie wyzdrowieć, a nawet zostać okaleczonymi na całe życie.</NeedDoctorDesc>
+
+  <NeedMiner>Potrzeba górników</NeedMiner>
+  <NeedMinerDesc>Oznaczyłeś miejsca do wydobycia, ale żaden z kolonistów nie jest górnikiem.\n\nPrzypisz jakiegoś kolonistę do pracy wydobywczej.</NeedMinerDesc>
+
+  <NeedWarden>Potrzeba strażnika</NeedWarden>
+  <NeedWardenDesc>Masz więźnia, ale żaden z kolonistów nie jest strażnikiem.\n\nPrzypisz kolonistę do pracy strażnika.</NeedWardenDesc>
+
+  <LowFood>Mało pożywienia</LowFood>
+  <LowFoodDesc>W magazynie masz tylko {0} posiłków. To niebezpiecznie niski poziom.\n\nZasiej, kup, znajdź lub upoluj coś zdatnego do spożycia.</LowFoodDesc>
+
+  <LowMedicine>Mało lekarstw</LowMedicine>
+  <LowMedicineDesc>Zostało ci tylko {0} lekarstw.\n\nKup więcej od handlarzy albo posadź zioła lecznicze.</LowMedicineDesc>
+  <NoMedicineDesc>Nie masz już lekarstw.\n\nKup je od handlarzy albo wyhoduj zioła lecznicze.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Potrzeba łóżek</NeedColonistBeds>
+  <NeedColonistBedsDesc>Masz więcej kolonistów niż łóżek, ktoś nie będzie miał gdzie spać.\n\nZrób więcej łóżek albo zmień łóżko więzienne w łóżko kolonisty.\n\nJeśli nie posiadasz wymaganych zasobów, możesz zawsze wyznaczyć miejsce do spania: za darmo i natychmiastowo.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Myśliwi nie mają broni</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonista został wyznaczony na myśliwego, ale nie ma broni. Nie będzie mógł polować, dopóki jakiejś nie dostanie.\n\nAby zredukować prawdopodobieństwo zranienia kolonisty, polecamy broń zasięgową.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Zniszczone ubrania</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Ci koloniści noszą podarte ubrania:\n\n{0}\nDaj im inne, mniej zniszczone ubrania.\n\nMożesz je uszyć lub kupić od handlarza.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Nagość</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Ci koloniści są nadzy i są z tego powodu nieszczęśliwi:\n\n{0}.\nDaj im ubrania.\n\nMożesz je uszyć, używając zestawu do szycia lub kupić od handlarzy.</AlertUnhappyNudityDesc>
+  
+  <Starvation>Głód</Starvation>
+  <StarvationDesc>Następujący koloniści cierpią z powodu głodu:\n\n{0}\nZdobądź dla nich pożywienie. Będziesz potrzebował jakiegoś źródła pokarmu w rodzaju Dozownika pasty odżywczej i jedzenia, aby go zasilić. Upewnij się też, że koloniści nie są akurat na Służbie.</StarvationDesc>
+
+  <StarvationAnimals>Zwierzę głoduje</StarvationAnimals>
+  <StarvationAnimalsDesc>Te zwierzęta głodują:\n\n{0}\nDaj im trochę jedzenia.</StarvationAnimalsDesc>
+
+  <Exhaustion>Wyczerpanie</Exhaustion>
+  <ExhaustionDesc>Następujący koloniści są wyczerpani i potrzebują odpoczynku:\n\n{0}\nPozwól im odpocząć i zapewnij wolne łóżko. Upewnij się też, że koloniści nie są akurat na Służbie.</ExhaustionDesc>
+
+  <NeedFoodHopper>Potrzebny zbiornik z pożywieniem</NeedFoodHopper>
+  <NeedFoodHopperDesc>Masz dozownik pasty odżywczej, ale nie posiadasz zbiornika na żywność.\n\nDozowniki potrzebują do działania zbiornika z surową żywnością postawionego tuż przy nich.\n\nZbuduj zbiornik obok dozownika.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Potrzeba pożywienia</NeedMealSource>
+  <NeedMealSourceDesc>Twoi koloniści są głodni! Przygotuj posiłek z surowych składników.\n\nZbuduj piec kuchenny, kuchenkę elektryczną lub inną maszynę przetwarzającą jedzenie.</NeedMealSourceDesc>
+
+  <NeedJoySource>Potrzeba rozrywki</NeedJoySource>
+  <NeedJoySourceDesc>Twoi koloniści potrzebują nieco zabawy, żeby móc normalnie pracować.\n\nPomóż im, umieszczając kołek do rzutu podkową, stół do szachów lub inny obiekt do zabaw.</NeedJoySourceDesc>
+  
+  <NeedBatteries>Potrzeba baterii</NeedBatteries>
+  <NeedBatteriesDesc>Masz panele słoneczne, ale nie posiadasz baterii, co oznacza, że nie dostarczają one prądu.\n\nZbuduj jedną lub dwie baterie, aby przechowywać energię.</NeedBatteriesDesc>
+  
+  <BrawlerHasRangedWeapon>Zawadiaka ma broń zasięgową</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Kolonista z cechą "zawadiaka" ma broń zasięgową. Jest mu z tego powodu bardzo smutno.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Osoba z pasem ma broń zasięgową</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Jeden z kolonistów używających broni zasięgowej ma pas energetyczny. Nie będzie w stanie strzelać, chyba że przeciwnik znajdzie się tuż obok niego.</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Potrzebujesz projektu do badań</NeedResearchProject>
+  <NeedResearchProjectDesc>Wybudowałeś stół do badań, ale nie wybrałeś projektu do realizacji.\n\nOtwórz menu badań i wybierz projekt.</NeedResearchProjectDesc>
+  
+  <ColonistsIdle>{0} - osoby bezczynne</ColonistsIdle>
+  <ColonistsIdleDesc>Następujący koloniści nic nie robią:\n\n{0}\nPowinieneś znaleźć im jakąś pracę.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>Koloniści potrzebują leczenia</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Następujący koloniści potrzebują leczenia:\n\n{0}\n. Bez niego mogą umrzeć przez wykrwawienie lub rany mogą stać się niemożliwe do wyleczenia. Wylecz ich, wysyłając do szpitalnego łóżka.\n\n(Najpierw oznacz łóżko jako szpitalne, następnie wybierz rannego kolonistę i naciśnij prawym przyciskiem myszy na odpowiednie łóżko).</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hipotermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Ci koloniści cierpią z powodu wyziębienia organizmu:\n\n{0}\nUpewnij się, że są ubrani stosownie do pogody, a w ich pokojach panuje odpowiednia temperatura.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>Pacjenci czekający na operację: {0}</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Ci pacjenci czekają na operację:\n\n{0}\nUpewnij się, że masz dostępne lekarstwa i wolnego lekarza.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Pożar!</FireInHomeArea>
+  <FireInHomeAreaDesc>Pożar szaleje w obszarze domu.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Śmiertelna choroba</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Ci koloniści mogą umrzeć z powodu śmiertelnej choroby:\n\n{0}\nUpewnij się, że otrzymują tyle opieki, ile to możliwe.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Ci koloniści mogą umrzeć z powodu śmiertelnej choroby:\n\n{0}\nJeśli to możliwe, rozważ amputację lub instalację protezy chorej kończyny, aby koloniści przeżyli.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Stół bilardowy potrzebuje więcej miejsca</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Jeden z twoich stołów bilardowych stoi obok przeszkody, która uniemożliwia kolonistom korzystanie z niego.\n\nStół do bilarda potrzebuje wolnej przestrzeni ze wszystkich stron, aby można było go używać.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Łowca ma pas energetyczny i broń zasięgową</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Jeden z twoich łowców ma pas energetyczny i broń zasięgową, co uniemożliwia mu strzelanie.\n\nNie będzie mógł strzelać, dopóki nie zdejmie tarczy.</HunterHasShieldAndRangedWeaponDesc>
+  
+  <NeedWarmClothes>Potrzebujesz ciepłych ubrań</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Co najmniej {0} z kolonistów nie będzie miał ciepłych ubrań, gdy nadejdą zimniejsze pory roku.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Żaden z Twoich kolonistów nie posiada ciepłych ubrań.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Temperatura na zewnątrz niedługo osiągnie poziom {0}.\n\nMożesz uszyć ciepłe ubrania przy stole do szycia lub je kupić od handlarza.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Niemobilna karawana</ImmobileCaravan>
+  <ImmobileCaravanDesc>Jedna z twoich karawan jest niemobilna, ponieważ przenosi zbyt dużo rzeczy.\n\nAby ponownie mogła się przemieszczać, zostaw niektóre z nich w zakładce Przedmioty.</ImmobileCaravanDesc>
+
+</LanguageData>

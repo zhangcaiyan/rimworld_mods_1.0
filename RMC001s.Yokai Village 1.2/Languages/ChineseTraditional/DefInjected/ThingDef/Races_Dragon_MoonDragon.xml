@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_Dragon_MoonDragon.label>月龍</Yokai_Dragon_MoonDragon.label>
+  <Yokai_Dragon_MoonDragon.description>傳說中的青龍，能在極寒地帶以低機率遇上。肉食性、常襲擊人類。身覆堅硬的龍鱗，其銳利的勾爪與牙齒能輕易地將殖民者撕成碎片。
+  移動速度甚快，被發現時須特別留意。
+  \n雖具有令人聞風喪膽的戰鬥能力，但龍皮是具有高度韌性的服裝素材，龍牙亦有高額價值。
+  \n近年來除了極寒地區之外也曾在其他地區以極低的機率被目擊。可能是從大群中離散的個體。</Yokai_Dragon_MoonDragon.description>
+  <Yokai_Dragon_MoonDragon.tools.0.label>右前腳</Yokai_Dragon_MoonDragon.tools.0.label>
+  <Yokai_Dragon_MoonDragon.tools.1.label>左前腳</Yokai_Dragon_MoonDragon.tools.1.label>
+  <Yokai_Dragon_MoonDragon.tools.2.label>牙</Yokai_Dragon_MoonDragon.tools.2.label>
+  <Yokai_Dragon_MoonDragon_Meat.label>龍肉</Yokai_Dragon_MoonDragon_Meat.label>
+  <Yokai_Dragon_MoonDragon_Meat.description>硬梆梆的龍肉，能以特別的調理方式製成特製料理。</Yokai_Dragon_MoonDragon_Meat.description>
+  <Yokai_Dragon_MoonDragon_Corpse.label>月龍的屍體</Yokai_Dragon_MoonDragon_Corpse.label>
+  <Yokai_Dragon_MoonDragon_Corpse.description>一動也不動的月龍屍骸，解體後能取得龍牙、龍肉、龍皮，及心臟。</Yokai_Dragon_MoonDragon_Corpse.description>
+</LanguageData>

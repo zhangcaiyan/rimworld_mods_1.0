@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yokai_Dragon_Shiro.label>Shiro</Yokai_Dragon_Shiro.label>
+  <Yokai_Dragon_Shiro.description>The Shiro can be encountered anywhere from the Boreal Forest to Ice Sheet biome.
+\n This white dragon enjoys eating grass, tree nuts, and fruit. Its intelligence is masked by humility; every season it gives its coat, willingly, to those that reside with it.
+\n The dragon will also deign to fight beside you, though it may prefer the peace of caravan work.</Yokai_Dragon_Shiro.description>
+  <Yokai_Dragon_Shiro.tools.0.label>Front Left Paw</Yokai_Dragon_Shiro.tools.0.label>
+  <Yokai_Dragon_Shiro.tools.1.label>Front Right Paw</Yokai_Dragon_Shiro.tools.1.label>
+  <Yokai_Dragon_Shiro.tools.2.label>Fang</Yokai_Dragon_Shiro.tools.2.label>
+  <Yokai_Dragon_Shiro_Leather.label>Shiro leather</Yokai_Dragon_Shiro_Leather.label>
+  <Yokai_Dragon_Shiro_Leather.description>Shiro leather</Yokai_Dragon_Shiro_Leather.description>
+  <Yokai_Dragon_Shiro_Leather.stuffProps.stuffAdjective>Shiro leather</Yokai_Dragon_Shiro_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Yokai_Dragon_MoonDragon -->
+  <Yokai_Dragon_Shiro_Corpse.label>Shiro corpse</Yokai_Dragon_Shiro_Corpse.label>
+  <Yokai_Dragon_Shiro_Corpse.description>Shiro corpse</Yokai_Dragon_Shiro_Corpse.description>
+
+
+</LanguageData>

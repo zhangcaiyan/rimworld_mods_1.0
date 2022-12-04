@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_HihiiroKabe.label>ヒヒイロカベ</Yokai_HihiiroKabe.label>
+  <Yokai_HihiiroKabe.description>野生では生息していない本当に希少な妖怪です。
+  \n穏やかで人懐っこく文字通り壁となって入植者を守ってくれます。
+  \nとてつもなく硬くて丈夫な上に食べ物を必要としませんが足が遅いです。壁なので捌いても肉と皮は手に入りません。
+  \n生きている間は希少なヒヒイロカネを算出し、解体しても手に入ります。</Yokai_HihiiroKabe.description>
+  <Yokai_HihiiroKabe.tools.0.label>左手</Yokai_HihiiroKabe.tools.0.label>
+  <Yokai_HihiiroKabe.tools.1.label>右手</Yokai_HihiiroKabe.tools.1.label>
+  <Yokai_HihiiroKabe_Corpse.label>ヒヒイロカベの死骸</Yokai_HihiiroKabe_Corpse.label>
+  <Yokai_HihiiroKabe_Corpse.description>ヒヒイロカベの死骸です。解体する事でヒヒイロカネが得られます。</Yokai_HihiiroKabe_Corpse.description>
+  <!-- ヒヒイロカネ -->
+  <Yokai_HihiiroKane.label>ヒヒイロカネ</Yokai_HihiiroKane.label>
+  <Yokai_HihiiroKane.description>ヒヒイロカネと呼ばれる貴重な赤い金属です。銀よりも軽く鋼よりも硬くしなやかなですが加工には時間がかかります。</Yokai_HihiiroKane.description>
+  <Yokai_HihiiroKane.stuffProps.stuffAdjective>ヒヒイロカネ</Yokai_HihiiroKane.stuffProps.stuffAdjective>
+</LanguageData>

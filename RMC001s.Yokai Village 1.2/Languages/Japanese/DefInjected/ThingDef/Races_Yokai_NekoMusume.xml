@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Yokai_NekoMusume.label>猫娘</Yokai_NekoMusume.label>
+  <Yokai_NekoMusume.description>可愛い猫娘です。人にすぐ懐き調教すれば猫の手を貸してくれます。戦闘は得意ではありません。
+    \n猫の呪いで皮は剥げません。お肉は少し取れますが入植者はこれを好みません。５日に１度もっふもふの毛がとれます。これらは特別な妖怪道具の材料になります。
+    \n雄でも猫娘と呼ばれているちょっと不思議な妖怪です。
+    \nツンドラや砂漠、森など様々な環境で小さな群れを作って生活しています。</Yokai_NekoMusume.description>
+  <Yokai_NekoMusume.tools.0.label>左手</Yokai_NekoMusume.tools.0.label>
+  <Yokai_NekoMusume.tools.1.label>右手</Yokai_NekoMusume.tools.1.label>
+  <Yokai_NekoMusume_Corpse.label>猫娘の死骸</Yokai_NekoMusume_Corpse.label>
+  <Yokai_NekoMusume_Corpse.description>もう甘えてくることのない、動かなくなった猫娘の死骸です。</Yokai_NekoMusume_Corpse.description>
+</LanguageData>

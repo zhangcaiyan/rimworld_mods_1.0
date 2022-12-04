@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Lamia milk -->
+  <Yokai_LamiaMilk.label>拉米亞的乳汁</Yokai_LamiaMilk.label>
+  <Yokai_LamiaMilk.description>營養滿分的拉米亞乳汁。能製成奶酪及藥品。</Yokai_LamiaMilk.description>
+  <Yokai_SnowMilk.label>雪之雫</Yokai_SnowMilk.label>
+  <Yokai_SnowMilk.description>充滿了不可思議的妖力，因此不會腐壞。加工後能作為特別的道具及藥品使用。</Yokai_SnowMilk.description>
+  <!-- Egg -->
+  <Yokai_LamiaEggB.label>青色拉米亞的卵</Yokai_LamiaEggB.label>
+  <Yokai_LamiaEggB.description>拉米亞的卵，帶有絢麗的青色。把它放置於合適的溫度下，能孵化出青色的拉米亞。</Yokai_LamiaEggB.description>
+  <Yokai_LamiaEggR.label>紅色拉米亞的卵</Yokai_LamiaEggR.label>
+  <Yokai_LamiaEggR.description>拉米亞的卵，帶有絢麗的紅色。把它放置於合適的溫度下，能孵化出紅色的拉米亞。</Yokai_LamiaEggR.description>
+  <Yokai_JorouGumoEgg.label>女郎蜘蛛的卵</Yokai_JorouGumoEgg.label>
+  <Yokai_JorouGumoEgg.description>女郎蜘蛛的卵，雖然從沒有人實際見過產卵的過程，但確實是能孵出女郎蜘蛛。</Yokai_JorouGumoEgg.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>rodovia antiga de asfalto</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>estrada antiga de asfalto</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>caminho de terra</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>estrada de terra</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>estrada de pedra</StoneRoad.label>
+  
+</LanguageData>

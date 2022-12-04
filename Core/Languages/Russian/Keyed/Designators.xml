@@ -19,7 +19,7 @@
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Убрать</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Убрать, чтобы перенести на склад, установить в другом месте или продать.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Демонтировать, чтобы перенести на склад, установить в другом месте или продать.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Собрать</DesignatorHarvest>
@@ -127,11 +127,11 @@
   <DesignatorZoneCreateStorageDumpingDesc>Создать область для хранения мусора.\nТакже позволяет расширить уже существующую свалку.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Удалить области</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Уменьшить области</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>Удалить область</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>Уменьшить область</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Удалить области, такие как склад или посадки.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Удалить клетки областей, таких как склады или посадки.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Расширить область</DesignatorZoneExpand>
@@ -142,9 +142,9 @@
   <DesignatorClaimDesc>Нейтральные строения, включая древние руины и заброшенные осадные базы, будут присоединены к поселению. Ваши поселенцы смогут ремонтировать и обслуживать захваченные строения.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Снять пол</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Снять покрытие</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Снять пол до природного ландшафта.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>Снять покрытие до природного ландшафта.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>Убрать мост</DesignatorRemoveBridge>

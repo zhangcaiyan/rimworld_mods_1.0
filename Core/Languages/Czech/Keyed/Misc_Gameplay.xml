@@ -25,7 +25,7 @@
   <!-- EN: Assigned colonist -->
   <AssignedColonist>Přidělený kolonista</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>Zemřel na {0}</DiedOn>
+  <DiedOn>Zemřel dne {0}</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>Nikdo</Nobody>
   <!-- EN: Unowned -->
@@ -95,7 +95,7 @@
   <!-- EN: Recreation type tolerances -->
   <JoyTolerances>Tolerance určitých typů relaxací</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>Naplněná mlékem</MilkFullness>
+  <MilkFullness>Nahromaděného mléka</MilkFullness>
   <!-- EN: Wool growth -->
   <WoolGrowth>Růst vlny</WoolGrowth>
   <!-- EN: Egg progress -->
@@ -107,7 +107,7 @@
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>vyžaduje {0} na úrovni {2}, máš {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Mrzne</Freezing>
+  <Freezing>Mrznutí</Freezing>
   <!-- EN: Overheating -->
   <Overheating>Přehřátí</Overheating>
   <!-- EN: Ruined by temperature. -->
@@ -287,7 +287,7 @@
   <!-- EN: Products -->
   <Products>Produkty</Products>
   <!-- EN: {0} of {1} -->
-  <Relationship>{0} osoby jménem {1}</Relationship>
+  <Relationship>{0} » {1}</Relationship>
   <!-- EN: Prisoner -->
   <Prisoner>Zajatec</Prisoner>
   <!-- EN: Refugee -->
@@ -331,13 +331,13 @@
   <!-- EN: your caravan -->
   <yourCaravan>tvá karavana</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>divokost ({0})</CreatureWildness>
+  <CreatureWildness>divokost</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>cvičitelnost ({0})</CreatureTrainability>
+  <CreatureTrainability>cvičitelnost</CreatureTrainability>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} s frakcí {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>Nemůžeš znovu vstoupit pod dobu dalších {0} dnů.</EnterCooldown>
+  <EnterCooldown>Nemůžeš znovu vstoupit po dobu dalších {0} dnů.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Karavana</Caravan>
   <!-- EN: there may be danger there -->
@@ -457,11 +457,11 @@
   <!-- EN: Cannot fire -->
   <CannotFire>Nemůže vystřelit</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>zastřešeno</Roofed>
+  <Roofed>zastřešený</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Nabito v komoře: {1_label}</ShellLoaded>
+  <ShellLoaded>Náboj v komoře: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>Nenabito</ShellNotLoaded>
+  <ShellNotLoaded>Není nabitý</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
@@ -837,7 +837,7 @@
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Chybí kriticky důležitý komponent</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>Požadavky</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>potřebuješ</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Cryptospánkové komory nejsou obsazené</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
@@ -907,7 +907,7 @@
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Na hranici rychlosti světla se planetovražedná zbraň zabořila do země se silou bilionu vodíkových pum. Při dopadu tento svět jako vodní balónek zasažený výstřelem z pušky zkapalněl a rozstříkl své roztavené vnitřnosti napříč všehomírem.\n\nZ části {0} je teď malý pás asteroidů. Ze zbytku je teď roztavené, radioaktivní peklo, které se nepřetržitě zmítá v kilometry vysokých zemětřeseních.\n\nNepřežil jsi.</GameOverPlanetkillerImpact>
   <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>Jak vcházíš na palubu lodi, posádka tě vítá s otevřenou náručí. Zdá se, že mají radost, že s sebou mohou vzít přinejmenším jednu další osobu.\n\nTito kolonisté unikli:\n\n{0}\nTito kolonisté tu byli ponecháni:\n\n{1}\nUI se teď pokusí navádět loď na bezpečné místo. Může ti najít vzkvétající planetu v tomto systému. Nebo může podniknout staletí trvající cestu k jiné hvězdě. Dokonce se může rozhodnout schovat se pod ledem asteroidu na několik tisíc let a čekat na někoho, kdo tu vybuduje nový zářný svět.\n\nKdyž vstupuješ do cryptospánkové komory, na okamžik zaváháš a cítíš se trochu nejistě ohledně toho, zda můžeš těmto lidem věřit.\n\nTo zjistíš, až se probudíš.</GameOverArrivedAtJourneyDestination>
+  <GameOverArrivedAtJourneyDestination>Jak vcházíš na palubu lodě, posádka tě vítá s otevřenou náručí. Zdá se, že mají radost, že s sebou mohou vzít přinejmenším jednu další osobu.\n\nTito kolonisté unikli:\n\n{0}\nTito kolonisté tu byli ponecháni:\n\n{1}\nUI se teď pokusí navádět loď na bezpečné místo. Může ti najít vzkvétající planetu v tomto systému. Nebo může podniknout staletí trvající cestu k jiné hvězdě. Dokonce se může rozhodnout schovat se pod ledem asteroidu na několik tisíc let a čekat na někoho, kdo tu vybuduje nový zářný svět.\n\nKdyž vstupuješ do cryptospánkové komory, na okamžik zaváháš a cítíš se trochu nejistě ohledně toho, zda můžeš těmto lidem věřit.\n\nTo zjistíš, až se probudíš.</GameOverArrivedAtJourneyDestination>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Hrát dál</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -915,7 +915,7 @@
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Uplyne za:</LifespanExpiry>
+  <LifespanExpiry>Zanikne za:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
@@ -981,7 +981,7 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>Žádné suroviny pod.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Suroviny pod hlubinnou vrtačkou byly vyčerpány, a proto byly vrtací operace automaticky pozastaveny. Po udělení povolení k vrtu budou dále těženy {0}.</DeepDrillExhausted>
+  <DeepDrillExhausted>Suroviny pod hlubinnou vrtačkou byly vyčerpány, čímž došlo k pozastavení vrtacích prací. Po opětovném povolení se začne těžit {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>Suroviny pod hlubinnou vrtačkou byly vyčerpány.</DeepDrillExhaustedNoFallback>
 

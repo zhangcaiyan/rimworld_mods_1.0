@@ -69,7 +69,7 @@
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Назначить кровать конкретному поселенцу.</CommandBedSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>Назначить поселенца</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>Назначить поселенцу</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
   <CommandGraveAssignColonistDesc>Назначить это место захоронения конкретному поселенцу.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
@@ -226,7 +226,7 @@
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
-  <CommandReleaseAnimalsLabel>Спустить с поводка</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Натравить</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>Отправить приручённых животных в атаку. Если не включено, животные остаются вблизи и охраняют хозяина.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
@@ -392,7 +392,7 @@
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
   <CommandLaunchGroupDesc>Указать желаемое место посадки и запустить группу капсул. Капсулы будут запущены одновременно и приземлятся близко друг к другу.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Как минимум одна капсула не подключена к заправочной системе.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Как минимум одна капсула не подключена к топливному порту.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
   <CommandLaunchGroupFailNoFuel>Как минимум одна капсула стоит без топлива.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
@@ -404,7 +404,7 @@
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>Объединить выбранные транспортные капсулы в запускаемую группу, назначить пассажиров и выбрать, что погрузить на борт.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>Транспортная капсула не подключена к заправочной системе.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Транспортная капсула не подключена к топливному порту.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Транспортная капсула не заправлена топливом.</CommandLoadTransporterFailNoFuel>
   
@@ -442,7 +442,7 @@
   <!-- EN: Rest -->
   <CommandPauseCaravan>Привал</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>Приостановить движение каравана. Это даст следующие преимущества:\n\n  - люди смогут общаться друг с другом\n  - добыча еды ускорится в {0} раз\n  - заметность станет {1} от обычной</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>Приостановить движение каравана. Это даст следующие преимущества:\n\n  - люди смогут общаться друг с другом\n  - добыча еды ускорится в ^Number( {0} | '# раз' | '# раза' | '# раз')^\n  - заметность станет {1} от обычной</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->

@@ -124,12 +124,12 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Batteries nécessaires</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Vous avez seulement des panneaux solaires et pas de batteries. Cela signifie que vous tomberez à court d'énergie à chaque fois que le soleil se couche.\n\nConstruisez une batterie ou deux pour pouvoir passer la nuit.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Vous avez des panneaux solaires ou des éoliennes, mais pas de batteries. Cela signifie que vous tomberez à court d'énergie à chaque fois que le soleil se couche ou que le vent se calme.\n\nConstruisez une batterie ou deux pour maintenir votre alimentation électrique.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Un bagarreur a une arme à distance</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>Un de vos colons a le trait de caractère Bagarreur, mais il est équipé d'une arme à distance. Cela va le rentre très mécontent.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Un de vos colons a le trait de caractère Bagarreur, mais il est équipé d'une arme à distance. Cela va le rendre très mécontent.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>Un utilisateur de bouclier possède une arme à distance</ShieldUserHasRangedWeapon>

@@ -119,7 +119,7 @@
   <!-- EN: incapable of mining -->
   <IncapableOfMining>neschopen těžit</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>rozzlobená frakce</AngersFaction>
+  <AngersFaction>rozhněvá frakci</AngersFaction>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Sněz! - {1_labelShort}</ConsumeThing>
@@ -292,8 +292,8 @@
   <OpenCryptosleepCasket>Otevři cryptospánkovou komoru!</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Nelze {0} - {2_labelShort}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Nelze {0} - {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Nelze {0}</CannotGenericWorkCustom>
 
@@ -302,7 +302,7 @@
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>Již provádí činnost {0}. - {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Již provádí činnost {0} - {2_labelShort}</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>Nelze upřednostnit, protože nikdy nebude dělat činnost {0}.</CannotPrioritizeWorkTypeDisabled>
@@ -315,7 +315,7 @@
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
   <CannotPrioritizeNotAssignedToWorkType>Nelze upřednostnit, protože nemá přidělenou činnost {0}.</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>- není přiděleno</NotAssigned>
+  <NotAssigned>- nemá přiděleno</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Nelze upřednostnit, protože výzkum je dlouhodobý úkol.</CannotPrioritizeResearch>

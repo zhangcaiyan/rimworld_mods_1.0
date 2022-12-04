@@ -52,8 +52,8 @@
   <MinimumSkill>最低技能要求</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>已暂停</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
-  <BoundWorkerIs>绑定工作者:{0}</BoundWorkerIs>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>绑定工作者:{1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>种植</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
@@ -141,7 +141,7 @@
   <!-- EN: amputate -->
   <Amputate>截肢</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>摘取</HarvestOrgan>
+  <HarvestOrgan>采集</HarvestOrgan>
   <!-- EN: remove -->
   <RemoveOrgan>摘除</RemoveOrgan>
   <!-- EN: memory -->
@@ -160,7 +160,7 @@
   <SelfTend>自我治疗</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0}开启自我治疗后将会以正常效果的 {1} 当场自动治疗自己。</SelfTendTip>
-  
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>无</None>
@@ -196,12 +196,12 @@
   <Trainability>可训练度</Trainability>
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>智力级别要求: {0}。</CannotTrainNotSmartEnough>
-  <!-- EN: {0} is too small to train this. -->
-  <CannotTrainTooSmall>{0}体形过小，无法训练。</CannotTrainTooSmall>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort}体形过小，无法训练。</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>先决条件: {0}</TrainingNeedsPrerequisite>
-  
+
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
   <NoRelationships>（无关系）</NoRelationships>
@@ -213,15 +213,15 @@
   <Slave>奴隶</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>派系首领</FactionLeader>
-  <!-- EN: Opinion of {0} -->
-  <OpinionOf>对{0}的印象</OpinionOf>
-  <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0}对我的印象</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>对{1_labelShort}的印象</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}对我的印象</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>我死了</IAmDead>
   <!-- EN: I'm a psychopath -->
   <IAmPsychopath>我心理变态</IAmPsychopath>
-  
+
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
   <OverallArmor>总护甲</OverallArmor>
@@ -235,7 +235,7 @@
   <ArmorSharp>利器护甲</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>热能护甲</ArmorHeat>
-  
+
   <!-- Log tab -->
   <!-- EN: Show all -->
   <ShowAll>显示全部</ShowAll>
@@ -261,6 +261,10 @@
   <FormingCaravanStatus_GatheringSlaves>收集奴隶</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>收集奴隶（等待中）</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>收集无法行动的人</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>收集无法行动的人（等待中）</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>正在离开</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
@@ -285,8 +289,5 @@
   <RemoveSliderText>去掉 {{0}}x {0}</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>你真的想去掉{0}吗？</ConfirmRemoveItemDialog>
-
-  <!-- UNUSED -->
-  <NoInjuries>（没有受伤）</NoInjuries>
 
 </LanguageData>

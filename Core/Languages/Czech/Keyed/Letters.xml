@@ -40,11 +40,11 @@
   <AreaRevealedWithMechanoids>Byl odhalen nový prostor. Obsahuje starodávné nepřátelské mechanoidy.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
-  <RoofCollapsed>Střecha se zhroutila, protože byla příliš daleko od jakékoli podpěry.</RoofCollapsed>
+  <RoofCollapsed>Střecha se zhroutila, protože v dosahu nebyla žádná podpůrná konstrukce.</RoofCollapsed>
   <!-- EN: These things were crushed: -->
-  <TheseThingsCrushed>Tohle vše bylo rozdrceno/zraněno:</TheseThingsCrushed>
+  <TheseThingsCrushed>Padající trosky zasáhly tyto věci:</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->
-  <NothingCrushed>Nic nebylo rozdrceno.</NothingCrushed>
+  <NothingCrushed>Padající trosky naštěstí nic nezasáhly.</NothingCrushed>
   <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>Zhroucení střechy</LetterLabelRoofCollapsed>
   
@@ -92,7 +92,7 @@
   <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} se mstí</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite} po utrpění zranění útočí!\n\nBude pronásledovat každého humanoida, ke kterému se dostane. Uklidní se, jakmile usne.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite} po utrpěném zranění útočí!\n\nBude pronásledovat každého humanoida, ke kterému se dostane. Uklidní se, jakmile usne.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
   <AnimalManhunterFromTaming>{1_indefinite} útočí kvůli zpackanému pokusu o ochočení!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
@@ -128,11 +128,11 @@
   <!-- EN: This happened because of poor mood. -->
   <MentalStateReason_Mood>Stalo se tak kvůli špatné náladě.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>Stalo se tak kvůli tomuto rysu: {0}</MentalStateReason_Trait>
+  <MentalStateReason_Trait>Stalo se tak kvůli rysu {0}.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
   <MentalStateReason_Hediff>Stalo se tak z důvodu: {0}</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>Stalo se tak, protože je {0_definite} po smrti.</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Stalo se tak, protože {0_definite} {0_gender ? zemřel : zemřela}.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>Poslední událost byla</LastFactionRelationsEvent>
 
@@ -276,7 +276,7 @@
   <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Mise byla dokončena</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>Zničil jsi nepřátelskou základnu!\n\nPlatba z frakce {0} dorazila a vztahy s frakcí se zlepšily o {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Zničil jsi nepřátelskou základnu!\n\nZ frakce {0} přilétla slibovaná odměna a frakční vztahy se zlepšily o {1} bodů.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Found lump of precious resources -->
   <!-- EN: Precious minerals found -->
@@ -302,7 +302,7 @@
   <!-- EN: Peace talks flounder -->
   <LetterLabelPeaceTalks_TalksFlounder>Mírové rozhovory (patová situace)</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>Rozhovory se zmítaly. Delegátům se sice podařilo komunikovat jasně a se základním respektem, ale nebyli schopni učinit pokrok v žádném skutečném problému .\n\nVztahy s frakcí {0} zůstaly beze změny.</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Rozhovory se zmítaly. Delegátům se sice podařilo komunikovat jasně a se základním respektem, ale nebyli schopni učinit pokrok v žádném skutečném problému.\n\nVztahy s frakcí {0} zůstaly beze změny.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
   <LetterLabelPeaceTalks_Success>Mírové rozhovory (úspěch)</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->

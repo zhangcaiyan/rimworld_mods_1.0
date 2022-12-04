@@ -4,7 +4,7 @@
   <!-- EN: bite -->
   <Bite.label>morso</Bite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <Bite.deathMessage>{0} ha subito un morto mortale.</Bite.deathMessage>
+  <Bite.deathMessage>{0} ha subito un morso mortale.</Bite.deathMessage>
   
   <!-- EN: blunt -->
   <Blunt.label>percosse</Blunt.label>
@@ -39,6 +39,6 @@
   <!-- EN: toxic bite -->
   <ToxicBite.label>morso velenoso</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>{0} ha subito un morto mortale.</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0} ha subito un morso mortale.</ToxicBite.deathMessage>
   
 </LanguageData>

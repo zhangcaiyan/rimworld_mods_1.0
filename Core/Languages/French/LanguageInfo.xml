@@ -7,6 +7,10 @@
   <credits>
 	<li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
+	    <creditee>b606</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
 	    <creditee>CivvyThePanda</creditee>
     </li>
 	<li Class="CreditRecord_Role">
@@ -92,6 +96,10 @@
 	<li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
 	    <creditee>G95Phil</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+	    <creditee>Adirelle</creditee>
     </li>
   </credits>
 </LanguageInfo>

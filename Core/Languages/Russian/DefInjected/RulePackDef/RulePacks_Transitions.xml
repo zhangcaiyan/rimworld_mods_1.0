@@ -159,6 +159,7 @@
     <li>duetoa(p=0.5)->thanks to</li>
   -->
   <Transition_Include.rulePack.rulesStrings>
+    <li>reserved->reserved</li>
   </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>

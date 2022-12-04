@@ -100,20 +100,20 @@
   <!-- EN: Drogenlabor (Entwurf) -->
   <Blueprint_DrugLab.label>Drogenlabor (Entwurf)</Blueprint_DrugLab.label>
   
-  <!-- EN: Krematorium (elektr) (Entwurf) -->
-  <Blueprint_ElectricCrematorium.label>Krematorium (elektr) (Entwurf)</Blueprint_ElectricCrematorium.label>
+  <!-- EN: Krematorium (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricCrematorium.label>Krematorium (elektrisch) (Entwurf)</Blueprint_ElectricCrematorium.label>
   
-  <!-- EN: Schmelzofen (elektr) (Entwurf) -->
-  <Blueprint_ElectricSmelter.label>Schmelzofen (elektr) (Entwurf)</Blueprint_ElectricSmelter.label>
+  <!-- EN: Schmelzofen (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricSmelter.label>Schmelzofen (elektrisch) (Entwurf)</Blueprint_ElectricSmelter.label>
   
-  <!-- EN: Schmiede (elektr) (Entwurf) -->
-  <Blueprint_ElectricSmithy.label>Schmiede (elektr) (Entwurf)</Blueprint_ElectricSmithy.label>
+  <!-- EN: Schmiede (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricSmithy.label>Schmiede (elektrisch) (Entwurf)</Blueprint_ElectricSmithy.label>
   
-  <!-- EN: Herd (elektr) (Entwurf) -->
-  <Blueprint_ElectricStove.label>Herd (elektr) (Entwurf)</Blueprint_ElectricStove.label>
+  <!-- EN: Herd (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricStove.label>Herd (elektrisch) (Entwurf)</Blueprint_ElectricStove.label>
   
-  <!-- EN: Nähmaschine (elektr) (Entwurf) -->
-  <Blueprint_ElectricTailoringBench.label>Nähmaschine (elektr) (Entwurf)</Blueprint_ElectricTailoringBench.label>
+  <!-- EN: Nähmaschine (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricTailoringBench.label>Nähmaschine (elektrisch) (Entwurf)</Blueprint_ElectricTailoringBench.label>
   
   <!-- EN: Nachttisch (Entwurf) -->
   <Blueprint_EndTable.label>Nachttisch (Entwurf)</Blueprint_EndTable.label>
@@ -148,7 +148,7 @@
   <!-- EN: Herd (Feuer) (Entwurf) -->
   <Blueprint_FueledStove.label>Herd (Feuer) (Entwurf)</Blueprint_FueledStove.label>
   
-  <!-- EN: Geothermal Kraftwerk (Entwurf) -->
+  <!-- EN: Geothermie Kraftwerk (Entwurf) -->
   <Blueprint_GeothermalGenerator.label>Geothermiekraftwerk (Entwurf)</Blueprint_GeothermalGenerator.label>
   
   <!-- EN: Goldfliese (Entwurf) -->
@@ -313,8 +313,8 @@
   <!-- EN: Tisch (3x3) (Entwurf) -->
   <Blueprint_Install_Table3x3c.label>Tisch (3x3) (Entwurf)</Blueprint_Install_Table3x3c.label>
   
-  <!-- EN: Schlachter Werkbank (Entwurf) -->
-  <Blueprint_Install_TableButcher.label>Schlachttisch (Entwurf)</Blueprint_Install_TableButcher.label>
+  <!-- EN: Schlachtbank (Entwurf) -->
+  <Blueprint_Install_TableButcher.label>Schlachtbank (Entwurf)</Blueprint_Install_TableButcher.label>
   
   <!-- EN: Bildhauer Werkbank (Entwurf) -->
   <Blueprint_Install_TableSculpting.label>Bildhauertisch (Entwurf)</Blueprint_Install_TableSculpting.label>
@@ -460,8 +460,8 @@
   <!-- EN: Tisch (3x3) (Entwurf) -->
   <Blueprint_Table3x3c.label>Tisch (3x3) (Entwurf)</Blueprint_Table3x3c.label>
   
-  <!-- EN: Schlachter Werkbank (Entwurf) -->
-  <Blueprint_TableButcher.label>Schlachttisch (Entwurf)</Blueprint_TableButcher.label>
+  <!-- EN: Schlachtbank (Entwurf) -->
+  <Blueprint_TableButcher.label>Schlachtbank (Entwurf)</Blueprint_TableButcher.label>
   
   <!-- EN: Mechanik Werkbank (Entwurf) -->
   <Blueprint_TableMachining.label>Mechanik Werkbank (Entwurf)</Blueprint_TableMachining.label>
@@ -570,7 +570,7 @@
   <!-- EN: Boomalope (Leiche) -->
   <Corpse_Boomalope.label>Tote Boomalope</Corpse_Boomalope.label>
   <!-- EN: Toter Körper von Boomalope. -->
-  <Corpse_Boomalope.description>Leiche einer Boomalope.</Corpse_Boomalope.description>
+  <Corpse_Boomalope.description>Die Leiche einer Boomalope.</Corpse_Boomalope.description>
   
   <!-- EN: Boomratte (Leiche) -->
   <Corpse_Boomrat.label>Tote Boomratte</Corpse_Boomrat.label>
@@ -580,7 +580,7 @@
   <!-- EN: Wasserschwein (Leiche) -->
   <Corpse_Capybara.label>Totes Wasserschwein</Corpse_Capybara.label>
   <!-- EN: Toter Körper von Wasserschwein. -->
-  <Corpse_Capybara.description>Leiche eines Wasserschweins.</Corpse_Capybara.description>
+  <Corpse_Capybara.description>Die Leiche eines Wasserschweins.</Corpse_Capybara.description>
   
   <!-- EN: Rentier (Leiche) -->
   <Corpse_Caribou.label>Totes Rentier</Corpse_Caribou.label>
@@ -590,7 +590,7 @@
   <!-- EN: Kasuar (Leiche) -->
   <Corpse_Cassowary.label>Toter Kasuar</Corpse_Cassowary.label>
   <!-- EN: Toter Körper von Kasuar. -->
-  <Corpse_Cassowary.description>Leiche eines Kasuars.</Corpse_Cassowary.description>
+  <Corpse_Cassowary.description>Die Leiche eines Kasuars.</Corpse_Cassowary.description>
   
   <!-- EN: Katze (Leiche) -->
   <Corpse_Cat.label>Tote Katze</Corpse_Cat.label>
@@ -605,7 +605,7 @@
   <!-- EN: Chinchilla (Leiche) -->
   <Corpse_Chinchilla.label>Toter Chinchilla</Corpse_Chinchilla.label>
   <!-- EN: Toter Körper von Chinchilla. -->
-  <Corpse_Chinchilla.description>Leiche eines Chinchillas.</Corpse_Chinchilla.description>
+  <Corpse_Chinchilla.description>Die Leiche eines Chinchillas.</Corpse_Chinchilla.description>
   
   <!-- EN: Kobra (Leiche) -->
   <Corpse_Cobra.label>Tote Kobra</Corpse_Cobra.label>
@@ -615,7 +615,7 @@
   <!-- EN: Puma (Leiche) -->
   <Corpse_Cougar.label>Toter Puma</Corpse_Cougar.label>
   <!-- EN: Toter Körper von Puma. -->
-  <Corpse_Cougar.description>Leiche eines Pumas.</Corpse_Cougar.description>
+  <Corpse_Cougar.description>Die Leiche eines Pumas.</Corpse_Cougar.description>
   
   <!-- EN: Rind (Leiche) -->
   <Corpse_Cow.label>Totes Rind</Corpse_Cow.label>
@@ -635,7 +635,7 @@
   <!-- EN: Elefant (Leiche) -->
   <Corpse_Elephant.label>Toter Elefant</Corpse_Elephant.label>
   <!-- EN: Toter Körper von Elefant. -->
-  <Corpse_Elephant.description>Leiche eines Elefanten</Corpse_Elephant.description>
+  <Corpse_Elephant.description>Die Leiche eines Elefanten.</Corpse_Elephant.description>
   
   <!-- EN: Elch (Leiche) -->
   <Corpse_Elk.label>Toter Elch</Corpse_Elk.label>
@@ -645,7 +645,7 @@
   <!-- EN: Emu (Leiche) -->
   <Corpse_Emu.label>Toter Emu</Corpse_Emu.label>
   <!-- EN: Toter Körper von Emu. -->
-  <Corpse_Emu.description>Leiche eines Emus.</Corpse_Emu.description>
+  <Corpse_Emu.description>Die Leiche eines Emus.</Corpse_Emu.description>
   
   <!-- EN: Polarfuchs (Leiche) -->
   <Corpse_Fox_Arctic.label>Toter Polarfuchs</Corpse_Fox_Arctic.label>
@@ -680,7 +680,7 @@
   <!-- EN: Husky (Leiche) -->
   <Corpse_Husky.label>Toter Husky</Corpse_Husky.label>
   <!-- EN: Toter Körper von Husky. -->
-  <Corpse_Husky.description>Die Leiche eines Husky.</Corpse_Husky.description>
+  <Corpse_Husky.description>Die Leiche eines Huskys.</Corpse_Husky.description>
   
   <!-- EN: Steinbock (Leiche) -->
   <Corpse_Ibex.label>Toter Steinbock</Corpse_Ibex.label>
@@ -700,22 +700,22 @@
   <!-- EN: Luchs (Leiche) -->
   <Corpse_Lynx.label>Toter Luchs</Corpse_Lynx.label>
   <!-- EN: Toter Körper von Luchs. -->
-  <Corpse_Lynx.description>Leiche eines Luchses.</Corpse_Lynx.description>
+  <Corpse_Lynx.description>Die Leiche eines Luchses.</Corpse_Lynx.description>
   
   <!-- EN: Raupe (Leiche) -->
   <Corpse_Mech_Centipede.label>Tote Raupe</Corpse_Mech_Centipede.label>
   <!-- EN: Toter Körper von Raupe. -->
-  <Corpse_Mech_Centipede.description>Ein deaktivierter Kampfmechanoid vom Typ Raupe.</Corpse_Mech_Centipede.description>
+  <Corpse_Mech_Centipede.description>Ein deaktivierter Kampfmechanoid vom Typ 'Raupe'.</Corpse_Mech_Centipede.description>
   
   <!-- EN: Lanzer (Leiche) -->
   <Corpse_Mech_Lancer.label>Toter Lanzer</Corpse_Mech_Lancer.label>
   <!-- EN: Toter Körper von Lanzer. -->
-  <Corpse_Mech_Lancer.description>Ein deaktivierter Kampfmechanoid vom Typ Lanzer.</Corpse_Mech_Lancer.description>
+  <Corpse_Mech_Lancer.description>Ein deaktivierter Kampfmechanoid vom Typ 'Lanzer'.</Corpse_Mech_Lancer.description>
   
   <!-- EN: Schnitter (Leiche) -->
   <Corpse_Mech_Scyther.label>Toter Schnitter</Corpse_Mech_Scyther.label>
   <!-- EN: Toter Körper von Schnitter. -->
-  <Corpse_Mech_Scyther.description>Ein deaktivierter Kampfmechanoid vom Typ Schnitter.</Corpse_Mech_Scyther.description>
+  <Corpse_Mech_Scyther.description>Ein deaktivierter Kampfmechanoid vom Typ 'Schnitter'.</Corpse_Mech_Scyther.description>
   
   <!-- EN: Riesenskarabäus (Leiche) -->
   <Corpse_Megascarab.label>Toter Skarabäus</Corpse_Megascarab.label>
@@ -725,7 +725,7 @@
   <!-- EN: Riesenfaultier (Leiche) -->
   <Corpse_Megasloth.label>Totes Faultier</Corpse_Megasloth.label>
   <!-- EN: Toter Körper von Riesenfaultier. -->
-  <Corpse_Megasloth.description>Leiche eines Faultieres</Corpse_Megasloth.description>
+  <Corpse_Megasloth.description>Die Leiche eines Faultieres.</Corpse_Megasloth.description>
   
   <!-- EN: Riesenspinne (Leiche) -->
   <Corpse_Megaspider.label>Tote Riesenspinne</Corpse_Megaspider.label>
@@ -735,7 +735,7 @@
   <!-- EN: Affe (Leiche) -->
   <Corpse_Monkey.label>Toter Affe</Corpse_Monkey.label>
   <!-- EN: Toter Körper von Affe. -->
-  <Corpse_Monkey.description>Leiche eines Affen.</Corpse_Monkey.description>
+  <Corpse_Monkey.description>Die Leiche eines Affen.</Corpse_Monkey.description>
   
   <!-- EN: Muffalo (Leiche) -->
   <Corpse_Muffalo.label>Totes Muffalo</Corpse_Muffalo.label>
@@ -745,12 +745,12 @@
   <!-- EN: Strauß (Leiche) -->
   <Corpse_Ostrich.label>Toter Strauß</Corpse_Ostrich.label>
   <!-- EN: Toter Körper von Strauß. -->
-  <Corpse_Ostrich.description>Leiche eines Straußes.</Corpse_Ostrich.description>
+  <Corpse_Ostrich.description>Die Leiche eines Straußes.</Corpse_Ostrich.description>
   
   <!-- EN: Panther (Leiche) -->
   <Corpse_Panther.label>Toter Panther</Corpse_Panther.label>
   <!-- EN: Toter Körper von Panther. -->
-  <Corpse_Panther.description>Leiche eines Panthers.</Corpse_Panther.description>
+  <Corpse_Panther.description>Die Leiche eines Panthers.</Corpse_Panther.description>
   
   <!-- EN: Schwein (Leiche) -->
   <Corpse_Pig.label>Totes Schwein</Corpse_Pig.label>
@@ -800,7 +800,7 @@
   <!-- EN: Truthahn (Leiche) -->
   <Corpse_Turkey.label>Toter Truthahn</Corpse_Turkey.label>
   <!-- EN: Toter Körper von Truthahn. -->
-  <Corpse_Turkey.description>Leiche eines Truthahns.</Corpse_Turkey.description>
+  <Corpse_Turkey.description>Die Leiche eines Truthahns.</Corpse_Turkey.description>
   
   <!-- EN: Warg (Leiche) -->
   <Corpse_Warg.label>Toter Warg</Corpse_Warg.label>
@@ -835,7 +835,7 @@
   <!-- EN: Schlafkiste (Tier) (wird gebaut) -->
   <Frame_AnimalSleepingBox.label>Schlafkiste (Tier) (wird gebaut)</Frame_AnimalSleepingBox.label>
   <!-- EN: Eine kleine Kiste, in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde. -->
-  <Frame_AnimalSleepingBox.description>Eine kleine Kiste in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde.</Frame_AnimalSleepingBox.description>
+  <Frame_AnimalSleepingBox.description>Eine kleine Kiste, in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde.</Frame_AnimalSleepingBox.description>
   
   <!-- EN: Schlafplatz (Tier) (wird gebaut) -->
   <Frame_AnimalSleepingSpot.label>Schlafplatz (Tier) (wird gebaut)</Frame_AnimalSleepingSpot.label>
@@ -974,7 +974,7 @@
   
   <!-- EN: Tür (wird gebaut) -->
   <Frame_Door.label>Tür (wird gebaut)</Frame_Door.label>
-  <!-- EN: Trennt Räume. Einfache Türen müssen von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden. Wie stark die Verlangsamung ist hängt vom verwendeten Material ab. -->
+  <!-- EN: Trennt Räume. Einfache Türen müssen von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden. Wie stark die Verlangsamung ist, hängt vom verwendeten Material ab. -->
   <Frame_Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Frame_Door.description>
   
   <!-- EN: Doppelbett (wird gebaut) -->
@@ -992,27 +992,27 @@
   <!-- EN: Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen. -->
   <Frame_DrugLab.description>Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen.</Frame_DrugLab.description>
   
-  <!-- EN: Krematorium (elektr) (wird gebaut) -->
+  <!-- EN: Krematorium (elektrisch) (wird gebaut) -->
   <Frame_ElectricCrematorium.label>Krematorium (elektr.) (wird gebaut)</Frame_ElectricCrematorium.label>
   <!-- EN: Ein großes Steinkrematorium in dem Leichen bei extrem hoher Temperatur verbrannt werden können. -->
   <Frame_ElectricCrematorium.description>Verbrennt Leichen. Elektrisch betrieben.</Frame_ElectricCrematorium.description>
   
-  <!-- EN: Schmelzofen (elektr) (wird gebaut) -->
+  <!-- EN: Schmelzofen (elektrisch) (wird gebaut) -->
   <Frame_ElectricSmelter.label>Schmelzofen (elektr.) (wird gebaut)</Frame_ElectricSmelter.label>
-  <!-- EN: Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom. -->
-  <Frame_ElectricSmelter.description>Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</Frame_ElectricSmelter.description>
+  <!-- EN: Extrahiert nutzbares Metall aus Metallschrott und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom. -->
+  <Frame_ElectricSmelter.description>Extrahiert nutzbares Metall aus Metallschrott und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</Frame_ElectricSmelter.description>
   
-  <!-- EN: Schmiede (elektr) (wird gebaut) -->
+  <!-- EN: Schmiede (elektrisch) (wird gebaut) -->
   <Frame_ElectricSmithy.label>Schmiede (elektr.) (wird gebaut)</Frame_ElectricSmithy.label>
   <!-- EN: Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen. -->
   <Frame_ElectricSmithy.description>Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</Frame_ElectricSmithy.description>
   
-  <!-- EN: Herd (elektr) (wird gebaut) -->
+  <!-- EN: Herd (elektrisch) (wird gebaut) -->
   <Frame_ElectricStove.label>Herd (elektr.) (wird gebaut)</Frame_ElectricStove.label>
   <!-- EN: Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten. -->
   <Frame_ElectricStove.description>Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</Frame_ElectricStove.description>
   
-  <!-- EN: Nähmaschine (elektr) (wird gebaut) -->
+  <!-- EN: Nähmaschine (elektrisch) (wird gebaut) -->
   <Frame_ElectricTailoringBench.label>Nähmaschine (elektr.) (wird gebaut)</Frame_ElectricTailoringBench.label>
   <!-- EN: Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 50 % der normalen Geschwindigkeit betrieben werden. -->
   <Frame_ElectricTailoringBench.description>Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 40% der normalen Geschwindigkeit betrieben werden.</Frame_ElectricTailoringBench.description>
@@ -1072,7 +1072,7 @@
   <!-- EN: Ein einfacher, mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten. -->
   <Frame_FueledStove.description>Ein einfacher mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</Frame_FueledStove.description>
   
-  <!-- EN: Geothermal Kraftwerk (wird gebaut) -->
+  <!-- EN: Geothermie Kraftwerk (wird gebaut) -->
   <Frame_GeothermalGenerator.label>Geothermiekraftwerk (wird gebaut)</Frame_GeothermalGenerator.label>
   <!-- EN: Produziert Strom mithilfe eines Dampfgeysirs. Muss auf einem Geysir platziert werden. -->
   <Frame_GeothermalGenerator.description>Produziert Strom mithilfe eines Dampfgeysires. Muss auf einem Geysir platziert werden.</Frame_GeothermalGenerator.description>
@@ -1332,8 +1332,8 @@
   <!-- EN: Menschen essen am Tisch, sofern Stühle vorhanden sind. -->
   <Frame_Table3x3c.description>Menschen essen am Tisch, sofern Stühle vorhanden sind.</Frame_Table3x3c.description>
   
-  <!-- EN: Schlachter Werkbank (wird gebaut) -->
-  <Frame_TableButcher.label>Schlachttisch (wird gebaut)</Frame_TableButcher.label>
+  <!-- EN: Schlachtbank (wird gebaut) -->
+  <Frame_TableButcher.label>Schlachtbank (wird gebaut)</Frame_TableButcher.label>
   <!-- EN: Ein schwerer Tisch, auf dem Tierleichen zerlegt werden. -->
   <Frame_TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zu rohem Fleisch verarbeitet werden.</Frame_TableButcher.description>
   
@@ -1479,107 +1479,107 @@
   
   <!-- EN: Alpakafleisch -->
   <Meat_Alpaca.label>Alpakafleisch</Meat_Alpaca.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Alpaca.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Alpaca.description>
   
   <!-- EN: Alphabiberfleisch -->
   <Meat_Alphabeaver.label>Biberfleisch</Meat_Alphabeaver.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Alphabeaver.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Alphabeaver.description>
   
   <!-- EN: Bärenfleisch -->
   <Meat_Bear_Grizzly.label>Bärenfleisch</Meat_Bear_Grizzly.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Bear_Grizzly.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Bear_Grizzly.description>
   
   <!-- EN: Boomalopefleisch -->
   <Meat_Boomalope.label>Boomalopenfleisch</Meat_Boomalope.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Boomalope.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Boomalope.description>
   
   <!-- EN: Boomrattefleisch -->
   <Meat_Boomrat.label>Boomrattenfleisch</Meat_Boomrat.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Boomrat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Boomrat.description>
   
   <!-- EN: Wasserschweinfleisch -->
   <Meat_Capybara.label>Wasserschweinfleisch</Meat_Capybara.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Capybara.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Capybara.description>
   
   <!-- EN: Rentierfleisch -->
   <Meat_Caribou.label>Rentierfleisch</Meat_Caribou.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Caribou.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Caribou.description>
   
   <!-- EN: Vogelfleisch -->
   <Meat_Cassowary.label>Vogelfleisch</Meat_Cassowary.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Cassowary.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cassowary.description>
   
   <!-- EN: Katzefleisch -->
   <Meat_Cat.label>Katzenfleisch</Meat_Cat.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Cat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cat.description>
   
   <!-- EN: Huhnfleisch -->
   <Meat_Chicken.label>Hühnerfleisch</Meat_Chicken.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Chicken.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Chicken.description>
   
   <!-- EN: Chinchillafleisch -->
   <Meat_Chinchilla.label>Chinchillafleisch</Meat_Chinchilla.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Chinchilla.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Chinchilla.description>
   
   <!-- EN: Schlangenfleisch -->
   <Meat_Cobra.label>Schlangenfleisch</Meat_Cobra.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Cobra.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cobra.description>
   
   <!-- EN: Pumafleisch -->
   <Meat_Cougar.label>Pumafleisch</Meat_Cougar.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Cougar.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cougar.description>
   
   <!-- EN: Rindfleisch -->
   <Meat_Cow.label>Rindfleisch</Meat_Cow.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Cow.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cow.description>
   
   <!-- EN: Wildfleisch -->
   <Meat_Deer.label>Wildfleisch</Meat_Deer.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Deer.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Deer.description>
   
   <!-- EN: Dromedarfleisch -->
   <Meat_Dromedary.label>Dromedarfleisch</Meat_Dromedary.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Dromedary.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Dromedary.description>
   
   <!-- EN: Elefantfleisch -->
   <Meat_Elephant.label>Elefantenfleisch</Meat_Elephant.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Elephant.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Elephant.description>
   
   <!-- EN: Elchfleisch -->
   <Meat_Elk.label>Elchfleisch</Meat_Elk.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Elk.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Elk.description>
   
   <!-- EN: Fuchsfleisch -->
   <Meat_Fox_Fennec.label>Fuchsfleisch</Meat_Fox_Fennec.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Fox_Fennec.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Fox_Fennec.description>
   
   <!-- EN: Gazellefleisch -->
   <Meat_Gazelle.label>Gazellenfleisch</Meat_Gazelle.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Gazelle.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Gazelle.description>
   
   <!-- EN: Hasefleisch -->
   <Meat_Hare.label>Hasenfleisch</Meat_Hare.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Hare.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Hare.description>
   
   <!-- EN: Menschfleisch -->
@@ -1589,32 +1589,32 @@
   
   <!-- EN: Huskyfleisch -->
   <Meat_Husky.label>Huskyfleisch</Meat_Husky.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Husky.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Husky.description>
   
   <!-- EN: Steinbockfleisch -->
   <Meat_Ibex.label>Steinbockfleisch</Meat_Ibex.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Ibex.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Ibex.description>
   
   <!-- EN: Leguanfleisch -->
   <Meat_Iguana.label>Leguanfleisch</Meat_Iguana.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Iguana.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Iguana.description>
   
   <!-- EN: Labrador-Retrieverfleisch -->
   <Meat_LabradorRetriever.label>Labradorfleisch</Meat_LabradorRetriever.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_LabradorRetriever.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_LabradorRetriever.description>
   
   <!-- EN: Luchsfleisch -->
   <Meat_Lynx.label>Luchsfleisch</Meat_Lynx.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Lynx.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Lynx.description>
   
   <!-- EN: Riesenfaultierfleisch -->
   <Meat_Megasloth.label>Faultierfleisch</Meat_Megasloth.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Megasloth.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Megasloth.description>
   
   <!-- EN: Insektenfleisch -->
@@ -1624,72 +1624,72 @@
   
   <!-- EN: Affefleisch -->
   <Meat_Monkey.label>Affenfleisch</Meat_Monkey.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Monkey.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Monkey.description>
   
   <!-- EN: Muffalofleisch -->
   <Meat_Muffalo.label>Muffalofleisch</Meat_Muffalo.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Muffalo.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Muffalo.description>
   
   <!-- EN: Pantherfleisch -->
   <Meat_Panther.label>Pantherfleisch</Meat_Panther.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Panther.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Panther.description>
   
   <!-- EN: Schweinefleisch -->
   <Meat_Pig.label>Schweinefleisch</Meat_Pig.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Pig.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Pig.description>
   
   <!-- EN: Waschbärfleisch -->
   <Meat_Raccoon.label>Waschbärenfleisch</Meat_Raccoon.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Raccoon.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Raccoon.description>
   
   <!-- EN: Rattefleisch -->
   <Meat_Rat.label>Rattenfleisch</Meat_Rat.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Rat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Rat.description>
   
   <!-- EN: Nashornfleisch -->
   <Meat_Rhinoceros.label>Nashornfleisch</Meat_Rhinoceros.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Rhinoceros.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Rhinoceros.description>
   
   <!-- EN: Eichhörnchenfleisch -->
   <Meat_Squirrel.label>Eichhörnchenfleisch</Meat_Squirrel.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Squirrel.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Squirrel.description>
   
   <!-- EN: Thrumbofleisch -->
   <Meat_Thrumbo.label>Thrumbofleisch</Meat_Thrumbo.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Thrumbo.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Thrumbo.description>
   
   <!-- EN: Landschildkrötefleisch -->
   <Meat_Tortoise.label>Schildkrötenfleisch</Meat_Tortoise.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Tortoise.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Tortoise.description>
   
   <!-- EN: Truthahnfleisch -->
   <Meat_Turkey.label>Truthahnfleisch</Meat_Turkey.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Turkey.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Turkey.description>
   
   <!-- EN: Wargfleisch -->
   <Meat_Warg.label>Wargfleisch</Meat_Warg.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Warg.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Warg.description>
   
   <!-- EN: Wolffleisch -->
   <Meat_Wolf_Timber.label>Wolffleisch</Meat_Wolf_Timber.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_Wolf_Timber.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Wolf_Timber.description>
   
   <!-- EN: Yorkshire-Terrierfleisch -->
   <Meat_YorkshireTerrier.label>Yorkiefleisch</Meat_YorkshireTerrier.label>
-  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden -->
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
   <Meat_YorkshireTerrier.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_YorkshireTerrier.description>
   
 </LanguageData>

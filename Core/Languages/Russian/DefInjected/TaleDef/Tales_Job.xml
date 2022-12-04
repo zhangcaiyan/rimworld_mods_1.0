@@ -21,13 +21,13 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
   -->
   <AttendedParty.rulePack.rulesStrings>
-    <li>tale_noun->как [attender_nameDef] посещает вечеринку, которую организует [organizer_nameDef]</li>
-    <li>tale_noun->как [attender_nameDef] и [organizer_nameDef] расслабляются на вечеринке</li>
-    <li>image->, как [attender_nameFull] и [organizer_nameFull][circumstance_phrase] беседуют друг с другом</li>
-    <li>image->, как [organizer_nameFull] и [attender_nameFull][circumstance_phrase] наслаждаются напитком</li>
-    <li>image->, как [attender_nameFull][circumstance_phrase] болтает с [organizer_nameFull]</li>
-    <li>image->, как [organizer_nameFull][circumstance_phrase] тепло приветствует [attender_nameFull]</li>
-    <li>image->, как [organizer_nameFull][circumstance_phrase] представляет [attender_nameFull] своему другу</li>
+    <li>tale_noun->как [ATTENDER_nameDef] посещает вечеринку, которую организует [ORGANIZER_nameDef]</li>
+    <li>tale_noun->как [ATTENDER_nameDef] и [ORGANIZER_nameDef] расслабляются на вечеринке</li>
+    <li>image->, как [ATTENDER_nameFull] и [ORGANIZER_nameFull][circumstance_phrase] беседуют друг с другом</li>
+    <li>image->, как [ORGANIZER_nameFull] и [ATTENDER_nameFull][circumstance_phrase] наслаждаются напитком</li>
+    <li>image->, как [ATTENDER_nameFull][circumstance_phrase] болтает с [ORGANIZER_nameFull]</li>
+    <li>image->, как [ORGANIZER_nameFull][circumstance_phrase] тепло приветствует [ATTENDER_nameFull]</li>
+    <li>image->, как [ORGANIZER_nameFull][circumstance_phrase] представляет [ATTENDER_nameFull] своему другу</li>
     <li>circumstance_phrase->, [TransFriendly],</li>
     <li>desc_sentence(p=3)->Все вокруг [activity].</li>
     <li>activity->развлекаются</li>
@@ -95,13 +95,13 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
   <BuriedCorpse.rulePack.rulesStrings>
-    <li>tale_noun->как [PAWN_nameDef] хоронит [CORPSE_nameDef]</li>
-    <li>image->, как [PAWN_nameFull], [circumstance_phrase], предаёт тело [CORPSE_nameFull] земле</li>
-    <li>image->, как [PAWN_nameFull], [circumstance_phrase], [PAWN_action], где [corpse_action] [CORPSE_nameFull]</li>
-    <li>PAWN_action->стоит рядом с местом</li>
-    <li>PAWN_action->сидит рядом с местом</li>
-    <li>PAWN_action->пишет текст на надгробии</li>
-    <li>PAWN_action->гравирует изображение на надгробии</li>
+    <li>tale_noun->как [DIGGER_nameDef] хоронит [CORPSE_nameDef]</li>
+    <li>image->, как [DIGGER_nameFull], [circumstance_phrase], предаёт тело [CORPSE_nameFull] земле</li>
+    <li>image->, как [DIGGER_nameFull], [circumstance_phrase], [digger_action], где [corpse_action] [CORPSE_nameFull]</li>
+    <li>digger_action->стоит рядом с местом</li>
+    <li>digger_action->сидит рядом с местом</li>
+    <li>digger_action->пишет текст на надгробии</li>
+    <li>digger_action->гравирует изображение на надгробии</li>
     <li>corpse_action->покоится</li>
     <li>corpse_action->лежит</li>
     <li>circumstance_phrase->устремив взгляд куда-то вдаль</li>
@@ -210,10 +210,10 @@
   -->
   <EnteredCryptosleep.rulePack.rulesStrings>
     <li>tale_noun->как [PAWN_nameDef] входит в состояние криптосна</li>
-    <li>image->, как [PAWN_nameFull], [circumstance_phrase], ложится в контейнер криптосна</li>
-    <li>image->, как [PAWN_nameFull], [circumstance_phrase], открывает пустой контейнер криптосна</li>
-    <li>image->, как [PAWN_nameFull], [circumstance_phrase], запечатывает контейнер криптосна изнутри</li>
-    <li>image->[empty] контейнер криптосна, сквозь окошко которого [PAWN_nameFull], [circumstance_phrase], прощально смотрит на мир</li>
+    <li>image->, как [PAWN_nameFull], [circumstance_phrase], ложится в саркофаг криптосна</li>
+    <li>image->, как [PAWN_nameFull], [circumstance_phrase], открывает пустой саркофаг криптосна</li>
+    <li>image->, как [PAWN_nameFull], [circumstance_phrase], запечатывает саркофаг криптосна изнутри</li>
+    <li>image->[empty] саркофаг криптосна, сквозь окошко которого [PAWN_nameFull], [circumstance_phrase], прощально смотрит на мир</li>
     <li>circumstance_phrase->приняв [AdjectiveAngsty] вид</li>
     <li>circumstance_phrase->погрузившись в свои мысли</li>
     <li>circumstance_phrase->устремив взгляд куда-то вдаль</li>
@@ -535,10 +535,10 @@
   -->
   <PutIntoCryptosleep.rulePack.rulesStrings>
     <li>tale_noun->как [CARRIER_nameDef] вводит [SLEEPER_nameDef] в состояние криптосна</li>
-    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], укладывает [SLEEPER_nameDef] в контейнер криптосна</li>
-    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], открывает пустой контейнер криптосна</li>
-    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], запечатывает контейнер криптосна, в котором лежит [SLEEPER_nameDef]</li>
-    <li>image->, как [CARRIER_nameFull] уходит прочь от контейнера криптосна, сквозь окошко которого [SLEEPER_nameDef], [circumstance_phrase], прощально смотрит на мир</li>
+    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], укладывает [SLEEPER_nameDef] в саркофаг криптосна</li>
+    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], открывает пустой саркофаг криптосна</li>
+    <li>image->, как [CARRIER_nameFull], [circumstance_phrase], запечатывает саркофаг криптосна, в котором лежит [SLEEPER_nameDef]</li>
+    <li>image->, как [CARRIER_nameFull] уходит прочь от саркофага криптосна, сквозь окошко которого [SLEEPER_nameDef], [circumstance_phrase], прощально смотрит на мир</li>
     <li>circumstance_phrase->ощущая всю напряжённость ситуации</li>
     <li>circumstance_phrase->погрузившись в свои мысли</li>
     <li>circumstance_phrase->устремив взгляд куда-то вдаль</li>

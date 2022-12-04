@@ -1,41 +1,88 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Shooting.description>El uso de cualquier tipo de armas a distancia.</Shooting.description>
-  <Shooting.skillLabel>Tiro</Shooting.skillLabel>
-
-  <Melee.description>El uso de todo tipo de armas cuerpo a cuerpo.</Melee.description>
-  <Melee.skillLabel>Cuerpo a cuerpo</Melee.skillLabel>
-
-  <Construction.description>Mejores constructores producen objetos y edificios más rápido y de mejor calidad.</Construction.description>
-  <Construction.skillLabel>Construcción</Construction.skillLabel>
-
-  <Mining.description>Excavar túneles y extraer los recursos minerales.</Mining.description>
-  <Mining.skillLabel>Minería</Mining.skillLabel>
-
-  <Cooking.description>Crear comidas a partir de ingredientes crudos de forma rápida y sin intoxicación accidental por alimentos.</Cooking.description>
-  <Cooking.skillLabel>Cocina</Cooking.skillLabel>
-
-  <Plants.description>Siembra, cuida y cosecha de cosechas, y busca comida mientras viajas.</Plants.description>
-  <Plants.skillLabel>Agricultura</Plants.skillLabel>
-
-  <Animals.description>Domesticar, adiestrar, manejar y controlar a los animales..</Animals.description>
-  <Animals.skillLabel>Domador</Animals.skillLabel>
-
-  <Crafting.description>Fabricar objetos como vestimenta, armas, herramientas, etc.</Crafting.description>
-  <Crafting.skillLabel>Artesano</Crafting.skillLabel>
-
-  <Artistic.description>Arte</Artistic.description>
-  <Artistic.skillLabel>Artista</Artistic.skillLabel>
-
-  <Medicine.description>El tratamiento de heridas, enfermedades y habilidad de hacer cirugías.</Medicine.description>
-  <Medicine.skillLabel>Medico</Medicine.skillLabel>
-
-  <Social.description>La habilidad de persuadir, manipular, dirigir y animar a otros.</Social.description>
-  <Social.skillLabel>Negociador</Social.skillLabel>
-
+  
+  <!-- EN: animals -->
+  <Animals.label>animales</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Domar, entrenar y controlar animales.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>animales</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>artístico</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Crear arte.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>artístico</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>construcción</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Construcción y demolición de estructuras y mobiliario.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>construcción</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>cocina</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Crear comidas a partir de ingredientes crudos de forma rápida y sin intoxicaciones accidentales.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>cocina</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>artesanía</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Fabricar artículos en general, incluyendo armas, componentes y recursos avanzados.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>artesanía</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>intelectual</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>Investigación y síntesis de drogas.</Intellectual.description>
-  <Intellectual.skillLabel>Intellectual</Intellectual.skillLabel>
-
-
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>intelectual</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>médico</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Tratamiento de heridas, enfermedades y cirugía.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>médico</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>cuerpo a cuerpo</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Combate cuerpo a cuerpo, tanto armado como desarmado.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>cuerpo a cuerpo</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>minería</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Excavación de túneles y extracción de recursos subterráneos.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>minería</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>plantas</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Sembrar, cuidar y cosechar los cultivos, y buscar comida mientras viaja.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>plantas</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>disparar</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Combate a distancia, con armas de alta y baja tecnología.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>disparar</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>social</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Negociar, convencer, manipular, dirigir y motivar a los demás.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>social</Social.skillLabel>
+  
 </LanguageData>

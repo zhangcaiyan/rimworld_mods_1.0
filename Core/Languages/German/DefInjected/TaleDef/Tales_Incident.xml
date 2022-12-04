@@ -32,16 +32,21 @@
     <li>image->einem Netzwerk aus [Color]en Farben, das den Himmel beleuchtet [circumstance_phrase]</li>
     <li>image->einem Verbund aus [Color]en, geschwungenen Lichtbögen mit [Color]en Schattierungen, der den Himmel beleuchtet [circumstance_phrase]</li>
     <li>image->einer Mischung aus tanzenden, [Color]en Farben, die den Himmel beleuchtet [circumstance_group]</li>
-    <li>circumstance_phrase->und ein [TerrainFeature] erhellt</li>
-    <li>circumstance_phrase->und ein [TerrainFeature] erhellt</li>
+    <li>circumstance_phrase(p=0.5)->und eine [TerrainFeatureFem] erhellt</li>
+    <li>circumstance_phrase(p=0.5)->und einen [TerrainFeatureMas] erhellt</li>
+    <li>circumstance_phrase(p=0.5)->und ein [TerrainFeatureNeu] erhellt</li>
     <li>circumstance_phrase->und über der [Community] hinweggleitet</li>
-    <li>circumstance_phrase->und ein [TerrainFeature] und ein [TerrainFeature] umschließt</li>
+    <li>circumstance_phrase(p=0.5)->und eine [TerrainFeatureFem] umschließt</li>
+    <li>circumstance_phrase(p=0.5)->und einen [TerrainFeatureMas] umschließt</li>
+    <li>circumstance_phrase(p=0.5)->und ein [TerrainFeatureNeu] umschließt</li>
     <li>desc_sentence->Darunter spielt [PAWN_nameDef] [Game] mit einem [AdjectiveFriendly]en Gesichtsausdruck.</li>
     <li>desc_sentence->[PAWN_nameDef] beobachtet die Szene mit ehrfürchtigem Blick.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] schauen von unten zu.</li>
-    <li>desc_sentence->[PAWN_nameDef] sitzt neben einem [TerrainFeature] und schaut in den Himmel.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] wandern friedlich umher.</li>
-    <li>desc_sentence->Es ist kein [Enemy] in Sicht.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] schauen von unten zu.</li>
+    <li>desc_sentence(p=0.5)->[PAWN_nameDef] sitzt neben einer [TerrainFeatureFem] und schaut in den Himmel.</li>
+    <li>desc_sentence(p=0.5)->[PAWN_nameDef] sitzt neben einem [TerrainFeatureMas] und schaut in den Himmel.</li>
+    <li>desc_sentence(p=0.5)->[PAWN_nameDef] sitzt neben einem [TerrainFeatureNeu] und schaut in den Himmel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] wandern friedlich umher.</li>
+    <li>desc_sentence->Es ist kein [EnemySingular] in Sicht.</li>
   </Aurora.rulePack.rulesStrings>
   
   <!-- EN: caravan ambushed -->
@@ -81,11 +86,13 @@
     <li>circumstance_phrase->mit einem [AdjectiveBadass]en Ausdruck</li>
     <li>circumstance_phrase->, während [PAWN_pronoun] [PAWN_possessive]e Waffe schwingt,</li>
     <li>circumstance_phrase->schweißgebadet</li>
-    <li>desc_sentence->[Quantity_adjphrase] entfernte Gestalten nähern sich von einem [TerrainFeature] aus.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] sind in der Ferne zu sehen.</li>
-    <li>desc_sentence->[PAWN_nameDef] ist praktisch umzingelt von [Enemy].</li>
-    <li>desc_sentence->[PAWN_nameDef] wird mit einem [Enemy] konfrontiert.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen panisch aus dem Konfliktbereich.</li>
+    <li>desc_sentence(p=0.5)->[Quantity_adjphrase] entfernte Gestalten nähern sich von einer [TerrainFeatureFem] aus.</li>
+    <li>desc_sentence(p=0.5)->[Quantity_adjphrase] entfernte Gestalten nähern sich von einem [TerrainFeatureMas] aus.</li>
+    <li>desc_sentence(p=0.5)->[Quantity_adjphrase] entfernte Gestalten nähern sich von einem [TerrainFeatureNeu] aus.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] sind in der Ferne zu sehen.</li>
+    <li>desc_sentence->[PAWN_nameDef] ist praktisch umzingelt von [EnemyPluralDat].</li>
+    <li>desc_sentence->[PAWN_nameDef] wird mit einem [EnemySingularDat] konfrontiert.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen panisch aus dem Konfliktbereich.</li>
     <li>desc_sentence->In der Ferne beobachtet ein [PersonJob] das Geschehen.</li>
   </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
   
@@ -126,7 +133,7 @@
     <li>desc_sentence->[Quantity_adjphrase] entfernte Tiere nähern sich von einem [TerrainFeature] aus.</li>
     <li>desc_sentence->[Gore] bedeckt den Boden.</li>
     <li>desc_sentence->Der Boden besteht nur noch aus [Gore].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen panisch aus dem Konfliktbereich.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen panisch aus dem Konfliktbereich.</li>
     <li>desc_sentence->In der Ferne beobachtet ein [PersonJob] das Geschehen.</li>
   </CaravanAmbushedByManhunter.rulePack.rulesStrings>
   
@@ -168,9 +175,9 @@
     <li>circumstance_phrase->mit einem [AdjectiveBadass]en Ausdruck</li>
     <li>circumstance_phrase->mit einem [AdjectiveAngsty]en Ausdruck</li>
     <li>circumstance_phrase->, während andere es sehen,</li>
-    <li>circumstance_phrase->, während [PAWN_pronoun] von [Enemy] bedroht wird,</li>
-    <li>desc_sentence->[PAWN_nameDef] ist praktisch umzingelt von [Enemy].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] sind in der Nähe und [action].</li>
+    <li>circumstance_phrase->, während [PAWN_pronoun] von [EnemyPluralDat] bedroht wird,</li>
+    <li>desc_sentence->[PAWN_nameDef] ist praktisch umzingelt von [EnemyPluralDat].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] sind in der Nähe und [action].</li>
     <li>desc_sentence->Die Sonne geht über einem [TerrainFeature] unter.</li>
     <li>desc_sentence->Die Sonne geht über einem [TerrainFeature] auf.</li>
     <li>desc_sentence->In der Ferne beobachtet ein [PersonJob] das Geschehen.</li>
@@ -221,9 +228,9 @@
     <li>circumstance_phrase->mit einem [AdjectiveFriendly]en Ausdruck</li>
     <li>circumstance_phrase->völlig unbekümmert</li>
     <li>circumstance_phrase->, während andere es sehen,</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] [event].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] [event].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal]s surround the group.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] umzingeln die Gruppe.</li>
     <li>desc_sentence->Die Sonne geht über einem [TerrainFeature] unter.</li>
     <li>desc_sentence->Die Sonne geht über einem [TerrainFeature] auf.</li>
     <li>desc_sentence->In der Ferne beobachtet ein [PersonJob] das Geschehen.</li>
@@ -258,17 +265,17 @@
     <li>image->einem unnatürlich dunklen Himmel, [circumstance_phrase]</li>
     <li>image->einem dämmrigen Himmel, [circumstance_phrase]</li>
     <li>image->einem von Sonnenlicht umringten Mond, [circumstance_phrase]</li>
-    <li>image->[Quantity_adjphrase] [Animal], die in der Dunkelheit unsicher herumlaufen, [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalPlural], die in der Dunkelheit unsicher herumlaufen, [circumstance_phrase]</li>
     <li>circumstance_phrase->während die Luft still und ruhig ist</li>
     <li>circumstance_phrase->während die Dämmerung einen nahegelegenen [TerrainFeature] überdeckt</li>
     <li>circumstance_phrase->während die Dämmerung [Quantity_adjphrase] nahegelegene [TerrainFeature] überdeckt</li>
     <li>circumstance_phrase->während die Sterne sichtbar werden</li>
     <li>desc_sentence->Darunter spielt [PAWN_nameDef] [Game] mit einem [AdjectiveFriendly]en Gesichtsausdruck.</li>
     <li>desc_sentence->[PAWN_nameDef] beobachtet die Szene mit ehrfürchtigem Blick.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] schauen von unten zu.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] schauen von unten zu.</li>
     <li>desc_sentence->[PAWN_nameDef] sitzt neben einem [TerrainFeature] und schaut in den Himmel.</li>
     <li>desc_sentence->Eine [Community] von Zuschauern schauen friedlich in den Himmel.</li>
-    <li>desc_sentence->Es ist kein [Enemy] in Sicht.</li>
+    <li>desc_sentence->Es ist kein [EnemySingular] in Sicht.</li>
   </Eclipse.rulePack.rulesStrings>
   
   <!-- EN: flashstorm -->
@@ -309,12 +316,12 @@
     <li>circumstance_phrase->in Richtung einer [Community]</li>
     <li>circumstance_phrase->unter einer bedrohlichen Wolke</li>
     <li>circumstance_phrase->einen [TerrainFeature] nahezu umhüllen</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [TerrainFeature] nahezu umhüllen</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [TerrainFeaturePlural] nahezu umhüllen</li>
     <li>desc_sentence->[PAWN_nameDef] beobachtet das Geschehen mit sichtbarem Entsetzen.</li>
     <li>desc_sentence->[PAWN_nameDef] beobachtet die Szene mit ehrfürchtigem Blick.</li>
     <li>desc_sentence->[PAWN_nameDef] koordiniert Abwehrmaßnahmen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] bereiten sich schnell darauf vor.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] bereiten sich schnell darauf vor.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>desc_sentence->Die gesamte Tierwelt hat das Gebiet verlassen.</li>
   </Flashstorm.rulePack.rulesStrings>
   
@@ -350,9 +357,9 @@
     <li>image->einem dichten Nebel aus schwarzen Flecken [circumstance_phrase]</li>
     <li>circumstance_phrase->über einem [TerrainFeature] vorrücken</li>
     <li>circumstance_phrase->eine [Community] komplett umzingeln</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJob] angreifen</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJobPlural] angreifen</li>
     <li>circumstance_phrase->aus dem Boden hervorbrechen</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [Animal] abschlachten</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [AnimalPlural] abschlachten</li>
     <li>desc_sentence->[PAWN_nameDef] organisiert einen Widerstand.</li>
     <li>desc_sentence->[PAWN_nameDef] verteidigt sich mit einer [Weapon].</li>
     <li>desc_sentence->[PAWN_nameDef] liegt verwundet auf dem Boden.</li>
@@ -360,8 +367,8 @@
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveBadass]en Ausdruck.</li>
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveAngsty]en Ausdruck.</li>
     <li>desc_sentence->Der Boden ist mit [Gore] überzogen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] fliehen aus dem Gebiet.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>desc_sentence->Die gesamte Tierwelt hat das Gebiet verlassen.</li>
   </Infestation.rulePack.rulesStrings>
   
@@ -407,7 +414,7 @@
     <li>image->[PAWN_nameDef], wie [PAWN_pronoun] eine Nachricht von [transmission_source] entziffert, während [circumstance_group]</li>
     <li>delivery_method->einem [Animal]</li>
     <li>delivery_method->einem [PersonJob]</li>
-    <li>delivery_method->[Quantity_adjphrase] [Animal]</li>
+    <li>delivery_method->[Quantity_adjphrase] [AnimalPlural]</li>
     <li>transmission_source->einer selten genutzten Frequenz</li>
     <li>transmission_source->einem alten Transmitter</li>
     <li>transmission_source->einem schwachen Signal</li>
@@ -418,7 +425,7 @@
     <li>circumstance_phrase->[PAWN_pronoun] sich um die Ernte kümmert</li>
     <li>circumstance_phrase->ein [Animal] vorbeizieht</li>
     <li>circumstance_phrase->[PAWN_pronoun] [Game] spielt</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] wandern in der Nähe herum, ohne es zu merken.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] wandern in der Nähe herum, ohne es zu merken.</li>
     <li>desc_sentence->Als [PAWN_pronoun] das liest, beginnt [PAWN_pronoun] sich zu freuen.</li>
     <li>desc_sentence->Ein geisterhafter [PersonJob] blickt von den Wolken hinab.</li>
     <li>desc_sentence->[PAWN_nameDef] sitzt neben einem [TerrainFeature].</li>
@@ -458,15 +465,15 @@
   <ManhunterPack.rulePack.rulesStrings>
     <li>tale_noun->menschenjagende Ungetüme die [Community] von [PAWN_nameDef] heimsuchten</li>
     <li>tale_noun->die [Community] von [PAWN_nameDef] von verrückten Tieren angegriffen wurde</li>
-    <li>image->einer Herde von [Animal] [circumstance_phrase]</li>
-    <li>image->[Quantity_adjphrase] [Animal] [circumstance_phrase]</li>
+    <li>image->einer Herde von [AnimalPluralDat] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalPlural] [circumstance_phrase]</li>
     <li>image->einem [huge]en [Animal] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] schattenhaften Gestalten [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] schattenhaften Vierbeinern [circumstance_phrase]</li>
     <li>circumstance_phrase->über einem [TerrainFeature] vorrücken</li>
     <li>circumstance_phrase->eine [Community] komplett umzingeln</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJob] angreifen</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [Animal] abschlachten</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJobPlural] angreifen</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [AnimalPlural] abschlachten</li>
     <li>circumstance_phrase->, überwältigt von [hate_emotion]</li>
     <li>circumstance_phrase->, bedeckt von [Gore]</li>
     <li>hate_emotion->Hass</li>
@@ -479,8 +486,8 @@
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveBadass]en Ausdruck.</li>
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveAngsty]en Ausdruck.</li>
     <li>desc_sentence->Der Boden ist mit [Gore] überzogen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] fliehen aus dem Gebiet.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
   </ManhunterPack.rulePack.rulesStrings>
   
   <!-- EN: meteorite impact -->
@@ -511,8 +518,8 @@
     <li>desc_sentence->The surroundings are muted and dull.</li>
   -->
   <MeteoriteImpact.rulePack.rulesStrings>
-    <li>tale_noun->als ein Meteorit in der Nähe von [PAWN_nameDef]'s [Community] herunterfiel</li>
-    <li>tale_noun->als ein Meteorit in der Nähe von [PAWN_nameDef]'s [Community] einschlug</li>
+    <li>tale_noun->ein Meteorit in der Nähe von [PAWN_nameDef]'s [Community] herunterfiel</li>
+    <li>tale_noun->ein Meteorit in der Nähe von [PAWN_nameDef]'s [Community] einschlug</li>
     <li>image->einem [AdjectiveLarge]en Brocken mit [Color]em Schweif [airborne_circumstance]</li>
     <li>image->einem hell leuchtenden Fleck [airborne_circumstance]</li>
     <li>image->einem [AdjectiveLarge]en, [Color]en Feuerball [airborne_circumstance]</li>
@@ -532,7 +539,7 @@
     <li>desc_sentence->[PAWN_nameDef] schaut schockiert zu.</li>
     <li>desc_sentence->[Quantity_adjphrase] Gestalten nähern sich von einem nahegelegenen [TerrainFeature] aus.</li>
     <li>desc_sentence->[Quantity_adjphrase] Gestalten bereiten Werkzeuge und Ausrüstungen vor.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] laufen unsicher herum.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] laufen unsicher herum.</li>
     <li>desc_sentence->Die Umgebung ist schlicht und langweilig.</li>
   </MeteoriteImpact.rulePack.rulesStrings>
   
@@ -572,18 +579,18 @@
   <Raid.rulePack.rulesStrings>
     <li>tale_noun->ein Raubüberfall auf die [Community] von [PAWN_nameDef] verübt wurde</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] überfallen wurde</li>
-    <li>tale_noun->[PAWN_nameDef]'s [Community] von [Enemy] angegriffen wurde</li>
-    <li>image->[Quantity_adjphrase] [Enemy] [circumstance_phrase]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] von [EnemyPluralDat] angegriffen wurde</li>
+    <li>image->[Quantity_adjphrase] [EnemyPluralWithoutThe] [circumstance_phrase]</li>
     <li>image->einer Armee [circumstance_phrase]</li>
     <li>image->einer überwältigenden Streitmacht [circumstance_phrase]</li>
     <li>image->einer Invasionstruppe [circumstance_phrase]</li>
     <li>image->stilisierte [Color]e Banner [circumstance_phrase]</li>
-    <li>image->einem enormen [Enemy] [circumstance_phrase]</li>
+    <li>image->einem enormen [EnemySingularDat] [circumstance_phrase]</li>
     <li>circumstance_phrase->über einem [TerrainFeature] vorrücken</li>
     <li>circumstance_phrase->eine [Community] komplett umzingeln</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJob] angreifen</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJobPlural] angreifen</li>
     <li>circumstance_phrase->siegessicher schreien</li>
-    <li>circumstance_phrase->eine [Weapon] schwingen</li>
+    <li>circumstance_phrase->[WeaponPlural] schwingen</li>
     <li>circumstance_phrase->, mit [Gore] bedeckt</li>
     <li>desc_sentence->[PAWN_nameDef] organisiert einen Widerstand, während [defender_circumstance].</li>
     <li>desc_sentence->[PAWN_nameDef] verteidigt sich mit einer [Weapon], während [defender_circumstance].</li>
@@ -593,8 +600,8 @@
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveBadass]en Ausdruck.</li>
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveAngsty]en Ausdruck.</li>
     <li>desc_sentence->Der Boden ist mit [Gore] überzogen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] fliehen aus dem Gebiet.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>defender_circumstance->[PAWN_pronoun] siegestrunken jubelt</li>
     <li>defender_circumstance->[PAWN_pronoun] [Color] leuchtet</li>
     <li>defender_circumstance->[PAWN_pronoun] trotzig [PAWN_possessive]e Faust erhebt</li>
@@ -647,8 +654,8 @@
     <li>image->[Quantity_adjphrase] [Mechanoid] mit leuchtenden, [Color]en Sensoren [circumstance_phrase]</li>
     <li>circumstance_phrase->über einem [TerrainFeature] vorrücken</li>
     <li>circumstance_phrase->eine [Community] komplett umzingeln</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJob] angreifen</li>
-    <li>circumstance_phrase->[Quantity_adjphrase] [Animal] abschlachten</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [PersonJobPlural] angreifen</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [AnimalPlural] abschlachten</li>
     <li>circumstance_phrase->, bedeckt mit [Gore]</li>
     <li>circumstance_phrase->, verbeult und funkensprühend</li>
     <li>desc_sentence->[PAWN_nameDef] organisiert einen Widerstand, während [defender_circumstance].</li>
@@ -660,8 +667,8 @@
     <li>desc_sentence->[PAWN_nameDef] hat einen [AdjectiveAngsty]en Ausdruck.</li>
     <li>desc_sentence->Der Boden ist mit [Gore] überzogen.</li>
     <li>desc_sentence->Der Boden ist mit metallischen Überresten überzogen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] fliehen aus dem Gebiet.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>defender_circumstance->[PAWN_pronoun] siegestrunken jubelt</li>
     <li>defender_circumstance->[PAWN_pronoun] [Color] leuchtet</li>
     <li>defender_circumstance->[PAWN_pronoun] trotzig [PAWN_possessive]e Faust erhebt</li>
@@ -710,8 +717,8 @@
     <li>desc_sentence->[PAWN_nameDef] beobachtet das Geschehen mit sichtbarem Entsetzen.</li>
     <li>desc_sentence->[PAWN_nameDef] beobachtet die Szene mit ehrfürchtigem Blick.</li>
     <li>desc_sentence->[PAWN_nameDef] koordiniert Abwehrmaßnahmen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] bereiten sich schnell darauf vor.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] bereiten sich schnell darauf vor.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>desc_sentence->Die gesamte Tierwelt hat das Gebiet verlassen.</li>
   </Tornado.rulePack.rulesStrings>
   
@@ -761,8 +768,8 @@
     <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] beobachtet die Szene mit ehrfürchtigem Blick.</li>
     <li>desc_sentence->[COLONIST_nameDef] koordiniert Abwehrmaßnahmen.</li>
     <li>desc_sentence->[ATTACKER_nameDef] kichert vor Freude.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] bereiten sich schnell darauf vor.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] fliehen aus dem Gebiet.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] bereiten sich schnell darauf vor.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fliehen aus dem Gebiet.</li>
     <li>desc_sentence->Die gesamte Tierwelt hat das Gebiet verlassen.</li>
   </TornadoFromItem.rulePack.rulesStrings>
   
@@ -806,7 +813,7 @@
     <li>desc_sentence->[PAWN_nameDef] liegt ruhig da, [PAWN_possessive] Gesicht mit Schweiß bedeckt.</li>
     <li>desc_sentence->[Quantity_adjphrase] tote [Animal] liegen auf dem Boden.</li>
     <li>desc_sentence->[Quantity_adjphrase] sterbende [Animal] liegen auf dem Boden.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] laufen unsicher herum.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] laufen unsicher herum.</li>
   </ToxicFallout.rulePack.rulesStrings>
   
   <!-- EN: volcanic winter -->
@@ -837,15 +844,15 @@
     <li>image->[Quantity_adjphrase] Felderm mit aschebedeckten Pflanzen, [circumstance_group]</li>
     <li>circumstance_phrase->während weit und breit kein Leben zu sehen ist</li>
     <li>circumstance_phrase->kaum von dünnen Lichtstrahlen erhellt</li>
-    <li>circumstance_phrase->stark von kühlem blauem Licht beleuchtet</li>
+    <li>circumstance_phrase->stark von kühlem blauen Licht beleuchtet</li>
     <li>desc_sentence->[PAWN_nameDef] kuschelt sich an ein Feuer.</li>
-    <li>desc_sentence->Um warm zu bleiben, trägt [PAWN_nameDef] [Quantity_adjphrase] [Apparel].</li>
+    <li>desc_sentence->Um warm zu bleiben, trägt [PAWN_nameDef] [Quantity_adjphrase] [ApparelPlural].</li>
     <li>desc_sentence->[PAWN_nameDef] sitzt in der Nähe, sichtlich erschöpft von den Strapazen.</li>
     <li>desc_sentence->[PAWN_nameDef] versteckt sich in der Nähe von einem [TerrainFeature] und blickt mit einem [AdjectiveAngsty]en Blick nach draußen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] hungernde [Animal] begleiten die Szene.</li>
-    <li>desc_sentence->[Quantity_adjphrase] zitternde [Animal] begleiten die Szene.</li>
-    <li>desc_sentence->[Quantity_adjphrase] sterbende [Animal] liegen auf dem Boden.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] laufen unsicher herum.</li>
+    <li>desc_sentence->[Quantity_adjphrase] hungernde [AnimalPlural] begleiten die Szene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] zitternde [AnimalPlural] begleiten die Szene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] sterbende [AnimalPlural] liegen auf dem Boden.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] laufen unsicher herum.</li>
   </VolcanicWinter.rulePack.rulesStrings>
   
 </LanguageData>

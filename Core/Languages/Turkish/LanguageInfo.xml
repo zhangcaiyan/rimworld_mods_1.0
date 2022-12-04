@@ -61,5 +61,17 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Remzi Başkent(Zamahoya)</creditee>
      </li>
+     <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Selman Arslan(deathclean)</creditee>
+     </li>
+     <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Hamit Özdemir</creditee>
+     </li>
+     <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Furkan Yağız</creditee>
+     </li>
   </credits>
 </LanguageInfo>

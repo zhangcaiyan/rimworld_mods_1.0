@@ -1,12 +1,13 @@
-﻿Killer
+﻿//Example: "Ein/Eine ..."
+Killer
 Mörder
 Schlächter
 Jäger
 Klinge
 Totschläger
 Sträfling
-Kriminell
-Gesetzlos
+Krimineller
+Gesetzloser
 Gesichtspolierer
 Gangster
 Dieb
@@ -40,6 +41,4 @@ Ritter
 Samurai
 Held
 König
-Königinn
-
-
+Königin

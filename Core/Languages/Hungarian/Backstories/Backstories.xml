@@ -1207,6 +1207,24 @@
     <desc>Miután elhagyta a hazáját, [PAWN_nameDef] tudását a csillagok közé vitte.\n\nÚgy döntött, hogy zsoldosként éli életét, különböző lázadó szervezeteknek, rabszolgasorba taszított csoportoknak és kereskedelmi enklávéknak dolgozva. Specialitása volt harci helyzetekben tárgyalásokat lefolytatni.</desc>
   </CombatNegotiator47>
   
+  <CommonerHeir25>
+    <!-- EN: Commoner heir -->
+    <title>Trónörökös közember</title>
+    <!-- EN: Heir -->
+    <titleShort>Trónörökös</titleShort>
+    <!-- EN: [PAWN_nameDef] was a street urchin on a feudal steamworld.\n\nAfter [PAWN_pronoun] tried to steal food from the palace, the emperor, desperate to secure an heir, took [PAWN_objective] in and groomed [PAWN_objective] to be next in line for the throne. -->
+    <desc>[PAWN_nameDef] utcagyerek volt egy feudális világban. Ételt próbált lopni a palotából, de a császár befogadta és híján törvényes utódnak, a trón örökösének nevelte őt.</desc>
+  </CommonerHeir25>
+  
+  <CommonerLord87>
+    <!-- EN: Commoner lord -->
+    <title>Közemberből lett földesúr</title>
+    <!-- EN: Lord -->
+    <titleShort>Földesúr</titleShort>
+    <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
+    <desc>Hosszú évek harci és diplomáciai képzése után, [PAWN_nameDef] földeket kapott és saját alattvalókat.\n\n[PAWN_nameDef] egyszerű származása miatt állandó céltáblája volt a többi nemesnek. Koholt vádak alapján perbe fogták, és a császárnak nem volt más választása, mint száműzni őt.</desc>
+  </CommonerLord87>
+  
   <ComputerEngineer16>
     <!-- EN: computer engineer  -->
     <title>Számítástechnikai mérnök</title>
@@ -2638,6 +2656,15 @@
     <desc>[PAWN_nameDef] rákényszerült, hogy megvédje kolóniáját a király nevében, miután egy gyilkos, genetikailag módosított vadállat titokzatos módon kiszabadult.\n\nA legnagyobb erőfeszítése ellenére a királyság megsemmisült. Poszttraumás stressz alakult ki nála, valamint az állatok iránti gyűlölet és a technofóbia rosszabbik fajtája. Arról a helyről nevezték el, ahol találták.</desc>
   </HunterOfTheKing18>
   
+  <HunterScavenger64>
+    <!-- EN: hunter scavenger -->
+    <title>Gyűjtögető vadász</title>
+    <!-- EN: scavenger -->
+    <titleShort>Gyűjtögető</titleShort>
+    <!-- EN: Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch. -->
+    <desc>[PAWN_nameDef] Vinna mocsarain látta meg a napvilágot, egy fosztogató családban. Bandájával a környező településeken guberált ételt és nyersanyagot. Ő volt a legvadabb mind közül.</desc>
+  </HunterScavenger64>
+  
   <IcePlanetChild60>
     <!-- EN: ice planet child -->
     <title>Jégbolygó gyermeke</title>
@@ -3385,6 +3412,15 @@
     <desc>[PAWN_nameDef] egy csendes külvárosi környéken nőtt fel. Soha nem volt a mestere a társadalmi interakciónak, de a számítógépe iránti érdeklődése már fiatalon igazi tehetséggé tette.</desc>
   </MidworldGeek48>
   
+  <MidworldLoner80>
+    <!-- EN: Midworld loner -->
+    <title>Magányos farkas</title>
+    <!-- EN: Loner -->
+    <titleShort>Magányos farkas</titleShort>
+    <!-- EN: [PAWN_nameDef] was born on a peaceful, unimportant midworld.\n\nWhile [PAWN_pronoun] had a few friends, [PAWN_pronoun] preferred to spend [PAWN_possessive] time in solitude, tinkering on [PAWN_possessive] autocycle while listening to netcasts, or plinking at plastic soldiers with a new rifle [PAWN_pronoun] had just put together. -->
+    <desc>[PAWN_nameDef] egy békés, jelentéktelen világon nőtt fel.\n\nBár voltak barátai, inkább egyedül töltötte idejét, autociklijét bügykölve, netes rádiókat hallgatva, és műanyag katonákra lövöldözve új puskájával, amit maga rakott össze.</desc>
+  </MidworldLoner80>
+  
   <MidworldSailor84>
     <!-- EN: midworld sailor -->
     <title>Tengerész</title>
@@ -3447,6 +3483,15 @@
     <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
     <desc>[PAWN_nameDef] mérnökként dolgozott egy gyarmati hadseregnek. Eljátszadozhatott fegyverekkel, gyilkos drónokkal és egyéb "mókás" cuccokkal.\n\nMechanoid szerszámok javítására és fejlesztésére szakosodott. Néha saját magán tesztelte őket.</desc>
   </MilitaryEngineer45>
+  
+  <MilitaryGunsmith27>
+    <!-- EN: Military gunsmith -->
+    <title>Hadi fegyverkovács</title>
+    <!-- EN: Gunsmith -->
+    <titleShort>Fegyverkovács</titleShort>
+    <!-- EN: When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line. -->
+    <desc>Mikor világa háborúba sodródott, [PAWN_nameDef] sok társával együtt a bolygóját feldúló háborús gépezet sorkatonája lett.\n\nKülönleges szakértelmének köszönhetően szerencsés pozícióban szolgálhatott, mint kézifegyver szerelő. Nem kellett a frontvonalon harcolnia.</desc>
+  </MilitaryGunsmith27>
   
   <MilitaryInventor44>
     <!-- EN: military inventor -->
@@ -3636,6 +3681,15 @@
     <!-- EN: [PAWN_nameDef] was curious about everything. While other kids played tag in the suburbs of their industrial city, [PAWN_nameDef] read every book he could find about technology, robots, and weapons - whatever looked coolest.\n\nHis strong French accent kept him from making real friends. -->
     <desc>[PAWN_nameDef] mindenre kíváncsi volt. Míg a többi gyerek játszott az ipari város külterületén, [PAWN_nameDef] elolvasott minden olyan könyvet, amit a technológiáról, robotokról, fegyverekről, vagy bármi menő dologról találhatott.\n\nErős francia akcentusa megakadályozta, hogy igazi barátokra leljen.</desc>
   </Nerd36>
+  
+  <NetworkEngineer83>
+    <!-- EN: Network engineer -->
+    <title>Hálózat mérnök</title>
+    <!-- EN: Engineer -->
+    <titleShort>Mérnök</titleShort>
+    <!-- EN: [PAWN_nameDef] spent all [PAWN_pronoun] time working on computer networking systems.\n\n[PAWN_pronoun] lived without a care in the world - other than uptime and dropped packets. -->
+    <desc>[PAWN_nameDef] folyton számítógépes hálózatokon dolgozott.\n\nSosem érdekelte mi történik a világban, csak a rendelkezésre állási idő és a csomagvesztés.</desc>
+  </NetworkEngineer83>
   
   <NeuroScientist84>
     <!-- EN: neuro scientist -->
@@ -5428,6 +5482,15 @@
     <desc>[PAWN_nameDef] szerette az apjával az űrhajó törzsében együtt eltöltött időt, ilyenkor egy gyermekméretű szkafander volt rajta. Emiatt már fiatal kora óta a világűr szerelmese volt.\n\nA Polgári Akadémiai Programhoz került. Ugyan megjátszotta, hogy olyan, mint az apja, de idejét azzal töltötte, hogy növényeket ápolt rendetlen szobájában. Becenevét a körök iránti imádata miatt kapta.</desc>
   </TechHead7>
   
+  <TechnicalKid1>
+    <!-- EN: Technical kid -->
+    <title>Gyakorlatias kölyök</title>
+    <!-- EN: Tech kid -->
+    <titleShort>Gyakorlatias kölyök</titleShort>
+    <!-- EN: [PAWN_nameDef] loved nothing more then to forget the world around [PAWN_objective] and focus on the task at hand. -->
+    <desc>[PAWN_nameDef] semmit sem imádott jobban, mint megfeledkezni a világról és a keze ügyében lévő feladattal foglalkozni.</desc>
+  </TechnicalKid1>
+  
   <Technician82>
     <!-- EN: technician -->
     <title>Technikus</title>
@@ -6039,6 +6102,15 @@
     <!-- EN: Mushinto's parents were drafted into a civil war in his home country. Growing up surrounded by fighting and death, he became well-accustomed to tragedy and tough as nails. His expressive side, however, never developed. -->
     <desc>Mushinto szüleit besorozták a hazájában dúló polgárháborúba. Harcok és a halál közepette nőtt fel, hozzászokott a tragédiákhoz és szívóssá vált. A nyíltság soha nem fejlődött ki benne.</desc>
   </WarChild73>
+  
+  <Warlordess14>
+    <!-- EN: warlordess -->
+    <title>Hadúrnő</title>
+    <!-- EN: warlordess -->
+    <titleShort>Hadúrnő</titleShort>
+    <!-- EN: [PAWN_nameDef] was the tough leader of a pirate band.\n\n[PAWN_pronoun] would accept any challenge, no matter how violent or dangerous. Others called [PAWN_pronoun] a killing machine. -->
+    <desc>[PAWN_nameDef] egy kalózbanda keménykötésű vezére volt.\n\nBármilyen kihívást elfogadott, legyen az bármilyen véres vagy veszélyes. A többiek csak gyilkológépnek hívták.</desc>
+  </Warlordess14>
   
   <WarRefugee51>
     <!-- EN: war refugee -->

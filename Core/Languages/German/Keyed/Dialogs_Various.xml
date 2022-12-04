@@ -150,7 +150,7 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Diese Person hört jetzt auf den Spitznamen '{0}'. {PAWN_possessive}e Bezeichnung ist {PAWN_title}.</PawnGainsName>
+  <PawnGainsName>Diese Person hört jetzt auf den Spitznamen '{0}'. {PAWN_possessive} Titel ist: '{PAWN_title}'.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Das Tier hört jetzt auf den Namen '{0}'.</AnimalGainsName>
 
@@ -391,7 +391,7 @@
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Wildere Tiere sind von Natur aus schwieriger zu zähmen, trainieren oder auch nur mit ihnen umzugehen.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Trainingsabbau-Interval</TrainingDecayInterval>
+  <TrainingDecayInterval>Trainingsabbau-Intervall</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
   <TamenessWillNotDecay>Die Zähmung wird nicht abgebaut.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
@@ -413,7 +413,7 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Erfolgsmultiplikator</SurgerySuccessChanceFactor>
   <!-- EN: Work speed governed by -->
-  <WorkSpeedStat>Arbeitsgeschwindigkeit beeinflusst durch</WorkSpeedStat>
+  <WorkSpeedStat>Arbeitsgeschw. beeinflusst durch</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Produktionsmenge beeinflusst durch</EfficiencyStat>
   <!-- EN: Construction skill required -->
@@ -425,11 +425,11 @@
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>Der Durchschnitt, wie häufig ein Tier freundliche Kolonisten beschnüffelt.\n\nBeschnüffeln ist ein Verhalten vieler Tierarten, wobei das Tier seine Nase oder Schnauze an einem Freund als Zeichen der Zuneigung reibt. Die meisten Menschen finden das süß und es wird sie eine Zeit lang in gute Laune versetzen.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>Wahrscheinlichkeit der Rache bei Verletzung</HarmedRevengeChance>
+  <HarmedRevengeChance>Wahrsch. der Rache bei Verletzung</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Die Wahrscheinlichkeit, dass diese Kreatur sich rächen wird, wenn sie von einem Angreifer in Gewehrreichweite verletzt wird.\n\nDiese Chance ist noch größer, je näher der Angreifer ist. Wenn es im Nahkampf angegriffen wird, ist die Wahrscheinlichkeit dreimal höher.\n\nDiese Wahrscheinlichkeit wird jedes Mal überprüft, wenn Schaden genommen wird, daher werden langsam schießende Waffen mit einem größeren Schaden das seltener auslösen.\n\nUm die Chance auf Rache zu minimieren, ist es ratsam, eine Kreatur aus sicherer Entfernung mit einer langsam schießenden Waffe anzugreifen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Wahrscheinlichkeit der Rache bei fehlgeschlagenem Zähmungsversuch</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Wahrsch. der Rache bei fehlgeschlagenem Zähmversuch</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
   <TerrainRequirement>Geländevoraussetzung</TerrainRequirement>
   <!-- EN: Supports -->
@@ -439,7 +439,7 @@
   <!-- EN: Rearm cost -->
   <RearmCost>Wiederbewaffnungskosten</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Benötigte Ressourcen, um diesen Geschützturm wieder einsatzbereit machen (abhängig vom Schwierigkeitsgrad).</RearmCostExplanation>
+  <RearmCostExplanation>Benötigte Ressourcen, um diesen Geschützturm wieder einsatzbereit zu machen (abhängig vom Schwierigkeitsgrad).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Schüsse bis Wiederbewaffnung</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -463,7 +463,7 @@
   <!-- EN: Accept -->
   <AcceptButton>Annehmen</AcceptButton>
   <!-- EN: Reset -->
-  <ResetButton>Reset</ResetButton>
+  <ResetButton>Zurücksetzen</ResetButton>
   <!-- EN: Cancel -->
   <CancelButton>Abbruch</CancelButton>
   <!-- EN: Close -->
@@ -489,7 +489,7 @@
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>Der Händler hat zu wenig Silber, um den ganzen Wert der Waren abzudecken. Trotzdem weitermachen?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
-  <SortBy>Sortieren:</SortBy>
+  <SortBy>Sortieren nach:</SortBy>
   <!-- EN: trader type -->
   <TraderTypePrice>Typ des Händlers</TraderTypePrice>
   <!-- EN: selling -->
@@ -721,7 +721,7 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Drogenrichtlinie wird von {0} verwendet.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Lebensmittelrestriktion wird von {0} verwendet.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Ernährungsplan wird von {0} verwendet.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Soziale Drogen</SocialDrugs>
   <!-- EN: No drugs -->
@@ -771,15 +771,15 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>Eine zusätzliche Menge an Drogen, die aufgenommen wird, um zu verhindern, dass man jedes Mal wieder zum Drogen-Lager laufen muss.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>Für Abhängigkeiten\n\nBenutze diese Droge, um den schon vorhandenen Sucht-Bedarf zu decken.\n\nAber beachte, dass manche Charaktere mit bestimmten Eigenschaften, oder bei einem Nervenzusammenbruch dieses Verbot evtl. ignorieren.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Für Abhängigkeiten\n\nBenutze diese Droge, um den schon vorhandenen Sucht-Bedarf zu decken.\n\nAber beachte, dass manche Charaktere mit bestimmten Eigenschaften, oder bei einem Nervenzusammenbruch dieses Verbot eventuell ignorieren.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>Zur Entspannung\n\nDroge kann zum Entspannen oder aus sozialen Gründen eingenommen werden.\n\nAber beachte, dass manche Charaktere mit bestimmten Eigenschaften, oder bei einem Nervenzusammenbruch dieses Verbot evtl. ignorieren.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>Zur Entspannung\n\nDroge kann zum Entspannen oder aus sozialen Gründen eingenommen werden.\n\nAber beachte, dass manche Charaktere mit bestimmten Eigenschaften, oder bei einem Nervenzusammenbruch dieses Verbot eventuell ignorieren.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Geplant\n\nDroge wird nach einem bestimmten Plan eingenommen.\n\nErlaubt es ebenfalls Drogen für die Befriedigung von Spaß, sozialen Bedarf oder einer Sucht einzunehmen.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>Erlaube Nahrung</FoodRestriction>
+  <FoodRestriction>Ernährungsplan</FoodRestriction>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Üppig</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -793,13 +793,13 @@
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nichts</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Restriktion wählen...</SelectFoodRestriction>
+  <SelectFoodRestriction>Ernährungsplan wählen</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Neue Restriktion</NewFoodRestriction>
+  <NewFoodRestriction>Neuer Ernährungsplan</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Restriktion löschen...</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Plan löschen</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Keine Lebensmittelrestriktion ausgewählt</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Kein Ernährungsplan ausgewählt</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->

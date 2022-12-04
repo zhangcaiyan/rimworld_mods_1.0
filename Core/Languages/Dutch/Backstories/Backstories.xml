@@ -1207,6 +1207,24 @@
     <desc>TODO</desc>
   </CombatNegotiator47>
   
+  <CommonerHeir25>
+    <!-- EN: Commoner heir -->
+    <title>TODO</title>
+    <!-- EN: Heir -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was a street urchin on a feudal steamworld.\n\nAfter [PAWN_pronoun] tried to steal food from the palace, the emperor, desperate to secure an heir, took [PAWN_objective] in and groomed [PAWN_objective] to be next in line for the throne. -->
+    <desc>TODO</desc>
+  </CommonerHeir25>
+  
+  <CommonerLord87>
+    <!-- EN: Commoner lord -->
+    <title>TODO</title>
+    <!-- EN: Lord -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
+    <desc>TODO</desc>
+  </CommonerLord87>
+  
   <ComputerEngineer16>
     <!-- EN: computer engineer  -->
     <title>TODO</title>
@@ -2638,6 +2656,15 @@
     <desc>TODO</desc>
   </HunterOfTheKing18>
   
+  <HunterScavenger64>
+    <!-- EN: hunter scavenger -->
+    <title>TODO</title>
+    <!-- EN: scavenger -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch. -->
+    <desc>TODO</desc>
+  </HunterScavenger64>
+  
   <IcePlanetChild60>
     <!-- EN: ice planet child -->
     <title>TODO</title>
@@ -3385,6 +3412,15 @@
     <desc>TODO</desc>
   </MidworldGeek48>
   
+  <MidworldLoner80>
+    <!-- EN: Midworld loner -->
+    <title>TODO</title>
+    <!-- EN: Loner -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was born on a peaceful, unimportant midworld.\n\nWhile [PAWN_pronoun] had a few friends, [PAWN_pronoun] preferred to spend [PAWN_possessive] time in solitude, tinkering on [PAWN_possessive] autocycle while listening to netcasts, or plinking at plastic soldiers with a new rifle [PAWN_pronoun] had just put together. -->
+    <desc>TODO</desc>
+  </MidworldLoner80>
+  
   <MidworldSailor84>
     <!-- EN: midworld sailor -->
     <title>TODO</title>
@@ -3447,6 +3483,15 @@
     <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
     <desc>TODO</desc>
   </MilitaryEngineer45>
+  
+  <MilitaryGunsmith27>
+    <!-- EN: Military gunsmith -->
+    <title>TODO</title>
+    <!-- EN: Gunsmith -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line. -->
+    <desc>TODO</desc>
+  </MilitaryGunsmith27>
   
   <MilitaryInventor44>
     <!-- EN: military inventor -->
@@ -3601,6 +3646,15 @@
     <desc>TODO</desc>
   </Naturalist88>
   
+  <NavyPathfinder53>
+    <!-- EN: Navy pathfinder -->
+    <title>TODO</title>
+    <!-- EN: Pathfinder -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was raised and trained by a group of military explorers dedicated to charting pathways through deep space and on remote planets. -->
+    <desc>TODO</desc>
+  </NavyPathfinder53>
+  
   <NavyScientist46>
     <!-- EN: navy scientist -->
     <title>TODO</title>
@@ -3627,6 +3681,15 @@
     <!-- EN: [PAWN_nameDef] was curious about everything. While other kids played tag in the suburbs of their industrial city, [PAWN_nameDef] read every book he could find about technology, robots, and weapons - whatever looked coolest.\n\nHis strong French accent kept him from making real friends. -->
     <desc>TODO</desc>
   </Nerd36>
+  
+  <NetworkEngineer83>
+    <!-- EN: Network engineer -->
+    <title>TODO</title>
+    <!-- EN: Engineer -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] spent all [PAWN_pronoun] time working on computer networking systems.\n\n[PAWN_pronoun] lived without a care in the world - other than uptime and dropped packets. -->
+    <desc>TODO</desc>
+  </NetworkEngineer83>
   
   <NeuroScientist84>
     <!-- EN: neuro scientist -->
@@ -4564,6 +4627,15 @@
     <desc>TODO</desc>
   </SerialMurderer92>
   
+  <ShadowMarine63>
+    <!-- EN: Shadow marine -->
+    <title>TODO</title>
+    <!-- EN: Marine -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: After perfecting [PAWN_possessive] skills as a pathfinder, [PAWN_nameDef] left [PAWN_possessive] unit to put [PAWN_possessive] skills to use on the planets [PAWN_pronoun] helped chart.\n\nFamiliar with orbital trade routes, [PAWN_pronoun] was able to get onto and off any planet without being detected. -->
+    <desc>TODO</desc>
+  </ShadowMarine63>
+  
   <ShamanOfShadows47>
     <!-- EN: shaman of shadows -->
     <title>TODO</title>
@@ -5410,6 +5482,15 @@
     <desc>TODO</desc>
   </TechHead7>
   
+  <TechnicalKid1>
+    <!-- EN: Technical kid -->
+    <title>TODO</title>
+    <!-- EN: Tech kid -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] loved nothing more then to forget the world around [PAWN_objective] and focus on the task at hand. -->
+    <desc>TODO</desc>
+  </TechnicalKid1>
+  
   <Technician82>
     <!-- EN: technician -->
     <title>TODO</title>
@@ -6021,6 +6102,15 @@
     <!-- EN: Mushinto's parents were drafted into a civil war in his home country. Growing up surrounded by fighting and death, he became well-accustomed to tragedy and tough as nails. His expressive side, however, never developed. -->
     <desc>TODO</desc>
   </WarChild73>
+  
+  <Warlordess14>
+    <!-- EN: warlordess -->
+    <title>TODO</title>
+    <!-- EN: warlordess -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was the tough leader of a pirate band.\n\n[PAWN_pronoun] would accept any challenge, no matter how violent or dangerous. Others called [PAWN_pronoun] a killing machine. -->
+    <desc>TODO</desc>
+  </Warlordess14>
   
   <WarRefugee51>
     <!-- EN: war refugee -->

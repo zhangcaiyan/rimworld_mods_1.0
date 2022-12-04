@@ -10,7 +10,7 @@
   <!-- EN: outlander -->
   <OutlanderCivil.pawnSingular>odpadlík</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderCivil.pawnsPlural>odpadlíků</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.pawnsPlural>&#8203;odpadlíků</OutlanderCivil.pawnsPlural>
   
   <!-- EN: rough outlander union -->
   <OutlanderRough.label>drsná unie odpadlíků</OutlanderRough.label>
@@ -21,18 +21,18 @@
   <!-- EN: outlander -->
   <OutlanderRough.pawnSingular>odpadlík</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderRough.pawnsPlural>odpadlíků</OutlanderRough.pawnsPlural>
+  <OutlanderRough.pawnsPlural>&#8203;odpadlíků</OutlanderRough.pawnsPlural>
   
   <!-- EN: pirate band -->
   <Pirate.label>banda pirátů</Pirate.label>
   <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <Pirate.description>Nesoudržná konfederace pirátských gangů, kteří se dohodli, že hlavně bojují proti cizincům, místo aby bojovali se sebou navzájem.\n\nPiráti nic nepěstují, nic nestaví a jen zřídka obchodují. Pohánění kulturou krve a cti, která uznává jen vlastní sílu a krutost, se obohacují tím, že raději útočí a okrádají své produktivnější sousedy.\n\nJejich technologická úroveň závisí především na tom, co nedávno ukradli. Většinou nosí střelné zbraně, ačkoli někteří dávají přednost tomu, aby mohli praštit svou oběť pěkně z blízka.</Pirate.description>
+  <Pirate.description>Nesoudržná konfederace pirátských gangů, kteří se dohodli, že hlavně bojují proti cizincům, místo aby bojovali se sebou navzájem.\n\nPiráti nic nepěstují, nic nestaví a jen zřídka obchodují. Pohánění kulturou krve a cti, která uznává jen vlastní sílu a krutost, se obohacují tím, že raději útočí a okrádají své produktivnější sousedy.\n\nJejich technologická úroveň závisí především na tom, co nedávno ukradli. Většinou nosí střelné zbraně, ačkoli někteří dávají přednost tomu, aby mohli praštit svou oběť pěkně zblízka.</Pirate.description>
   <!-- EN: boss -->
   <Pirate.leaderTitle>boss</Pirate.leaderTitle>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>pirát</Pirate.pawnSingular>
   <!-- EN: pirates -->
-  <Pirate.pawnsPlural>pirátů</Pirate.pawnsPlural>
+  <Pirate.pawnsPlural>&#8203;pirátů</Pirate.pawnsPlural>
   
   <!-- EN: gentle tribe -->
   <TribeCivil.label>poklidný kmen</TribeCivil.label>
@@ -43,7 +43,7 @@
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>příslušník kmene</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>příslušníků kmene</TribeCivil.pawnsPlural>
+  <TribeCivil.pawnsPlural>&#8203;příslušníků kmene</TribeCivil.pawnsPlural>
   
   <!-- EN: savage tribe -->
   <TribeRough.label>divoký kmen</TribeRough.label>
@@ -54,6 +54,6 @@
   <!-- EN: tribesman -->
   <TribeRough.pawnSingular>příslušník kmene</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>příslušníků kmene</TribeRough.pawnsPlural>
+  <TribeRough.pawnsPlural>&#8203;příslušníků kmene</TribeRough.pawnsPlural>
   
 </LanguageData>

@@ -11,17 +11,16 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Sommer</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Der Sommer hat begonnen! Aber der Winter naht.\n\nDeine Ernte wird der Winterkälte nicht lange standhalten können. Stell sicher, dass Du genug Nahrungsmittel hast.\n\nDu kannst einen begehbaren Kühlraum bauen, um die Haltbarkeit der Nahrung zu erhöhen.\n\nFür Deine Kolonisten kannst Du dicke Kleidung, wie z.B. Parkas, kaufen, stehlen oder herstellen, um sie vor der Kälte zu schützen.</FirstSummerWarning>
+  <FirstSummerWarning>Der Sommer hat begonnen! Aber der Winter naht.\n\nDeine Ernte wird der Winterkälte nicht lange standhalten können. Stelle sicher, dass Du genug Nahrungsmittel hast.\n\nDu kannst einen begehbaren Kühlraum bauen, um die Haltbarkeit der Nahrung zu erhöhen.\n\nFür Deine Kolonisten kannst Du dicke Kleidung, wie z.B. Parkas, kaufen, stehlen oder herstellen, um sie vor der Kälte zu schützen.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
   <LetterRelationsChange_Hostile>Die Beziehungen zur Fraktion '{0}' haben sich verschlechtert. Sie sind jetzt Deine Feinde.\n\nSie werden regelmäßig Angriffe auf Deine Kolonie und Karawanen starten und sich weigern mit Dir zu handeln. Wenn Du die Beziehungen verbessern willst, kannst Du ihnen noch immer Geschenke mit einer Karawane oder Transportkapsel zukommen lassen.\n\nDas passierte, da Dein Ruf ({1}) unter {2} gefallen ist. Um wieder neutral zu werden, muss Dein Ruf wieder auf {3} ansteigen.</LetterRelationsChange_Hostile>
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>Die Beziehungen zur Fraktion '{0}' haben sich verbessert. Sie sehen Dich jetzt als neutrale Fraktion an und werden Dich nicht mehr angreifen.\n\nDas passierte, da Dein Ruf ({1}) über den Wert {2} angestiegen ist. Wenn das Ruf unter {3} fällt, wird {0} wieder feindlich werden. Wenn es über {4} steigt, werden sie Deine Verbündeten und kämpfen für Dich.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Die Beziehungen zur Fraktion '{0}' haben sich verbessert. Sie sehen Dich jetzt als neutrale Fraktion an und werden Dich nicht mehr angreifen.\n\nDas passierte, da Dein Ruf ({1}) über den Wert {2} angestiegen ist. Wenn der Ruf unter {3} fällt, wird {0} wieder feindlich werden. Wenn er über {4} steigt, werden sie Deine Verbündeten und kämpfen für Dich.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>Die Beziehungen zur Fraktion '{0}' haben sich verschlechtert. Sie sehen Dich jetzt nur noch als neutrale Fraktion anstatt als einen Verbündeten an.\n\nObwohl sie weiterhin friedlich mit Dir interagieren werden, werden sie keine weiteren Kämpfer zu Deiner Unterstützung schicken.\n\nDas passierte, da Dein Ruf ({1}) unter den Wert von {2} gefallen ist. Wenn das Ruf unter {3} fällt, wird {0} Dir gegenüber Feindlich werden. Wenn das Ruf über {4} steigt, sehen sie Dich wieder als ihren Verbündeten an.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Die Beziehungen zur Fraktion '{0}' haben sich verschlechtert. Sie sehen Dich jetzt nur noch als neutrale Fraktion anstatt als einen Verbündeten an.\n\nObwohl sie weiterhin friedlich mit Dir interagieren werden, werden sie keine weiteren Kämpfer zu Deiner Unterstützung schicken.\n\nDas passierte, da Dein Ruf ({1}) unter den Wert von {2} gefallen ist. Wenn der Ruf unter {3} fällt, wird {0} Dir gegenüber Feindlich werden. Wenn der Ruf über {4} steigt, sehen sie Dich wieder als ihren Verbündeten an.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Die Beziehungen zur Fraktion '{0}' haben sich verbessert. Sie sehen Dich jetzt als ihren Verbündeten an.\n\nVerbündete kommen Dir ab und zu zur Hilfe wenn Du angegriffen wirst. Du kannst sie auch jederzeit um Hilfe bitte, das kostet Dich allerdings etwas Ruf.\n\nIhr wurdet Verbündete, da Dein Ruf ({1}) über {2} gestiegen ist. Wenn das Ruf unter {3} fällt, wirst Du nur noch als neutrale Fraktion angesehen.</LetterRelationsChange_Ally>
-
+  <LetterRelationsChange_Ally>Die Beziehungen zur Fraktion '{0}' haben sich verbessert. Sie sehen Dich jetzt als ihren Verbündeten an.\n\nVerbündete kommen Dir ab und zu zur Hilfe wenn Du angegriffen wirst. Du kannst sie auch jederzeit um Hilfe bitte, das kostet Dich allerdings etwas Ruf.\n\nIhr wurdet Verbündete, da Dein Ruf ({1}) über {2} gestiegen ist. Wenn der Ruf unter {3} fällt, wirst Du nur noch als neutrale Fraktion angesehen.</LetterRelationsChange_Ally>
   <!-- EN: goodwill -->
   <goodwill>Ruf</goodwill>
   <!-- EN: Neutral -->
@@ -92,9 +91,9 @@
   <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} rächt sich</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite} wurde verletzt und greift jetzt an!\n\nEs wird jeden Menschen jagen, den es erreichen kann. Beruhigen wird es sich erst, wenn es einschläft.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>Ein Tier ({1_label}) wurde verletzt und greift jetzt an!\n\nEs wird jeden Menschen jagen, den es erreichen kann. Beruhigen wird es sich erst, wenn es einschläft.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{1_indefinite} greift aufgrund eines verbockten Zähmversuches an!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>Ein Tier ({1_label}) greift aufgrund eines verbockten Zähmversuches an!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
   <AnimalManhunterOthers>Weitere nahe stehende {1_kindBasePlural} sind auch aggressiv geworden!</AnimalManhunterOthers>
 
@@ -116,12 +115,12 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} starb: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} von der Fraktion '{1}', ist gestorben.\n\nNeuer {3} ist {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} der Fraktion '{1}', ist gestorben.\n\nNeuer {3} ist {NEWLEADER_nameFull}.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Neuer {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} ist nicht länger {3} von der Fraktion '{1}'.\n\nNeuer {3} ist {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} ist nicht länger {3} der Fraktion '{1}'.\n\nNeuer {3} ist {NEWLEADER_nameFull}.</LetterLeaderChanged>
   
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Die Ursache, die das Fass überlaufen ließ war: {0}</FinalStraw>
@@ -139,7 +138,7 @@
   <!-- EN: Read more -->
   <ReadMore>Weiterlesen</ReadMore>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>Die letzten Ereignisse im Leben von {PAWN_definite}:</LastEventsInLife>
+  <LastEventsInLife>Die letzten Ereignisse im Leben von {PAWN_definite}</LastEventsInLife>
   
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -230,7 +229,7 @@
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>{0} süchtig</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0}-süchtig</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
   <LetterNewlyAddicted>{PAWN_labelShort} wurde süchtig nach {1}.\n\n{PAWN_pronoun} benötigt jetzt {1}, sichtbar in {PAWN_possessive}em Reiter 'Bedürfnisse'. {PAWN_pronoun} wird die Droge automatisch zu sich nehmen, um {PAWN_possessive}e Bedürfnisse zu befriedigen. Wenn {PAWN_pronoun} nichts einnehmen kann, wird {PAWN_pronoun} Entzugserscheinungen bekommen.</LetterNewlyAddicted>
   
@@ -270,45 +269,45 @@
   <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
   <LetterFactionBaseDefeated>Die gegnerische Basis {0} wurde zerstört.\n\nIn {1} wird die Karawane automatisch wieder aufbrechen. \nDu kannst die Karawane auch jetzt schon aufbrechen lassen, indem Du auf der Weltkarte die zerstörte Basis markierst und die Option "Karawane zusammenstellen" auswählst.</LetterFactionBaseDefeated>
   <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>Das war die letzte Basis von {0}. Das bedeutet, dass es diese Fraktion nicht mehr gibt.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Das war die letzte Basis von '{0}'. Das bedeutet, dass es diese Fraktion nicht mehr gibt.</LetterFactionBaseDefeated_FactionDestroyed>
   
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Aufgabe abgeschlossen</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>Du hast den gegnerischen Außenposten besiegt!\n\nDie Bezahlung von {0} ist eingetroffen und die Beziehung zur Fraktion hat sich um {1} verbessert.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Du hast den gegnerischen Außenposten besiegt!\n\nDie Bezahlung von '{0}' ist eingetroffen und die Beziehung zur Fraktion hat sich um {1} verbessert.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Found lump of precious resources -->
   <!-- EN: Precious minerals found -->
   <LetterLabelFoundPreciousLump>Wertvolle Mineralien gefunden</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Beim Einsatz des Langstrecken-Mineralienscanners hat {WORKER_labelShort} einen Brocken {0} in der Nähe gefunden.\n\nUnglücklicherweise bleibt es nicht - Andere werden es in {1} Tagen abgebaut haben, wenn wir uns nicht drum kümmern.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Beim Einsatz des Langstrecken-Mineralienscanners hat {WORKER_labelShort} einen Brocken {0} in der Nähe gefunden.\n\nUnglücklicherweise wird dies nicht lange dort bleiben. Andere werden es in {1} Tagen abgebaut haben, wenn wir uns nicht darum kümmern.\n\n{2}.</LetterFoundPreciousLump>
   
   <!-- Ambush -->
   <!-- EN: Ambush -->
   <LetterLabelAmbushInExistingMap>Hinterhalt</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>Deine {0} ist in einen Hinterhalt geraten!</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>Deine {0} sind in einen Hinterhalt geraten!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>Friedensgespräche Katastrophe</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>Friedensgespräche (Katastrophe)</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
   <LetterPeaceTalks_Disaster>Die Friedensgespräche waren eine Katastrophe. Die Delegierten konnten kaum ihre einleitenden Grußworte vorbringen, als die Diskussion in Beleidigungen und Anschuldigungen zerbrach.\n\nNachdem Deine Karawane früh wieder aufgebrochen war, hatte sie {0} von {1} eingeholt und griff an!\n\nBeziehungen zu {1}: {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>Friedensgespräche fehlgeschlagen</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>Friedensgespräche (Fehlschlag)</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>Die Friedensgespräche sind gescheitert. Trotz dass Freundlichkeiten ausgetauscht wurden, konnten die Delegierten keinerlei Fortschritt bei grundlegenden Problemen erzielen, und mehrere Standpunkte wurden als Beleidigungen aufgefasst.\n\nBeziehungen zu {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Die Friedensgespräche sind gescheitert. Obwohl Freundlichkeiten ausgetauscht wurden, konnten die Delegierten keinerlei Fortschritte bei grundlegenden Problemen erzielen, und mehrere Standpunkte wurden als Beleidigungen aufgefasst.\n\nBeziehungen zu {0}: {1}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>Friedensgespräche Stillstand</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>Friedensgespräche (Stillstand)</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>Die Friedensgespräche sind nicht vorwärtsgekommen. Die Delegierten konnten sich klar und deutlich und respektvoll verständigen, schafften es aber nicht, irgendeinen Fortschritt bei den verschiedenen Problemen zu erreichen.\n\nDie Beziehungen zu {0} bleiben unverändert.</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Die Friedensgespräche sind nicht vorwärtsgekommen. Die Delegierten konnten sich klar und respektvoll verständigen, schafften es aber nicht, irgendeinen Fortschritt bei den verschiedenen Problemen zu erreichen.\n\nDie Beziehungen zu {0} bleiben unverändert.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>Friedensgespräche erfolgreich</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>Friedensgespräche (Erfolg)</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
   <LetterPeaceTalks_Success>Die Friedensgespräche waren ein Erfolg. Die Delegierten haben ein neues einvernehmliches Verständnis bei mehreren grundlegenden Problemen erreicht.\n\nDie Beziehungen zu {0} haben sich um {1} verbessert.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>Friedensgespräche Triumph</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>Friedensgespräche (Triumph)</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
   <LetterPeaceTalks_Triumph>Die Friedensgespräche waren triumphal! Die Delegierten haben sofort auf einer persönlichen Ebene zueinander gefunden und konnten die Standpunkte beider Seiten problemlos erkennen, sodass es eine Leichtigkeit war, selbst bei den schwierigsten Problemen eine einvernehmliche Lösung zu finden.\n\nDie Beziehungen zu {0} haben sich um {1} verbessert.\n\nAls Deine Karawane aufbrach, hat {0} Dir ein Geschenk angeboten:\n\n{2}.</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
@@ -323,7 +322,7 @@
   <LetterCatatonicMentalBreak>{0} hat einen kompletten Nervenzusammenbruch und ist in einem katatonischen Zustand. {0_pronoun} wird sich in ein paar Tagen wieder erholen.</LetterCatatonicMentalBreak>
 
   <!-- EN: AI Core Offer -->
-  <LetterLabelAICoreOffer>KI Kern Angebot</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>KI-Kern-Angebot</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
   <LetterAICoreOffer>{PAWN_definite} von der Fraktion '{1}' kontaktiert Dich mit einem Angebot zu folgender Information: \nDer Fundort eines KI-Kerns, welchen Du benötigst, wenn Du ein Raumschiff bauen willst. Sie informieren Dich, dass der Gegenstand sehr selten ist und normalerweise von ihren Besitzern sehr stark bewacht wird.\n\nRuf sie über die Funkanlage, falls Du interessiert bist.</LetterAICoreOffer>
 
@@ -354,7 +353,7 @@
   <!-- EN: Gift from {0} -->
   <LetterLabelVisitorsGaveGift>Geschenk von {0}</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>{0} von der Fraktion '{PAWN_factionName}' haben ein Geschenk da gelassen:\n\n{1}</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>Die {0} der Fraktion '{PAWN_factionName}' haben ein Geschenk dagelassen:\n\n{1}</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
@@ -378,7 +377,7 @@
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
   <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} jagt {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR} macht jagt auf {PREY_definite} und will {PREY_objective} fressen. Du solltest {PREY_objective} verteidigen oder in Sicherheit bringen.</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>Ein {PREDATOR_label} macht Jagd auf {PREY_definite} und will {PREY_objective} fressen. Du solltest {PREY_objective} verteidigen oder in Sicherheit bringen.</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on: {2}. -->

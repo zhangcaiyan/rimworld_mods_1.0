@@ -84,16 +84,16 @@
 
     <!-- Related pawns -->
     <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
-    <LetterRelatedPawnsRaidEnemy>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着した敵対する {1} グループにいます.\n\nたとえ彼とは血がつながっていても,彼らとは敵対する関係である以上,依然として襲ってくるつもりがあることに留意してください.\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
-    <LetterRelatedPawnsRaidFriendly>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着した友好な {1} グループにいます:</LetterRelatedPawnsRaidFriendly>
-    <LetterRelatedPawnsNeutralGroup>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
-    <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,つながりのある者が,軌道トレーダーによって売られています:</LetterRelatedPawnsTradeShip>
-    <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの{0}か,囚人と,つながりのある者が,拠点で売られています:</LetterRelatedPawnsTradingWithSettlement>
-    <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの{0}か,囚人と,つながりのある者が,他キャラバン隊によって売られています:</LetterRelatedPawnsTradingWithOtherCaravan>
-    <LetterRelatedPawnsGroupGeneric>あなたのコロニーの{0}か,囚人と,つながりのある者がグループにいます:</LetterRelatedPawnsGroupGeneric>
-    <LetterRelatedPawnsInMapWherePlayerLanded>あなたのコロニーの{0}か,囚人と,つながりのある者が,このエリアにいます.</LetterRelatedPawnsInMapWherePlayerLanded>
-    <LetterRelatedPawnsSettlement>あなたのコロニーの{0}か,囚人と,つながりのある者が,ここの拠点にいます:</LetterRelatedPawnsSettlement>
-    <LetterRelatedPawnsSite>あなたのコロニーの{0}か,囚人と,つながりのある者が,このエリアにいます:</LetterRelatedPawnsSite>
+    <LetterRelatedPawnsRaidEnemy>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着した敵対する {1} グループにいます.\n\nたとえ血が繋がっていても,敵対関係にある以上,依然として襲ってくることには,変わりが無いことに留意してください.\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
+    <LetterRelatedPawnsRaidFriendly>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着した友好な {1} グループにいます:</LetterRelatedPawnsRaidFriendly>
+    <LetterRelatedPawnsNeutralGroup>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
+    <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,軌道トレーダーによって売られています:</LetterRelatedPawnsTradeShip>
+    <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,拠点で売られています:</LetterRelatedPawnsTradingWithSettlement>
+    <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,他キャラバン隊によって売られています:</LetterRelatedPawnsTradingWithOtherCaravan>
+    <LetterRelatedPawnsGroupGeneric>あなたのコロニーの{0}か,囚人と,繋がりの有る者がグループにいます:</LetterRelatedPawnsGroupGeneric>
+    <LetterRelatedPawnsInMapWherePlayerLanded>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,このエリアにいます.</LetterRelatedPawnsInMapWherePlayerLanded>
+    <LetterRelatedPawnsSettlement>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,ここの拠点にいます:</LetterRelatedPawnsSettlement>
+    <LetterRelatedPawnsSite>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,このエリアにいます:</LetterRelatedPawnsSite>
 
     <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
     <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} は入植者と血縁関係にあります.{PAWN_pronoun}は {RELATIVE_labelShort}の {1}です.</RelationshipAppendedLetterTextColonist>
@@ -133,8 +133,8 @@
     <LetterNewParty>{1_labelShort}は, パーティを催しています!.みんな会話や娯楽を楽しむでしょう,これは"心情"を高める効果が長く続きます.</LetterNewParty>
 
     <!-- Newly addicted -->
-    <LetterLabelNewlyAddicted>{0} 中毒</LetterLabelNewlyAddicted>
-    <LetterNewlyAddicted>{PAWN_labelShort}は, {1}中毒を 患いました.\n\n{PAWN_pronoun} は, {1}欲求状態であることが, {PAWN_possessive}「欲求」タブで見て取れます. {PAWN_pronoun} は,{PAWN_possessive}欲求を満たすために,勝手にドラッグを消費するようになります. もし{PAWN_pronoun}が, {1}を手に入れられなければ, {PAWN_pronoun}には,禁断症状が起きるでしょう.</LetterNewlyAddicted>
+    <LetterLabelNewlyAddicted>{0}依存症</LetterLabelNewlyAddicted>
+    <LetterNewlyAddicted>{PAWN_labelShort}は,{1}依存症を患いました.\n\n今や{PAWN_pronoun}には{1}に対する欲求があり,それは{PAWN_possessive}「欲求」タブで見て取れます. {PAWN_pronoun}は自身の欲求を満たすために,勝手にドラッグを消費するようになります. もし{PAWN_pronoun}が{1}を手に入れられなければ,{PAWN_pronoun}は離脱症状を起こすことになるでしょう.</LetterNewlyAddicted>
 
     <!-- Drug binge -->
     <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>

@@ -7,17 +7,17 @@ nourriture
 midi
 habitudes alimentaires
 aliments salés
-aliment sucrés
+aliments sucrés
 aliments épicés
 aliments amers
 
-coupes de cheveux préférés
+coupes de cheveux préférées
 vêtements préférés
 coiffures
 mode
 maquillage
-barbes
-pilosité faciales
+barbe
+pilosité faciale
 
 petits boulots
 jeux pour enfants
@@ -33,7 +33,7 @@ belles personnes
 grosses personnes
 grandes personnes
 personnes de petite taille
-guilty pleasures
+pêchés mignons
 vomissement
 nourriture
 natation
@@ -46,7 +46,7 @@ gros animaux
 animaux domestiques
 
 bêtes noires
-ennuies de la vie
+ennuis de la vie
 blanchisserie
 transpiration
 
@@ -62,7 +62,7 @@ récréation
 amoureux
 amour
 racine de vie
-chirurgie ratées
+chirurgies ratées
 vomissement
 jeux de société
 jeux informatiques

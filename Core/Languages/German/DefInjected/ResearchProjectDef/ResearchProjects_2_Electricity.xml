@@ -37,7 +37,7 @@
   <Firefoam.description>Errichte Löschschaumwerfer, automatische Brandschutzgeräte, die einen feuerhemmenden Schaum versprühen, um Flammen aufzuhalten.</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>Flak Rüstung</FlakArmor.label>
+  <FlakArmor.label>Schutzrüstung</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
   <FlakArmor.description>Produziere Kleidung mit eingearbeiteter Metallrüstung, um Kugeln und Explosionen widerstehen zu können. Diese Kleidung ist schwerer und verlangsamt den Benutzer etwas.</FlakArmor.description>
   
@@ -117,7 +117,7 @@
   <TubeTelevision.description>Stelle Röhrenfernseher her. Es geht nichts über einen guten Film zum Entspannen.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>Wasserkraft Generator</WatermillGenerator.label>
+  <WatermillGenerator.label>Wasserkraft- Generator</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
   <WatermillGenerator.description>Erlaubt den Bau von Wasserkraft-Generatoren an Flüssen für eine stetige Energieversorgung.</WatermillGenerator.description>
   

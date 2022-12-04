@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>test mod</name>
-  <author>zcy</author>
+  <name>A_TEST_MOD</name>
+  <author>我和熊猫</author>
   <url>http://www.baidu.com</url>
-  <description>我的测试mod</description>
+  <targetVersion>1.0.0</targetVersion>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
     <li>1.3</li>
   </supportedVersions>
+  <description>我的测试mod</description>
 </ModMetaData>

@@ -35,7 +35,6 @@ Maus
 Nachtigall
 Eule
 Auster
-Rebhuhn
 Wachtel
 Ratte
 Sardine
@@ -51,3 +50,4 @@ Schildkröte
 Viper
 Wühlmaus
 Wespe
+Eidechse

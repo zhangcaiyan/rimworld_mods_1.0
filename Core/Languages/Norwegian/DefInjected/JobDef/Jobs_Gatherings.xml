@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <MarryAdjacentPawn.reportString>Marrying TargetA.</MarryAdjacentPawn.reportString>
-    
-    <SpectateCeremony.reportString>Attending a ceremony.</SpectateCeremony.reportString>
-    
-    <StandAndBeSociallyActive.reportString>Relaxing socially.</StandAndBeSociallyActive.reportString>
-    
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>gifter seg med TargetA.</MarryAdjacentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>følger med .</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>mingler.</StandAndBeSociallyActive.reportString>
+  
 </LanguageData>

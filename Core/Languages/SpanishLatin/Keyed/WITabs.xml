@@ -32,8 +32,8 @@
   <AbandonAllTip>Abandonar (todos)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Los objetos abandonados se desvanecerán y no podrán ser recuperados jamás.</AbandonItemTipExtraText>
-  <!-- EN: {0} will most likely die. -->
-  <BanishTipWillDie>{0} probablemente morirá.</BanishTipWillDie>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} probablemente morirá.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>útočí na blízko na: TargetA</AttackMelee.reportString>
+  <AttackMelee.reportString>útočí zblízka na: TargetA</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
   <AttackStatic.reportString>útočí na: TargetA</AttackStatic.reportString>
@@ -125,7 +125,7 @@
   <TradeWithPawn.reportString>obchoduje s: TargetA</TradeWithPawn.reportString>
   
   <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>spouští hasící přístroj.</TriggerFirefoamPopper.reportString>
+  <TriggerFirefoamPopper.reportString>aktivuje protipožární zařízení.</TriggerFirefoamPopper.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>vykládá: TargetA</UnloadInventory.reportString>

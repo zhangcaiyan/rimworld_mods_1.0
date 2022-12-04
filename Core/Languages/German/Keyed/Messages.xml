@@ -9,7 +9,7 @@
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
   <MessageRaidersDetectedEarlyAssault>{0} der Fraktion '{1}' haben Dich gesehen und greifen an.</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} der Fraktion '{1}' haben sich entschieden jeden in der Nähe zu entführen und das Gebiet zu verlassen.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} der Fraktion '{1}' haben sich entschieden, jeden in der Nähe zu entführen und das Gebiet zu verlassen.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} der Fraktion '{1}' haben sich entschieden, alles, was sie können, mitzunehmen und das Gebiet zu verlassen.</MessageRaidersStealing>
 
@@ -87,7 +87,7 @@
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
   <MessageMustDesignateHaulable>Muss tragbaren Gegenständen zugewiesen sein. Einige Gegenstände sind immer tragbar und können nicht zugewiesen werden.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>Muss abbaubarem unpassierbarem Felsen zugewiesen sein.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Muss abbaubarem, unpassierbarem Felsen zugewiesen sein.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
   <MessageMustDesignateHuntable>Muss jagdbaren Tieren zugewiesen sein.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
@@ -99,17 +99,17 @@
   <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>Höhlendecken können nicht entfernt werden.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>Das ist bereits im Lager und wird bei Bedarf in ein anderes mit höherer Priorität verlegt werden.</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>Das ist bereits im Lager und wird bei Bedarf in ein anderes mit höherer Priorität verlegt.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>Kann nur auf Leichen oder bewusstlose Charaktere angewandt werden, die ausziehbare Ausrüstung besitzen.</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Kann nur auf Leichen oder bewusstlose Charaktere angewandt werden, die ausziehbare Bekleidung besitzen.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>Kann nur auf gezähmten Tieren der Kolonie angewendet werden.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Kann nur auf gezähmte Tiere der Kolonie angewandt werden.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>Kann nur auf Behälter oder gefüllte Gräber angewendet werden.</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Kann nur auf Behälter oder gefüllte Gräber angewandt werden.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>Kann nur auf erlaubte Gegenstände angewendet werden.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>Kann nur auf erlaubte Gegenstände angewandt werden.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>Kann nur auf verbotene Gegenstände angewendet werden.</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>Kann nur auf verbotene Gegenstände angewandt werden.</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} hat sich der Gefangennahme widersetzt!</MessageRefusedArrest>
@@ -152,21 +152,21 @@
   <MessageGaveBirth>{0} hat ein Junges zur Welt gebracht.</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} benennt '{1}' in '{NAMEE_nameFull}' um, nachdem es gehätschelt wurde.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} benannte '{1}' in '{NAMEE_nameFull}' um, nachdem es gehätschelt wurde.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Kein Tierpfleger kann {ANIMAL_kindBase} zähmen (benötigt Stufe {1} bei {2}, bester Pfleger {HANDLER_labelShort} hat {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{EATEN_labelShort} wurde von {PREDATOR} gefressen.</MessageEatenByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} wurde von einem {PREDATOR_label} gefressen.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREY_labelShort} wird von {PREDATOR} angegriffen!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} wird von einem {PREDATOR_label} angegriffen!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Eine Käferkolonie hat sich vermehrt.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>Die Handelskarawane aus {0} zieht weiter.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>Die Handelskarawane der Fraktion '{0}' zieht weiter.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
   <MessageCantSelectDeadPawn>{1_labelShort} ist gestorben.</MessageCantSelectDeadPawn>
@@ -247,7 +247,7 @@
   <MessageCaravanMemberHasExtremeMentalBreak>Jemand aus der Karawane hat einen Nervenzusammenbruch.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>Warnung: Einen ganzen Planeten zu generieren kann sehr lange dauern.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Warnung: Einen ganzen Planeten zu generieren, kann sehr lange dauern.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>{0} ist erfroren.</MessagePlantDiedOfCold>
@@ -258,7 +258,7 @@
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>{0} ist verrottet.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} ist aufgrund vom Gift eingegangen.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} ist aufgrund von Gift eingegangen.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
   <MessagePlantDiedOfBlight>{1_label} ist aufgrund der Fäulnis eingegangen.</MessagePlantDiedOfBlight>
 
@@ -428,9 +428,9 @@
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Du kannst die Karte momentan nicht verlassen.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
-  <MessageGoodwillChanged>Beziehungen zu {0} haben sich von {1} zu {2} geändert.</MessageGoodwillChanged>
+  <MessageGoodwillChanged>Die Beziehungen zur Fraktion '{0}' haben sich von {1} zu {2} geändert.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>Beziehungen zu {0} haben sich von {1} zu {2} geändert ({3}).</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>Die Beziehungen zur Fraktion '{0}' haben sich von {1} zu {2} geändert ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
   <GoodwillChangedReason_AttackedPawn>griff {1_labelShort} an</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
@@ -450,7 +450,7 @@
   <!-- EN: attacked a caravan -->
   <GoodwillChangedReason_AttackedCaravan>griff eine Karawane an</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>Natürliche Tendenz, um im Laufe der Zeit {0} zu erreichen</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>natürliche Tendenz, um im Laufe der Zeit {0} zu erreichen</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
   <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} hat das Gebiet gesund verlassen</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
@@ -501,7 +501,7 @@
   <MessageEnterCooldownBlocksEntering>Du kannst für die nächsten {0} Tage nicht wieder eintreten.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} macht Jagd auf {PREY_definite}!</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>Ein {PREDATOR_label} macht Jagd auf {PREY_definite}!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>{WARDEN_labelShort} hat den Widerstand von {PRISONER_labelShort} gebrochen.</MessagePrisonerResistanceBroken>

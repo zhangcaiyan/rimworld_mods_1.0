@@ -209,7 +209,7 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Bietet Geschenke an {0}.</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Verunreinigt da von einer Leiche getragen.</WasWornByCorpse>
+  <WasWornByCorpse>Verunreinigt, da von einer Leiche getragen.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>V</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -223,7 +223,7 @@
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} bis Abreise</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Deine Kolonisten bilden automatisch die Karawane und verlassen dieses Gebiet in ca. {0}.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Deine Kolonisten bilden automatisch die Karawane und verlassen dieses Gebiet in ca. {0}n.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
   <Room>Raum</Room>
   <!-- EN: Beauty here -->
@@ -261,7 +261,7 @@
   <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>ausgerüstet von {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} will das zerstört sehen.\n    Belohnung: {1} ({2}).</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} will/wollen das zerstört sehen.\n    Belohnung: {1} ({2}).</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Verbleibende Zeit: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
@@ -329,7 +329,7 @@
   <!-- EN: captured by {0} -->
   <capturedBy>gefangen von {0}</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>deine Karawane</yourCaravan>
+  <yourCaravan>Deine Karawane</yourCaravan>
   <!-- EN: {0} wildness -->
   <CreatureWildness>{0} Wildheit</CreatureWildness>
   <!-- EN: {0} trainability -->
@@ -535,7 +535,7 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>Stell {0} her</RecipeMake>
+  <RecipeMake>Stelle {0} her</RecipeMake>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Stelle {0} her.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -617,7 +617,7 @@
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Stromversorgung fehlt.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Netzwerk verbleibend/gespeichert: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Stromnetz (überschüssig/gespeichert): {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Leistung benötigt</PowerNeeded>
   <!-- EN: Power output -->
@@ -751,7 +751,7 @@
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>Schalte die Kolonistenanzeige ein/aus.\n\nZeigt Bilder und den Grundzustand aller Kolonisten am oberen Bildschirmrand an.\n\nDu kannst die Kolonisten in der Kolonistenleiste mit Rechts-Klick + Verschieben umsortieren.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Schalte das automatische Erweitern des Heimgebietes bei neuen Konstruktionen ein/aus.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Schalte das automatische Erweitern des Heimatgebietes bei neuen Konstruktionen ein/aus.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
   <AutoRebuildButton>Schalte das automatische Wiederaufbauen von zerstörten Strukturen im Heimatgebiet ein/aus.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
@@ -845,9 +845,9 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponenten noch nicht bereit</ShipReportNotReady>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>Charlon Whitestone ist bereit, die Aktivierungssequenz des Reaktors einzuleiten.\n\nEr warnt Dich, dass die Startup-Prozedur 15 Tage dauern kann und die Energiesignatur über weite Entfernungen messbar sein wird.\n\nDiese Art von Energiesignatur deutet auf interstellare Raumflugfähigkeit hin und wird ganze Gruppen von verzweifelten Räubern und Mechanoiden anlocken.\n\nDu wirst mit einer Stärke angegriffen, die Du bisher noch nicht gesehen hast. Stell sicher, dass Deine Verteidigung steht, bevor Du die Systeme hochfährst.</HibernateWarning>
+  <HibernateWarning>Charlon Whitestone ist bereit, die Aktivierungssequenz des Reaktors einzuleiten.\n\nEr warnt Dich, dass die Startup-Prozedur 15 Tage dauern kann und die Energiesignatur über weite Entfernungen messbar sein wird.\n\nDiese Art von Energiesignatur deutet auf interstellare Raumflugfähigkeit hin und wird ganze Gruppen von verzweifelten Räubern und Mechanoiden anlocken.\n\nDu wirst mit einer Stärke angegriffen, die Du bisher noch nicht gesehen hast. Stelle sicher, dass Deine Verteidigung steht, bevor Du die Systeme hochfährst.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>Der Reaktor ist bereit hochgefahren zu werden.\n\nDie Startup-Prozedur kann 15 Tage dauern und die Energiesignatur wird über weite Entfernungen messbar sein. \nDiese Art von Energiesignatur deutet auf interstellare Raumflugfähigkeit hin und wird ganze Gruppen von verzweifelten Räubern und Mechanoiden anlocken.\n\nDu wirst mit einer Stärke angegriffen, die Du bisher noch nicht gesehen hast. Stell sicher, dass Deine Verteidigung steht, bevor Du die Systeme hochfährst.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>Der Reaktor ist bereit hochgefahren zu werden.\n\nDie Startup-Prozedur kann 15 Tage dauern und die Energiesignatur wird über weite Entfernungen messbar sein. \nDiese Art von Energiesignatur deutet auf interstellare Raumflugfähigkeit hin und wird ganze Gruppen von verzweifelten Räubern und Mechanoiden anlocken.\n\nDu wirst mit einer Stärke angegriffen, die Du bisher noch nicht gesehen hast. Stelle sicher, dass Deine Verteidigung steht, bevor Du die Systeme hochfährst.</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>Charlon Whitestone ist bereit, die Aktivierungssequenz des Reaktors einzuleiten. Er warnt Dich, dass die Startup-Prozedur 15 Tage dauern kann.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->

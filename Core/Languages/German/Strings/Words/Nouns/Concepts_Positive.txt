@@ -1,23 +1,18 @@
-﻿Hoffnung
+﻿//Früher genutzt: Familie, Fülle, Umarmung, Weiterentwicklung, Intimität, Gunst, Ehrsamkeit, Eleganz, Anstrengung, Bruderschaft, Kooperation
+Hoffnung
 Liebe
 Stärke
-Anstrengung
-Familie
 Treue
 Utopie
 Freude
 Fröhlichkeit
 Glückseligkeit
 Standhaftigkeit
-Fülle
-Umarmung
-Weiterentwicklung
+Umarmungen
 Zufriedenheit
 Zweisamkeit
-Gemeinschaft
 Zuneigung
 Verbundenheit
-Intimität
 Kameradschaft
 Freundschaft
 Gutmütigkeit
@@ -29,9 +24,5 @@ Gnade
 Sympathie
 Ehre
 Güte
-Gunst
-Ehrsamkeit
-Eleganz
-Bruderschaft
 Sicherheit
-Kooperation
+Schokolade

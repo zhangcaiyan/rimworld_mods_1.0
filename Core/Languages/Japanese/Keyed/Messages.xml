@@ -89,7 +89,7 @@
     <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
     <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
 
-    <MessageNuzzledPawnGaveNameTo>{NAMEE_nameFull}が 懐いたので,{NAMER_nameFull}は "{1}"と名前をつけました.</MessageNuzzledPawnGaveNameTo>
+    <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
     <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手なずけられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
 
@@ -193,7 +193,7 @@
 
     <MessageReformedCaravan>キャラバン隊を再編成しました.</MessageReformedCaravan>
 
-    <MessageCantBanishLastColonist>最後の一人を放棄することはできません.</MessageCantBanishLastColonist>
+    <MessageCantBanishLastColonist>最後の一人を追放することはできません.</MessageCantBanishLastColonist>
 
     <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
     <MessageCantEquipIncapableOfManipulation>装備不可:欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
@@ -296,7 +296,7 @@
     <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
     <MessageAnimalLostSkill>定期的に訓練していなかったので {ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
 
-    <MessageTranslationReportSaved>翻訳結果レポートを{0}に書きました.</MessageTranslationReportSaved>
+    <MessageTranslationReportSaved>翻訳ファイルの検証結果を{0}に出力しました.</MessageTranslationReportSaved>
 
     <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
 
@@ -313,5 +313,7 @@
     <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
     <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+
+    <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
 
 </LanguageData>

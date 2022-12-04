@@ -1,7 +1,7 @@
 ﻿dětství
 dětských obavách
 láskách z dětství
-zážitcích z dětsví
+zážitcích z dětství
 životě
 životních výzvách
 životních odměnách
@@ -9,7 +9,7 @@ zážitcích z dětsví
 životních cílech
 životních výčitkách svědomí
 životních stresech
-zklamání života
+životních zklamáních
 nesmyslnosti života
 životních náhodách
 naději
@@ -27,7 +27,7 @@ nevyhnutelnosti smrti
 smrti jako vysvobození
 posmrtném životě
 smrti milovaných
-chybějících přátelech
+chybějících přátelích
 
 dobročinnosti
 lidumilství
@@ -99,8 +99,8 @@ svobodě projevu
 etnicitě
 liberalismu
 nevyhnutelnosti utrpení
-the nature of knowledge
-the nature of emotion
+podstatě poznání
+podstatě emoce
 
 osudu
 osudu lidstva

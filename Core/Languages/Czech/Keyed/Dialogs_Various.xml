@@ -102,11 +102,11 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(trvalá smrt)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>Hra běží ve verzi {0}, ale uložená data jsou z verze {1}, což je naprosto jiná verze.\n\nPokus o načtení těchto dat pravděpodobně nebude fungovat.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>Hra aktuálně běží na verzi {0}, ale uložená data jsou z verze {1}, což je naprosto jiná verze.\n\nPokus o načtení těchto dat pravděpodobně nebude fungovat.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>Hra běží ve verzi {0}, ale uložená data jsou z verze {1}, což je jiné sestavení.\n\nPokus o načtení těchto dat i tak může fungovat.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>Hra aktuálně běží na verzi {0}, ale uložená data jsou z verze {1}, což je jiné sestavení.\n\nPokus o načtení těchto dat by i přesto mělo fungovat.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>Uložená data byla uložena ve stejné verzi jako současná hra a měla by bez potíží fungovat.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>Uložená data byla uložena ve stejné verzi hry jako aktuální verze a měla by bez problému fungovat.</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>Uložená data jsou v neznámém formátu a téměř jistě se nenačtou správně.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
@@ -114,7 +114,7 @@
   <!-- EN: Load anyway -->
   <LoadAnyway>Přesto načíst</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Načíst seznam módů z uložené pozice</ChangeLoadedMods>
+  <ChangeLoadedMods>Načíst seznam módů\nz uložené pozice</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Některé módy nejsou k dispozici a je třeba je nainstalovat</MissingMods>
   
@@ -166,11 +166,11 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Neshoda módů</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>Tento soubor byl uložen s odlišnou sadou aktivních módů než ty, které jsou spuštěny nyní. Tohle může, ale také nemusí, způsobovat problémy, v závislosti na tom, co tyto módy dělají.\n\nSoubor byl uložen s módy (v tomto pořadí):\n\n{0}\n\nTeď jsou spuštěny tyto módy (v tomto pořadí):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Tento soubor byl uložen s odlišnou sadou aktivních módů než ty, které jsou spuštěny nyní. To může, ale také nemusí, způsobovat problémy, v závislosti na tom, co tyto módy dělají.\n\nSoubor byl uložen s těmito módy v tomto pořadí:\n\n{0}\n\nNyní máš aktivní tyto módy v tomto pořadí:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>Změnil jsi své nastavení obrazovky. Pracuje to nové správně?\n\nAutomatická změna zpět za {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>Změnil jsi své nastavení obrazovky. Funguje to nové správně?\n\nAutomatická změna zpět za {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>Zachovat</ResolutionKeep>
   <!-- EN: Revert -->
@@ -307,11 +307,11 @@
   <!-- EN: Burst shot count -->
   <BurstShotCount>Počet střel v dávce</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Příprava</WarmupTime>
+  <WarmupTime>Doba přípravy</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Příprava na blízko</MeleeWarmupTime>
+  <MeleeWarmupTime>Doba přípravy (boj zblízka)</MeleeWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>Znovupoužití</CooldownTime>
+  <CooldownTime>Prodleva mezi útoky</CooldownTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Kadence</BurstShotFireRate>
   <!-- EN: Range -->
@@ -477,17 +477,17 @@
   <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Nic dalšího k prodeji.</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Obchodník tohle není ochotný odkoupit.</TraderWillNotTrade>
+  <TraderWillNotTrade>Obchodník není ochotný tohle odkoupit.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Vyjednavač</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>Tvůj vyjednavač {1_labelShort} špatně mluví, protože na tom není zrovna dobře.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>{1_labelShort}, jakožto {1_gender? tvůj : tvá} {1_gender? vyjednavač : vyjednavačka}, kvůli zhoršenému zdravotnímu stavu špatně mluví.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>Tvůj vyjednavač {1_labelShort} špatně slyší, protože na tom není zrovna dobře.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>{1_labelShort}, jakožto {1_gender? tvůj : tvá} {1_gender? vyjednavač : vyjednavačka}, kvůli zhoršenému zdravotnímu stavu špatně slyší.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>To bude mít vliv na obchodní ceny.\n\nZvaž použití zdravějšího vyjednavače.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>Obchodník nemá dostatek stříbra, aby plně pokryl tento obchod. Chceš pokračovat i tak?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>Obchodník nemá dostatek stříbra, aby tuto transakci plně pokryl. Chceš i přesto pokračovat?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>Třídit dle</SortBy>
   <!-- EN: trader type -->
@@ -633,7 +633,7 @@
   <!-- EN: (for {0} more days) -->
   <PossibleToGrazeFor>(dalších {0} dnů)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>(navždy)</PossibleToGrazeForever>
+  <PossibleToGrazeForever>(stále)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->

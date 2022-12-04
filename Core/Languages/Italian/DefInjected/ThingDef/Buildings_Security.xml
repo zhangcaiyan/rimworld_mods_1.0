@@ -4,7 +4,7 @@
   <!-- EN: mortar -->
   <Artillery_Mortar.label>mortaio</Artillery_Mortar.label>
   <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
-  <Artillery_Mortar.description>Un mortaio. lancia bombe oltre le mura. Molto impreciso ma a lungo raggio.</Artillery_Mortar.description>
+  <Artillery_Mortar.description>Un mortaio. Lancia bombe oltre le mura. Molto impreciso ma a lungo raggio.</Artillery_Mortar.description>
   <!-- EN: mortar -->
   <Artillery_Mortar.verbs.Verb_Shoot.label>mortaio</Artillery_Mortar.verbs.Verb_Shoot.label>
   
@@ -41,7 +41,7 @@
   <!-- EN: sandbags -->
   <Sandbags.label>sacchi di sabbia</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
-  <Sandbags.description>Sacchi si terra o sabbia del posto tenuti fermi da barre di acciaio. I sacchi di sabbia sono brutti, ma forniscono una eccellente copertura dagli attacchi a distanza.</Sandbags.description>
+  <Sandbags.description>Sacchi di terra o sabbia del posto tenuti fermi da barre di acciaio. I sacchi di sabbia sono brutti, ma forniscono una eccellente copertura dagli attacchi a distanza.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>mina ad antimateria</TrapIED_AntigrainWarhead.label>
@@ -91,7 +91,7 @@
   <!-- EN: Barrel durability -->
   <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Durata canna</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
-  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Colpi prima della sostituzione cann</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Colpi prima della sostituzione canna</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new barrel -->
   <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Impossibile sparare: Richiede nuova canna</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
   

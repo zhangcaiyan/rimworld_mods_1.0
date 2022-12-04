@@ -83,7 +83,7 @@
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>низкий навык Животноводства, требуется {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>животное повержено</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>животное сражено</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
   <CantInteractAnimalAsleep>животное спит</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
@@ -147,12 +147,12 @@
   <CannotRescue>Невозможно спасти</CannotRescue>
 
   <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Перенести {1_label} в контейнер криптосна</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Перенести {1_label} в саркофаг криптосна</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>Невозможно перенести в контейнер криптосна</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Невозможно перенести в саркофаг криптосна</CannotCarryToCryptosleepCasket>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>Нет доступных контейнеров криптосна.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>Нет доступных саркофагов криптосна.</NoCryptosleepCasket>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Нет доступных свободных кроватей для пленников в закрытом помещении с безопасной температурой.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -283,17 +283,17 @@
   <!-- EN: Approaching {0} -->
   <ApproachingSite>Идёт к {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>Предложить подарок</OfferGifts>
+  <OfferGifts>Вручить подарок</OfferGifts>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>Войти в контейнер криптосна</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>Лечь в саркофаг криптосна</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
-  <OpenCryptosleepCasket>Открыть контейнер криптосна</OpenCryptosleepCasket>
+  <OpenCryptosleepCasket>Открыть саркофаг криптосна</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Невозможно {0} {2_labelShort}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Невозможно {0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Невозможно {0}</CannotGenericWorkCustom>
 
@@ -363,9 +363,9 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Увеличить {0} и указать место посадки</LandInExistingMap>
+  <LandInExistingMap>Увеличить масштаб и указать место посадки</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>Содержимое будет безвозвратно утеряно</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>Груз будет безвозвратно потерян</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
   <FormCaravanHere>Снарядить караван сюда</FormCaravanHere>
   <!-- EN: Give to {0} -->

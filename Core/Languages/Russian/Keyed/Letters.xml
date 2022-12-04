@@ -14,13 +14,13 @@
   <FirstSummerWarning>Началось лето! Но зима всё ближе.\n\nИмейте в виду: ваши посевы не будут расти в холод, а потому убедитесь, что запасов продовольствия хватит на всю зиму. Чтобы еда не портилась, можно построить для неё помещение с охлаждением.\n\nИ постарайтесь купить, украсть или сделать несколько пуховиков, иначе с наступлением зимы вы замёрзнете, едва высунувшись наружу.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>Отношения с фракцией {0} прекращены. Теперь они враждебны по отношению к вам.\n\nОни не будут торговать с вами. Более того, периодически они будут нападать на ваши поселения и караваны. Если вы желаете улучшить их отношения, то всё ещё можно отправить им подарок с караваном или транспортной капсулой.\n\nЭто произошло, поскольку ваша репутация ({1}) в их глазах упала ниже {2}. Для улучшения отношений нужно вновь заслужить репутацию {3}.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_Hostile>Отношения с фракцией {0} прекращены. Теперь они враждебны по отношению к вам.\n\nОни не будут торговать с вами. Более того, периодически они будут нападать на ваши поселения и караваны. Если вы желаете улучшить ваши отношения, то всё ещё можно отправить им подарок с караваном или транспортной капсулой.\n\nЭто произошло, поскольку ваша репутация в их глазах упала до {2} или ниже, и равняется {1}. Для улучшения отношений нужно вновь заслужить репутацию как минимум до {3} единиц.</LetterRelationsChange_Hostile>
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>Отношения с фракцией {0} улучшились. Они более не враждебны по отношению к вам.\n\nЭто произошло, поскольку ваша репутация ({1}) выросла выше {2} единиц. Если она упадёт ниже {3}, {0} снова станут вашими врагами. Если вы заслужите репутации {4} и выше, они станут вашими союзниками и будут сражаться на вашей стороне.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Отношения с фракцией {0} улучшились. Они более не враждебны по отношению к вам.\n\nЭто произошло, поскольку ваша репутация выросла до {2} единиц или выше. Сейчас она равняется {1}. Если она упадёт до {3}, фракция {0} снова станет вашим врагом. Если вы заслужите репутацию {4} или выше, они станут вашими союзниками и будут сражаться на вашей стороне.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>Отношения с фракцией {0} охладели. Теперь они относятся к вам нейтрально.\n\nОни не будут нападать на вас, но и не пришлют подмогу в случае опасности.\n\nЭто произошло, поскольку ваша репутация ({1}) в их глазах опустилась ниже {2}. Если она упадёт до {3}, {0} станут враждебны к вам. Если вы сумеете заслужить репутацию выше {4}, они снова станут вашими союзниками.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Отношения с фракцией {0} охладели. Теперь они относятся к вам нейтрально.\n\nОни не будут нападать на вас, но и не пришлют подмогу в случае опасности.\n\nЭто произошло, поскольку ваша репутация в их глазах опустилась до {2} или ниже. Сейчас она равняется {1}. Если она упадёт до {3}, фракция {0} станет враждебной по отношению к вам. Если вы сумеете заслужить репутацию хотя бы до значения {4}, они снова станут вашими союзниками.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Отношения с фракцией {0} стали очень тёплыми. Теперь они считают вас своими союзниками.\n\nЕсли на вас нападут враги, то они иногда будут присылать вам подмогу. Вы и сами можете их вызвать, но в ущерб репутации.\n\nВы стали союзниками, поскольку вы смогли заслужить репутацию выше {2}. Сейчас она равняется {1}. Если репутация опустится ниже {3}, отношения снова станут нейтральными.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Отношения с фракцией {0} стали очень тёплыми. Теперь они считают вас своими союзниками.\n\nЕсли на вас нападут враги, то они иногда будут присылать вам подмогу. Вы и сами можете их вызвать, но в ущерб репутации.\n\nВы стали союзниками, поскольку ваша фракция смогла заслужить репутацию {2} или выше. Сейчас она равняется {1}. Если репутация опустится до {3}, отношения снова станут нейтральными.</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
   <goodwill>репутация</goodwill>
@@ -54,7 +54,7 @@
   <RecruitFail>У {0} не получается завербовать {1} (вероятность успеха — {2}).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} — {1} {RELATIVE_labelShort}. Если {PAWN_nameDef} умрёт, {RELATIVE_labelShort} будет долго пребывать в боли и скорби. Однако если {PAWN_possessive} получится спасти, {RELATIVE_labelShort} будет очень этому {RELATIVE_gender : рад : рада}.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} — {1} {RELATIVE_labelShort}. Если {PAWN_nameDef} умрёт, {RELATIVE_labelShort} будет долго пребывать в боли и скорби. Однако если {PAWN_possessive} получится спасти, {RELATIVE_labelShort} будет очень этому {RELATIVE_gender ? рад : рада}.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>День рождения</LetterLabelBirthday>
@@ -75,11 +75,11 @@
   <NewPartDiseaseAnimal>У {PAWN_labelShort} {3}. Место обнаружения инфекции — {PAWN_possessive} {1}</NewPartDiseaseAnimal>
 
   <!-- EN: {1_labelShort} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{1_labelShort} — {PAWN_gender ? ваш : ваша} {PAWN_gender ? бывший : бывшая } {PAWN_gender ? поселенец : поселенка}.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{1_labelShort} — {1_gender ? ваш : ваша} {1_gender ? бывший : бывшая } {1_gender ? поселенец : поселенка}.</PawnWasFormerlyColonist>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
   <PawnHasTheseRelationshipsWithColonists>{1_labelShort} имеет следующие отношения с вашими поселенцами:</PawnHasTheseRelationshipsWithColonists>
   <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again. -->
-  <PrisonerRescueTimeout>Через {0} дней лагерь исчезнет. Если вы упустите эту возможность, вы рискуете больше никогда не увидеть {PRISONER_labelShort}.</PrisonerRescueTimeout>
+  <PrisonerRescueTimeout>Через ^Number( {0} | '# день' | '# дня' | '# дней')^ лагерь исчезнет. Если вы упустите эту возможность, вы рискуете больше никогда не увидеть {PRISONER_labelShort}.</PrisonerRescueTimeout>
 
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Древняя опасность</LetterLabelAncientShrineWarning>
@@ -220,7 +220,7 @@
   <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>Побег</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>Пленники организовали побег! Каким-то образом они сломали замок и выбрались наружу. Они могут начать искать оружие, затеять драку или попытаться убежать. Беглецы:\n\n{0}\n\Пленники вероятнее всего будут пытаться устроить побег, если они здоровы и когда их много.</LetterPrisonBreak>
+  <LetterPrisonBreak>Пленники организовали побег! Каким-то образом они сломали замок и выбрались наружу. Они могут начать искать оружие, затеять драку или попытаться убежать. Беглецы:\n\n{0}\n\nПленники вероятнее всего будут пытаться устроить побег, если они здоровы и когда их много.</LetterPrisonBreak>
   
   <!-- Party -->
   <!-- EN: Party -->
@@ -282,7 +282,7 @@
   <!-- EN: Precious minerals found -->
   <LetterLabelFoundPreciousLump>Найдены драгоценные минералы</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>При помощи сканера дальнего действия {WORKER_labelShort} обнаруживает неподалёку {0}.\n\nК сожалению, этот ценный ресурс ли надолго останется нетронутым: через {1} дней его наверняка выкопают другие.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>При помощи сканера дальнего действия {WORKER_labelShort} обнаруживает неподалёку {0}.\n\nК сожалению, этот ценный ресурс вряд ли надолго останется нетронутым: через ^Number( {1} | '# день' | '# дня' | '# дней')^ его наверняка выкопают другие.\n\n{2}.</LetterFoundPreciousLump>
   
   <!-- Ambush -->
   <!-- EN: Ambush -->
@@ -312,7 +312,7 @@
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
   <LetterPeaceTalks_Triumph>Это был настоящий триумф! Делегаты быстро нашли общий язык. Им удалось рассмотреть имеющие место проблемы с разных точек зрения. Даже по самым тяжёлым вопросам повестки дня было найдено решение, устраивающее обе стороны.\n\nОтношения с фракцией {0} улучшились на {1}.\n\nКогда ваш караван готовился к пути, представитель фракции {0} вручил вам подарок:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>{PAWN_labelShort}, ваш переговорщик, повысил свой социальный опыт на {1}.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, ваш переговорщик, {PAWN_gender ? повысил : повысила} свой социальный опыт на {1}.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back. -->
@@ -330,7 +330,7 @@
   <!-- EN: Legendary Work -->
   <LetterCraftedLegendaryLabel>Легендарное Творение</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort}, {WORKER_gender ? создал : создала}  {CRAFTED_labelShort} легендарного качества.\n\nВесть об артефакте такой ценности скоро охватит весь мир.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort}, {WORKER_gender ? создал : создала} {CRAFTED_labelShort} легендарного качества.\n\nВесть об артефакте такой ценности скоро охватит весь мир.</LetterCraftedLegendaryMessage>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->

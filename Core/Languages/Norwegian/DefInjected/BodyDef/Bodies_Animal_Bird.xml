@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Bird.label>fugl</Bird.label>
-    
+  
+  <!-- EN: bird -->
+  <Bird.label>fugl</Bird.label>
+  <!-- EN: left lung -->
+  <Bird.corePart.parts.left_lung.customLabel>venstre lunge</Bird.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bird.corePart.parts.right_lung.customLabel>høyre lunge</Bird.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bird.corePart.parts.left_kidney.customLabel>venstre nyre</Bird.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bird.corePart.parts.right_kidney.customLabel>høyre nyre</Bird.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Bird.corePart.parts.left_leg.customLabel>venstre ben</Bird.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Bird.corePart.parts.left_leg.parts.left_foot.customLabel>venstre fot</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Bird.corePart.parts.right_leg.customLabel>høyre ben</Bird.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>høyre fot</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
 </LanguageData>

@@ -305,9 +305,9 @@
   -->
   <Recruited.rulePack.rulesStrings>
     <li>tale_noun->как [JOINER_nameDef] присоединяется к поселению</li>
-    <li>image->, как [recruiter_nameFull] [circumstance_phrase] рекрутирует [JOINER_nameFull]</li>
-    <li>image->, как [recruiter_nameFull] [circumstance_phrase] приветствует [JOINER_nameFull], когда [JOINER_pronoun] становится поселенцем</li>
-    <li>image->, как [recruiter_nameFull] [circumstance_phrase] убедительно говорит с [JOINER_nameFull]</li>
+    <li>image->, как [RECRUITER_nameFull] [circumstance_phrase] рекрутирует [JOINER_nameFull]</li>
+    <li>image->, как [RECRUITER_nameFull] [circumstance_phrase] приветствует [JOINER_nameFull], когда [JOINER_pronoun] становится поселенцем</li>
+    <li>image->, как [RECRUITER_nameFull] [circumstance_phrase] убедительно говорит с [JOINER_nameFull]</li>
     <li>circumstance_phrase->с явной доброжелательностью</li>
     <li>circumstance_phrase->с сердечным рукопожатием</li>
     <li>circumstance_phrase->с улыбкой до ушей</li>
@@ -418,7 +418,7 @@
     <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
   -->
   <TradedWith.rulePack.rulesStrings>
-    <li>tale_noun->как торговали друг с другом [SELLER_fullName] и [BUYER_fullName]</li>
+    <li>tale_noun->как торговали друг с другом [SELLER_nameFull] и [BUYER_nameFull]</li>
     <li>image->, как [BUYER_nameFull] покупает товары у [SELLER_nameFull][circumstance_phrase]</li>
     <li>image->, как [SELLER_nameFull] продаёт товары [BUYER_nameFull][circumstance_phrase]</li>
     <li>circumstance_phrase->[empty] с алчными намерениями</li>

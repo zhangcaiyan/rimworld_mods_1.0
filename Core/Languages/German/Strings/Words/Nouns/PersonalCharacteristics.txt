@@ -1,79 +1,74 @@
-﻿Kleidung
+﻿//Example: "Die ..."
+Kleidung
 Kleidungswahl
-Modebewusstsein
+Mode
 Eleganz
 
-Aussehen
 Erscheinung
 Größe
-Gewicht
-Haar
-Haarstil
+Maße
+Haare
+Frisur
 Gesichtsbehaarung
 Beinbehaarung
-Gesicht
+Gesichtsform
 Augen
 Nase
 Ohren
-Jochbein
 Stirn
 Hände
-Körper
+Körperhaltung
 Muskeln
 
 Stimme
 Sprache
-Akzent
+Akzente
 
 Fernkampffähigkeit
 Nahkampffähigkeit
-Soziale Fähigkeit
+sozialen Fähigkeiten
 Gärtnerfähigkeit
-Medizinische Fähigkeit
+medizinischen Fähigkeiten
 Tierfähigkeit
 Kochfähigkeit
 Konstruktionsfähigkeit
 Abbaufähigkeit
 Kunstfähigkeit
 Bastelfähigkeit
-Intellektuelle Fähigkeit
+intellektuellen Fähigkeiten
 
 Kenntnisse
 Fähigkeiten
 Intelligenz
-Beurteilung
 Gehirnleistung
-Emotionale Stabilität
+emotionale Stabilität
 Selbstbeherrschung
 Nützlichkeit
-Einstellung
 Art zu Gehen
 Art zu Denken
 Kampfmethoden
 Lernfähigkeit
-Diät
 Essgewohnheiten
-Nahrungsvorlieben
-Beziehungsstatus
-Alter
-Wert als Mensch
-Verantwortungsbewusstsein
-Pflichtbewusstsein
+Lieblingsspeise
+Lebensjahre
+Kostbarkeit als Mensch
+Disziplin
+Gewissenhaftigkeit
 Ehre
 Ehrlichkeit
-Mut
+Tapferkeit
 Ansichten
 Glaubensinhalte
 Ideen
 Hoffnungen und Träume
 Ziele
-persönliche Gewohnheiten
+persönlichen Gewohnheiten
 persönliche Hygiene
 Ausdauer
 Persönlichkeit
 Klasse
 Kultur
-Entspannungsvorlieben
+Hobbys
 Pünktlichkeit
 Großzügigkeit
 Tapferkeit
@@ -81,15 +76,18 @@ Loyalität
 Freundlichkeit
 Redegewandtheit
 Toleranz
-Charme
+charmante Art
 Aufrichtigkeit
 Aufgeschlossenheit
+Reizbarkeit
+Leichtgläubigkeit
+Hochnäsigkeit
 
 Herkunft
 Eltern
 Großeltern
 Freunde
 Familie
-Familien-Hintergrund
-Liebhaber
+Familien-Hintergründe
+Liebesbeziehungen
 

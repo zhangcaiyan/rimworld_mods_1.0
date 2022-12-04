@@ -122,10 +122,10 @@
   <CompletedLongConstructionProject.label>proyecto de construcción completado</CompletedLongConstructionProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
-    <li>image->[PAWN_nameFull] assembling a complicated apparatus inside a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting together a [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] inscribing their name on a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
     <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
     <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
     <li>circumstance_phrase->while covered in grime</li>
@@ -158,11 +158,11 @@
   <!-- EN: completed long crafting project -->
   <CompletedLongCraftingProject.label>proyecto de manufactura terminado</CompletedLongCraftingProject.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
-    <li>image->[PAWN_nameFull] assembling a complicated apparatus inside a [OBJECT_label] [circumstance_group]</li>
+    <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] inscribing their name on a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
     <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
     <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
     <li>circumstance_phrase->while covered in grime</li>
@@ -175,8 +175,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongCraftingProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef] terminó la manufactura de un(a) [OBJECT_label]</li>
-    <li>image->[PAWN_nameFull] ensamblando un complicado aparato dentro de un(a) [OBJECT_label] [circumstance_group]</li>
+    <li>tale_noun->[PAWN_nameDef] terminando fabricación de un(a) [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] trabajando en un(a) [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] puliendo la superficie de un(a) [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] añadiendo detalle a la superficie de un(a) [OBJECT_label] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] grabando su nombre en un(a) [OBJECT_label] [circumstance_group]</li>
@@ -314,9 +314,7 @@
   <!-- EN: increased menagerie -->
   <IncreasedMenagerie.label>rebaño creciente</IncreasedMenagerie.label>
   <!-- EN:
-    <li>tale_noun->[HUMAN_nameDef] recruiting yet another animal to their growing [AnimalGroup]</li>
-    <li>tale_noun->[HUMAN_nameDef] recruiting yet another animal to their growing [AnimalGroup]</li>
-    <li>tale_noun->[HUMAN_nameDef] recruiting yet another animal to their growing [AnimalGroup]</li>
+    <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
@@ -334,9 +332,7 @@
   -->
   <IncreasedMenagerie.rulePack.rulesStrings>
     <li>tale_noun->[HUMAN_nameDef] añadió otro animal a su creciente [AnimalGroup]</li>
-    <li>tale_noun->[HUMAN_nameDef] sumó otro animal a su creciente [AnimalGroup]</li>
-    <li>tale_noun->[HUMAN_nameDef] incorporó otro animal a su creciente [AnimalGroup]</li>
-    <li>tale_noun->[HUMAN_nameDef] domesticó otro animal</li>
+    <li>tale_noun->[HUMAN_nameDef] esta siendo seguido por un grupo de [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef] domesticó a [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] domesticando a [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[HUMAN_nameFull] ofreciendo una golosina a [ANIMAL_nameFull] [circumstance_group]</li>

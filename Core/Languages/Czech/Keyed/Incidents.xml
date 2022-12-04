@@ -37,7 +37,7 @@
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} patří k nepřátelské frakci {PAWN_factionName}. Můžeš {PAWN_objective} zajmout pro účely náboru či otroctví.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} patří k frakci {PAWN_factionName}. Pokud {PAWN_objective} zachráníš, může se k tobě přidat. V opačném případě se vrátí domů, kde bude šířit dobrou pověst tvé frakci.\n\nMůžeš {PAWN_objective} také zajmout pro účely náboru či otroctví, to ale vyvolá hněv v {PAWN_possessive} frakci.</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} patří k frakci {PAWN_factionName}. Pokud {PAWN_objective} zachráníš, může se k tobě přidat. V opačném případě se vrátí domů, kde bude šířit dobrou pověst tvé frakci.\n\nMůžeš {PAWN_objective} také zajmout pro účely náboru či otroctví, to však vyvolá hněv v {PAWN_possessive} frakci.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Nákladní moduly</LetterLabelCargoPodCrash>
@@ -164,7 +164,7 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} z frakce {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>Blíží se karavana z frakce {0}. Je to {1}.\n\nNež odejdou, budou se několik dnů potloukat kolem kolonie. Můžeš na ně zaútočit - ale to v jejich frakci vyvolá hněv!</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Blíží se karavana z frakce {0}. Je to {1}.\n\nNež odejdou, budou se několik dnů potloukat kolem kolonie. Můžeš na ně zaútočit - to však v jejich frakci vyvolá hněv!</LetterTraderCaravanArrival>
   
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -186,7 +186,7 @@
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Loď zničena</EscapeShipLostLabel>
   <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestone ti poslal zprávu.\n\nVidí, že jsi ztratil kontrolu nad lodí. Aby zamezil tomu, že se loď dostane do špatných rukou, je nucen spustit vlastní destrukční mechanismus lodi. Z lodě je teď kráter.\n\nMusíš najít jiný způsob, jak se dostat z této planety.</EscapeShipLost>
+  <EscapeShipLost>Charlon Whitestone ti poslal zprávu.\n\nVidí, že jsi ztratil kontrolu nad lodí. Aby zamezil tomu, že se loď dostane do špatných rukou, je nucen spustit vlastní sebedestrukční mechanismus lodi. Z lodě je teď kráter.\n\nMusíš najít jiný způsob, jak se dostat z této planety.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -210,7 +210,7 @@
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
   <CaravanRequestInfo>Poptávka: {0} ({3}), Odměna: {1} ({4}) ({2} zbývá)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>normální kvalita nebo lepší</NormalQualityOrBetter>
+  <NormalQualityOrBetter>běžná kvalita nebo lepší</NormalQualityOrBetter>
   <!-- EN: not tainted -->
   <NotTainted>nepoškozené</NotTainted>
 

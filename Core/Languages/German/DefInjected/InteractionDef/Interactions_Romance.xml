@@ -94,40 +94,39 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] durch [wootactic].</li>
-    <li>wooed->versuchte einen Flirt mit</li>
-    <li>wooed->flirtete mit</li>
-    <li>wooed->umwarb</li>
-    <li>wooed->romantisierte</li>
-    <li>wooed->zeigte [RECIPIENT_possessive]e Liebe für</li>
-    <li>wooed->umgarnte</li>
-    <li>wooed->umlockte</li>
-    <li>wooed->bezauberte</li>
-    <li>wooed->umwarb</li>
-    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
-    <li>wootactic->das Erzählen einer Geschichte über [TalkTopicAny]</li>
-    <li>wootactic->das Erzählen einer Fabel über [TalkTopicAny]</li>
-    <li>wootactic->witzeln über [TalkTopicAny]</li>
-    <li>wootactic->das Beschreiben [RECIPIENT_possessive]er Beobachtung von [TalkTopicAny]</li>
-    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive]er [PersonalCharacteristic]</li>
-    <li>wootactic->den Vergleich von [RECIPIENT_objective] zur [romantic_adj][romantic_noun]</li>
-    <li>wootactic->das Beschreiben von [RECIPIENT_objective] als [romantic_adj][romantic_noun]</li>
-    <li>boasting->prahlen mit</li>
-    <li>boasting->erwähnen</li>
-    <li>boasting->positives Implizieren</li>
-    <li>boasting->übertreiben</li>
-    <li>boasting->reden über</li>
-    <li>boasting->Aufmerksamkeit lenken auf</li>
-    <li>complimenting(p=3)->komplimentieren</li>
-    <li>complimenting->subtil komplimentieren</li>
-    <li>complimenting->loben</li>
-    <li>complimenting->kommentieren</li>
-    <li>complimenting->positives Erwähnen von</li>
-    <li>complimenting(p=2)->spielerisches Necken von</li>
-    <li>complimenting->scherzhaftes Drücken von</li>
-    <li>complimenting->scherzhaftes Beinahe-komplimentieren</li>
-    <li>complimenting->schelmisch fragen nach</li>
-    <li>complimenting->einen vergnügten Scherz über</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed], [wootactic].</li>
+    <li>wooed->flirtete mit [RECIPIENT_nameDef]</li>
+    <li>wooed->versuchte [RECIPIENT_nameDef] zu verführen</li>
+    <li>wooed->versuchte die Gunst von [RECIPIENT_nameDef] zu erlangen</li>
+    <li>wooed->versuchte [RECIPIENT_nameDef] zu verzücken</li>
+    <li>wooed->versuchte [RECIPIENT_nameDef] zu bezaubern</li>
+    <li>wooed->umwarb [RECIPIENT_nameDef]</li>
+    <li>wooed->umgarnte [RECIPIENT_nameDef]</li>
+    <li>wooed->machte [RECIPIENT_nameDef] den Hof</li>
+    <li>wootactic->indem [INITIATOR_pronoun] eine Geschichte über [TalkTopicAnyAcc] erzählte</li>
+    <li>wootactic->indem [INITIATOR_pronoun] eine Fabel über [TalkTopicAnyAcc] erzählte</li>
+    <li>wootactic->indem [INITIATOR_pronoun] Witze über [TalkTopicAnyAcc] erzählte</li>
+    <li>wootactic->indem [INITIATOR_pronoun] [INITIATOR_possessive]e Beobachtungen zum Thema '[TalkTopicHeavy]' beschrieb</li>
+    <li>wootactic(p=0.5)->indem [INITIATOR_pronoun] [RECIPIENT_objective] mit einer [romantic_adj]en [romantic_noun_Fem] verglich</li>
+    <li>wootactic(p=0.5)->indem [INITIATOR_pronoun] [RECIPIENT_objective] mit einem [romantic_adj]en [romantic_noun_Mas_Neu] verglich</li>
+    <li>wootactic(p=0.5)->indem [INITIATOR_pronoun] [RECIPIENT_objective] mit einer [romantic_adj]en [romantic_noun_Fem] gleichsetzte</li>
+    <li>wootactic(p=0.5)->indem [INITIATOR_pronoun] [RECIPIENT_objective] mit einem [romantic_adj]en [romantic_noun_Mas_Neu] gleichsetzte</li>
+    <li>wootactic(p=2)->[boasting]</li>
+    <li>wootactic(p=4)->[complimenting]</li>
+    <li>boasting->indem [INITIATOR_pronoun] mit [INITIATOR_possessive][PersonalCharacteristicDatPossessive] prahlte</li>
+    <li>boasting->indem [INITIATOR_pronoun] [INITIATOR_possessive]e [PersonalCharacteristic] positiv erwähnte</li>
+    <li>boasting->indem [INITIATOR_pronoun] mit [INITIATOR_possessive][PersonalCharacteristicDatPossessive] angab</li>
+    <li>boasting->indem [INITIATOR_pronoun] über [INITIATOR_possessive]e [PersonalCharacteristic] redete</li>
+    <li>boasting->indem [INITIATOR_pronoun] [RECIPIENT_possessive]e Aufmerksamkeit auf [INITIATOR_possessive]e [PersonalCharacteristic] lenkte</li>
+    <li>complimenting(p=3)->indem [INITIATOR_pronoun] Komplimente über [RECIPIENT_possessive]e [PersonalCharacteristic] machte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] subtile Komplimente über [RECIPIENT_possessive]e [PersonalCharacteristic] machte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] [RECIPIENT_possessive]e [PersonalCharacteristic] lobte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] positiv [RECIPIENT_possessive]e [PersonalCharacteristic] kommentierte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] positiv [RECIPIENT_possessive]e [PersonalCharacteristic] erwähnte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] [RECIPIENT_objective] scherzhaft wegen [RECIPIENT_possessive][PersonalCharacteristicDatPossessive] neckte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] eine scherzhafte Anspielung auf [RECIPIENT_possessive]e [PersonalCharacteristic] machte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] schelmisch nach [RECIPIENT_possessive][PersonalCharacteristicDatPossessive] fragte</li>
+    <li>complimenting->indem [INITIATOR_pronoun] einen vergnügten Scherz über [RECIPIENT_possessive]e [PersonalCharacteristic] machte</li>
     <li>romantic_adj->wunderschön</li>
     <li>romantic_adj->leuchtend</li>
     <li>romantic_adj->glühend</li>
@@ -137,23 +136,26 @@
     <li>romantic_adj->atemberaubend</li>
     <li>romantic_adj->bezaubernd</li>
     <li>romantic_adj->umwerfend</li>
-    <li>romantic_adj->delikat</li>
+    <li>romantic_adj->fabelhaft</li>
     <li>romantic_adj->schön</li>
     <li>romantic_adj->großartig</li>
     <li>romantic_adj->lieblich</li>
     <li>romantic_adj->wunderbar</li>
     <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
-    <li>romantic_noun->e Blume</li>
-    <li>romantic_noun->er Frühling</li>
-    <li>romantic_noun->er Fluss</li>
-    <li>romantic_noun->er Stern</li>
-    <li>romantic_noun->er Mond</li>
-    <li>romantic_noun->e Sonne</li>
-    <li>romantic_noun->es Haus</li>
-    <li>romantic_noun->e Aurora</li>
-    <li>romantic_noun->er [TreeType]nbaum</li>
-    <li>romantic_noun(p=2)->e [TerrainFeature]</li>
-    <li>romantic_noun(p=2)->e [TerrainFeature]</li>
+    <li>romantic_noun_Fem->Blume</li>
+    <li>romantic_noun_Fem->Sonne</li>
+    <li>romantic_noun_Fem->Aurora</li>
+    <li>romantic_noun_Fem->Sternschnuppe</li>
+    <li>romantic_noun_Fem->Oase</li>
+    <li>romantic_noun_Fem->[TreeType]</li>
+    <li>romantic_noun_Mas_Neu->Frühling</li>
+    <li>romantic_noun_Mas_Neu->Fluss</li>
+    <li>romantic_noun_Mas_Neu->Stern</li>
+    <li>romantic_noun_Mas_Neu->Mond</li>
+    <li>romantic_noun_Mas_Neu->Haus</li>
+    <li>romantic_noun_Mas_Neu->Engel</li>
+    <li>romantic_noun->[TerrainFeature]</li>
+    <li>romantic_noun->[NaturalObject]</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

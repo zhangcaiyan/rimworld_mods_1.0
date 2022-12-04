@@ -68,7 +68,7 @@
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Гость</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{0} из фракции {1} посещает поселение.\n\n{PAWN_possessive} зовут {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} из фракции {1} посещает поселение.\n\n{PAWN_possessive} зовут {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\nКажется, у н{PAWN_possessive} есть какие-то предметы для обмена.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
@@ -87,7 +87,7 @@
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Агрессивные животные</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>На вашу территорию забрели агрессивные {0}. Они жаждут человеческого мяса.\n\nЭти животные не будут пробиваться через закрытые двери, если, конечно, не увидят, как в них забегают ваши поселенцы. Спрячьтесь заранее — и вы будете в безопасности. Они также не нападут на турели, если вы отключите их.\n\nПодождите один-два дня, и {0} уйдут. Вы также можете напасть на них сами.</ManhunterPackArrived>
+  <ManhunterPackArrived>На вашу территорию забрели агрессивные {0}. Они жаждут человеческой крови.\n\nЭти животные не будут пробиваться через закрытые двери, если, конечно, не увидят, как в них забегают ваши поселенцы. Спрячьтесь заранее — и вы будете в безопасности. Они также не нападут на турели, если вы отключите их.\n\nПодождите один-два дня, и {0} уйдут. Вы также можете напасть на них сами.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
@@ -95,11 +95,11 @@
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>Часть разбившегося корабля испустила направленный психоактивный импульс, и ваш поселенец {0} сошёл с ума.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>Активен последние $XItems1${0} дней</AwokeDaysAgo>
+  <AwokeDaysAgo>Активен последние ^Number( {0} | '# день' | '# дня' | '# дней')^</AwokeDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Уровень гула: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>гул усилился</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Гул усилился</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>От части разбившегося корабля теперь исходит более мощный вид психоактивного гула. Всякий человек в этой местности теперь ещё более обеспокоен, напуган и мнителен.</LetterPsychicDroneLevelIncreased>
   
@@ -113,12 +113,12 @@
   <!-- EN: Psychic drone -->
   <LetterLabelPsychicDrone>Гул</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>Головная боль пронзает черепа ваших поселенцев словно гвоздь!\n\nПсихоактивный гул, исходящий от некоего далёкого излучателя, пронизывает эту местность ненавистью. Похоже, частота излучения влияет только на людей {0}. В течение нескольких дней настроение у них будет немного хуже.\n\nУровень гула — {1}.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Ваши поселенцы {0} морщатся от головной боли!\n\nПсихоактивный гул, исходящий от некоего далёкого излучателя, пронизывает эту местность ненавистью. Похоже, частота гула влияет только на ^Replace( {0} | 'мужского пола'-'мужчин' | 'женского пола'-'женщин')^. В течение нескольких дней их настроение будет немного хуже.\n\nУровень гула — {1}.</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>Умиротворение</LetterLabelPsychicSoothe>
   <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>Волна блаженства проносится по поселению!\n\nМощное излучение некоего далёкого генератора счастья пронизывает эту область. Похоже, частота излучения влияет только на людей {0}. В течение нескольких дней настроение у них будет немного лучше.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Лица ваших поселенцев {0} озаряет улыбка!\n\nУспокаивающий гул, порождаемый далёким генератором счастья, пронизывает эту область. Похоже, частота гула влияет только на ^Replace( {0} | 'мужского пола'-'мужчин' | 'женского пола'-'женщин')^. В течение нескольких дней их настроение будет немного лучше.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
@@ -130,7 +130,7 @@
   <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>У поселения {0} преследуют беженца</RefugeeChasedTitle>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-  <RefugeeChasedInitial>{PAWN_title} по имени {PAWN_nameDef} бежит и зовёт на помощь! {PAWN_pronoun} говорит, что {PAWN_possessive} преследуют {2} из фракции {3}.\n\n{PAWN_pronoun} умоляет о помощи и взамен предлагает присоединиться к поселению. {PAWN_nameDef} успевает лишь добавить, что {PAWN_objective} $XItems1${4} лет, а на остальную информацию нет времени.\n\nЕсли вы согласитесь {PAWN_possessive} принять, на вас нападут {2}, идущие у н{PAWN_possessive} на хвосте. В их группе:\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{PAWN_title} по имени {PAWN_nameDef} бежит и зовёт на помощь! {PAWN_pronoun} говорит, что {PAWN_possessive} преследуют {2} из фракции {3}.\n\n{PAWN_pronoun} умоляет о помощи и взамен предлагает присоединиться к поселению. {PAWN_nameDef} успевает лишь добавить, что {PAWN_objective} ^Number( {4} | '# год' | '# года' | '# лет')^, а на остальную информацию нет времени.\n\nЕсли вы согласитесь {PAWN_possessive} принять, на вас нападут {2}, идущие у н{PAWN_possessive} на хвосте. В их группе:\n\n{5}</RefugeeChasedInitial>
   <!-- EN: Offer safety -->
   <RefugeeChasedInitial_Accept>Предложить укрытие</RefugeeChasedInitial_Accept>
   <!-- EN: Ignore the message -->
@@ -208,7 +208,7 @@
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>Одно из соседних поселений, {0}, связывается с вами с предложением об обмене. Они хотели бы получить:\n\n  {1} (общей стоимостью {2})\n\nВзамен они могут дать:\n\n  {3} (общей стоимостью {4})\n\nПредложение актуально ближайшие {5}\n\nЕсли вы хотите заключить эту сделку, отправьте караван с указанным товаром. Расчётное время в пути — {6}. Вы можете ещё раз просмотреть это предложение, выбрав {0} на карте мира.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
-  <CaravanRequestInfo>Хотят: {0} ({3}), Предлагают: {1} ({4}) (осталось {2})</CaravanRequestInfo>
+  <CaravanRequestInfo>Хотят: {0} ({3}),\nПредлагают: {1} ({4})\nОсталось {2}</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>качеством от нормального и выше</NormalQualityOrBetter>
   <!-- EN: not tainted -->
@@ -218,7 +218,7 @@
   <!-- EN: Caravan demand by {0} -->
   <CaravanDemandTitle>Засада разбойников из фракции {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0} поджидали в засаде {4} из фракции {1}! Их {2} человек. Они вас атакуют, если вы не отдадите им:\n\n{3}</CaravanDemand>
+  <CaravanDemand>{0} поджидали в засаде {4} из фракции {1}! Их ^Number( {2} | '# человек' | '# человека' | '# человек')^. Они вас атакуют, если вы не отдадите им:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
   <CaravanDemand_Give>Отдать и продолжить путь</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->

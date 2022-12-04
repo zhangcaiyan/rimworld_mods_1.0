@@ -55,7 +55,7 @@
   <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>außerhalb der erlaubten Zone</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>nicht in Heimgebiet</NotInHomeArea>
+  <NotInHomeArea>nicht in Heimatgebiet</NotInHomeArea>
   <!-- EN: burning -->
   <BurningLower>brennt</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
@@ -137,9 +137,9 @@
   <CannotArrest>Kann nicht eingesperrt werden</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>{1_label} fangen</Capture>
+  <Capture>{1_label} gefangen nehmen</Capture>
   <!-- EN: Cannot capture -->
-  <CannotCapture>Fangen nicht möglich</CannotCapture>
+  <CannotCapture>Gefangennahme nicht möglich</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>{1_label} retten</Rescue>
@@ -238,7 +238,7 @@
   <!-- EN: Carry {1_label} and leave the area -->
   <CarryToExit>Nimm {1_label} und verlasse das Gebiet</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>Fangen {1_label} und verlassen das Gebiet</CarryToExitAndCapture>
+  <CarryToExitAndCapture>Nimm {1_label} gefangen und verlasse das Gebiet</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
   <Strip>{1_label} ausziehen</Strip>
@@ -292,8 +292,8 @@
   <OpenCryptosleepCasket>Öffne Kryptoschlafkapsel</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Kann {2_labelShort} nicht {0}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Kann {1} nicht {0}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Nicht möglich: {0}</CannotGenericWorkCustom>
 
@@ -302,7 +302,7 @@
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>{0} erfolgt bereits bei {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>{0} {2_labelShort} erfolgt bereits</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>Nicht priorisiert ausführbar (kann nie ein {0} sein)</CannotPrioritizeWorkTypeDisabled>

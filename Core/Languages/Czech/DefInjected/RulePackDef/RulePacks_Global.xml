@@ -53,6 +53,7 @@
 
     <li>Color->Words/Nouns/Colors</li>
     <li>ColorUni->Words/Nouns/Colors_Universal</li>
+    <li>ColorInUni->Words/Nouns/Colors_InUniversal</li>
     <li>ColorMas->Words/Nouns/Colors_Masculine</li>
     <li>ColorFem->Words/Nouns/Colors_Feminine</li>
     <li>ColorNeu->Words/Nouns/Colors_Neuter</li>
@@ -64,9 +65,13 @@
     <li>ColorBadassNeu->Words/Nouns/Colors_Badass_Neuter</li>
 
     <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>VegetableUniNom->Words/Nouns/Vegetables_UniversalNominative</li>
+    <li>VegetableUniGen->Words/Nouns/Vegetables_UniversalGenitive</li>
+    <li>VegetableUniAcc->Words/Nouns/Vegetables_UniversalAccusative</li>
     <li>VegetablePluGen->Words/Nouns/Vegetables_PluralGenitive</li>
     <li>VegetablePluAcc->Words/Nouns/Vegetables_PluralAccusative</li>
     <li>VegetablePluLoc->Words/Nouns/Vegetables_PluralLocative</li>
+    <li>VegetablePluIns->Words/Nouns/Vegetables_PluralInstrumental</li>
 
     <li>Game->Words/Nouns/Games</li>
     <li>GameGen->Words/Nouns/Games_Genitive</li>
@@ -75,17 +80,24 @@
 
     <li>Animal->Words/Nouns/Animals</li>
     <li>AnimalUniLoc->Words/Nouns/Animals_UniversalLocative</li>
+    <li>AnimalUniNom->Words/Nouns/Animals_UniversalNominative</li>
+    <li>AnimalUniIns->Words/Nouns/Animals_UniversalInstrumental</li>
+    <li>AnimalToUniDat->Words/Nouns/Animals_ToUniversalDative</li>
+    <li>AnimalPluNom->Words/Nouns/Animals_PluralNominative</li>
     <li>AnimalPluGen->Words/Nouns/Animals_PluralGenitive</li>
+    <li>AnimalPluGenFixGrpNom->Words/Nouns/Animals_PluralGenitiveFixGroupNominative</li>
+    <li>AnimalPluGenFixGrpGen->Words/Nouns/Animals_PluralGenitiveFixGroupGenitive</li>
     <li>AnimalPluAcc->Words/Nouns/Animals_PluralAccusative</li>
     <li>AnimalPluLoc->Words/Nouns/Animals_PluralLocative</li>
+    <li>AnimalPluIns->Words/Nouns/Animals_PluralInstrumental</li>
     <li>AnimalWitPluIns->Words/Nouns/Animals_WithPluralInstrumental</li>
-    <li>AnimalMas->Words/Nouns/Animals_Masculine</li>
+    <li>AnimalMasNom->Words/Nouns/Animals_MasculineNominative</li>
     <li>AnimalMasGen->Words/Nouns/Animals_MasculineGenitive</li>
     <li>AnimalMasAcc->Words/Nouns/Animals_MasculineAccusative</li>
-    <li>AnimalFem->Words/Nouns/Animals_Feminine</li>
+    <li>AnimalFemNom->Words/Nouns/Animals_FeminineNominative</li>
     <li>AnimalFemGen->Words/Nouns/Animals_FeminineGenitive</li>
     <li>AnimalFemAcc->Words/Nouns/Animals_FeminineAccusative</li>
-    <li>AnimalNeu->Words/Nouns/Animals_Neuter</li>
+    <li>AnimalNeuNom->Words/Nouns/Animals_NeuterNominative</li>
     <li>AnimalNeuGen->Words/Nouns/Animals_NeuterGenitive</li>
     <li>AnimalNeuAcc->Words/Nouns/Animals_NeuterAccusative</li>
 
@@ -96,14 +108,18 @@
     <li>AdjAnimalBadassPlu->Words/Adjectives/AdjectiveAnimals_Badass_Plural</li>
 
     <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>AnimalGroupNomExt->Words/Nouns/AnimalGroupsNominativeExtra</li>
+    <li>AnimalGroupGenExt->Words/Nouns/AnimalGroupsGenitiveExtra</li>
 
     <li>Weapon->Words/Nouns/Weapons</li>
     <li>WeaponUni->Words/Nouns/Weapons_Universal</li>
+    <li>WeaponUniGen->Words/Nouns/Weapons_UniversalGenitive</li>
+    <li>WeaponUniAcc->Words/Nouns/Weapons_UniversalAccusative</li>
+    <li>WeaponWitUniIns->Words/Nouns/Weapons_WithUniversalInstrumental</li>
     <li>WeaponPlu->Words/Nouns/Weapons_Plural</li>
     <li>WeaponPluGen->Words/Nouns/Weapons_PluralGenitive</li>
     <li>WeaponPluLoc->Words/Nouns/Weapons_PluralLocative</li>
     <li>WeaponWitPluIns->Words/Nouns/Weapons_WithPluralInstrumental</li>
-    <li>WeaponUniGen->Words/Nouns/Weapons_UniversalGenitive</li>
     <li>WeaponMasGen->Words/Nouns/Weapons_MasculineGenitive</li>
     <li>WeaponMasAcc->Words/Nouns/Weapons_MasculineAccusative</li>
     <li>WeaponFemGen->Words/Nouns/Weapons_FeminineGenitive</li>
@@ -112,7 +128,13 @@
     <li>WeaponNeuAcc->Words/Nouns/Weapons_NeuterAccusative</li>
 
     <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeatureUniNom->Words/Nouns/TerrainFeatures_UniversalNominative</li>
     <li>TerrainFeatureUniGen->Words/Nouns/TerrainFeatures_UniversalGenitive</li>
+    <li>TerrainFeatureToUniDat_e->Words/Nouns/TerrainFeatures_ToUniversalDative_e</li>
+    <li>TerrainFeatureToUniDat_i->Words/Nouns/TerrainFeatures_ToUniversalDative_i</li>
+    <li>TerrainFeatureAsUniDat_ou->Words/Nouns/TerrainFeatures_AsUniversalDative_ou</li>
+    <li>TerrainFeatureAsUniDat_i->Words/Nouns/TerrainFeatures_AsUniversalDative_i</li>
+    <li>TerrainFeatureUniAcc->Words/Nouns/TerrainFeatures_UniversalAccusative</li>
     <li>TerrainFeaturePluLoc->Words/Nouns/TerrainFeatures_PluralLocative</li>
     <li>TerrainFeatureMas->Words/Nouns/TerrainFeatures_Masculine</li>
     <li>TerrainFeatureMasGen->Words/Nouns/TerrainFeatures_MasculineGenitive</li>
@@ -132,22 +154,50 @@
     <li>NaturalObjectFemAcc->Words/Nouns/NaturalObject_FeminineAccusative</li>
     <li>NaturalObjectNeuGen->Words/Nouns/NaturalObject_NeuterGenitive</li>
     <li>NaturalObjectNeuAcc->Words/Nouns/NaturalObject_NeuterAccusative</li>
+    <li>NaturalObjectToUniDat_e->Words/Nouns/NaturalObjectToUniversalDative_e</li>
+    <li>NaturalObjectToUniDat_i->Words/Nouns/NaturalObjectToUniversalDative_i</li>
+    <li>NaturalObjectAsUniDat_ou->Words/Nouns/NaturalObjectAsUniversalDative_ou</li>
+    <li>NaturalObjectAsUniDat_i->Words/Nouns/NaturalObjectAsUniversalDative_i</li>
 
     <li>TreeType->Words/Nouns/TreeTypes</li>
     <li>TreeTypePluLoc->Words/Nouns/TreeTypes_PluralLocative</li>
+    <li>TreeTypeUniNom->Words/Nouns/TreeTypes_UniversalNominative</li>
     <li>TreeTypeUniGen->Words/Nouns/TreeTypes_UniversalGenitive</li>
+    <li>TreeTypeToUniDat_e->Words/Nouns/TreeTypes_ToUniversalDative_e</li>
+    <li>TreeTypeToUniDat_i->Words/Nouns/TreeTypes_ToUniversalDative_i</li>
+    <li>TreeTypeAsUniDat_ou->Words/Nouns/TreeTypes_AsUniversalDative_ou</li>
+    <li>TreeTypeAsUniDat_i->Words/Nouns/TreeTypes_AsUniversalDative_i</li>
     <li>TreeTypeUniAcc->Words/Nouns/TreeTypes_UniversalAccusative</li>
+    <li>TreeTypeMasGen->Words/Nouns/TreeTypes_MasculineGenitive</li>
+    <li>TreeTypeMasAcc->Words/Nouns/TreeTypes_MasculineAccusative</li>
+    <li>TreeTypeFemGen->Words/Nouns/TreeTypes_FeminineGenitive</li>
+    <li>TreeTypeFemAcc->Words/Nouns/TreeTypes_FeminineAccusative</li>
 
     <li>PersonJob->Words/Nouns/People_Jobs</li>
     <li>PersonJobPluGen->Words/Nouns/People_Jobs_PluralGenitive</li>
     <li>PersonJobPluAcc->Words/Nouns/People_Jobs_PluralAccusative</li>
     <li>PersonJobPluLoc->Words/Nouns/People_Jobs_PluralLocative</li>
+    <li>PersonJobPluIns->Words/Nouns/People_Jobs_PluralInstrumental</li>
+    <li>PersonJobWitPluIns->Words/Nouns/People_Jobs_WithPluralInstrumental</li>
+    <li>PersonJobMasNom->Words/Nouns/People_Jobs_MasculineNominative</li>
     <li>PersonJobMasGen->Words/Nouns/People_Jobs_MasculineGenitive</li>
     <li>PersonJobMasAcc->Words/Nouns/People_Jobs_MasculineAccusative</li>
+    <li>PersonJobFemNom->Words/Nouns/People_Jobs_FeminineNominative</li>
     <li>PersonJobFemGen->Words/Nouns/People_Jobs_FeminineGenitive</li>
     <li>PersonJobFemAcc->Words/Nouns/People_Jobs_FeminineAccusative</li>
 
     <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonFamilyMyUniGen->Words/Nouns/People_Family_MyUniversalGenitive</li>
+    <li>PersonFamilyUniAcc->Words/Nouns/People_Family_UniversalAccusative</li>
+    <li>PersonFamilyInsTo->Words/Nouns/People_Family_InsultedTo</li>
+    <li>PersonFamilyMadNom->Words/Nouns/People_Family_MadefunofNominative</li>
+    <li>PersonFamilyMadGen->Words/Nouns/People_Family_MadefunofGenitive</li>
+    <li>PersonFamilyMadDat->Words/Nouns/People_Family_MadefunofDative</li>
+    <li>PersonFamilyMadAcc->Words/Nouns/People_Family_MadefunofAccusative</li>
+    <li>PersonFamilyMadLoc->Words/Nouns/People_Family_MadefunofLocative</li>
+    <li>PersonFamilyMadIns->Words/Nouns/People_Family_MadefunofInstrumental</li>
+
+    <li>PersonFamilyToWhi->Words/Nouns/People_Family_ToWhich</li>
 
     <li>PersonAlly->Words/Nouns/People_Allies</li>
 
@@ -160,14 +210,19 @@
     <li>EnemyPluGen->Words/Nouns/Enemies_PluralGenitive</li>
     <li>EnemyPluAcc->Words/Nouns/Enemies_PluralAccusative</li>
     <li>EnemyPluLoc->Words/Nouns/Enemies_PluralLocative</li>
+    <li>EnemyPluIns->Words/Nouns/Enemies_PluralInstrumental</li>
     <li>EnemyWitPluIns->Words/Nouns/Enemies_WithPluralInstrumental</li>
+    <li>EnemyUniIns->Words/Nouns/Enemies_UniversalInstrumental</li>
+    <li>EnemyToUniDat->Words/Nouns/Enemies_ToUniversalDative</li>
+    <li>EnemyMasNom->Words/Nouns/Enemies_MasculineNominative</li>
     <li>EnemyMasGen->Words/Nouns/Enemies_MasculineGenitive</li>
     <li>EnemyMasAcc->Words/Nouns/Enemies_MasculineAccusative</li>
+    <li>EnemyFemNom->Words/Nouns/Enemies_FeminineNominative</li>
     <li>EnemyFemGen->Words/Nouns/Enemies_FeminineGenitive</li>
     <li>EnemyFemAcc->Words/Nouns/Enemies_FeminineAccusative</li>
 
     <li>Apparel->Words/Nouns/Apparel</li>
-    <li>ApparelUniAcc->Words/Nouns/Apparel_UniversalAccusative</li>
+    <li>ApparelInLocWithIns->Words/Nouns/Apparel_InLocativeWithInstrumental</li>
     <li>ApparelPluGen->Words/Nouns/Apparel_PluralGenitive</li>
     <li>ApparelPluLoc->Words/Nouns/Apparel_PluralLocative</li>
     <li>ApparelMasGen->Words/Nouns/Apparel_MasculineGenitive</li>
@@ -184,24 +239,33 @@
     <li>Mechanoid->Words/Nouns/Mechanoid</li>
     <li>MechanoidPluGen->Words/Nouns/Mechanoid_PluralGenitive</li>
     <li>MechanoidPluAcc->Words/Nouns/Mechanoid_PluralAccusative</li>
+    <li>MechanoidPluIns->Words/Nouns/Mechanoid_PluralInstrumental</li>
+    <li>MechanoidMasNom->Words/Nouns/Mechanoid_MasculineNominative</li>
     <li>MechanoidMasGen->Words/Nouns/Mechanoid_MasculineGenitive</li>
     <li>MechanoidMasAcc->Words/Nouns/Mechanoid_MasculineAccusative</li>
+    <li>MechanoidFemNom->Words/Nouns/Mechanoid_FeminineNominative</li>
     <li>MechanoidFemGen->Words/Nouns/Mechanoid_FeminineGenitive</li>
     <li>MechanoidFemAcc->Words/Nouns/Mechanoid_FeminineAccusative</li>
 
+    <li>ConceptAnyPersonUniAcc->Words/Nouns/Concepts_Any_PersonUniversalAccusative</li>
+
     <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
-    <li>ConceptPositiveUniGen->Words/Nouns/Concepts_Positive_UniversalGenitive</li>
     <li>ConceptPositiveUniAcc->Words/Nouns/Concepts_Positive_UniversalAccusative</li>
     <li>ConceptPositiveUniLoc->Words/Nouns/Concepts_Positive_UniversalLocative</li>
 
     <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
     <li>ConceptBadassUni->Words/Nouns/Concepts_Badass_Universal</li>
     <li>ConceptBadassUniGen->Words/Nouns/Concepts_Badass_UniversalGenitive</li>
+    <li>ConceptBadassUniAcc->Words/Nouns/Concepts_Badass_UniversalAccusative</li>
+    <li>ConceptBadassUniIns->Words/Nouns/Concepts_Badass_UniversalInstrumental</li>
 
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
     <li>ConceptAngstyUniGen->Words/Nouns/Concepts_Angsty_UniversalGenitive</li>
+    <li>ConceptAngstyUniAcc->Words/Nouns/Concepts_Angsty_UniversalAccusative</li>
+    <li>ConceptAngstyUniIns->Words/Nouns/Concepts_Angsty_UniversalInstrumental</li>
 
     <li>Community->Words/Nouns/Communities</li>
+    <li>CommunityUniNom->Words/Nouns/Communities_UniversalNominative</li>
     <li>CommunityUniGen->Words/Nouns/Communities_UniversalGenitive</li>
     <li>CommunityUniAcc->Words/Nouns/Communities_UniversalAccusative</li>
     <li>CommunityMasGen->Words/Nouns/Communities_MasculineGenitive</li>
@@ -222,6 +286,8 @@
     <li>AdjectiveBadassFemGen->Words/Adjectives/Badass_FeminineGenitive</li>
     <li>AdjectiveBadassFemAcc->Words/Adjectives/Badass_FeminineAccusative</li>
     <li>AdjectiveBadassNeu->Words/Adjectives/Badass_Neuter</li>
+    <li>AdjectiveBadassToUniDat_ei->Words/Adjectives/Badass_ToUniversalDative_ei</li>
+    <li>AdjectiveBadassAsUniDat_oui->Words/Adjectives/Badass_AsUniversalDative_oui</li>
 
     <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
     <li>AdjectiveAngstyFemGen->Words/Adjectives/Angsty_FeminineGenitive</li>
@@ -235,11 +301,22 @@
     <li>AdjectiveNaturalFemGen->Words/Adjectives/Natural_FeminineGenitive</li>
     <li>AdjectiveNaturalFemAcc->Words/Adjectives/Natural_FeminineAccusative</li>
 
+    <li>AdverbAngsty->Words/Adverbs/Adverb_Angsty</li>
+
+    <li>AdverbBadass->Words/Adverbs/Adverb_Badass</li>
+
+    <li>AdverbFriendly->Words/Adverbs/Adverb_Friendly</li>
+
+    <li>AdverbNatural->Words/Adverbs/Adverb_Natural</li>
+
     <li>VerbFriendly->Words/Verbs/Friendly</li>
 
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
     <li>PersonalCharacteristicUniAcc->Words/Nouns/PersonalCharacteristics_UniversalAccusative</li>
-    <li>PersonalCharacteristicPosLoc->Words/Nouns/PersonalCharacteristics_PossessiveLocative</li>
+    <li>PersonalCharacteristicPosUniGen->Words/Nouns/PersonalCharacteristics_PossessiveUniversalGenitive</li>
+    <li>PersonalCharacteristicPosUniAcc->Words/Nouns/PersonalCharacteristics_PossessiveUniversalAccusative</li>
+    <li>PersonalCharacteristicPosUniLoc->Words/Nouns/PersonalCharacteristics_PossessiveUniversalLocative</li>
+    <li>PersonalCharacteristicPosUniIns->Words/Nouns/PersonalCharacteristics_PossessiveUniversalInstrumental</li>
 
     <li>PoliticalAdjectiveMas->Words/Adjectives/PoliticalUnions_Masculine</li>
     <li>PoliticalAdjectiveFem->Words/Adjectives/PoliticalUnions_Feminine</li>
@@ -311,6 +388,7 @@
     <li>Trans->for</li>
     <li>Trans->by</li>
     <li>Trans->with</li>
+
     <li>Character(p=6)->[PersonJob]</li>
     <li>Character(p=4)->[Animal]</li>
     <li>Character(p=3)->[Enemy]</li>
@@ -324,53 +402,205 @@
     <li>CharacterPluAcc(p=4)->[AnimalPluAcc]</li>
     <li>CharacterPluAcc(p=3)->[EnemyPluAcc]</li>
     <li>CharacterPluAcc->[MechanoidPluAcc]</li>
+    <li>CharacterPluIns(p=6)->[PersonJobPluIns]</li>
+    <li>CharacterPluIns(p=4)->[AnimalPluIns]</li>
+    <li>CharacterPluIns(p=3)->[EnemyPluIns]</li>
+    <li>CharacterPluIns->[MechanoidPluIns]</li>
 
-    <li>CharacterUniGen(p=6)->[PersonJobMasFemGenTaleless]</li>
-    <li>CharacterUniGen(p=4)->[AnimalMasFemNeuGenTaleless]</li>
-    <li>CharacterUniGen(p=3)->[EnemyMasFemGenTaleless]</li>
-    <li>CharacterUniGen->[MechanoidMasFemGenTaleless]</li>
 
-    <li>PersonJobMasFemGenTaleless->ého [PersonJobMasGen] [desc_pawnMas]</li>
-    <li>PersonJobMasFemGenTaleless->é [PersonJobFemGen] [desc_pawnFemGen]</li>
-    <li>AnimalMasFemNeuGenTaleless(p=0.60)->ého [AnimalMasGen] [desc_pawnMas]</li>
-    <li>AnimalMasFemNeuGenTaleless(p=0.38)->é [AnimalFemGen] [desc_pawnFemGen]</li>
-    <li>AnimalMasFemNeuGenTaleless(p=0.02)->ého [AnimalNeuGen] [desc_pawnNeuGen]</li>
-    <li>EnemyMasFemGenTaleless->ého [EnemyMasGen] [desc_pawnMas]</li>
-    <li>EnemyMasFemGenTaleless->é [EnemyFemGen] [desc_pawnFemGen]</li>
-    <li>MechanoidMasFemGenTaleless(p=0.86)->ého [MechanoidMasGen] [desc_pawnMas]</li>
-    <li>MechanoidMasFemGenTaleless(p=0.14)->é [MechanoidFemGen] [desc_pawnFemGen]</li>
+    <li>CharacterNom(p=6)->[PersonJobNom]</li>
+    <li>CharacterNom(p=4)->[AnimalNom]</li>
+    <li>CharacterNom(p=3)->[EnemyNom]</li>
+    <li>CharacterNom->[MechanoidNom]</li>
 
-    <li>CharacterUniAcc(p=6)->[PersonJobMasFemAccTaleless]</li>
-    <li>CharacterUniAcc(p=4)->[AnimalMasFemNeuAccTaleless]</li>
-    <li>CharacterUniAcc(p=3)->[EnemyMasFemAccTaleless]</li>
-    <li>CharacterUniAcc->[MechanoidMasFemAccTaleless]</li>
+    <li>PersonJobNom->[PersonJobMasNom]</li>
+    <li>PersonJobNom->[PersonJobFemNom]</li>
+    <li>AnimalNom(p=0.60)->[AnimalMasNom]</li>
+    <li>AnimalNom(p=0.38)->[AnimalFemNom]</li>
+    <li>AnimalNom(p=0.02)->[AnimalNeuNom]</li>
+    <li>EnemyNom->[EnemyMasNom]</li>
+    <li>EnemyNom->[EnemyFemNom]</li>
+    <li>MechanoidNom(p=0.86)->[MechanoidMasNom]</li>
+    <li>MechanoidNom(p=0.14)->[MechanoidFemNom]</li>
 
-    <li>PersonJobMasFemAccTaleless->ého [PersonJobMasAcc] [desc_pawnMas]</li>
-    <li>PersonJobMasFemAccTaleless->ou [PersonJobFemAcc] [desc_pawnFemAcc]</li>
-    <li>AnimalMasFemNeuAccTaleless(p=0.60)->ého [AnimalMasAcc] [desc_pawnMas]</li>
-    <li>AnimalMasFemNeuAccTaleless(p=0.38)->ou [AnimalFemAcc] [desc_pawnFemAcc]</li>
-    <li>AnimalMasFemNeuAccTaleless(p=0.02)->é [AnimalNeuAcc] [desc_pawnNeuAcc]</li>
-    <li>EnemyMasFemAccTaleless->ého [EnemyMasAcc] [desc_pawnMas]</li>
-    <li>EnemyMasFemAccTaleless->ou [EnemyFemAcc] [desc_pawnFemAcc]</li>
-    <li>MechanoidMasFemAccTaleless(p=0.86)->ého [MechanoidMasAcc] [desc_pawnMas]</li>
-    <li>MechanoidMasFemAccTaleless(p=0.14)->ou [MechanoidFemAcc] [desc_pawnFemAcc]</li>
+    <li>CharacterGen(p=6)->[PersonJobGen]</li>
+    <li>CharacterGen(p=4)->[AnimalGen]</li>
+    <li>CharacterGen(p=3)->[EnemyGen]</li>
+    <li>CharacterGen->[MechanoidGen]</li>
 
-    <li>Quantity_adjphrase->dvojice</li>
-    <li>Quantity_adjphrase->trojice</li>
-    <li>Quantity_adjphrase->čtveřice</li>
-    <li>Quantity_adjphrase->pět</li>
-    <li>Quantity_adjphrase->šest</li>
-    <li>Quantity_adjphrase->sedm</li>
-    <li>Quantity_adjphrase->osm</li>
-    <li>Quantity_adjphrase->devět</li>
-    <li>Quantity_adjphrase->deset</li>
-    <li>Quantity_adjphrase->mnoho</li>
-    <li>Quantity_adjphrase->soubor</li>
-    <li>Quantity_adjphrase->velké seskupení</li>
-    <li>Quantity_adjphrase->desítky</li>
-    <li>Quantity_adjphrase->stovky</li>
-    <li>Quantity_adjphrase->asi tisíc</li>
-    <li>Quantity_adjphrase->tisíce</li>
+    <li>PersonJobGen->[PersonJobMasGen]</li>
+    <li>PersonJobGen->[PersonJobFemGen]</li>
+    <li>AnimalGen(p=0.60)->[AnimalMasGen]</li>
+    <li>AnimalGen(p=0.38)->[AnimalFemGen]</li>
+    <li>AnimalGen(p=0.02)->[AnimalNeuGen]</li>
+    <li>EnemyGen->[EnemyMasGen]</li>
+    <li>EnemyGen->[EnemyFemGen]</li>
+    <li>MechanoidGen(p=0.86)->[MechanoidMasGen]</li>
+    <li>MechanoidGen(p=0.14)->[MechanoidFemGen]</li>
+
+    <li>CharacterNom_AnyAdjective(p=6)->[PersonJobNom_AnyAdjective]</li>
+    <li>CharacterNom_AnyAdjective(p=4)->[AnimalNom_AnyAdjective]</li>
+    <li>CharacterNom_AnyAdjective(p=3)->[EnemyNom_AnyAdjective]</li>
+    <li>CharacterNom_AnyAdjective->[MechanoidNom_AnyAdjective]</li>
+
+    <li>PersonJobNom_AnyAdjective->ý [PersonJobMasNom]</li>
+    <li>PersonJobNom_AnyAdjective->á [PersonJobFemNom]</li>
+    <li>AnimalNom_AnyAdjective(p=0.60)->ý [AnimalMasNom]</li>
+    <li>AnimalNom_AnyAdjective(p=0.38)->á [AnimalFemNom]</li>
+    <li>AnimalNom_AnyAdjective(p=0.02)->é [AnimalNeuNom]</li>
+    <li>EnemyNom_AnyAdjective->ý [EnemyMasNom]</li>
+    <li>EnemyNom_AnyAdjective->á [EnemyFemNom]</li>
+    <li>MechanoidNom_AnyAdjective(p=0.86)->ý [MechanoidMasNom]</li>
+    <li>MechanoidNom_AnyAdjective(p=0.14)->á [MechanoidFemNom]</li>
+
+    <li>CharacterGen_Solitary(p=6)->[PersonJobGen_Solitary]</li>
+    <li>CharacterGen_Solitary(p=4)->[AnimalGen_Solitary]</li>
+    <li>CharacterGen_Solitary(p=3)->[EnemyGen_Solitary]</li>
+    <li>CharacterGen_Solitary->[MechanoidGen_Solitary]</li>
+
+    <li>PersonJobGen_Solitary->[desc_pawnMasGen_Solitary] [PersonJobMasGen]</li>
+    <li>PersonJobGen_Solitary->[desc_pawnFemGen_Solitary] [PersonJobFemGen]</li>
+    <li>AnimalGen_Solitary(p=0.60)->[desc_pawnMasGen_Solitary] [AnimalMasGen]</li>
+    <li>AnimalGen_Solitary(p=0.38)->[desc_pawnFemGen_Solitary] [AnimalFemGen]</li>
+    <li>AnimalGen_Solitary(p=0.02)->[desc_pawnNeuGen_Solitary] [AnimalNeuGen]</li>
+    <li>EnemyGen_Solitary->[desc_pawnMasGen_Solitary] [EnemyMasGen]</li>
+    <li>EnemyGen_Solitary->[desc_pawnFemGen_Solitary] [EnemyFemGen]</li>
+    <li>MechanoidGen_Solitary(p=0.86)->[desc_pawnMasGen_Solitary] [MechanoidMasGen]</li>
+    <li>MechanoidGen_Solitary(p=0.14)->[desc_pawnFemGen_Solitary] [MechanoidFemGen]</li>
+
+    <li>CharacterAcc_Solitary(p=6)->[PersonJobAcc_Solitary]</li>
+    <li>CharacterAcc_Solitary(p=4)->[AnimalAcc_Solitary]</li>
+    <li>CharacterAcc_Solitary(p=3)->[EnemyAcc_Solitary]</li>
+    <li>CharacterAcc_Solitary->[MechanoidAcc_Solitary]</li>
+
+    <li>PersonJobAcc_Solitary->[desc_pawnMasAcc_Solitary] [PersonJobMasAcc]</li>
+    <li>PersonJobAcc_Solitary->[desc_pawnFemAcc_Solitary] [PersonJobFemAcc]</li>
+    <li>AnimalAcc_Solitary(p=0.60)->[desc_pawnMasAcc_Solitary] [AnimalMasAcc]</li>
+    <li>AnimalAcc_Solitary(p=0.38)->[desc_pawnFemAcc_Solitary] [AnimalFemAcc]</li>
+    <li>AnimalAcc_Solitary(p=0.02)->[desc_pawnNeuAcc_Solitary] [AnimalNeuAcc]</li>
+    <li>EnemyAcc_Solitary->[desc_pawnMasAcc_Solitary] [EnemyMasAcc]</li>
+    <li>EnemyAcc_Solitary->[desc_pawnFemAcc_Solitary] [EnemyFemAcc]</li>
+    <li>MechanoidAcc_Solitary(p=0.86)->[desc_pawnMasAcc_Solitary] [MechanoidMasAcc]</li>
+    <li>MechanoidAcc_Solitary(p=0.14)->[desc_pawnFemAcc_Solitary] [MechanoidFemAcc]</li>
+
+
+    <li>CharacterGen_Uni(p=6)->[PersonJobGen_Uni]</li>
+    <li>CharacterGen_Uni(p=4)->[AnimalGen_Uni]</li>
+    <li>CharacterGen_Uni(p=3)->[EnemyGen_Uni]</li>
+    <li>CharacterGen_Uni->[MechanoidGen_Uni]</li>
+
+    <li>PersonJobGen_Uni->[PersonJobMasGen] [desc_pawnMasGen_Uni]</li>
+    <li>PersonJobGen_Uni->[PersonJobFemGen] [desc_pawnFemGen_Uni]</li>
+    <li>AnimalGen_Uni(p=0.60)->[AnimalMasGen] [desc_pawnMasGen_Uni]</li>
+    <li>AnimalGen_Uni(p=0.38)->[AnimalFemGen] [desc_pawnFemGen_Uni]</li>
+    <li>AnimalGen_Uni(p=0.02)->[AnimalNeuGen] [desc_pawnNeuGen_Uni]</li>
+    <li>EnemyGen_Uni->[EnemyMasGen] [desc_pawnMasGen_Uni]</li>
+    <li>EnemyGen_Uni->[EnemyFemGen] [desc_pawnFemGen_Uni]</li>
+    <li>MechanoidGen_Uni(p=0.86)->[MechanoidMasGen] [desc_pawnMasGen_Uni]</li>
+    <li>MechanoidGen_Uni(p=0.14)->[MechanoidFemGen] [desc_pawnFemGen_Uni]</li>
+
+    <li>CharacterAcc_Uni(p=6)->[PersonJobAcc_Uni]</li>
+    <li>CharacterAcc_Uni(p=4)->[AnimalAcc_Uni]</li>
+    <li>CharacterAcc_Uni(p=3)->[EnemyAcc_Uni]</li>
+    <li>CharacterAcc_Uni->[MechanoidAcc_Uni]</li>
+
+    <li>PersonJobAcc_Uni->[PersonJobMasAcc] [desc_pawnMasAcc_Uni]</li>
+    <li>PersonJobAcc_Uni->[PersonJobFemAcc] [desc_pawnFemAcc_Uni]</li>
+    <li>AnimalAcc_Uni(p=0.60)->[AnimalMasAcc] [desc_pawnMasAcc_Uni]</li>
+    <li>AnimalAcc_Uni(p=0.38)->[AnimalFemAcc] [desc_pawnFemAcc_Uni]</li>
+    <li>AnimalAcc_Uni(p=0.02)->[AnimalNeuAcc] [desc_pawnNeuAcc_Uni]</li>
+    <li>EnemyAcc_Uni->[EnemyMasAcc] [desc_pawnMasAcc_Uni]</li>
+    <li>EnemyAcc_Uni->[EnemyFemAcc] [desc_pawnFemAcc_Uni]</li>
+    <li>MechanoidAcc_Uni(p=0.86)->[MechanoidMasAcc] [desc_pawnMasAcc_Uni]</li>
+    <li>MechanoidAcc_Uni(p=0.14)->[MechanoidFemAcc] [desc_pawnFemAcc_Uni]</li>
+
+
+    <li>CharacterGen_WearingApparel(p=6)->[PersonJobGen_WearingApparel]</li>
+    <li>CharacterGen_WearingApparel(p=4)->[AnimalGen_WearingApparel]</li>
+    <li>CharacterGen_WearingApparel(p=3)->[EnemyGen_WearingApparel]</li>
+    <li>CharacterGen_WearingApparel->[MechanoidGen_WearingApparel]</li>
+
+    <li>PersonJobGen_WearingApparel->[PersonJobMasGen] [ApparelInLocWithIns] [desc_pawnMasGen_WearingApparel]</li>
+    <li>PersonJobGen_WearingApparel->[PersonJobFemGen] [ApparelInLocWithIns] [desc_pawnFemGen_WearingApparel]</li>
+    <li>AnimalGen_WearingApparel(p=0.60)->[AnimalMasGen] [ApparelInLocWithIns] [desc_pawnMasGen_WearingApparel]</li>
+    <li>AnimalGen_WearingApparel(p=0.38)->[AnimalFemGen] [ApparelInLocWithIns] [desc_pawnFemGen_WearingApparel]</li>
+    <li>AnimalGen_WearingApparel(p=0.02)->[AnimalNeuGen] [ApparelInLocWithIns] [desc_pawnNeuGen_WearingApparel]</li>
+    <li>EnemyGen_WearingApparel->[EnemyMasGen] [ApparelInLocWithIns] [desc_pawnMasGen_WearingApparel]</li>
+    <li>EnemyGen_WearingApparel->[EnemyFemGen] [ApparelInLocWithIns] [desc_pawnFemGen_WearingApparel]</li>
+    <li>MechanoidGen_WearingApparel(p=0.86)->[MechanoidMasGen] [ApparelInLocWithIns] [desc_pawnMasGen_WearingApparel]</li>
+    <li>MechanoidGen_WearingApparel(p=0.14)->[MechanoidFemGen] [ApparelInLocWithIns] [desc_pawnFemGen_WearingApparel]</li>
+
+    <li>CharacterAcc_WearingApparel(p=6)->[PersonJobAcc_WearingApparel]</li>
+    <li>CharacterAcc_WearingApparel(p=4)->[AnimalAcc_WearingApparel]</li>
+    <li>CharacterAcc_WearingApparel(p=3)->[EnemyAcc_WearingApparel]</li>
+    <li>CharacterAcc_WearingApparel->[MechanoidAcc_WearingApparel]</li>
+
+    <li>PersonJobAcc_WearingApparel->[PersonJobMasAcc] [ApparelInLocWithIns] [desc_pawnMasAcc_WearingApparel]</li>
+    <li>PersonJobAcc_WearingApparel->[PersonJobFemAcc] [ApparelInLocWithIns] [desc_pawnFemAcc_WearingApparel]</li>
+    <li>AnimalAcc_WearingApparel(p=0.60)->[AnimalMasAcc] [ApparelInLocWithIns] [desc_pawnMasAcc_WearingApparel]</li>
+    <li>AnimalAcc_WearingApparel(p=0.38)->[AnimalFemAcc] [ApparelInLocWithIns] [desc_pawnFemAcc_WearingApparel]</li>
+    <li>AnimalAcc_WearingApparel(p=0.02)->[AnimalNeuAcc] [ApparelInLocWithIns] [desc_pawnNeuAcc_WearingApparel]</li>
+    <li>EnemyAcc_WearingApparel->[EnemyMasAcc] [ApparelInLocWithIns] [desc_pawnMasAcc_WearingApparel]</li>
+    <li>EnemyAcc_WearingApparel->[EnemyFemAcc] [ApparelInLocWithIns] [desc_pawnFemAcc_WearingApparel]</li>
+    <li>MechanoidAcc_WearingApparel(p=0.86)->[MechanoidMasAcc] [ApparelInLocWithIns] [desc_pawnMasAcc_WearingApparel]</li>
+    <li>MechanoidAcc_WearingApparel(p=0.14)->[MechanoidFemAcc] [ApparelInLocWithIns] [desc_pawnFemAcc_WearingApparel]</li>
+
+    <li>AnimalGen_AnyAdjective(p=0.60)->ho [AnimalMasGen]</li>
+    <li>AnimalGen_AnyAdjective(p=0.38)-> [AnimalFemGen]</li>
+    <li>AnimalGen_AnyAdjective(p=0.02)->ho [AnimalNeuGen]</li>
+
+
+    <li>Quantity_adjphraseNom->dvojice</li>
+    <li>Quantity_adjphraseNom->trojice</li>
+    <li>Quantity_adjphraseNom->čtveřice</li>
+    <li>Quantity_adjphraseNom->pět</li>
+    <li>Quantity_adjphraseNom->šest</li>
+    <li>Quantity_adjphraseNom->sedm</li>
+    <li>Quantity_adjphraseNom->osm</li>
+    <li>Quantity_adjphraseNom->devět</li>
+    <li>Quantity_adjphraseNom->deset</li>
+    <li>Quantity_adjphraseNom->několik</li>
+    <li>Quantity_adjphraseNom->skupina</li>
+    <li>Quantity_adjphraseNom->početná skupina</li>
+    <li>Quantity_adjphraseNom->desítky</li>
+    <li>Quantity_adjphraseNom->stovky</li>
+    <li>Quantity_adjphraseNom->tisíc</li>
+    <li>Quantity_adjphraseNom->tisíce</li>
+
+    <li>Quantity_adjphraseNom_Is->je dvojice</li>
+    <li>Quantity_adjphraseNom_Is->je trojice</li>
+    <li>Quantity_adjphraseNom_Is->je čtveřice</li>
+    <li>Quantity_adjphraseNom_Is->je pět</li>
+    <li>Quantity_adjphraseNom_Is->je šest</li>
+    <li>Quantity_adjphraseNom_Is->je sedm</li>
+    <li>Quantity_adjphraseNom_Is->je osm</li>
+    <li>Quantity_adjphraseNom_Is->je devět</li>
+    <li>Quantity_adjphraseNom_Is->je deset</li>
+    <li>Quantity_adjphraseNom_Is->je několik</li>
+    <li>Quantity_adjphraseNom_Is->je skupina</li>
+    <li>Quantity_adjphraseNom_Is->je početná skupina</li>
+    <li>Quantity_adjphraseNom_Is->jsou desítky</li>
+    <li>Quantity_adjphraseNom_Is->jsou stovky</li>
+    <li>Quantity_adjphraseNom_Is->je tisíc</li>
+    <li>Quantity_adjphraseNom_Is->jsou tisíce</li>
+
+    <li>Quantity_adjphraseNom_IsDominated->dominuje dvojice</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje trojice</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje čtveřice</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje pět</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje šest</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje sedm</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje osm</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje devět</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje deset</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje několik</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje skupina</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje početná skupina</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominují desítky</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominují stovky</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominuje tisíc</li>
+    <li>Quantity_adjphraseNom_IsDominated->dominují tisíce</li>
+
     <li>Quantity_adjphraseGen->dvojice</li>
     <li>Quantity_adjphraseGen->trojice</li>
     <li>Quantity_adjphraseGen->čtveřice</li>
@@ -380,13 +610,14 @@
     <li>Quantity_adjphraseGen->osmi</li>
     <li>Quantity_adjphraseGen->devíti</li>
     <li>Quantity_adjphraseGen->deseti</li>
-    <li>Quantity_adjphraseGen->mnoha</li>
-    <li>Quantity_adjphraseGen->souboru</li>
-    <li>Quantity_adjphraseGen->velkého seskupení</li>
+    <li>Quantity_adjphraseGen->několika</li>
+    <li>Quantity_adjphraseGen->skupiny</li>
+    <li>Quantity_adjphraseGen->početné skupiny</li>
     <li>Quantity_adjphraseGen->desítek</li>
     <li>Quantity_adjphraseGen->stovek</li>
-    <li>Quantity_adjphraseGen->asi tisíce</li>
+    <li>Quantity_adjphraseGen->tisíce</li>
     <li>Quantity_adjphraseGen->tisíců</li>
+
     <li>Quantity_adjphraseAcc->dvojici</li>
     <li>Quantity_adjphraseAcc->trojici</li>
     <li>Quantity_adjphraseAcc->čtveřici</li>
@@ -396,22 +627,84 @@
     <li>Quantity_adjphraseAcc->osm</li>
     <li>Quantity_adjphraseAcc->devět</li>
     <li>Quantity_adjphraseAcc->deset</li>
-    <li>Quantity_adjphraseAcc->mnoho</li>
-    <li>Quantity_adjphraseAcc->soubor</li>
-    <li>Quantity_adjphraseAcc->velké seskupení</li>
+    <li>Quantity_adjphraseAcc->několik</li>
+    <li>Quantity_adjphraseAcc->skupinu</li>
+    <li>Quantity_adjphraseAcc->početnou skupinu</li>
     <li>Quantity_adjphraseAcc->desítky</li>
     <li>Quantity_adjphraseAcc->stovky</li>
-    <li>Quantity_adjphraseAcc->asi tisíc</li>
+    <li>Quantity_adjphraseAcc->tisíc</li>
     <li>Quantity_adjphraseAcc->tisíce</li>
-    <li>Shape->triangle</li>
-    <li>Shape->square</li>
-    <li>Shape->rectangle</li>
-    <li>Shape->cone</li>
-    <li>Shape->line</li>
-    <li>Shape->heart</li>
-    <li>Shape->star</li>
-    <li>Shape->circle</li>
-    <li>Shape->ellipse</li>
+
+
+    <li>Quantity_adjphraseCharactersIns->dvojicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->trojicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->čtveřicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->pěti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->šesti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->sedmi [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->osmi [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->devíti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->deseti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->několika [CharacterPluIns]</li>
+    <li>Quantity_adjphraseCharactersIns->skupinou [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->početnou skupinou [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->desítkami [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->stovkami [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->tisícem [CharacterPluGen]</li>
+    <li>Quantity_adjphraseCharactersIns->tisíci [CharacterPluGen]</li>
+
+    <li>Quantity_adjphraseVegetablesIns->dvojicí [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->trojicí [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->čtveřicí [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->pěti [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->šesti [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->sedmi [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->osmi [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->devíti [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->deseti [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->několika [VegetablePluIns]</li>
+    <li>Quantity_adjphraseVegetablesIns->skupinou [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->početnou skupinou [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->desítkami [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->stovkami [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->tisícem [VegetablePluGen]</li>
+    <li>Quantity_adjphraseVegetablesIns->tisíci [VegetablePluGen]</li>
+
+    <li>Quantity_adjphraseShapesIns->dvojicí [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->trojicí [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->čtveřicí [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->pěti [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->šesti [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->sedmi [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->osmi [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->devíti [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->deseti [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->několika [ShapePluIns]</li>
+    <li>Quantity_adjphraseShapesIns->skupinou [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->početnou skupinou [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->desítkami [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->stovkami [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->tisícem [ShapePluGen]</li>
+    <li>Quantity_adjphraseShapesIns->tisíci [ShapePluGen]</li>
+
+    <li>Quantity_adjphraseWithCharactersIns->s dvojicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s trojicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->se čtveřicí [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s pěti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->se šesti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->se sedmi [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns-> s osmi [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s devíti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s deseti [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s několika [CharacterPluIns]</li>
+    <li>Quantity_adjphraseWithCharactersIns->se skupinou [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s početnou skupinou [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s desítkami [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->se stovkami [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s tisícem [CharacterPluGen]</li>
+    <li>Quantity_adjphraseWithCharactersIns->s tisíci [CharacterPluGen]</li>
+
+
     <li>ShapeMasGen->trojúhelníku</li>
     <li>ShapeMasGen->čtverce</li>
     <li>ShapeMasGen->obdélníku</li>
@@ -421,6 +714,7 @@
     <li>ShapeFemGen->hvězdy</li>
     <li>ShapeFemGen->kružnice</li>
     <li>ShapeFemGen->elipsy</li>
+
     <li>ShapeMasAcc->trojúhelník</li>
     <li>ShapeMasAcc->čtverec</li>
     <li>ShapeMasAcc->obdélník</li>
@@ -430,6 +724,17 @@
     <li>ShapeFemAcc->hvězdu</li>
     <li>ShapeFemAcc->kružnici</li>
     <li>ShapeFemAcc->elipsu</li>
+
+    <li>ShapePluGen->trojúhelníků</li>
+    <li>ShapePluGen->čtverců</li>
+    <li>ShapePluGen->obdélníků</li>
+    <li>ShapePluGen->kuželů</li>
+    <li>ShapePluGen->přímek</li>
+    <li>ShapePluGen->srdcí</li>
+    <li>ShapePluGen->hvězd</li>
+    <li>ShapePluGen->kružnic</li>
+    <li>ShapePluGen->elips</li>
+
     <li>ShapePluIns->trojúhelníky</li>
     <li>ShapePluIns->čtverci</li>
     <li>ShapePluIns->obdélníky</li>
@@ -439,30 +744,98 @@
     <li>ShapePluIns->hvězdami</li>
     <li>ShapePluIns->kružnicemi</li>
     <li>ShapePluIns->elipsami</li>
+
     <li>ShapeAnyGen->[ShapeMasGen]</li>
     <li>ShapeAnyGen->[ShapeFemGen]</li>
     <li>ShapeAnyGen->[ShapeNeuGen]</li>
     <li>ShapeAnyAcc->[ShapeMasAcc]</li>
     <li>ShapeAnyAcc->[ShapeFemAcc]</li>
     <li>ShapeAnyAcc->[ShapeNeuAcc]</li>
+
     <li>AdjectiveAny->[AdjectiveBadass]</li>
     <li>AdjectiveAny->[AdjectiveAngsty]</li>
     <li>AdjectiveAny->[AdjectiveFriendly]</li>
     <li>AdjectiveAny->[AdjectiveNatural]</li>
+
     <li>AdjectiveAnyFemGen->[AdjectiveBadassFemGen]</li>
     <li>AdjectiveAnyFemGen->[AdjectiveAngstyFemGen]</li>
     <li>AdjectiveAnyFemGen->[AdjectiveFriendlyFemGen]</li>
     <li>AdjectiveAnyFemGen->[AdjectiveNaturalFemGen]</li>
+
     <li>AdjectiveAnyFemAcc->[AdjectiveBadassFemAcc]</li>
     <li>AdjectiveAnyFemAcc->[AdjectiveAngstyFemAcc]</li>
     <li>AdjectiveAnyFemAcc->[AdjectiveFriendlyFemAcc]</li>
     <li>AdjectiveAnyFemAcc->[AdjectiveNaturalFemAcc]</li>
+
+    <li>AdverbAny->[AdverbBadass]</li>
+    <li>AdverbAny->[AdverbAngsty]</li>
+    <li>AdverbAny->[AdverbFriendly]</li>
+    <li>AdverbAny->[AdverbNatural]</li>
+
     <li>ConceptAny->[ConceptPositive]</li>
     <li>ConceptAny->[ConceptBadass]</li>
     <li>ConceptAny->[ConceptAngsty]</li>
+
     <li>ConceptAnyUniGen->[ConceptPositiveUniGen]</li>
     <li>ConceptAnyUniGen->[ConceptBadassUniGen]</li>
     <li>ConceptAnyUniGen->[ConceptAngstyUniGen]</li>
+    <li>ConceptAnyUniAcc->[ConceptPositiveUniAcc]</li>
+    <li>ConceptAnyUniAcc->[ConceptBadassUniAcc]</li>
+    <li>ConceptAnyUniAcc->[ConceptAngstyUniAcc]</li>
+    <li>ConceptAnyUniIns->[ConceptPositiveUniIns]</li>
+    <li>ConceptAnyUniIns->[ConceptBadassUniIns]</li>
+    <li>ConceptAnyUniIns->[ConceptAngstyUniIns]</li>
+
+    <li>PersonJobUniNom->[PersonJobMasNom]</li>
+    <li>PersonJobUniNom->[PersonJobFemNom]</li>
+
+    <li>PersonalCharacteristic(p=0.15)->genitals</li>
+    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
+    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+
+    <li>PersonalCharacteristicUniAcc(p=0.15)->genitálie</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->pubické ochlupení</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->tělní ochlupení</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->toaletní návyky</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->sexuální zdatnost</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->sexuální preference</li>
+    <li>PersonalCharacteristicUniAcc(p=0.15)->sexuální zkušenost</li>
+
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->ých genitálií</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->ého pubického ochlupení</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->ého tělního ochlupení</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->ých toaletních návyků</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->é sexuální zdatnosti</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->ých sexuálních preferencí</li>
+    <li>PersonalCharacteristicPosUniGen(p=0.15)->é sexuální zkušenosti</li>
+
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->é genitálie</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->é pubické ochlupení</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->é tělní ochlupení</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->é toaletní návyky</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->ou sexuální zdatnost</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->é sexuální preference</li>
+    <li>PersonalCharacteristicPosUniAcc(p=0.15)->ou sexuální zkušenost</li>
+
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->é genitálie</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->é pubické ochlupení</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->é tělní ochlupení</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->é toaletní návyky</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->ou sexuální zdatnost</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->é sexuální preference</li>
+    <li>PersonalCharacteristicPosUniLoc(p=0.15)->ou sexuální zkušenost</li>
+
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ými genitáliemi</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ým pubickým ochlupením</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ým tělním ochlupením</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ými toaletními návyky</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ou sexuální zdatností</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ými sexuálními preferencemi</li>
+    <li>PersonalCharacteristicPosUniIns(p=0.15)->ou sexuální zkušeností</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
@@ -471,6 +844,10 @@
   -->
   <TalkTopicsUtility.rulePack.rulesFiles>
     <li>talktopicheavyfile->Words/Nouns/TalkTopics_Heavy</li>
+    <li>talktopicheavyfileNom->Words/Nouns/TalkTopics_Heavy_Nominative</li>
+    <li>talktopicheavyfileAcc->Words/Nouns/TalkTopics_Heavy_Accusative</li>
+    <li>talktopicheavyfileLoc->Words/Nouns/TalkTopics_Heavy_Locative</li>
+    <li>talktopicheavyfileIns->Words/Nouns/TalkTopics_Heavy_Instrumental</li>
     <li>talktopiclightfile->Words/Nouns/TalkTopics_Light</li>
     <li>talktopiclightfileLoc->Words/Nouns/TalkTopics_Light_Locative</li>
 
@@ -517,10 +894,30 @@
   <TalkTopicsUtility.rulePack.rulesStrings>
     <li>TalkTopicAny->[TalkTopicLight]</li>
     <li>TalkTopicAny->[TalkTopicHeavy]</li>
+
+    <li>TalkTopicAnyLoc->[TalkTopicLightLoc]</li>
+    <li>TalkTopicAnyLoc->[TalkTopicHeavyLoc]</li>
+
     <li>TalkTopicHeavy->[talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+
+    <li>TalkTopicHeavyNom->[talktopicheavyfileNom]</li>
+    <li>TalkTopicHeavyNom(p=0.08)->souvislost mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyNom(p=0.08)->spojitost mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyNom(p=0.08)->vztah mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+
+    <li>TalkTopicHeavyAcc->[talktopicheavyfileAcc]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->souvislost mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->spojitost mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->vztah mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+
+    <li>TalkTopicHeavyLoc->[talktopicheavyfileLoc]</li>
+    <li>TalkTopicHeavyLoc(p=0.08)->souvislosti mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyLoc(p=0.08)->spojitosti mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+    <li>TalkTopicHeavyLoc(p=0.08)->vztahu mezi [talktopicheavyfileIns] a [talktopicheavyfileIns]</li>
+
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
     <li>TalkTopicLight->[Vegetable]s</li>
     <li>TalkTopicLight->eating [Vegetable]s</li>
@@ -581,6 +978,11 @@
     <li>talktopicheavyfile(p=0.15)->seduction</li>
     <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
     <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+
+    <li>talktopicheavyfileLoc(p=0.15)->sexu</li>
+    <li>talktopicheavyfileLoc(p=0.15)->svádění</li>
+    <li>talktopicheavyfileLoc(p=0.15)->zvířecí sexualitě</li>
+    <li>talktopicheavyfileLoc(p=0.15)->sexuálních úchylkách</li>
   </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

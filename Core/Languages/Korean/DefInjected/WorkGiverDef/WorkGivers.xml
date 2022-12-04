@@ -1,406 +1,578 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Firefighter -->
-
-  <FightFires.label>화재 진압</FightFires.label>
-  <FightFires.verb>진압</FightFires.verb>
-  <FightFires.gerund>진압</FightFires.gerund>
-
-
-  <!-- Patient -->
-
-  <PatientGoToBedEmergencyTreatment.label>침대에서 요양</PatientGoToBedEmergencyTreatment.label>
-  <PatientGoToBedEmergencyTreatment.verb>요양</PatientGoToBedEmergencyTreatment.verb>
-  <PatientGoToBedEmergencyTreatment.gerund>요양</PatientGoToBedEmergencyTreatment.gerund>
-
-  <PatientGoToBedTreatment.label>침대에서 요양</PatientGoToBedTreatment.label>
-  <PatientGoToBedTreatment.verb>요양</PatientGoToBedTreatment.verb>
-  <PatientGoToBedTreatment.gerund>요양</PatientGoToBedTreatment.gerund>
-
-
-  <!-- Doctor -->
-
-  <DoctorTendEmergency.label>응급 치료</DoctorTendEmergency.label>
-  <DoctorTendEmergency.verb>치료</DoctorTendEmergency.verb>
-  <DoctorTendEmergency.gerund>치료</DoctorTendEmergency.gerund>
-
-  <DoctorTendToHumanlikes.label>치료</DoctorTendToHumanlikes.label>
-  <DoctorTendToHumanlikes.verb>치료</DoctorTendToHumanlikes.verb>
-  <DoctorTendToHumanlikes.gerund>치료</DoctorTendToHumanlikes.gerund>
-
-  <DoctorTendToSelf.label>자가 치료</DoctorTendToSelf.label>
-  <DoctorTendToSelf.verb>치료</DoctorTendToSelf.verb>
-  <DoctorTendToSelf.gerund>치료</DoctorTendToSelf.gerund>
-
-  <DoctorFeedHumanlikes.label>환자에게 식사 전달</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.verb>식사 전달</DoctorFeedHumanlikes.verb>
-  <DoctorFeedHumanlikes.gerund>식사 전달</DoctorFeedHumanlikes.gerund>
-
-  <DoBillsMedicalHumanOperation.label>수술</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.verb>수술</DoBillsMedicalHumanOperation.verb>
-  <DoBillsMedicalHumanOperation.gerund>수술</DoBillsMedicalHumanOperation.gerund>
-
-  <DoctorRescue.label>쓰러진 아군 구조</DoctorRescue.label>
-  <DoctorRescue.verb>구조</DoctorRescue.verb>
-  <DoctorRescue.gerund>구조</DoctorRescue.gerund>
-
-  <DoctorTendToAnimals.label>동물 치료</DoctorTendToAnimals.label>
-  <DoctorTendToAnimals.verb>치료</DoctorTendToAnimals.verb>
-  <DoctorTendToAnimals.gerund>치료</DoctorTendToAnimals.gerund>
-
-  <DoctorFeedAnimals.label>동물 먹이기</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.verb>먹이기</DoctorFeedAnimals.verb>
-  <DoctorFeedAnimals.gerund>먹이기</DoctorFeedAnimals.gerund>
-
-  <DoBillsMedicalAnimalOperation.label>동물 수술</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>수술</DoBillsMedicalAnimalOperation.verb>
-  <DoBillsMedicalAnimalOperation.gerund>수술</DoBillsMedicalAnimalOperation.gerund>
-
-  <TakeToBedToOperate.label>수술하기 위해 침대로 환자 이송</TakeToBedToOperate.label>
-  <TakeToBedToOperate.verb>이송</TakeToBedToOperate.verb>
-  <TakeToBedToOperate.gerund>이송</TakeToBedToOperate.gerund>
-
-  <VisitSickPawn.label>병문안</VisitSickPawn.label>
-  <VisitSickPawn.verb>병문안</VisitSickPawn.verb>
-  <VisitSickPawn.gerund>병문안</VisitSickPawn.gerund>
-
-
-  <!-- PatientBedRest -->
-
-  <PatientGoToBedRecuperate.label>휴식</PatientGoToBedRecuperate.label>
-  <PatientGoToBedRecuperate.verb>쉬기</PatientGoToBedRecuperate.verb>
-  <PatientGoToBedRecuperate.gerund>휴식</PatientGoToBedRecuperate.gerund>
-
-
-  <!-- Basic worker -->
-
-  <Flick.label>스위치 조작</Flick.label>
-  <Flick.verb>스위치 조작</Flick.verb>
-  <Flick.gerund>스위치 조작</Flick.gerund>
-
+  
+  <!-- EN: release prisoners -->
   <BasicReleasePrisoner.label>수감자 석방</BasicReleasePrisoner.label>
-  <BasicReleasePrisoner.verb>석방</BasicReleasePrisoner.verb>
+  <!-- EN: releasing -->
   <BasicReleasePrisoner.gerund>석방</BasicReleasePrisoner.gerund>
-
-
-  <!-- Warden -->
-
-  <DoExecution.label>수감자 처형</DoExecution.label>
-  <DoExecution.verb>처형</DoExecution.verb>
-  <DoExecution.gerund>처형</DoExecution.gerund>
-
-  <ReleasePrisoner.label>수감자 석방</ReleasePrisoner.label>
-  <ReleasePrisoner.verb>석방</ReleasePrisoner.verb>
-  <ReleasePrisoner.gerund>석방</ReleasePrisoner.gerund>
-
-  <TakePrisonerToBed.label>수감자 침대로 이송</TakePrisonerToBed.label>
-  <TakePrisonerToBed.verb>이송</TakePrisonerToBed.verb>
-  <TakePrisonerToBed.gerund>이송</TakePrisonerToBed.gerund>
-
-  <FeedPrisoner.label>수감자 밥 먹여주기</FeedPrisoner.label>
-  <FeedPrisoner.verb>밥 먹여주기</FeedPrisoner.verb>
-  <FeedPrisoner.gerund>밥 먹여주기</FeedPrisoner.gerund>
-
-  <DeliverFoodToPrisoner.label>수감자에게 식사 전달</DeliverFoodToPrisoner.label>
-  <DeliverFoodToPrisoner.verb>식사 전달</DeliverFoodToPrisoner.verb>
-  <DeliverFoodToPrisoner.gerund>식사 전달</DeliverFoodToPrisoner.gerund>
-
-  <ChatWithPrisoner.label>수감자와 대화</ChatWithPrisoner.label>
-  <ChatWithPrisoner.verb>대화</ChatWithPrisoner.verb>
-  <ChatWithPrisoner.gerund>대화</ChatWithPrisoner.gerund>
-
-
-  <!-- Handling -->
-
-  <HandlingFeedPatientAnimals.label>먹이 주기</HandlingFeedPatientAnimals.label>
-  <HandlingFeedPatientAnimals.verb>먹이 주기</HandlingFeedPatientAnimals.verb>
-  <HandlingFeedPatientAnimals.gerund>먹이 주기</HandlingFeedPatientAnimals.gerund>
-
-  <Slaughter.label>도축</Slaughter.label>
-  <Slaughter.verb>도축</Slaughter.verb>
-  <Slaughter.gerund>도축</Slaughter.gerund>
-
-  <Milk.label>우유 짜기</Milk.label>
-  <Milk.verb>우유 짜기</Milk.verb>
-  <Milk.gerund>우유 짜기</Milk.gerund>
-
-  <Shear.label>깎기</Shear.label>
-  <Shear.verb>깎기</Shear.verb>
-  <Shear.gerund>깎기</Shear.gerund>
-
-  <Tame.label>길들이기</Tame.label>
-  <Tame.verb>길들이기</Tame.verb>
-  <Tame.gerund>길들이기</Tame.gerund>
-
-  <Train.label>조련</Train.label>
-  <Train.verb>조련</Train.verb>
-  <Train.gerund>조련</Train.gerund>
-
-
-  <!-- Cooking -->
-
-  <DoBillsCook.label>스토브에서 요리</DoBillsCook.label>
-  <DoBillsCook.verb>요리</DoBillsCook.verb>
-  <DoBillsCook.gerund>요리</DoBillsCook.gerund>
-
-  <DoBillsCookCampfire.label>모닥불에서 요리</DoBillsCookCampfire.label>
-  <DoBillsCookCampfire.verb>요리</DoBillsCookCampfire.verb>
-  <DoBillsCookCampfire.gerund>요리</DoBillsCookCampfire.gerund>
-
-  <DoBillsButcherFlesh.label>도축</DoBillsButcherFlesh.label>
-  <DoBillsButcherFlesh.verb>도축</DoBillsButcherFlesh.verb>
-  <DoBillsButcherFlesh.gerund>도축</DoBillsButcherFlesh.gerund>
-
-  <CookFillHopper.label>투입구에 식재료 적재</CookFillHopper.label>
-  <CookFillHopper.verb>식재료 적재</CookFillHopper.verb>
-  <CookFillHopper.gerund>식재료 적재</CookFillHopper.gerund>
-
-  <DoBillsBrew.label>양조</DoBillsBrew.label>
-  <DoBillsBrew.verb>양조</DoBillsBrew.verb>
-  <DoBillsBrew.gerund>양조</DoBillsBrew.gerund>
-
-
-  <!-- Hunting -->
-
-  <HunterHunt.label>사냥</HunterHunt.label>
-  <HunterHunt.verb>사냥</HunterHunt.verb>
-  <HunterHunt.gerund>사냥</HunterHunt.gerund>
-
-
-  <!-- Construction -->
-
-  <FixBrokenDownBuilding.label>망가진 건물 수리</FixBrokenDownBuilding.label>
-  <FixBrokenDownBuilding.verb>부품 교체</FixBrokenDownBuilding.verb>
-  <FixBrokenDownBuilding.gerund>부품 교체</FixBrokenDownBuilding.gerund>
-
-  <Uninstall.label>포장</Uninstall.label>
-  <Uninstall.verb>포장</Uninstall.verb>
-  <Uninstall.gerund>포장</Uninstall.gerund>
-
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>석방</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
   <BuildRoofs.label>지붕 건설</BuildRoofs.label>
-  <BuildRoofs.verb>지붕 건설</BuildRoofs.verb>
+  <!-- EN: building roof -->
   <BuildRoofs.gerund>지붕 건설</BuildRoofs.gerund>
-
-  <RemoveRoofs.label>지붕 해체</RemoveRoofs.label>
-  <RemoveRoofs.verb>지붕 해체</RemoveRoofs.verb>
-  <RemoveRoofs.gerund>지붕 해체</RemoveRoofs.gerund>
-
-  <ConstructFinishFrames.label>건설</ConstructFinishFrames.label>
-  <ConstructFinishFrames.verb>건설</ConstructFinishFrames.verb>
-  <ConstructFinishFrames.gerund>건설</ConstructFinishFrames.gerund>
-
-  <ConstructDeliverResourcesToFrames.label>건물 틀로 자원 운반</ConstructDeliverResourcesToFrames.label>
-  <ConstructDeliverResourcesToFrames.verb>작업</ConstructDeliverResourcesToFrames.verb>
-  <ConstructDeliverResourcesToFrames.gerund>작업</ConstructDeliverResourcesToFrames.gerund>
-
-  <ConstructDeliverResourcesToBlueprints.label>건물 청사진으로 자원 운반</ConstructDeliverResourcesToBlueprints.label>
-  <ConstructDeliverResourcesToBlueprints.verb>작업</ConstructDeliverResourcesToBlueprints.verb>
-  <ConstructDeliverResourcesToBlueprints.gerund>작업</ConstructDeliverResourcesToBlueprints.gerund>
-
-  <Deconstruct.label>건물 해체</Deconstruct.label>
-  <Deconstruct.verb>해체</Deconstruct.verb>
-  <Deconstruct.gerund>해체</Deconstruct.gerund>
-
-  <Repair.label>피해 수리</Repair.label>
-  <Repair.verb>수리</Repair.verb>
-  <Repair.gerund>수리</Repair.gerund>
-
-  <ConstructRemoveFloors.label>바닥 제거</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.verb>제거</ConstructRemoveFloors.verb>
-  <ConstructRemoveFloors.gerund>제거</ConstructRemoveFloors.gerund>
-
-  <ConstructSmoothFloors.label>바닥 다듬기</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.verb>다듬기</ConstructSmoothFloors.verb>
-  <ConstructSmoothFloors.gerund>다듬기</ConstructSmoothFloors.gerund>
-
-  <ConstructSmoothWalls.label>벽면 다듬기</ConstructSmoothWalls.label>
-  <ConstructSmoothWalls.verb>다듬기</ConstructSmoothWalls.verb>
-  <ConstructSmoothWalls.gerund>다듬기</ConstructSmoothWalls.gerund>
-
-
-  <!-- Growing -->
-
-  <GrowerHarvest.label>작물 수확</GrowerHarvest.label>
-  <GrowerHarvest.verb>수확</GrowerHarvest.verb>
-  <GrowerHarvest.gerund>수확</GrowerHarvest.gerund>
-
-  <GrowerSow.label>작물 심기</GrowerSow.label>
-  <GrowerSow.verb>심기</GrowerSow.verb>
-  <GrowerSow.gerund>심기</GrowerSow.gerund>
-
-
-  <!-- Mining -->
-
-  <Mine.label>채굴</Mine.label>
-  <Mine.verb>채굴</Mine.verb>
-  <Mine.gerund>채굴</Mine.gerund>
-
-  <Drill.label>채굴</Drill.label>
-  <Drill.verb>채굴</Drill.verb>
-  <Drill.gerund>채굴</Drill.gerund>
-
-
-  <!-- PlantCutting -->
-
-  <PlantsCut.label>제초/벌목</PlantsCut.label>
-  <PlantsCut.verb>제초/벌목</PlantsCut.verb>
-  <PlantsCut.gerund>제초/벌목</PlantsCut.gerund>
-
-
-  <!-- Smithing -->
-
-  <DoBillsMakeWeapons.label>무기 제련</DoBillsMakeWeapons.label>
-  <DoBillsMakeWeapons.verb>제련</DoBillsMakeWeapons.verb>
-  <DoBillsMakeWeapons.gerund>제련</DoBillsMakeWeapons.gerund>
-
-  <DoBillsMachiningTable.label>작업</DoBillsMachiningTable.label>
-  <DoBillsMachiningTable.verb>작업</DoBillsMachiningTable.verb>
-  <DoBillsMachiningTable.gerund>작업</DoBillsMachiningTable.gerund>
-
-  <DoBillsFabricationBench.label>제작</DoBillsFabricationBench.label>
-  <DoBillsFabricationBench.verb>제작</DoBillsFabricationBench.verb>
-  <DoBillsFabricationBench.gerund>제작</DoBillsFabricationBench.gerund>
-
-
-  <!-- Tailoring -->
-
-  <DoBillsMakeApparel.label>재단</DoBillsMakeApparel.label>
-  <DoBillsMakeApparel.verb>재단</DoBillsMakeApparel.verb>
-  <DoBillsMakeApparel.gerund>재단</DoBillsMakeApparel.gerund>
-
-
-  <!-- Art -->
-
-  <DoBillsSculpt.label>조각</DoBillsSculpt.label>
-  <DoBillsSculpt.verb>조각</DoBillsSculpt.verb>
-  <DoBillsSculpt.gerund>조각</DoBillsSculpt.gerund>
-
-
-  <!-- <WorkGiverDef>
-    <defName>DoBillsMedicalMechanoidOperation</defName>
-    <label>operate on mechanoids</label>
-    <giverClass>WorkGiver_DoBill</giverClass>
-    <workType>Crafting</workType>
-    <priorityInType>110</priorityInType>
-    <billGiversAllMechanoids>true</billGiversAllMechanoids>
-    <billGiversAllMechanoidsCorpses>true</billGiversAllMechanoidsCorpses>
-    <verb>modify</verb>
-    <gerund>modifying</gerund>
-    <requiredCapacities>
-      <li>Manipulation</li>
-    </requiredCapacities>
-    <prioritizeSustains>true</prioritizeSustains>
-  </WorkGiverDef> -->
-
-  <DoBillsUseCraftingSpot.label>제작</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.verb>제작</DoBillsUseCraftingSpot.verb>
-  <DoBillsUseCraftingSpot.gerund>제작</DoBillsUseCraftingSpot.gerund>
-
-  <DoBillsRefinery.label>정제</DoBillsRefinery.label>
-  <DoBillsRefinery.verb>화학물질 정제</DoBillsRefinery.verb>
-  <DoBillsRefinery.gerund>화학물질 정제</DoBillsRefinery.gerund>
-
-  <DoBillsProduceDrugs.label>제작</DoBillsProduceDrugs.label>
-  <DoBillsProduceDrugs.verb>약물 제작</DoBillsProduceDrugs.verb>
-  <DoBillsProduceDrugs.gerund>약물 제작</DoBillsProduceDrugs.gerund>
-
-  <DoBillsStonecut.label>석재 가공</DoBillsStonecut.label>
-  <DoBillsStonecut.verb>석재 가공</DoBillsStonecut.verb>
-  <DoBillsStonecut.gerund>석재 가공</DoBillsStonecut.gerund>
-
-  <DoBillsSmelter.label>금속 추출</DoBillsSmelter.label>
-  <DoBillsSmelter.verb>금속 추출</DoBillsSmelter.verb>
-  <DoBillsSmelter.gerund>금속 추출</DoBillsSmelter.gerund>
-
-
-  <!-- Hauling -->
-
-  <RearmTurrets.label>포대 장전</RearmTurrets.label>
-  <RearmTurrets.verb>장전</RearmTurrets.verb>
-  <RearmTurrets.gerund>장전</RearmTurrets.gerund>
-
-  <UnloadCarriers.label>수송기 비우기</UnloadCarriers.label>
-  <UnloadCarriers.verb>비우기</UnloadCarriers.verb>
-  <UnloadCarriers.gerund>비우기</UnloadCarriers.gerund>
-
-  <LoadTransporters.label>수송기 적재</LoadTransporters.label>
-  <LoadTransporters.verb>적재</LoadTransporters.verb>
-  <LoadTransporters.gerund>적재</LoadTransporters.gerund>
-
-  <HelpGatheringItemsForCaravan.label>상단 적재</HelpGatheringItemsForCaravan.label>
-  <HelpGatheringItemsForCaravan.verb>적재</HelpGatheringItemsForCaravan.verb>
-  <HelpGatheringItemsForCaravan.gerund>적재</HelpGatheringItemsForCaravan.gerund>
-
-  <Strip.label>시체 벗기기</Strip.label>
-  <Strip.verb>벗기기</Strip.verb>
-  <Strip.gerund>벗기기</Strip.gerund>
-
-  <HaulCorpses.label>시체 운반</HaulCorpses.label>
-  <HaulCorpses.verb>운반</HaulCorpses.verb>
-  <HaulCorpses.gerund>운반</HaulCorpses.gerund>
-
-  <Open.label>열기</Open.label>
-  <Open.verb>열기</Open.verb>
-  <Open.gerund>열기</Open.gerund>
-
-  <Refuel.label>연료 보충</Refuel.label>
-  <Refuel.verb>연료 보충</Refuel.verb>
-  <Refuel.gerund>연료 보충</Refuel.gerund>
-
-  <RearmTraps.label>함정 재장전</RearmTraps.label>
-  <RearmTraps.verb>재장전</RearmTraps.verb>
-  <RearmTraps.gerund>재장전</RearmTraps.gerund>
-
-  <DoBillsCremate.label>화장</DoBillsCremate.label>
-  <DoBillsCremate.verb>화장</DoBillsCremate.verb>
-  <DoBillsCremate.gerund>화장</DoBillsCremate.gerund>
-
-  <DoBillsHaulCampfire.label>모닥불에서 작업</DoBillsHaulCampfire.label>
-  <DoBillsHaulCampfire.verb>작업</DoBillsHaulCampfire.verb>
-  <DoBillsHaulCampfire.gerund>작업</DoBillsHaulCampfire.gerund>
-
-  <TakeBeerOutOfFermentingBarrel.label>통에서 맥주 꺼내기</TakeBeerOutOfFermentingBarrel.label>
-  <TakeBeerOutOfFermentingBarrel.verb>맥주 꺼내기</TakeBeerOutOfFermentingBarrel.verb>
-  <TakeBeerOutOfFermentingBarrel.gerund>맥주 꺼내기</TakeBeerOutOfFermentingBarrel.gerund>
-
-  <FillFermentingBarrel.label>통 채우기</FillFermentingBarrel.label>
-  <FillFermentingBarrel.verb>채우기</FillFermentingBarrel.verb>
-  <FillFermentingBarrel.gerund>채우기</FillFermentingBarrel.gerund>
-
-  <HaulGeneral.label>물건 운반</HaulGeneral.label>
-  <HaulGeneral.verb>운반</HaulGeneral.verb>
-  <HaulGeneral.gerund>운반</HaulGeneral.gerund>
-
-  <DeliverResourcesToFrames.label>자재 운반</DeliverResourcesToFrames.label>
-  <DeliverResourcesToFrames.verb>운반</DeliverResourcesToFrames.verb>
-  <DeliverResourcesToFrames.gerund>운반</DeliverResourcesToFrames.gerund>
-
-  <DeliverResourcesToBlueprints.label>자재 운반</DeliverResourcesToBlueprints.label>
-  <DeliverResourcesToBlueprints.verb>운반</DeliverResourcesToBlueprints.verb>
-  <DeliverResourcesToBlueprints.gerund>운반</DeliverResourcesToBlueprints.gerund>
-
-  <HaulMerge.label>정리</HaulMerge.label>
-  <HaulMerge.verb>정리</HaulMerge.verb>
-  <HaulMerge.gerund>정리</HaulMerge.gerund>
-
-
-  <!-- Cleaning -->
-
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>지붕 건설</BuildRoofs.verb>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>수감자와 대화</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>대화</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>대화</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
   <CleanClearSnow.label>제설</CleanClearSnow.label>
-  <CleanClearSnow.verb>제설</CleanClearSnow.verb>
+  <!-- EN: clearing snow -->
   <CleanClearSnow.gerund>제설</CleanClearSnow.gerund>
-
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>제설</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
   <CleanFilth.label>청소</CleanFilth.label>
-  <CleanFilth.verb>청소</CleanFilth.verb>
+  <!-- EN: cleaning -->
   <CleanFilth.gerund>청소</CleanFilth.gerund>
-
-
-  <!-- Research -->
-
+  <!-- EN: clean -->
+  <CleanFilth.verb>청소</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>청사진으로 자원 운반</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>작업</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>작업</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>건물틀로 자원 운반</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>작업</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>작업</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>건설</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>건설</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>건설</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>바닥 제거</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>제거</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>제거</ConstructRemoveFloors.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>바닥 다듬기</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>다듬기</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>다듬기</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>벽 다듬기</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>다듬기</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>다듬기</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>투입구에 식재료 채워넣기</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>식재료 채워넣기</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>식재료 채워넣기</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>건물 해체</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>해체</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>해체</Deconstruct.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>수감자에게 식사 전달</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>식사 전달</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>식사 전달</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>청사진으로 자원 운반</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>운반</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>운반</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>건물틀로 자원 운반</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>운반</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>운반</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>양조</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>양조</DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <DoBillsBrew.verb>양조</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>도축</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>도축</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <DoBillsButcherFlesh.verb>도축</DoBillsButcherFlesh.verb>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>스토브에서 조리</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>조리</DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <DoBillsCook.verb>조리</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>모닥불에서 조리</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>조리</DoBillsCookCampfire.gerund>
+  <!-- EN: cook -->
+  <DoBillsCookCampfire.verb>조리</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>화장</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>화장</DoBillsCremate.gerund>
+  <!-- EN: cremate -->
+  <DoBillsCremate.verb>화장</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>만들기</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>만들기</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricating things -->
+  <DoBillsFabricationBench.verb>만들기</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>모닥불에서 작업</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>작업</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>작업</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>기계 작업대에서 작업</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>작업</DoBillsMachiningTable.gerund>
+  <!-- EN: work -->
+  <DoBillsMachiningTable.verb>작업</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>재단</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>재단</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>재단</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>무기 제련</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>제련</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith -->
+  <DoBillsMakeWeapons.verb>제련</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>동물 수술</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>수술</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>수술</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>수술</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>수술</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>수술</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>약물 만들기</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>약물 만들기</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs -->
+  <DoBillsProduceDrugs.verb>약물 만들기</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>화학물질 정제</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>화학물질 정제</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals -->
+  <DoBillsRefinery.verb>화학물질 정제</DoBillsRefinery.verb>
+  
+  <!-- EN: make sculptures -->
+  <DoBillsSculpt.label>조각</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>조각</DoBillsSculpt.gerund>
+  <!-- EN: sculpt -->
+  <DoBillsSculpt.verb>조각</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>금속 추출</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>금속 추출</DoBillsSmelter.gerund>
+  <!-- EN: refine -->
+  <DoBillsSmelter.verb>금속 추출</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>석재 가공</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>석재 가공</DoBillsStonecut.gerund>
+  <!-- EN: stonecut -->
+  <DoBillsStonecut.verb>석재 가공</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>만들기</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>만들기</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft -->
+  <DoBillsUseCraftingSpot.verb>만들기</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>동물 먹이기</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>먹이기</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>먹이기</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>환자에게 식사 전달</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>식사 전달</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>식사 전달</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>쓰러진 아군 구조</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>구조</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>구조</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>응급 치료</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>치료</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>치료</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>동물 치료</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>치료</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>치료</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>치료</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>치료</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>치료</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>자가 치료</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>치료</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>치료</DoctorTendToSelf.verb>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>수감자 처형</DoExecution.label>
+  <!-- EN: doing execution on -->
+  <DoExecution.gerund>처형</DoExecution.gerund>
+  <!-- EN: do execution on -->
+  <DoExecution.verb>처형</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>심층 채굴</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>심층 채굴</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>심층 채굴</Drill.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>수감자 밥 먹여주기</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>밥 먹여주기</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>밥 먹여주기</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>화재 진압</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>진압</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>진압</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>통 채우기</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>채우기</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>채우기</FillFermentingBarrel.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>망가진 건물 수리</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>부품 교체</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>부품 교체</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>스위치 조작</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>스위치 조작</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>스위치 조작</Flick.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>작물 수확</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>수확</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>수확</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>작물 심기</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>심기</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>심기</GrowerSow.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>동물 먹이 주기</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>먹이 주기</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>먹이 주기</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>시체 운반</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>운반</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>운반</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>물건 운반</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>운반</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>운반</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>정리</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>정리</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>정리</HaulMerge.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>상단 적재</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>적재</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>적재</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>사냥</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>사냥</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>사냥</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>수송 포드 적재</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>적재</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>적재</LoadTransporters.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>우유 짜기</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>우유 짜기</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>우유 짜기</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>채굴</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>채굴</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>채굴</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>열기</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>열기</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>열기</Open.verb>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>응급치료를 위해 침대로 가기</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>요양</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>요양</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>휴식</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>휴식</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>쉬기</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>치료를 위해 침대로 가기</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>요양</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>요양</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>제초/벌목</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>제초/벌목</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>제초/벌목</PlantsCut.verb>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>포대 장전</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>장전</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>장전</RearmTurrets.verb>
+  
+  <!-- EN: refuel fuelable buildings -->
+  <Refuel.label>연료 보충</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>연료 보충</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>연료 보충</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>수감자 석방</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>석방</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>석방</ReleasePrisoner.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>지붕 해체</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>지붕 해체</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>지붕 해체</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>피해 수리</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>수리</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>수리</Repair.verb>
+  
+  <!-- EN: do research -->
   <Research.label>연구</Research.label>
-  <Research.verb>연구</Research.verb>
+  <!-- EN: researching at -->
   <Research.gerund>연구</Research.gerund>
-
-
+  <!-- EN: research -->
+  <Research.verb>연구</Research.verb>
+  
+  <!-- EN: operate scanner -->
+  <Scan.label>탐색기 조작</Scan.label>
+  <!-- EN: scanning at -->
+  <Scan.gerund>탐색</Scan.gerund>
+  <!-- EN: scan -->
+  <Scan.verb>탐색</Scan.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>깎기</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>깎기</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>깎기</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>도축</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>도축</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>도축</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>시체 벗기기</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>벗기기</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>벗기기</Strip.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>통에서 맥주 꺼내기</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>맥주 꺼내기</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>맥주 꺼내기</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>수감자 침대로 이송</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>이송</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>이송</TakePrisonerToBed.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>수술하기 위해 침대로 환자 이송</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>이송</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>이송</TakeToBedToOperate.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>길들이기</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>길들이기</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>길들이기</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>조련</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>조련</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>조련</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>포장</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>포장</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>포장</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>수송 포드 비우기</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>비우기</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>비우기</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>병문안</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>병문안</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>병문안</VisitSickPawn.verb>
+  
 </LanguageData>

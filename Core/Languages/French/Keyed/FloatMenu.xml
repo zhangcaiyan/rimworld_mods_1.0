@@ -41,12 +41,12 @@
   <CannotAttackSelf>ne peut pas s'attaquer soi-même</CannotAttackSelf>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Manipule {1_labelShort}</OrderManThing>
+  <OrderManThing>Manipuler {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>Attaque {1_label} au corps-à-corps</MeleeAttack>
+  <MeleeAttack>Attaquer {1_label} au corps-à-corps</MeleeAttack>
   <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>Attaque {1_label} au corps-à-corps jusqu'à ce que mort s'ensuive</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Attaquer {1_label} au corps-à-corps jusqu'à ce que mort s'ensuive</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>pas de chemin d'accès</NoPath>
 
@@ -292,8 +292,8 @@
   <OpenCryptosleepCasket>Ouvrir le caisson d'hypersommeil</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Ne peut pas {0} {2_labelShort}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Ne peut pas {0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Ne peut pas {0}</CannotGenericWorkCustom>
 

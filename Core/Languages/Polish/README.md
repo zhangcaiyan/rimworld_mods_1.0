@@ -1,7 +1,18 @@
-﻿# Polish translation for RimWorld. 
+# Team
+Używamy discorda do współpracy. Aby nam pomóc kliknij w [ten link](https://discord.gg/BPkDRh9), a tam znajdziesz niezbędne informacje i pomoc.
+
+# Polish translation for RimWorld 1.0.
+ 
+Trwają prace nad tłumaczeniem dla wersji 1.0...  
 
 Pobierz aktualną wersję tłumaczenia:  
 https://github.com/Ludeon/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
+
+
+
+--------
+Poprzednio:
+# Polish translation for RimWorld
 
 Tłumaczenie do wersji b18 jest wolne od błędów składni xml. (Brak błędów w konsoli)   
 
@@ -13,10 +24,11 @@ Jeśli chcesz pomóc pisz śmiało.
 
 # Working crew 
 * piotrulos  
+* skill3472
 
 # Past project crew (last year)
-* Nika "Nalthe" Borto [www.RimWorldPolska.pl]
-* Kunegard [www.RimWorldPolska.pl]
+* Nika "Nalthe" Borto [www.rimworldpolska.pl]
+* Kunegard [www.rimworldpolska.pl]
 * westwinnd
 * Marcin "Mareo" Zdziarski
 * Mateusz "Fejm" Filipczak

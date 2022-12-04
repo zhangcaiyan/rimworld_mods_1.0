@@ -205,7 +205,7 @@
     <li>style_group->[artextra_clause]. [artextra_clause] [artconjunction].</li>
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>
-    <li>style_group->.</li>
+    <li>style_group-></li>
     <li>artconjunction(p=6)-></li>
     <li>artconjunction->, was ein interessanter Kontrast ist</li>
     <li>artconjunction->, was das ganze Werk abrundet</li>
@@ -217,7 +217,7 @@
     <li>artconjunction->, was parallel zu dieser Szene passiert</li>
     <!--=== artextra_clause ===-->
     <!-- Subimage included -->
-    <li>artextra_clause->die Darstellung ist umgeben von [subimageplural]</li>
+    <li>artextra_clause->die Darstellung ist umgeben von [subimagepluralDat]</li>
     <li>artextra_clause->am Rand des Bildes sind [subimageplural]</li>
     <li>artextra_clause->da ist [subimagesingle] [side_position]</li>
     <li>artextra_clause->[subimageplural] sind im Hintergrund zu sehen</li>
@@ -228,30 +228,37 @@
     <li>artextra_clause->die Szene spielt in einer [Community] nahe dem [TerrainFeature]</li>
     <!-- Pawn in side position -->
     <li>artextra_clause->ein [Character] [idles] [side_position]</li>
-    <li>artextra_clause->ein [PAWN_adj] [Character] [idles] [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [Character] erscheinen [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character] erscheinen [side_position]</li>
-    <li>artextra_clause->ein [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->ein [PAWN_adj]er [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [CharacterPlural] erscheinen [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj]e [CharacterPlural] erscheinen [side_position]</li>
+    <li>artextra_clause(p=0.5)->eine [AnimalSingularFem] [idles] [side_position]</li>
+    <li>artextra_clause(p=0.5)->ein [AnimalSingularMas] [idles] [side_position]</li>
+    <li>artextra_clause(p=0.5)->ein [AnimalSingularNeu] [idles] [side_position]</li>
     <!-- One-offs -->
-    <li>artextra_clause->wenn man die Augen zusammenkneift, offenbart die [composition]e  Komposition des Bildes einen Umriss, der [subimageany] darstellen soll</li>
-    <li>artextra_clause->das [emotional_expression]e Gesicht einer [PAWN_adj] [PersonJob] wacht über allem</li>
-    <li>artextra_clause->eine [PAWN_adj] [PersonJob] wacht [emotional_expression] über allem</li>
-    <li>artextra_clause->das Gesicht der [PAWN_adj] [PersonJob] wacht über allem</li>
-    <li>artextra_clause->das ganze Bild ist aus einer sorgfältigen Zusammenstellung von [subimageplural] erstellt worden</li>
+    <li>artextra_clause->wenn man die Augen zusammenkneift, offenbart die [composition]e Komposition des Bildes einen Umriss, der [subimageany] darstellen soll</li>
+    <li>artextra_clause->das [emotional_expression]e Gesicht eines [PAWN_adj]en [PersonJobGen] wacht über allem</li>
+    <li>artextra_clause->ein [PAWN_adj]er [PersonJob] wacht [emotional_expression] über allem</li>
+    <li>artextra_clause->das Gesicht eines [PAWN_adj]en [PersonJobGen] wacht über allem</li>
+    <li>artextra_clause->das ganze Bild ist aus einer sorgfältigen Zusammenstellung von [subimagepluralDat] erstellt worden</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
     <li>subimagesingle(p=4)->ein [Character]</li>
-    <li>subimagesingle->ein [TerrainFeature]</li>
+    <li>subimagesingle->eine [TerrainFeatureFem]</li>
+    <li>subimagesingle->einen [TerrainFeatureMas]</li>
+    <li>subimagesingle->ein [TerrainFeatureNeu]</li>
     <li>subimagesingle->eine [Community]</li>
     <li>subimagesingle->eine [TreeType]</li>
     <li>subimagesingle->ein [VegetableSingularMas]</li>
     <li>subimagesingle->eine [VegetableSingularFem]</li>
-    <li>subimagesingle->eine [AnimalGroup] von [Animal]</li>
-    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]</li>
+    <li>subimagesingle->eine [AnimalGroup] von [AnimalPluralDat]</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [CharacterPlural]</li>
     <li>subimageplural->[Quantity_adjphrase] [VegetablePlural]</li>
-    <li>subimageplural->[Quantity_adjphrase] [Shape]</li>
+    <li>subimageplural->[Quantity_adjphrase] [ShapePlural]</li>
+    <li>subimagepluralDat(p=3)->[Quantity_adjphrase_Dat] [CharacterPluralDat]</li>
+    <li>subimagepluralDat->[Quantity_adjphrase_Dat] [VegetablePluralDat]</li>
+    <li>subimagepluralDat->[Quantity_adjphrase_Dat] [ShapePluralDat]</li>
     <li>pawn_adj->tot</li>
-    <li>pawn_adj->sternbend</li>
+    <li>pawn_adj->sterbend</li>
     <li>pawn_adj->verletzt</li>
     <li>pawn_adj->schlafend</li>
     <li>pawn_adj->stehend</li>
@@ -282,7 +289,7 @@
     <li>idles->wird gezeigt</li>
     <li>idles->erscheint</li>
     <li>idles->schwebt</li>
-    <li>side_position->etwas Abseits</li>
+    <li>side_position->etwas abseits</li>
     <li>side_position->im Hintergrund</li>
     <li>side_position->in der Ferne</li>
     <li>side_position->im unteren Teil des Bildes</li>
@@ -350,7 +357,7 @@
     <li>artstyle_adj->modern</li>
     <li>artstyle_adj->symbolisch</li>
     <li>artstyle_adj->amateurhaft</li>
-    <li>artstyle_adj->Detail verliebt</li>
+    <li>artstyle_adj->detailverliebt</li>
     <li>artstyle_adj->blockig</li>
     <li>artstyle_adj->würfelig</li>
     <li>artstyle_adj->impressionistisch</li>
